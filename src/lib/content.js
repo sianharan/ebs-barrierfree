@@ -6,12 +6,14 @@
 // 자막(subtitles)도 함께 노출하지만, 표시는 이후 Phase(①이중자막)에서 처리한다.
 import content from '../../data/sample-01/content.json';
 import subtitles from '../../data/sample-01/subtitles.json';
+import vocabulary from '../../data/sample-01/vocabulary.json';
 
-// 콘텐츠 메타(content.json)와 자막(subtitles.json)을 묶어 반환.
+// 콘텐츠 메타(content.json)·자막(subtitles.json)·어휘(vocabulary.json)를 묶어 반환.
 // 추후 콘텐츠가 늘면 contentId 로 분기하도록 확장한다(지금은 sample-01 단일).
 export function getContent() {
   return {
     ...content,
     segments: Array.isArray(subtitles.segments) ? subtitles.segments : [],
+    vocabulary: Array.isArray(vocabulary.terms) ? vocabulary.terms : [],
   };
 }

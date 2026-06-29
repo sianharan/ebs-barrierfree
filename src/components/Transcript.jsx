@@ -1,22 +1,44 @@
-// ⑤ 대본 패널 — Phase 2 1단계: 표시 + 따라가기 + 구간 이동.
+// ⑤ 대본 패널 — 표시 + 따라가기 + 구간 이동(1단계) + 어휘 툴팁(2단계).
 //
-// subtitles.json 세그먼트를 리스트로 보여준다(번역 표시 모드에 따라 ko/모국어/둘 다).
-// - 활성 줄(현재 재생시간) 하이라이트 + 패널 안에서 자동 스크롤(따라가기).
-// - 줄 클릭 = 그 세그먼트 start 로 구간 이동(onSeek).
-// - 각 줄에 타임코드를 작게 표시.
-// 어휘 클릭(⑤ 풀이)·읽어주기(③)는 다음 단계에서 이 줄 위에 얹는다.
+// subtitles.json 세그먼트 리스트(번역 표시 모드에 따라 ko/모국어/둘 다).
+// - 활성 줄 하이라이트 + 패널 내부 자동 스크롤(따라가기).
+// - 줄 클릭 = 그 세그먼트 start 로 구간 이동.
+// - 한국어 줄의 어휘 단어에 점선 밑줄 + 클릭 시 모국어 풀이 툴팁(VocabularyTooltip).
 //
-// activeId(경계에서만 바뀜)로 구동하고 memo 로 감싸, 매 timeupdate 마다 333줄을 다시
-// 그리지 않는다(activeId·langs 가 바뀔 때만 재렌더).
+// 구조: 줄 전체를 <button> 으로 두면 어휘 <button> 과 중첩(잘못된 HTML)되므로,
+// 구간이동은 줄을 덮는 오버레이 <button>(z-0)으로, 텍스트는 그 위(z-10, pointer-events-none)에
+// 둔다. 어휘 단어만 pointer-events-auto 라 클릭이 단어로 가고, 빈 곳 클릭은 오버레이(이동)로 떨어진다.
 
-import { memo, useEffect, useRef } from 'react';
+import { Fragment, memo, useEffect, useMemo, useRef } from 'react';
 import { formatTimecode } from '../lib/segments.js';
+import { indexVocabBySegment, matchTerms } from '../lib/vocab.js';
+import VocabularyTooltip from './VocabularyTooltip.jsx';
 
-function Transcript({ segments, langs = ['ko', 'vi'], activeId, onSeek }) {
+// 한국어 텍스트를 어휘 매칭 구간으로 쪼개, 단어는 툴팁으로·나머지는 평문으로 렌더.
+function renderKorean(text, terms, defLang) {
+  const chosen = matchTerms(text, terms);
+  if (chosen.length === 0) return text;
+
+  const nodes = [];
+  let cursor = 0;
+  chosen.forEach((m, i) => {
+    if (m.start > cursor) {
+      nodes.push(<Fragment key={`t${i}`}>{text.slice(cursor, m.start)}</Fragment>);
+    }
+    nodes.push(<VocabularyTooltip key={`v${i}`} term={m.term} lang={defLang} />);
+    cursor = m.end;
+  });
+  if (cursor < text.length) {
+    nodes.push(<Fragment key="end">{text.slice(cursor)}</Fragment>);
+  }
+  return nodes;
+}
+
+function Transcript({ segments, langs = ['ko', 'vi'], activeId, onSeek, vocabulary = [], myLang }) {
   const containerRef = useRef(null);
+  const vocabBySegment = useMemo(() => indexVocabBySegment(vocabulary), [vocabulary]);
 
   // 활성 줄이 바뀌면 패널 내부에서 가운데로 부드럽게 스크롤(페이지는 건드리지 않는다).
-  // getBoundingClientRect 차이로 계산해 offsetParent 와 무관하게 정확히 동작한다.
   useEffect(() => {
     const c = containerRef.current;
     if (!c) return;
@@ -38,37 +60,50 @@ function Transcript({ segments, langs = ['ko', 'vi'], activeId, onSeek }) {
       <ul className="divide-y divide-ink/5">
         {segments.map((seg) => {
           const active = seg.id === activeId;
+          const terms = vocabBySegment.get(seg.id) || [];
+
+          const renderLine = (lang, isPrimary) => {
+            const content =
+              lang === 'ko' && terms.length > 0
+                ? renderKorean(seg.text?.ko ?? '', terms, myLang)
+                : seg.text?.[lang];
+            return (
+              <p
+                key={lang}
+                className={
+                  isPrimary
+                    ? `font-sans leading-snug ${active ? 'font-medium text-brand-deepblue' : 'text-ink'}`
+                    : 'mt-0.5 font-sans text-sm leading-snug text-ink/60'
+                }
+              >
+                {content}
+              </p>
+            );
+          };
+
           return (
-            <li key={seg.id}>
+            <li key={seg.id} data-active={active ? 'true' : undefined} className="relative">
+              {/* 구간이동 오버레이(줄 전체) — 빈 곳 클릭/키보드로 이동 */}
               <button
                 type="button"
-                data-active={active ? 'true' : undefined}
                 onClick={() => onSeek?.(seg.start)}
-                aria-current={active ? 'true' : undefined}
-                className={`flex w-full gap-3 px-3 py-2 text-left transition-colors ${
+                aria-label={`${formatTimecode(seg.start)} 구간으로 이동`}
+                className={`absolute inset-0 z-0 w-full border-l-4 transition-colors ${
                   active
-                    ? 'border-l-4 border-brand-deepblue bg-brand-deepblue/10'
-                    : 'border-l-4 border-transparent hover:bg-ink/5'
+                    ? 'border-brand-deepblue bg-brand-deepblue/10'
+                    : 'border-transparent hover:bg-ink/5'
                 }`}
-              >
+              />
+              {/* 텍스트(오버레이 위) — 평문은 클릭이 통과(pointer-events-none), 어휘 단어만 클릭 대상 */}
+              <div className="pointer-events-none relative z-10 flex gap-3 px-3 py-2">
                 <time className="mt-0.5 shrink-0 font-sans text-xs tabular-nums text-ink/50">
                   {formatTimecode(seg.start)}
                 </time>
                 <div className="min-w-0">
-                  <p
-                    className={`font-sans leading-snug ${
-                      active ? 'font-medium text-brand-deepblue' : 'text-ink'
-                    }`}
-                  >
-                    {seg.text?.[primary]}
-                  </p>
-                  {secondary.map((lang) => (
-                    <p key={lang} className="mt-0.5 font-sans text-sm leading-snug text-ink/60">
-                      {seg.text?.[lang]}
-                    </p>
-                  ))}
+                  {renderLine(primary, true)}
+                  {secondary.map((lang) => renderLine(lang, false))}
                 </div>
-              </button>
+              </div>
             </li>
           );
         })}

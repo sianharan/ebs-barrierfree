@@ -57,6 +57,8 @@ export default function App() {
             langs={displayLangs}
             activeId={activeId}
             onSeek={handleSeek}
+            vocabulary={content.vocabulary}
+            myLang={myLang}
           />
         </div>
 
