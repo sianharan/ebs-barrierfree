@@ -18,7 +18,13 @@ export default function App() {
       {/* 콘텐츠 상세 */}
       <main className="mx-auto max-w-5xl px-4 py-6">
         <article className="flex flex-col gap-4">
-          <VideoPlayer src={content.videoUrl} title={content.title?.ko} />
+          {/* 모국어는 일단 베트남어(vi) 고정 — 언어 선택 UI는 이후 단계 */}
+          <VideoPlayer
+            src={content.videoUrl}
+            title={content.title?.ko}
+            segments={content.segments}
+            subtitleLangs={['ko', 'vi']}
+          />
 
           <h1 className="font-title text-2xl text-logo-navy md:text-3xl">
             {content.title?.ko}
