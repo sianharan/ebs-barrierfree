@@ -19,3 +19,5 @@ Thumbs.db
 
 # 전처리 중간 산출물 (오디오 추출·청크)
 *.tmp.mp3
+
+.vercel
