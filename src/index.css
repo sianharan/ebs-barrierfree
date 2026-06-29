@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/*
+  함께학교 공식 스타일 가이드 디자인 토큰 (Phase 0: 셋업만).
+  출처: design/references/style_guide_web.png · style_guide_mobile.png
+  폰트(Gmarket Sans / Noto Sans CJK) 실제 @font-face 로딩은 이후 Phase에서.
+*/
+@theme {
+  --color-background: #BFDCFA; /* 페이지·히어로 배경 */
+  --color-brand-blue: #64A9E6; /* 주요 블루 (배너·버튼) */
+  --color-brand-green: #3DB653; /* 카테고리·주요 액션 */
+  --color-brand-yellow: #FFB629; /* 강조·하이라이트 */
+  --color-brand-deepblue: #21649C; /* 활성 상태 + AI 기능 강조 */
+  --color-ink: #212121; /* 본문 텍스트 */
+  --color-logo-navy: #000A6B; /* 로고·제목 */
+  --color-logo-green: #00B58A; /* 로고 */
+
+  --font-title: "Gmarket Sans", "Noto Sans CJK KR", sans-serif;
+  --font-sans: "Noto Sans CJK KR", "Noto Sans", sans-serif;
+}

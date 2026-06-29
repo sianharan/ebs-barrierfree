@@ -1,0 +1,22 @@
+{
+  "name": "ebs-barrierfree",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "EBS 배리어프리 — 다문화가정·외국인 언어 지원 PoC",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "tailwindcss": "^4.1.0",
+    "vite": "^7.0.0"
+  }
+}
