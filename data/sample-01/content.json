@@ -1,0 +1,79 @@
+{
+  "id": "sample-01",
+  "type": "video",
+  "title": {
+    "ko": "1강 우리 아이의 신체 발달과 놀이",
+    "en": "Lesson 1: Our Child's Physical Development and Play",
+    "vi": "Bài 1: Sự phát triển thể chất và vui chơi của trẻ",
+    "zh": "第1讲 我们孩子的身体发育与游戏",
+    "ja": "第1講 わが子の身体発達と遊び"
+  },
+  "instructors": [
+    {
+      "ko": "박소영",
+      "en": "Park So-young",
+      "vi": "Park So-young",
+      "zh": "朴昭英",
+      "ja": "パク・ソヨン"
+    },
+    {
+      "ko": "손수예",
+      "en": "Son Su-ye",
+      "vi": "Son Su-ye",
+      "zh": "孙秀艺",
+      "ja": "ソン・スイェ"
+    }
+  ],
+  "description": {
+    "ko": "아이들의 신체 발달 특성과 놀이가 주는 긍정적 영향력에 대해 알아본다",
+    "en": "Explore the characteristics of children's physical development and the positive impact of play.",
+    "vi": "Tìm hiểu về đặc điểm phát triển thể chất của trẻ và tác động tích cực mà vui chơi mang lại.",
+    "zh": "了解孩子身体发育的特点以及游戏带来的积极影响。",
+    "ja": "子どもの身体発達の特徴と、遊びがもたらす肯定的な影響について学びます。"
+  },
+  "hashtags": [
+    {
+      "ko": "유아",
+      "en": "infant",
+      "vi": "trẻ nhỏ",
+      "zh": "幼儿",
+      "ja": "乳幼児"
+    },
+    {
+      "ko": "신체",
+      "en": "body",
+      "vi": "thể chất",
+      "zh": "身体",
+      "ja": "身体"
+    },
+    {
+      "ko": "발달",
+      "en": "development",
+      "vi": "phát triển",
+      "zh": "发育",
+      "ja": "発達"
+    },
+    {
+      "ko": "놀이",
+      "en": "play",
+      "vi": "vui chơi",
+      "zh": "游戏",
+      "ja": "遊び"
+    },
+    {
+      "ko": "운동",
+      "en": "exercise",
+      "vi": "vận động",
+      "zh": "运动",
+      "ja": "運動"
+    }
+  ],
+  "videoUrl": "https://ebsvod.ebs.co.kr/ebsvod/cul/2024/40049780/2m/20241007_094000_1f712df8_m20.mp4",
+  "languages": [
+    "ko",
+    "en",
+    "vi",
+    "zh",
+    "ja"
+  ]
+}

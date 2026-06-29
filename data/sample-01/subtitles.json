@@ -5,7 +5,11 @@
       "start": 0,
       "end": 18,
       "text": {
-        "ko": "안녕하세요. 소아청소년과 전문의 손수혜입니다."
+        "ko": "안녕하세요. 소아청소년과 전문의 손수예입니다.",
+        "en": "Hello. I'm Son Su-ye, a pediatrician.",
+        "vi": "Xin chào. Tôi là Son Su-ye, bác sĩ chuyên khoa nhi.",
+        "zh": "大家好。我是儿童青少年科专科医生孙秀艺。",
+        "ja": "こんにちは。小児青少年科専門医のソン・スイェです。"
       }
     },
     {
@@ -13,7 +17,11 @@
       "start": 18,
       "end": 29.08,
       "text": {
-        "ko": "안녕하세요. 소아청소년 정신건강의학과 전문의 박소영입니다."
+        "ko": "안녕하세요. 소아청소년 정신건강의학과 전문의 박소영입니다.",
+        "en": "Hello. I'm Park So-young, a child and adolescent psychiatrist.",
+        "vi": "Xin chào. Tôi là Park So-young, bác sĩ chuyên khoa tâm thần trẻ em và thanh thiếu niên.",
+        "zh": "大家好。我是儿童青少年精神健康医学科专科医生朴昭英。",
+        "ja": "こんにちは。小児青少年精神健康医学科専門医のパク・ソヨンです。"
       }
     },
     {
@@ -21,7 +29,11 @@
       "start": 29.08,
       "end": 37.96,
       "text": {
-        "ko": "저희는 병원 진료실에서 아이들 건강에 관련된 진료뿐만 아니라 부모님들에게 다양한 육아 상담을 하고 있는데요."
+        "ko": "저희는 병원 진료실에서 아이들 건강에 관련된 진료뿐만 아니라 부모님들에게 다양한 육아 상담을 하고 있는데요.",
+        "en": "In our clinic, we not only provide care related to children's health but also offer various parenting consultations to parents.",
+        "vi": "Tại phòng khám của bệnh viện, chúng tôi không chỉ khám chữa liên quan đến sức khỏe của trẻ mà còn tư vấn nuôi dạy con đa dạng cho các bậc phụ huynh.",
+        "zh": "我们在医院诊室不仅为孩子们提供健康相关的诊疗，还为家长们提供各种育儿咨询。",
+        "ja": "私たちは病院の診察室で子どもの健康に関する診療だけでなく、保護者の方々にさまざまな育児相談を行っています。"
       }
     },
     {
@@ -29,7 +41,11 @@
       "start": 37.96,
       "end": 48.64,
       "text": {
-        "ko": "요즘 영유아를 키우는 부모님들의 최대 고민사가 바로 놀이입니다. 어떻게 아이들과 놀아줘야 되는지에 대한 관심사가 굉장히 많으신데요."
+        "ko": "요즘 영유아를 키우는 부모님들의 최대 고민거리가 바로 놀이입니다. 어떻게 아이들과 놀아줘야 되는지에 대한 관심사가 굉장히 많으신데요.",
+        "en": "These days, the biggest concern for parents raising infants and toddlers is play. They have a great deal of interest in how to play with their children.",
+        "vi": "Gần đây, mối lo lắng lớn nhất của các bậc cha mẹ đang nuôi con nhỏ chính là việc chơi. Họ rất quan tâm đến việc nên chơi với con như thế nào.",
+        "zh": "最近养育婴幼儿的家长们最大的烦恼就是玩耍。他们非常关心该如何陪孩子玩。",
+        "ja": "最近、乳幼児を育てる保護者の方々の最大の悩みがまさに遊びです。どうやって子どもと遊んであげるべきかについての関心が非常に高いです。"
       }
     },
     {
@@ -37,7 +53,11 @@
       "start": 48.64,
       "end": 56.4,
       "text": {
-        "ko": "네, 맞습니다. 부모님들이 우리 아이들이 어릴 때는 어떻게 놀아줘야 될까 고민도 많이 하시고 이에 대해서"
+        "ko": "네, 맞습니다. 부모님들이 우리 아이들이 어릴 때는 어떻게 놀아줘야 될까 고민도 많이 하시고 이에 대해서",
+        "en": "Yes, that's right. Parents worry a lot about how to play with their children when they're young, and regarding this,",
+        "vi": "Vâng, đúng vậy. Các bậc cha mẹ rất băn khoăn về việc nên chơi với con như thế nào khi con còn nhỏ, và về điều này",
+        "zh": "是的，没错。家长们在孩子小的时候会很苦恼该怎么陪孩子玩，对此",
+        "ja": "はい、そうですね。保護者の方々は子どもが幼いときはどうやって遊んであげればよいかと悩むことも多く、これについて"
       }
     },
     {
@@ -45,7 +65,11 @@
       "start": 56.4,
       "end": 69.6,
       "text": {
-        "ko": "관심도 많이 가지시다가 아이가 유치원에 들어갈 즈음이 되면은 학습적인 것에 좀 더 관심을 갖게 되면서 상대적으로 놀이에 대한 관심이 줄어들게 되는 경향이 있습니다."
+        "ko": "관심도 많이 가지시다가 아이가 유치원에 들어갈 즈음이 되면 학습적인 것에 좀 더 관심을 갖게 되면서 상대적으로 놀이에 대한 관심이 줄어들게 되는 경향이 있습니다.",
+        "en": "they show a lot of interest, but as the child approaches kindergarten age, they tend to focus more on academics, and relatively, their interest in play tends to decrease.",
+        "vi": "cũng rất quan tâm, nhưng khi con sắp vào mẫu giáo thì họ có xu hướng quan tâm nhiều hơn đến việc học, và tương đối thì sự quan tâm đến việc chơi sẽ giảm đi.",
+        "zh": "也会很关注，但当孩子快上幼儿园的时候，家长们会更关注学习方面，相对地对玩耍的关注就会减少。",
+        "ja": "関心も多く持たれますが、子どもが幼稚園に入る頃になると学習的なことにもう少し関心を持つようになり、相対的に遊びへの関心が減っていく傾向があります。"
       }
     },
     {
@@ -53,7 +77,11 @@
       "start": 69.6,
       "end": 80.88,
       "text": {
-        "ko": "부모님들은 또 이렇게 생각을 하실 수 있을 것 같아요. 어릴 때는 우리가 놀아주는 게 맞기는 한데 아이가 좀 크게 되면 어린이집, 유치원을 다니게 되잖아요."
+        "ko": "부모님들은 또 이렇게 생각을 하실 수 있을 것 같아요. 어릴 때는 우리가 놀아주는 게 맞기는 한데 아이가 좀 크게 되면 어린이집, 유치원을 다니게 되잖아요.",
+        "en": "Parents might also think this way. It's true that we should play with them when they're young, but once the child grows a bit, they go to daycare or kindergarten.",
+        "vi": "Các bậc cha mẹ cũng có thể nghĩ như thế này. Khi còn nhỏ thì đúng là chúng ta nên chơi với con, nhưng khi con lớn hơn một chút thì con sẽ đi nhà trẻ, mẫu giáo mà.",
+        "zh": "家长们可能还会这样想。孩子小的时候我们陪着玩是对的，但孩子稍微长大一点就会上托儿所、幼儿园了。",
+        "ja": "保護者の方々はまたこう考えることもあると思います。幼いときは私たちが遊んであげるのが正しいけれど、子どもが少し大きくなると保育園や幼稚園に通うようになりますよね。"
       }
     },
     {
@@ -61,7 +89,11 @@
       "start": 80.88,
       "end": 93.04,
       "text": {
-        "ko": "그러면 기관에 다니면 거기에서 친구들하고 뛰어놀기도 하고 또 놀이터에서 땀을 흘리면서 뛰어놀고 오면 그게 놀이를 다 한 게 아닌가 라는 생각을 하시게 됩니다."
+        "ko": "그러면 기관에 다니면 거기에서 친구들하고 뛰어놀기도 하고 또 놀이터에서 땀을 흘리면서 뛰어놀고 오면 그게 놀이를 다 한 게 아닌가라는 생각을 하시게 됩니다.",
+        "en": "So when they attend an institution, they run around and play with friends there, and when they come home sweating from playing at the playground, parents think that the playing has been done completely.",
+        "vi": "Vậy nên khi con đi học ở các cơ sở, con chơi đùa với bạn bè ở đó, rồi chơi đùa đổ mồ hôi ở sân chơi, cha mẹ sẽ nghĩ rằng như vậy là con đã chơi đủ rồi.",
+        "zh": "那么孩子上了机构，在那里和朋友们一起跑着玩，又在游乐场出着汗跑着玩回来，家长们就会想，这不就是把玩耍都完成了吗。",
+        "ja": "そうすると施設に通えばそこで友達と走り回って遊んだり、また遊び場で汗をかきながら走り回って帰ってくると、それで遊びは全部やったのではないかと考えるようになります。"
       }
     },
     {
@@ -69,7 +101,11 @@
       "start": 93.04,
       "end": 98.8,
       "text": {
-        "ko": "그래서 또 따로 신경을 써야 하나 라는 고민을 하실 수 있으실 것 같아요."
+        "ko": "그래서 또 따로 신경을 써야 하나라는 고민을 하실 수 있으실 것 같아요.",
+        "en": "So they might also wonder whether they need to pay separate attention to it.",
+        "vi": "Vì vậy họ có thể băn khoăn liệu có cần phải quan tâm thêm riêng nữa không.",
+        "zh": "所以家长们可能会苦恼，是不是还需要另外费心呢。",
+        "ja": "そのため、また別に気を配るべきなのかと悩むこともあると思います。"
       }
     },
     {
@@ -77,7 +113,11 @@
       "start": 98.8,
       "end": 106.68,
       "text": {
-        "ko": "그런데 2에서 6세 이 시기에 놀이는 발달학적으로 매우 중요한 의미를 갖습니다."
+        "ko": "그런데 2에서 6세 이 시기에 놀이는 발달학적으로 매우 중요한 의미를 갖습니다.",
+        "en": "However, play during this period from age 2 to 6 holds a very important meaning developmentally.",
+        "vi": "Tuy nhiên, việc chơi trong giai đoạn từ 2 đến 6 tuổi này mang ý nghĩa rất quan trọng về mặt phát triển.",
+        "zh": "然而，在2到6岁这个时期，玩耍在发展学上具有非常重要的意义。",
+        "ja": "しかし、2歳から6歳のこの時期の遊びは発達学的に非常に重要な意味を持ちます。"
       }
     },
     {
@@ -85,7 +125,11 @@
       "start": 106.68,
       "end": 118.24,
       "text": {
-        "ko": "그래서 오늘 이 시간에는 왜 놀이가 이 시기에 중요한지 또 발달 단계에 따른 놀이를 어떻게 구체적으로 해야 하는지에 대한 얘기를 나눠보려고 합니다."
+        "ko": "그래서 오늘 이 시간에는 왜 놀이가 이 시기에 중요한지 또 발달 단계에 따른 놀이를 어떻게 구체적으로 해야 하는지에 대한 얘기를 나눠보려고 합니다.",
+        "en": "So in today's session, we'd like to talk about why play is important during this period and how to specifically engage in play according to developmental stages.",
+        "vi": "Vì vậy, trong buổi hôm nay, chúng tôi muốn trao đổi về lý do tại sao việc chơi lại quan trọng trong giai đoạn này, và làm thế nào để chơi một cách cụ thể theo từng giai đoạn phát triển.",
+        "zh": "所以今天这个时间，我们想聊一聊为什么玩耍在这个时期很重要，以及根据发展阶段该如何具体地进行游戏。",
+        "ja": "そこで今日のこの時間には、なぜ遊びがこの時期に重要なのか、また発達段階に応じた遊びを具体的にどのように行うべきかについてお話ししたいと思います。"
       }
     },
     {
@@ -93,7 +137,11 @@
       "start": 118.24,
       "end": 125.6,
       "text": {
-        "ko": "우선 놀이란 무엇인지 정확하게 정의를 하고 넘어가야 할 것 같은데요."
+        "ko": "우선 놀이란 무엇인지 정확하게 정의를 하고 넘어가야 할 것 같은데요.",
+        "en": "First, I think we should clearly define what play is before moving on.",
+        "vi": "Trước tiên, tôi nghĩ chúng ta nên định nghĩa chính xác chơi là gì rồi mới tiếp tục.",
+        "zh": "首先，我觉得应该先准确地定义一下什么是玩耍再继续。",
+        "ja": "まず、遊びとは何かを正確に定義してから進むべきだと思います。"
       }
     },
     {
@@ -101,7 +149,11 @@
       "start": 125.6,
       "end": 132.92,
       "text": {
-        "ko": "사실 놀이란 상당히 본능적이면서도 인간의 성장 발달의 필수적인 활동을 말합니다."
+        "ko": "사실 놀이란 상당히 본능적이면서도 인간의 성장 발달의 필수적인 활동을 말합니다.",
+        "en": "In fact, play refers to an activity that is quite instinctive and yet essential to human growth and development.",
+        "vi": "Thật ra, chơi là một hoạt động khá mang tính bản năng nhưng cũng thiết yếu cho sự tăng trưởng và phát triển của con người.",
+        "zh": "其实，玩耍是指一种相当本能的、同时又是人类成长发展所必需的活动。",
+        "ja": "実は遊びとは、かなり本能的でありながら、人間の成長発達に必須の活動を指します。"
       }
     },
     {
@@ -109,7 +161,11 @@
       "start": 132.96,
       "end": 139.76,
       "text": {
-        "ko": "신생아들이 태어나자마자 굉장히 본능적으로 누가 시키지 않아도 하는 활동이 바로 놀이입니다."
+        "ko": "신생아들이 태어나자마자 굉장히 본능적으로 누가 시키지 않아도 하는 활동이 바로 놀이입니다.",
+        "en": "The activity that newborns do very instinctively right after birth, without anyone telling them to, is play.",
+        "vi": "Hoạt động mà trẻ sơ sinh làm một cách rất bản năng ngay khi vừa chào đời, dù không ai bảo, chính là chơi.",
+        "zh": "新生儿一出生就非常本能地、即使没人指使也会做的活动，正是玩耍。",
+        "ja": "新生児が生まれてすぐ非常に本能的に、誰に言われなくてもする活動こそが遊びです。"
       }
     },
     {
@@ -117,7 +173,11 @@
       "start": 139.76,
       "end": 143.88,
       "text": {
-        "ko": "그래서 놀이란 우선 재미가 있는 활동을 말합니다."
+        "ko": "그래서 놀이란 우선 재미가 있는 활동을 말합니다.",
+        "en": "So play, first of all, refers to an activity that is fun.",
+        "vi": "Vì vậy, chơi trước hết là một hoạt động vui vẻ.",
+        "zh": "所以玩耍首先是指一种有趣的活动。",
+        "ja": "ですから遊びとは、まず楽しい活動を指します。"
       }
     },
     {
@@ -125,7 +185,11 @@
       "start": 143.88,
       "end": 150.48,
       "text": {
-        "ko": "어떤 대가나 목적을 위한 활동이 아닌 그 자체로서의 재미와 즐거움을 주는 것을 말합니다."
+        "ko": "어떤 대가나 목적을 위한 활동이 아닌 그 자체로서의 재미와 즐거움을 주는 것을 말합니다.",
+        "en": "It refers to something that gives fun and joy in itself, rather than an activity for some reward or purpose.",
+        "vi": "Nó không phải là hoạt động vì một phần thưởng hay mục đích nào đó, mà là điều mang lại niềm vui và sự thích thú tự thân.",
+        "zh": "它不是为了某种报酬或目的的活动，而是指本身就能带来乐趣和快乐的事情。",
+        "ja": "何かの対価や目的のための活動ではなく、それ自体として楽しさと喜びを与えるものを指します。"
       }
     },
     {
@@ -133,7 +197,11 @@
       "start": 150.48,
       "end": 159.56,
       "text": {
-        "ko": "네 선생님 그러면 오늘은 그 중에서도 2에서 6세 아이들의 놀이에 대해서 이야기를 해볼 건데요."
+        "ko": "네 선생님 그러면 오늘은 그중에서도 2에서 6세 아이들의 놀이에 대해서 이야기를 해볼 건데요.",
+        "en": "Yes, doctor. So today, among these, we're going to talk about the play of children aged 2 to 6.",
+        "vi": "Vâng, bác sĩ. Vậy hôm nay, trong số đó, chúng ta sẽ nói về việc chơi của trẻ từ 2 đến 6 tuổi.",
+        "zh": "是的，医生。那么今天我们要在这其中谈一谈2到6岁孩子的玩耍。",
+        "ja": "はい、先生。それでは今日はその中でも2歳から6歳の子どもの遊びについてお話ししてみようと思います。"
       }
     },
     {
@@ -141,7 +209,11 @@
       "start": 159.56,
       "end": 164.96,
       "text": {
-        "ko": "이 시기를 학교를 가기 전이라고 해서 학령 전기라고 하잖아요."
+        "ko": "이 시기를 학교를 가기 전이라고 해서 학령 전기라고 하잖아요.",
+        "en": "This period is called the preschool period because it's before going to school, right?",
+        "vi": "Giai đoạn này được gọi là giai đoạn trước tuổi đi học vì là trước khi đi học, phải không?",
+        "zh": "这个时期因为是上学之前，所以被称为学龄前期，对吧。",
+        "ja": "この時期は学校に行く前だということで学齢前期と言いますよね。"
       }
     },
     {
@@ -149,7 +221,11 @@
       "start": 164.96,
       "end": 168.68,
       "text": {
-        "ko": "이때 아이들에게 놀이가 왜 특별하게 중요할까요?"
+        "ko": "이때 아이들에게 놀이가 왜 특별하게 중요할까요?",
+        "en": "Why is play especially important for children during this time?",
+        "vi": "Vào thời điểm này, tại sao việc chơi lại đặc biệt quan trọng đối với trẻ?",
+        "zh": "在这个时候，玩耍对孩子们为什么特别重要呢？",
+        "ja": "このとき、子どもたちにとって遊びはなぜ特別に重要なのでしょうか？"
       }
     },
     {
@@ -157,7 +233,11 @@
       "start": 168.68,
       "end": 174.4,
       "text": {
-        "ko": "그 이유는 바로 이 학령 전기에는 놀이가 본격적이 되기 때문입니다."
+        "ko": "그 이유는 바로 이 학령 전기에는 놀이가 본격적이 되기 때문입니다.",
+        "en": "The reason is precisely that during this preschool period, play becomes full-fledged.",
+        "vi": "Lý do chính là vì trong giai đoạn trước tuổi đi học này, việc chơi trở nên thực sự sôi nổi.",
+        "zh": "原因就在于，在这个学龄前期，玩耍开始变得正式起来。",
+        "ja": "その理由はまさに、この学齢前期には遊びが本格的になるからです。"
       }
     },
     {
@@ -165,7 +245,11 @@
       "start": 174.4,
       "end": 181.08,
       "text": {
-        "ko": "그 전에는 몸놀이 정도의 놀이를 했다면 이제부터는 본격적인 놀이가 나오기 시작하는데요."
+        "ko": "그 전에는 몸놀이 정도의 놀이를 했다면 이제부터는 본격적인 놀이가 나오기 시작하는데요.",
+        "en": "If before they were doing things like physical play, from now on real, full-fledged play starts to appear.",
+        "vi": "Nếu trước đây trẻ chỉ chơi những trò vận động cơ thể đơn giản, thì từ bây giờ những trò chơi thực sự bắt đầu xuất hiện.",
+        "zh": "如果说之前只是做一些身体活动之类的游戏，那么从现在开始就要出现真正意义上的游戏了。",
+        "ja": "それまでは体を使った遊び程度だったとしたら、これからは本格的な遊びが出てくるようになります。"
       }
     },
     {
@@ -173,7 +257,11 @@
       "start": 181.08,
       "end": 188.36,
       "text": {
-        "ko": "스스로 재미를 추구하는 놀이 그리고 자발적으로 만드는 놀이들이 시작됩니다."
+        "ko": "스스로 재미를 추구하는 놀이, 그리고 자발적으로 만드는 놀이들이 시작됩니다.",
+        "en": "Play in which they seek out fun on their own, and play they create voluntarily, begin.",
+        "vi": "Những trò chơi mà trẻ tự tìm kiếm niềm vui, và những trò chơi trẻ tự nguyện tạo ra, bắt đầu xuất hiện.",
+        "zh": "开始出现孩子自己追求乐趣的游戏，以及自发创造的游戏。",
+        "ja": "自分から楽しさを求める遊び、そして自発的に作り出す遊びが始まります。"
       }
     },
     {
@@ -181,7 +269,11 @@
       "start": 188.36,
       "end": 193.36,
       "text": {
-        "ko": "또한 이러한 놀이를 통해서 아이들이 세상을 배워나가는 시기이기도 하죠."
+        "ko": "또한 이러한 놀이를 통해서 아이들이 세상을 배워나가는 시기이기도 하죠.",
+        "en": "It's also a period when children learn about the world through such play.",
+        "vi": "Đồng thời, đây cũng là giai đoạn trẻ học hỏi về thế giới thông qua những trò chơi như vậy.",
+        "zh": "同时，这也是孩子们通过这些游戏来认识世界的时期。",
+        "ja": "また、こうした遊びを通じて子どもたちが世界を学んでいく時期でもあります。"
       }
     },
     {
@@ -189,7 +281,11 @@
       "start": 193.36,
       "end": 201.32,
       "text": {
-        "ko": "그래서 놀이는 신체 발달뿐만 아니라 뇌 발달 그리고 아이들의 심리학적 발달에도 굉장히 중요한 역할을 하게 됩니다."
+        "ko": "그래서 놀이는 신체 발달뿐만 아니라 뇌 발달, 그리고 아이들의 심리학적 발달에도 굉장히 중요한 역할을 하게 됩니다.",
+        "en": "So play plays a very important role not only in physical development but also in brain development and children's psychological development.",
+        "vi": "Vì vậy, vui chơi không chỉ đóng vai trò quan trọng trong sự phát triển thể chất mà còn trong sự phát triển não bộ và sự phát triển tâm lý của trẻ.",
+        "zh": "因此，游戏不仅对身体发育，而且对大脑发育以及孩子们的心理发展都起着非常重要的作用。",
+        "ja": "ですから遊びは、身体の発達だけでなく、脳の発達、そして子どもの心理的な発達においても非常に重要な役割を果たします。"
       }
     },
     {
@@ -197,7 +293,11 @@
       "start": 201.32,
       "end": 207.08,
       "text": {
-        "ko": "그렇기 때문에 이 시기에는 놀이의 양과 질 모두가 중요하겠습니다."
+        "ko": "그렇기 때문에 이 시기에는 놀이의 양과 질 모두가 중요하겠습니다.",
+        "en": "That's why, during this period, both the quantity and quality of play are important.",
+        "vi": "Chính vì vậy, trong giai đoạn này, cả số lượng lẫn chất lượng của việc vui chơi đều quan trọng.",
+        "zh": "正因如此，在这个时期，游戏的数量和质量都很重要。",
+        "ja": "そのため、この時期には遊びの量も質も両方が重要になります。"
       }
     },
     {
@@ -205,7 +305,11 @@
       "start": 207.08,
       "end": 212.88,
       "text": {
-        "ko": "결국 아이가 잘 놀면 현재의 몸과 마음도 건강해질 뿐만 아니라"
+        "ko": "결국 아이가 잘 놀면 현재의 몸과 마음도 건강해질 뿐만 아니라,",
+        "en": "In the end, if a child plays well, not only do their body and mind become healthy in the present,",
+        "vi": "Cuối cùng, nếu trẻ chơi tốt thì không chỉ cơ thể và tâm trí hiện tại khỏe mạnh hơn,",
+        "zh": "归根结底，孩子玩得好，不仅现在的身心会变得健康，",
+        "ja": "結局、子どもがよく遊べば、今の体と心が健康になるだけでなく、"
       }
     },
     {
@@ -213,7 +317,11 @@
       "start": 212.88,
       "end": 218.16,
       "text": {
-        "ko": "이 뇌 발달, 정신심리학적 발달도 같이 활발하게 이루어지면서"
+        "ko": "이 뇌 발달, 정신심리학적 발달도 같이 활발하게 이루어지면서",
+        "en": "this brain development and mental-psychological development also take place actively at the same time,",
+        "vi": "mà sự phát triển não bộ, sự phát triển tâm lý tinh thần này cũng diễn ra mạnh mẽ cùng lúc,",
+        "zh": "大脑发育、精神心理发展也会一同活跃地进行，",
+        "ja": "この脳の発達、精神・心理的な発達も一緒に活発に行われながら、"
       }
     },
     {
@@ -221,7 +329,11 @@
       "start": 218.16,
       "end": 223.08,
       "text": {
-        "ko": "앞으로의 몸, 미래의 몸과 마음까지 건강해지는 겁니다."
+        "ko": "앞으로의 몸, 미래의 몸과 마음까지 건강해지는 겁니다.",
+        "en": "so the body of the future, the body and mind of the future, also become healthy.",
+        "vi": "và cả cơ thể, tâm trí trong tương lai cũng trở nên khỏe mạnh.",
+        "zh": "连未来的身体、未来的身心也会变得健康。",
+        "ja": "これからの体、未来の体と心まで健康になるのです。"
       }
     },
     {
@@ -229,7 +341,11 @@
       "start": 223.08,
       "end": 229.12,
       "text": {
-        "ko": "놀이가 결국 자라나는 아이의 건강 지표가 된다고 할 수 있겠습니다."
+        "ko": "놀이가 결국 자라나는 아이의 건강 지표가 된다고 할 수 있겠습니다.",
+        "en": "You could say that play ultimately becomes an indicator of a growing child's health.",
+        "vi": "Có thể nói rằng vui chơi cuối cùng trở thành thước đo sức khỏe của trẻ đang lớn.",
+        "zh": "可以说，游戏最终成为成长中孩子的健康指标。",
+        "ja": "遊びは結局、育っていく子どもの健康の指標になると言えるでしょう。"
       }
     },
     {
@@ -237,7 +353,11 @@
       "start": 229.12,
       "end": 234.48,
       "text": {
-        "ko": "놀이에서 제일 중요한 것은 뭐니 뭐니 해도 바로 재미잖아요."
+        "ko": "놀이에서 제일 중요한 것은 뭐니 뭐니 해도 바로 재미잖아요.",
+        "en": "The most important thing in play is, above all, fun, right?",
+        "vi": "Điều quan trọng nhất trong vui chơi, dù nói thế nào đi nữa, chính là niềm vui đúng không?",
+        "zh": "游戏中最重要的，不管怎么说，正是乐趣，对吧。",
+        "ja": "遊びで一番大切なのは、何といってもやはり楽しさですよね。"
       }
     },
     {
@@ -245,7 +365,11 @@
       "start": 234.48,
       "end": 240.48,
       "text": {
-        "ko": "그런데 아이가 이렇게 재미있게 놀이를 하려면 부모님들이 몇 가지 알고 계셔야 하는 게 있는데"
+        "ko": "그런데 아이가 이렇게 재미있게 놀이를 하려면 부모님들이 몇 가지 알고 계셔야 하는 게 있는데,",
+        "en": "But for a child to play this enjoyably, there are a few things parents need to know,",
+        "vi": "Nhưng để trẻ có thể chơi một cách vui vẻ như vậy, có vài điều mà các bậc cha mẹ cần phải biết,",
+        "zh": "不过，要让孩子这样开心地玩耍，家长们有几点是需要知道的，",
+        "ja": "ところが、子どもがこんなふうに楽しく遊ぶためには、親御さんが知っておくべきことがいくつかあるのですが、"
       }
     },
     {
@@ -253,7 +377,11 @@
       "start": 240.48,
       "end": 245.2,
       "text": {
-        "ko": "그런 몇 가지 팁들을 저희가 지금부터 알려드리도록 하겠습니다."
+        "ko": "그런 몇 가지 팁들을 저희가 지금부터 알려드리도록 하겠습니다.",
+        "en": "we'll share a few of those tips with you from now on.",
+        "vi": "chúng tôi sẽ chia sẻ một vài mẹo đó với các bạn ngay từ bây giờ.",
+        "zh": "接下来我们就为大家介绍这几点小贴士。",
+        "ja": "そうしたいくつかのコツを、これから皆さんにお伝えしていきます。"
       }
     },
     {
@@ -261,7 +389,11 @@
       "start": 245.56,
       "end": 250.68,
       "text": {
-        "ko": "첫 번째, 놀이는 부모 중심이 아닌 아이 중심이어야 합니다."
+        "ko": "첫 번째, 놀이는 부모 중심이 아닌 아이 중심이어야 합니다.",
+        "en": "First, play should be child-centered, not parent-centered.",
+        "vi": "Thứ nhất, vui chơi phải lấy trẻ làm trung tâm chứ không phải lấy cha mẹ làm trung tâm.",
+        "zh": "第一，游戏应该以孩子为中心，而不是以父母为中心。",
+        "ja": "一つ目、遊びは親中心ではなく、子ども中心であるべきです。"
       }
     },
     {
@@ -269,7 +401,11 @@
       "start": 250.68,
       "end": 254.2,
       "text": {
-        "ko": "아이가 자발적으로 즐기는 활동이어야 하는데요."
+        "ko": "아이가 자발적으로 즐기는 활동이어야 하는데요.",
+        "en": "It should be an activity that the child enjoys voluntarily.",
+        "vi": "Đó phải là hoạt động mà trẻ tự nguyện tận hưởng.",
+        "zh": "它应该是孩子自发享受的活动。",
+        "ja": "子どもが自発的に楽しむ活動でなければなりません。"
       }
     },
     {
@@ -277,7 +413,11 @@
       "start": 254.2,
       "end": 260.32,
       "text": {
-        "ko": "아이가 즐겁게 하던 놀이를 갑자기 중단하고 다른 놀이로 넘어가도 괜찮습니다."
+        "ko": "아이가 즐겁게 하던 놀이를 갑자기 중단하고 다른 놀이로 넘어가도 괜찮습니다.",
+        "en": "It's fine if the child suddenly stops a play they were enjoying and moves on to a different one.",
+        "vi": "Việc trẻ đột nhiên dừng trò chơi đang chơi vui vẻ và chuyển sang trò khác cũng không sao cả.",
+        "zh": "孩子突然停止正在开心玩的游戏，转到别的游戏，也没关系。",
+        "ja": "子どもが楽しんでいた遊びを急にやめて別の遊びに移っても大丈夫です。"
       }
     },
     {
@@ -285,7 +425,11 @@
       "start": 260.32,
       "end": 265.08,
       "text": {
-        "ko": "왜냐하면 아이의 의식의 흐름대로 놀이가 진행되고 있다는 뜻이니까요."
+        "ko": "왜냐하면 아이의 의식의 흐름대로 놀이가 진행되고 있다는 뜻이니까요.",
+        "en": "Because it means the play is progressing according to the child's stream of consciousness.",
+        "vi": "Bởi vì điều đó có nghĩa là trò chơi đang diễn ra theo dòng ý thức của trẻ.",
+        "zh": "因为这意味着游戏正按照孩子的意识流在进行。",
+        "ja": "なぜなら、子どもの意識の流れに沿って遊びが進んでいるという意味だからです。"
       }
     },
     {
@@ -293,7 +437,11 @@
       "start": 265.08,
       "end": 270.32,
       "text": {
-        "ko": "두 번째, 매일 똑같은 놀이를 반복해도 괜찮습니다."
+        "ko": "두 번째, 매일 똑같은 놀이를 반복해도 괜찮습니다.",
+        "en": "Second, it's okay to repeat the same play every day.",
+        "vi": "Thứ hai, việc lặp lại cùng một trò chơi mỗi ngày cũng không sao.",
+        "zh": "第二，每天重复玩同样的游戏也没关系。",
+        "ja": "二つ目、毎日同じ遊びを繰り返しても大丈夫です。"
       }
     },
     {
@@ -301,7 +449,11 @@
       "start": 270.32,
       "end": 272.76,
       "text": {
-        "ko": "예를 들어서 숨바꼭질 많이 하잖아요."
+        "ko": "예를 들어서 숨바꼭질 많이 하잖아요.",
+        "en": "For example, kids play hide-and-seek a lot, right?",
+        "vi": "Ví dụ, trẻ thường hay chơi trốn tìm đúng không.",
+        "zh": "比如说，孩子们经常玩捉迷藏，对吧。",
+        "ja": "例えば、かくれんぼをよくやりますよね。"
       }
     },
     {
@@ -309,7 +461,11 @@
       "start": 272.76,
       "end": 277.4,
       "text": {
-        "ko": "아이가 매일매일 숨바꼭질을 하려고 해도 괜찮습니다."
+        "ko": "아이가 매일매일 숨바꼭질을 하려고 해도 괜찮습니다.",
+        "en": "It's okay even if the child wants to play hide-and-seek every single day.",
+        "vi": "Việc trẻ muốn chơi trốn tìm mỗi ngày cũng không sao cả.",
+        "zh": "即使孩子每天都想玩捉迷藏，也没关系。",
+        "ja": "子どもが毎日毎日かくれんぼをしたがっても大丈夫です。"
       }
     },
     {
@@ -317,7 +473,11 @@
       "start": 277.4,
       "end": 284.2,
       "text": {
-        "ko": "숨바꼭질을 어디에서 하는지, 누구랑 하는지, 어떻게 하는지에 따라서 달라질 수 있으니까요."
+        "ko": "숨바꼭질을 어디에서 하는지, 누구랑 하는지, 어떻게 하는지에 따라서 달라질 수 있으니까요.",
+        "en": "Because it can vary depending on where they play hide-and-seek, who they play with, and how they play.",
+        "vi": "Bởi vì trò trốn tìm có thể khác nhau tùy vào việc chơi ở đâu, chơi với ai và chơi như thế nào.",
+        "zh": "因为捉迷藏可以根据在哪里玩、和谁玩、怎么玩而有所不同。",
+        "ja": "かくれんぼをどこでするのか、誰とするのか、どうやってするのかによって変わってくるからです。"
       }
     },
     {
@@ -325,7 +485,11 @@
       "start": 284.2,
       "end": 291.48,
       "text": {
-        "ko": "이처럼 겉으로는 같아 보여도 아이 관점에서는 매일매일 새로운 놀이가 되는 겁니다."
+        "ko": "이처럼 겉으로는 같아 보여도 아이 관점에서는 매일매일 새로운 놀이가 되는 겁니다.",
+        "en": "Like this, even though it looks the same on the outside, from the child's perspective it becomes a new game every single day.",
+        "vi": "Như vậy, dù bề ngoài trông giống nhau, nhưng theo góc nhìn của trẻ thì mỗi ngày đều trở thành một trò chơi mới.",
+        "zh": "就像这样，虽然从外表看起来一样，但从孩子的角度来看，每天都会变成一个新的游戏。",
+        "ja": "このように、見た目は同じでも、子どもの視点では毎日新しい遊びになるのです。"
       }
     },
     {
@@ -333,7 +497,11 @@
       "start": 291.48,
       "end": 299.04,
       "text": {
-        "ko": "그 속에서 스스로 창의력을 발휘해서 조금씩 놀이를 변형해서 이어나가도록 하면 되겠습니다."
+        "ko": "그 속에서 스스로 창의력을 발휘해서 조금씩 놀이를 변형해서 이어나가도록 하면 되겠습니다.",
+        "en": "Within that, you can let the child use their own creativity to gradually modify and continue the play.",
+        "vi": "Trong đó, hãy để trẻ tự phát huy khả năng sáng tạo, biến đổi trò chơi từng chút một và tiếp tục chơi.",
+        "zh": "在这个过程中，让孩子自己发挥创造力，一点点地变换游戏并持续下去就可以了。",
+        "ja": "その中で、子ども自身が創造力を発揮して、少しずつ遊びを変えながら続けていけるようにすればよいでしょう。"
       }
     },
     {
@@ -341,7 +509,11 @@
       "start": 299.04,
       "end": 306.56,
       "text": {
-        "ko": "세 번째, 아이의 신체인지 정서 발달의 성장 단계에 맞는 놀이를 선택하는 것이 좋겠습니다."
+        "ko": "세 번째, 아이의 신체·인지·정서 발달의 성장 단계에 맞는 놀이를 선택하는 것이 좋겠습니다.",
+        "en": "Third, it's good to choose play that matches the child's developmental stage in physical, cognitive, and emotional growth.",
+        "vi": "Thứ ba, nên chọn trò chơi phù hợp với giai đoạn phát triển về thể chất, nhận thức và cảm xúc của trẻ.",
+        "zh": "第三，最好选择符合孩子身体、认知、情绪发展成长阶段的游戏。",
+        "ja": "三つ目に、子どもの身体・認知・情緒の発達段階に合った遊びを選ぶのがよいでしょう。"
       }
     },
     {
@@ -349,7 +521,11 @@
       "start": 306.56,
       "end": 310.56,
       "text": {
-        "ko": "예를 들어 복잡한 규칙을 모르는 3살짜리 아이에게"
+        "ko": "예를 들어 복잡한 규칙을 모르는 3살짜리 아이에게",
+        "en": "For example, if you have a 3-year-old child who doesn't understand complex rules play",
+        "vi": "Ví dụ, nếu cho một đứa trẻ 3 tuổi chưa biết các quy tắc phức tạp",
+        "zh": "比如，对于一个不懂复杂规则的3岁孩子",
+        "ja": "例えば、複雑なルールを知らない3歳の子どもに"
       }
     },
     {
@@ -357,7 +533,11 @@
       "start": 310.56,
       "end": 315,
       "text": {
-        "ko": "무궁화 꽃이 피었습니다라든지 얼음땡 같은 놀이를 하게 되면"
+        "ko": "'무궁화 꽃이 피었습니다'라든지 '얼음땡' 같은 놀이를 하게 되면",
+        "en": "games like 'Red Light, Green Light' or 'freeze tag',",
+        "vi": "chơi những trò như 'Hoa dâm bụt đã nở' hay 'đóng băng - tan băng',",
+        "zh": "玩'木槿花开了'或'冰冻解冻'之类的游戏的话，",
+        "ja": "「むくげの花が咲きました（だるまさんがころんだ）」や「氷おに」のような遊びをさせると、"
       }
     },
     {
@@ -365,7 +545,11 @@
       "start": 315,
       "end": 317.68,
       "text": {
-        "ko": "아이가 이 규칙을 이해하지 못할 뿐더러"
+        "ko": "아이가 이 규칙을 이해하지 못할 뿐더러",
+        "en": "not only will the child fail to understand these rules,",
+        "vi": "không những trẻ không hiểu được các quy tắc này,",
+        "zh": "孩子不仅无法理解这些规则，",
+        "ja": "子どもがこのルールを理解できないだけでなく、"
       }
     },
     {
@@ -373,7 +557,11 @@
       "start": 317.68,
       "end": 322.92,
       "text": {
-        "ko": "또 오히려 아이와 놀이를 하는 부모 간에 갈등이 생길 가능성이 높습니다."
+        "ko": "또 오히려 아이와 놀이를 하는 부모 간에 갈등이 생길 가능성이 높습니다.",
+        "en": "but rather there's a high chance that conflict will arise between the child and the parent playing with them.",
+        "vi": "mà ngược lại còn dễ nảy sinh mâu thuẫn giữa trẻ và cha mẹ đang chơi cùng.",
+        "zh": "反而很可能在孩子和一起玩的父母之间产生矛盾。",
+        "ja": "むしろ、子どもと一緒に遊ぶ親との間で対立が生じる可能性が高いのです。"
       }
     },
     {
@@ -381,7 +569,11 @@
       "start": 322.92,
       "end": 328.36,
       "text": {
-        "ko": "그렇기 때문에 우리 아이의 발달 단계에 맞는 놀이를 선택하시는 것이 좋겠습니다."
+        "ko": "그렇기 때문에 우리 아이의 발달 단계에 맞는 놀이를 선택하시는 것이 좋겠습니다.",
+        "en": "That's why it's good to choose play that matches your child's developmental stage.",
+        "vi": "Chính vì vậy, nên chọn trò chơi phù hợp với giai đoạn phát triển của con mình.",
+        "zh": "因此，最好选择符合孩子发展阶段的游戏。",
+        "ja": "ですから、お子さんの発達段階に合った遊びを選ぶのがよいでしょう。"
       }
     },
     {
@@ -389,7 +581,11 @@
       "start": 328.36,
       "end": 333.04,
       "text": {
-        "ko": "이렇게 발달 단계를 잘 이해하고 나면 우리 아이를 잘 이해할 수 있고"
+        "ko": "이렇게 발달 단계를 잘 이해하고 나면 우리 아이를 잘 이해할 수 있고",
+        "en": "Once you understand the developmental stages well like this, you can understand your child well,",
+        "vi": "Khi hiểu rõ các giai đoạn phát triển như vậy, bạn có thể hiểu rõ con mình,",
+        "zh": "这样了解了发展阶段之后，就能更好地理解孩子，",
+        "ja": "このように発達段階をよく理解すれば、お子さんをよく理解できますし、"
       }
     },
     {
@@ -397,7 +593,11 @@
       "start": 333.04,
       "end": 335.76,
       "text": {
-        "ko": "또 우리 아이가 어느 정도까지 할 수 있는지"
+        "ko": "또 우리 아이가 어느 정도까지 할 수 있는지",
+        "en": "and also to what extent your child is capable,",
+        "vi": "và con mình có thể làm được đến mức nào,",
+        "zh": "还能知道孩子能做到什么程度，",
+        "ja": "また、お子さんがどの程度までできるのか、"
       }
     },
     {
@@ -405,7 +605,11 @@
       "start": 335.76,
       "end": 339.8,
       "text": {
-        "ko": "그럼 이 놀이를 하는 게 괜찮은지 아니면 또 이른지"
+        "ko": "그럼 이 놀이를 하는 게 괜찮은지 아니면 또 이른지",
+        "en": "whether it's okay to do this play or whether it's still too early,",
+        "vi": "liệu chơi trò này có ổn không hay là còn quá sớm,",
+        "zh": "那么玩这个游戏是否合适，或者是否还太早，",
+        "ja": "では、この遊びをしても大丈夫なのか、それともまだ早いのか、"
       }
     },
     {
@@ -413,7 +617,11 @@
       "start": 339.8,
       "end": 342.6,
       "text": {
-        "ko": "그런 것들에 대해서 감이 생기게 되거든요."
+        "ko": "그런 것들에 대해서 감이 생기게 되거든요.",
+        "en": "you start to get a sense for those things.",
+        "vi": "bạn sẽ có được cảm nhận về những điều đó.",
+        "zh": "对于这些事情就会有感觉了。",
+        "ja": "そういったことについて感覚がつかめるようになるのです。"
       }
     },
     {
@@ -421,7 +629,11 @@
       "start": 342.6,
       "end": 346.8,
       "text": {
-        "ko": "그러면 먼저 학령 전기 아이들의 신체적인 변화"
+        "ko": "그러면 먼저 학령 전기 아이들의 신체적인 변화",
+        "en": "So first, let's look at the physical changes in preschool-age children,",
+        "vi": "Vậy thì trước tiên, hãy tìm hiểu về những thay đổi thể chất của trẻ ở độ tuổi trước khi đi học,",
+        "zh": "那么首先，让我们来了解学龄前儿童的身体变化，",
+        "ja": "では、まず就学前の子どもたちの身体的な変化、"
       }
     },
     {
@@ -429,7 +641,11 @@
       "start": 346.8,
       "end": 355.08,
       "text": {
-        "ko": "그리고 신체 놀이, 즉 대근육, 소근육 운동을 자극시킬 수 있는 놀이에 대해서 알아봅시다."
+        "ko": "그리고 신체 놀이, 즉 대근육·소근육 운동을 자극시킬 수 있는 놀이에 대해서 알아봅시다.",
+        "en": "and physical play, that is, play that can stimulate gross motor and fine motor movement.",
+        "vi": "và trò chơi vận động, tức là những trò chơi có thể kích thích vận động cơ lớn và cơ nhỏ.",
+        "zh": "以及身体游戏，也就是能够刺激大肌肉、小肌肉运动的游戏。",
+        "ja": "そして身体遊び、つまり大筋肉・小筋肉運動を刺激できる遊びについて見ていきましょう。"
       }
     },
     {
@@ -437,7 +653,11 @@
       "start": 355.08,
       "end": 360.24,
       "text": {
-        "ko": "이 시기 아이들의 신체는 정말 어마무시한 변화를 겪게 됩니다."
+        "ko": "이 시기 아이들의 신체는 정말 어마무시한 변화를 겪게 됩니다.",
+        "en": "During this period, children's bodies undergo truly tremendous changes.",
+        "vi": "Trong giai đoạn này, cơ thể của trẻ trải qua những thay đổi thực sự to lớn.",
+        "zh": "这个时期孩子的身体会经历非常巨大的变化。",
+        "ja": "この時期の子どもの身体は、本当にものすごい変化を経験します。"
       }
     },
     {
@@ -445,7 +665,11 @@
       "start": 360.24,
       "end": 363.16,
       "text": {
-        "ko": "근데 겉으로 봤을 때는 굉장히 커 보이는데"
+        "ko": "근데 겉으로 봤을 때는 굉장히 커 보이는데",
+        "en": "But while they look really big on the outside,",
+        "vi": "Nhưng khi nhìn bề ngoài thì trông rất lớn,",
+        "zh": "但是从外表看起来非常大，",
+        "ja": "でも、見た目にはとても大きく見えるのですが、"
       }
     },
     {
@@ -453,7 +677,11 @@
       "start": 363.16,
       "end": 368.6,
       "text": {
-        "ko": "의외로 그렇게 키나 몸무게는 빠르게 성장하지 않습니다."
+        "ko": "의외로 그렇게 키나 몸무게는 빠르게 성장하지 않습니다.",
+        "en": "surprisingly, their height and weight don't grow that quickly.",
+        "vi": "thật bất ngờ là chiều cao và cân nặng lại không tăng nhanh đến vậy.",
+        "zh": "出乎意料的是，身高和体重并不会增长得那么快。",
+        "ja": "意外にも、身長や体重はそれほど速くは成長しません。"
       }
     },
     {
@@ -461,7 +689,11 @@
       "start": 368.6,
       "end": 374.2,
       "text": {
-        "ko": "오히려 영유아기 때에 비해서 신체 성장률은 매우 더뎌지는데요."
+        "ko": "오히려 영유아기 때에 비해서 신체 성장률은 매우 더뎌지는데요.",
+        "en": "Rather, compared to infancy, the rate of physical growth slows down considerably.",
+        "vi": "Ngược lại, so với thời kỳ nhũ nhi, tốc độ tăng trưởng thể chất chậm lại rất nhiều.",
+        "zh": "反而与婴幼儿时期相比，身体的生长速度变得非常缓慢。",
+        "ja": "むしろ乳幼児期に比べて、身体の成長率はとても緩やかになります。"
       }
     },
     {
@@ -469,7 +701,11 @@
       "start": 374.2,
       "end": 377.56,
       "text": {
-        "ko": "아기 때 특히 돌에서 두돌 사이에 예를 들어서"
+        "ko": "아기 때 특히 돌에서 두 돌 사이에 예를 들어서",
+        "en": "During infancy, especially between one and two years old, for example,",
+        "vi": "Trong thời kỳ còn nhỏ, đặc biệt là từ một đến hai tuổi, ví dụ như,",
+        "zh": "在婴儿时期，特别是一岁到两岁之间，举例来说，",
+        "ja": "赤ちゃんの頃、特に1歳から2歳の間に、例えば、"
       }
     },
     {
@@ -477,7 +713,11 @@
       "start": 377.56,
       "end": 381.52,
       "text": {
-        "ko": "키는 1년에 10에서 12cm 정도 크거든요."
+        "ko": "키는 1년에 10에서 12cm 정도 크거든요.",
+        "en": "the height grows by about 10 to 12 cm per year.",
+        "vi": "chiều cao tăng khoảng 10 đến 12 cm mỗi năm.",
+        "zh": "身高一年大约长10到12厘米。",
+        "ja": "身長は1年に10から12センチほど伸びるんですね。"
       }
     },
     {
@@ -485,7 +725,11 @@
       "start": 381.56,
       "end": 388.48,
       "text": {
-        "ko": "근데 이 학령 전기에는 키 성장률도 1년에 5, 6cm 정도로 느리게 큽니다."
+        "ko": "근데 이 학령 전기에는 키 성장률도 1년에 5, 6cm 정도로 느리게 큽니다.",
+        "en": "But during this preschool period, the rate of height growth is slow, only about 5 to 6 cm a year.",
+        "vi": "Nhưng trong giai đoạn tiền học đường này, tốc độ tăng chiều cao cũng chậm, chỉ khoảng 5, 6 cm mỗi năm.",
+        "zh": "不过在这个学龄前期，身高的增长速度也比较慢，一年大约只长5、6厘米。",
+        "ja": "でもこの学齢前期には、身長の成長率も年に5、6cmほどとゆっくり伸びます。"
       }
     },
     {
@@ -493,7 +737,11 @@
       "start": 388.48,
       "end": 395.96,
       "text": {
-        "ko": "반면에 근골경계, 감각기관 발달은 영아기 때보다 몇 배로 급성장하게 되는데요."
+        "ko": "반면에 근골격계, 감각기관 발달은 영아기 때보다 몇 배로 급성장하게 되는데요.",
+        "en": "On the other hand, the development of the musculoskeletal system and sensory organs grows several times faster than in infancy.",
+        "vi": "Ngược lại, sự phát triển của hệ cơ xương và các cơ quan cảm giác lại tăng trưởng nhanh gấp nhiều lần so với giai đoạn sơ sinh.",
+        "zh": "相反，肌肉骨骼系统和感觉器官的发育却比婴儿期快好几倍，迅速成长。",
+        "ja": "一方で、筋骨格系や感覚器官の発達は乳児期の何倍ものスピードで急成長します。"
       }
     },
     {
@@ -501,7 +749,11 @@
       "start": 395.96,
       "end": 400.28,
       "text": {
-        "ko": "그러면서 몸에 비해서 팔다리가 길어지게 되고요."
+        "ko": "그러면서 몸에 비해서 팔다리가 길어지게 되고요.",
+        "en": "As that happens, the arms and legs become longer relative to the body.",
+        "vi": "Cùng với đó, tay chân trở nên dài hơn so với cơ thể.",
+        "zh": "随之，与身体相比，胳膊和腿也变得更长了。",
+        "ja": "それに伴って、体に比べて手足が長くなっていきます。"
       }
     },
     {
@@ -509,7 +761,11 @@
       "start": 400.28,
       "end": 402.52,
       "text": {
-        "ko": "그리고 피하지방이 감소돼요."
+        "ko": "그리고 피하지방이 감소돼요.",
+        "en": "And the subcutaneous fat decreases.",
+        "vi": "Và lượng mỡ dưới da giảm đi.",
+        "zh": "而且皮下脂肪也会减少。",
+        "ja": "そして皮下脂肪が減少します。"
       }
     },
     {
@@ -517,7 +773,11 @@
       "start": 402.52,
       "end": 409.92,
       "text": {
-        "ko": "그래서 어렸을 때 보였던 통통한 볼, 젖살이 쏙 하고 빠지게 되죠."
+        "ko": "그래서 어렸을 때 보였던 통통한 볼, 젖살이 쏙 하고 빠지게 되죠.",
+        "en": "So the chubby cheeks and baby fat they had when they were little quickly disappear.",
+        "vi": "Vì vậy, đôi má phúng phính, mỡ sữa từ hồi nhỏ sẽ biến mất nhanh chóng.",
+        "zh": "所以小时候那胖嘟嘟的脸颊、婴儿肥就会一下子消退。",
+        "ja": "なので、小さい頃に見られたぷっくりした頬っぺた、赤ちゃんの脂肪がすっと抜けるんですね。"
       }
     },
     {
@@ -525,7 +785,11 @@
       "start": 409.92,
       "end": 415.96,
       "text": {
-        "ko": "그리고 복부 근육이 발달돼서 전체적인 신체 균형이 좋아지게 됩니다."
+        "ko": "그리고 복부 근육이 발달돼서 전체적인 신체 균형이 좋아지게 됩니다.",
+        "en": "And the abdominal muscles develop, so overall body balance improves.",
+        "vi": "Và cơ bụng phát triển nên sự cân bằng cơ thể tổng thể trở nên tốt hơn.",
+        "zh": "而且腹部肌肉得到发育，整体的身体平衡也会变好。",
+        "ja": "そして腹部の筋肉が発達して、全体的な体のバランスが良くなります。"
       }
     },
     {
@@ -533,7 +797,11 @@
       "start": 415.96,
       "end": 418.92,
       "text": {
-        "ko": "그리고 머리의 비율이 작아지면서"
+        "ko": "그리고 머리의 비율이 작아지면서",
+        "en": "And as the proportion of the head becomes smaller,",
+        "vi": "Và khi tỷ lệ của đầu trở nên nhỏ lại,",
+        "zh": "而且随着头部所占的比例变小，",
+        "ja": "そして頭の比率が小さくなりながら、"
       }
     },
     {
@@ -541,7 +809,11 @@
       "start": 418.92,
       "end": 424.2,
       "text": {
-        "ko": "6세 때부터는 아래 있었던 무게중심이 배꼽 위로 올라가게 돼서"
+        "ko": "6세 때부터는 아래 있었던 무게중심이 배꼽 위로 올라가게 돼서",
+        "en": "from around age six, the center of gravity, which used to be lower, rises above the navel,",
+        "vi": "từ khoảng 6 tuổi, trọng tâm vốn nằm thấp sẽ dịch lên trên rốn,",
+        "zh": "从6岁开始，原本偏下的重心会上移到肚脐以上，",
+        "ja": "6歳頃からは下のほうにあった重心がおへその上に上がるようになって、"
       }
     },
     {
@@ -549,7 +821,11 @@
       "start": 424.2,
       "end": 427.76,
       "text": {
-        "ko": "몸의 균형이 전체적으로 굉장히 좋아져요."
+        "ko": "몸의 균형이 전체적으로 굉장히 좋아져요.",
+        "en": "so the body's balance improves a great deal overall.",
+        "vi": "nên sự cân bằng của cơ thể nhìn chung được cải thiện rất nhiều.",
+        "zh": "身体的平衡整体上会变得非常好。",
+        "ja": "体のバランスが全体的にとても良くなります。"
       }
     },
     {
@@ -557,7 +833,11 @@
       "start": 427.76,
       "end": 431.6,
       "text": {
-        "ko": "그래서 균형을 잘 잡을 수 있게 됩니다."
+        "ko": "그래서 균형을 잘 잡을 수 있게 됩니다.",
+        "en": "So they become able to keep their balance well.",
+        "vi": "Vì vậy trẻ có thể giữ thăng bằng tốt hơn.",
+        "zh": "所以孩子就能很好地保持平衡了。",
+        "ja": "なので、バランスをうまく取れるようになります。"
       }
     },
     {
@@ -565,7 +845,11 @@
       "start": 431.6,
       "end": 437.92,
       "text": {
-        "ko": "걷기, 달리기, 점프 등과 같이 예전에 습득했던 기술들을 강화하고"
+        "ko": "걷기, 달리기, 점프 등과 같이 예전에 습득했던 기술들을 강화하고",
+        "en": "It's a time when they reinforce previously acquired skills such as walking, running, and jumping,",
+        "vi": "Đây là thời kỳ trẻ củng cố những kỹ năng đã học trước đó như đi, chạy, nhảy,",
+        "zh": "这是强化之前掌握的走、跑、跳等技能，",
+        "ja": "歩く、走る、ジャンプなど、以前に習得した技術を強化し、"
       }
     },
     {
@@ -573,7 +857,11 @@
       "start": 437.92,
       "end": 443.36,
       "text": {
-        "ko": "보다 더 정교하게 발달하기 쉬운 최적화된 시기라고 할 수 있겠습니다."
+        "ko": "보다 더 정교하게 발달하기 쉬운 최적화된 시기라고 할 수 있겠습니다.",
+        "en": "and an optimal period in which they can develop these more precisely.",
+        "vi": "và là giai đoạn tối ưu để phát triển chúng một cách tinh tế hơn.",
+        "zh": "并且更易于发展得更加精细的最佳时期。",
+        "ja": "より精巧に発達しやすい最適な時期だと言えます。"
       }
     },
     {
@@ -581,7 +869,11 @@
       "start": 443.36,
       "end": 446.84,
       "text": {
-        "ko": "영아기 때는 머리가 크고 배가 앞으로 나와 있어서"
+        "ko": "영아기 때는 머리가 크고 배가 앞으로 나와 있어서",
+        "en": "In infancy, the head was big and the belly stuck out in front,",
+        "vi": "Ở giai đoạn sơ sinh, đầu to và bụng nhô ra phía trước,",
+        "zh": "婴儿期时头大、肚子往前凸，",
+        "ja": "乳児期には頭が大きくてお腹が前に出ているので、"
       }
     },
     {
@@ -589,7 +881,11 @@
       "start": 446.84,
       "end": 450.52,
       "text": {
-        "ko": "뒤뚱거리면서 뛰게 돼서 잘 넘어지고 부딪혔지만"
+        "ko": "뒤뚱거리면서 뛰게 돼서 잘 넘어지고 부딪혔지만",
+        "en": "so they ran with a wobble and easily fell and bumped into things, but",
+        "vi": "nên trẻ chạy lạch bạch, dễ ngã và va vào đồ vật, nhưng",
+        "zh": "所以跑起来摇摇晃晃，容易跌倒、容易撞到，但是",
+        "ja": "よちよちと走るのでよく転んだりぶつかったりしていましたが、"
       }
     },
     {
@@ -597,7 +893,11 @@
       "start": 450.52,
       "end": 453.56,
       "text": {
-        "ko": "이 시기부터는 좀 더 신체 균형이 잘 잡히고"
+        "ko": "이 시기부터는 좀 더 신체 균형이 잘 잡히고",
+        "en": "from this period, body balance is held a bit better,",
+        "vi": "từ giai đoạn này, cơ thể giữ thăng bằng tốt hơn một chút,",
+        "zh": "从这个时期开始，身体平衡掌握得更好了，",
+        "ja": "この時期からはもう少し体のバランスが取れるようになり、"
       }
     },
     {
@@ -605,7 +905,11 @@
       "start": 453.56,
       "end": 459.4,
       "text": {
-        "ko": "무게중심이 제대로 서면서 아이들의 활동이 좀 더 정교화되는 거군요."
+        "ko": "무게중심이 제대로 서면서 아이들의 활동이 좀 더 정교화되는 거군요.",
+        "en": "and as the center of gravity is properly established, the children's activities become more refined.",
+        "vi": "và khi trọng tâm được thiết lập đúng cách, hoạt động của trẻ trở nên tinh tế hơn.",
+        "zh": "随着重心稳定下来，孩子们的活动也就变得更加精细了。",
+        "ja": "重心がしっかり定まることで、子どもたちの活動がより精巧になっていくんですね。"
       }
     },
     {
@@ -613,7 +917,11 @@
       "start": 459.4,
       "end": 463.44,
       "text": {
-        "ko": "그러면서 아이들의 활동 범위가 점점 늘어나게 되는데"
+        "ko": "그러면서 아이들의 활동 범위가 점점 늘어나게 되는데",
+        "en": "As that happens, the range of the children's activities gradually expands,",
+        "vi": "Cùng với đó, phạm vi hoạt động của trẻ dần dần được mở rộng,",
+        "zh": "随之，孩子们的活动范围也会逐渐扩大，",
+        "ja": "それに伴って、子どもたちの活動範囲が次第に広がっていくのですが、"
       }
     },
     {
@@ -621,7 +929,11 @@
       "start": 463.44,
       "end": 469.8,
       "text": {
-        "ko": "그때 발달하는 것이 바로 소근육 운동, 즉 미세운동 기술이라고 할 수 있겠습니다."
+        "ko": "그때 발달하는 것이 바로 소근육 운동, 즉 미세운동 기술이라고 할 수 있겠습니다.",
+        "en": "and what develops at that time is precisely the fine motor skills, that is, fine movement skills.",
+        "vi": "và cái phát triển vào lúc đó chính là vận động cơ nhỏ, tức là kỹ năng vận động tinh.",
+        "zh": "那时发展的正是小肌肉运动，也就是精细运动技能。",
+        "ja": "そのとき発達するのがまさに小筋肉運動、つまり微細運動スキルだと言えます。"
       }
     },
     {
@@ -629,7 +941,11 @@
       "start": 469.8,
       "end": 474.28,
       "text": {
-        "ko": "이 소근육 발달도 굉장히 많이 발달하게 되죠?"
+        "ko": "이 소근육 발달도 굉장히 많이 발달하게 되죠?",
+        "en": "This fine motor development also advances a great deal, doesn't it?",
+        "vi": "Sự phát triển cơ nhỏ này cũng phát triển rất nhiều phải không ạ?",
+        "zh": "这小肌肉的发育也会发展得非常多，对吧？",
+        "ja": "この小筋肉の発達もすごく大きく発達するんですよね？"
       }
     },
     {
@@ -637,7 +953,11 @@
       "start": 474.28,
       "end": 475.52,
       "text": {
-        "ko": "네, 그렇습니다."
+        "ko": "네, 그렇습니다.",
+        "en": "Yes, that's right.",
+        "vi": "Vâng, đúng vậy ạ.",
+        "zh": "是的，没错。",
+        "ja": "はい、そうです。"
       }
     },
     {
@@ -645,7 +965,11 @@
       "start": 475.52,
       "end": 478.52,
       "text": {
-        "ko": "소근육도 엄청난 성장을 하게 되는데요."
+        "ko": "소근육도 엄청난 성장을 하게 되는데요.",
+        "en": "The fine motor muscles also undergo tremendous growth.",
+        "vi": "Cơ nhỏ cũng phát triển một cách đáng kinh ngạc.",
+        "zh": "小肌肉也会有巨大的发展。",
+        "ja": "小さな筋肉（小筋）も大きく成長します。"
       }
     },
     {
@@ -653,7 +977,11 @@
       "start": 478.52,
       "end": 483.2,
       "text": {
-        "ko": "손과 손가락 사이에 굉장히 자잘한 근육들이 많거든요."
+        "ko": "손과 손가락 사이에 굉장히 자잘한 근육들이 많거든요.",
+        "en": "There are a lot of very tiny muscles between the hands and fingers.",
+        "vi": "Giữa bàn tay và các ngón tay có rất nhiều cơ nhỏ li ti.",
+        "zh": "在手和手指之间有非常多细小的肌肉。",
+        "ja": "手と指の間には非常に細かな筋肉がたくさんあるんです。"
       }
     },
     {
@@ -661,7 +989,11 @@
       "start": 483.2,
       "end": 485.88,
       "text": {
-        "ko": "이 근육들을 움직일 수 있게 되어서"
+        "ko": "이 근육들을 움직일 수 있게 되어서",
+        "en": "As they become able to move these muscles,",
+        "vi": "Khi trẻ có thể cử động những cơ này,",
+        "zh": "当能够活动这些肌肉之后，",
+        "ja": "これらの筋肉を動かせるようになって、"
       }
     },
     {
@@ -669,7 +1001,11 @@
       "start": 485.88,
       "end": 490.2,
       "text": {
-        "ko": "보다 정교한 움직임을 조절하는 활동들을 할 수 있습니다."
+        "ko": "보다 정교한 움직임을 조절하는 활동들을 할 수 있습니다.",
+        "en": "they can do activities that control more refined movements.",
+        "vi": "trẻ có thể thực hiện những hoạt động điều khiển các cử động tinh tế hơn.",
+        "zh": "就能进行控制更精细动作的活动。",
+        "ja": "より精巧な動きを調節する活動ができるようになります。"
       }
     },
     {
@@ -677,7 +1013,11 @@
       "start": 490.2,
       "end": 494.92,
       "text": {
-        "ko": "이런 정교한 움직임을 하려면 근육만 발달하면 되는 게 아니거든요."
+        "ko": "이런 정교한 움직임을 하려면 근육만 발달하면 되는 게 아니거든요.",
+        "en": "To make such refined movements, it's not just the muscles that need to develop.",
+        "vi": "Để thực hiện những cử động tinh tế này, không phải chỉ cần phát triển cơ là đủ.",
+        "zh": "要做出这种精细的动作，并不是只发展肌肉就够了。",
+        "ja": "こうした精巧な動きをするには、筋肉が発達するだけでは足りないんです。"
       }
     },
     {
@@ -685,7 +1025,11 @@
       "start": 494.92,
       "end": 498.28,
       "text": {
-        "ko": "시각적인 정보 처리가 굉장히 중요합니다."
+        "ko": "시각적인 정보 처리가 굉장히 중요합니다.",
+        "en": "Visual information processing is extremely important.",
+        "vi": "Xử lý thông tin thị giác là vô cùng quan trọng.",
+        "zh": "视觉信息处理非常重要。",
+        "ja": "視覚的な情報処理が非常に重要です。"
       }
     },
     {
@@ -693,7 +1037,11 @@
       "start": 498.28,
       "end": 501.4,
       "text": {
-        "ko": "눈으로 보면서 거리를 가늠하고"
+        "ko": "눈으로 보면서 거리를 가늠하고",
+        "en": "Looking with the eyes to judge distance,",
+        "vi": "Trẻ nhìn bằng mắt để ước lượng khoảng cách,",
+        "zh": "用眼睛看着来判断距离，",
+        "ja": "目で見ながら距離を測り、"
       }
     },
     {
@@ -701,7 +1049,11 @@
       "start": 501.4,
       "end": 505.4,
       "text": {
-        "ko": "또 입체감을 만져보면서 손을 움직여야 하니까요."
+        "ko": "또 입체감을 만져보면서 손을 움직여야 하니까요.",
+        "en": "and also moving the hands while feeling the three-dimensional shape.",
+        "vi": "và còn phải vừa chạm cảm nhận hình khối vừa cử động bàn tay.",
+        "zh": "还要一边触摸感受立体感，一边活动手。",
+        "ja": "また立体感を触りながら手を動かさなければならないからです。"
       }
     },
     {
@@ -709,7 +1061,11 @@
       "start": 505.4,
       "end": 510.44,
       "text": {
-        "ko": "예를 들어서 영아기 때 공을 세게 던지는 것은 할 수 있지만"
+        "ko": "예를 들어서 영아기 때 공을 세게 던지는 것은 할 수 있지만",
+        "en": "For example, in infancy a child can throw a ball hard,",
+        "vi": "Ví dụ, trong giai đoạn sơ sinh trẻ có thể ném bóng mạnh,",
+        "zh": "比如说，在婴儿期能够用力把球扔出去，",
+        "ja": "例えば、乳児期にはボールを強く投げることはできますが、"
       }
     },
     {
@@ -717,7 +1073,11 @@
       "start": 510.44,
       "end": 514.44,
       "text": {
-        "ko": "여러 방향으로 내가 원하는 곳으로 던진다든지"
+        "ko": "여러 방향으로 내가 원하는 곳으로 던진다든지",
+        "en": "but throwing in various directions to where I want,",
+        "vi": "nhưng việc ném theo nhiều hướng đến nơi mình muốn,",
+        "zh": "但是要往多个方向、扔到自己想要的地方，",
+        "ja": "いろいろな方向へ、自分が思った所に投げたり、"
       }
     },
     {
@@ -725,7 +1085,11 @@
       "start": 514.44,
       "end": 519.72,
       "text": {
-        "ko": "저기 멀리 앞에 아니면 아주 살짝만 앞으로 던지는 건 할 수 없어요."
+        "ko": "저기 멀리 앞에 아니면 아주 살짝만 앞으로 던지는 건 할 수 없어요.",
+        "en": "or throwing far ahead, or just slightly forward, they cannot do.",
+        "vi": "hay ném ra xa phía trước hoặc chỉ nhẹ về phía trước thì chưa làm được.",
+        "zh": "扔到远处前方，或者只是轻轻往前扔，就做不到了。",
+        "ja": "遠く前の方へ、あるいはほんの少しだけ前に投げることはできません。"
       }
     },
     {
@@ -733,7 +1097,11 @@
       "start": 519.72,
       "end": 523.72,
       "text": {
-        "ko": "왜냐하면 대근육 운동은 어느 정도 발달을 했겠지만"
+        "ko": "왜냐하면 대근육 운동은 어느 정도 발달을 했겠지만",
+        "en": "That's because, while gross motor skills may have developed to some extent,",
+        "vi": "Bởi vì vận động cơ lớn thì có thể đã phát triển ở mức độ nào đó,",
+        "zh": "因为大肌肉运动可能已经发展到一定程度，",
+        "ja": "なぜなら、大きな筋肉（大筋）の運動はある程度発達していても、"
       }
     },
     {
@@ -741,7 +1109,11 @@
       "start": 523.72,
       "end": 529,
       "text": {
-        "ko": "소근육이나 시각적인 정보 처리는 아직 미숙하기 때문이죠."
+        "ko": "소근육이나 시각적인 정보 처리는 아직 미숙하기 때문이죠.",
+        "en": "the fine motor skills and visual information processing are still immature.",
+        "vi": "nhưng cơ nhỏ và xử lý thông tin thị giác vẫn còn chưa thành thục.",
+        "zh": "但小肌肉和视觉信息处理还不够成熟。",
+        "ja": "小さな筋肉（小筋）や視覚的な情報処理はまだ未熟だからです。"
       }
     },
     {
@@ -749,7 +1121,11 @@
       "start": 529,
       "end": 534.16,
       "text": {
-        "ko": "또 공 던지기 말고도 그림 그리기라든지 가위질과 같이"
+        "ko": "또 공 던지기 말고도 그림 그리기라든지 가위질과 같이",
+        "en": "Also, besides throwing a ball, things like drawing or using scissors,",
+        "vi": "Ngoài việc ném bóng ra, những hoạt động như vẽ tranh hay cắt kéo,",
+        "zh": "另外，除了扔球之外，像画画或者用剪刀这样的，",
+        "ja": "また、ボール投げ以外にも、絵を描いたりハサミを使うといった、"
       }
     },
     {
@@ -757,7 +1133,11 @@
       "start": 534.16,
       "end": 537.6,
       "text": {
-        "ko": "겉으로 보기에는 굉장히 간단해 보이는 행동들 역시"
+        "ko": "겉으로 보기에는 굉장히 간단해 보이는 행동들 역시",
+        "en": "actions that on the surface look very simple,",
+        "vi": "những hành động nhìn bề ngoài có vẻ rất đơn giản,",
+        "zh": "表面看起来非常简单的行为，",
+        "ja": "見た目には非常に簡単に見える行動も、"
       }
     },
     {
@@ -765,7 +1145,11 @@
       "start": 537.6,
       "end": 542.32,
       "text": {
-        "ko": "눈과 손의 협응, 그리고 근육 조정이 굉장히 많이 필요합니다."
+        "ko": "눈과 손의 협응, 그리고 근육 조정이 굉장히 많이 필요합니다.",
+        "en": "actually require a great deal of eye-hand coordination and muscle control.",
+        "vi": "thực ra cần rất nhiều sự phối hợp giữa mắt và tay, cùng với việc điều chỉnh cơ.",
+        "zh": "其实都非常需要眼手协调以及肌肉的调控。",
+        "ja": "目と手の協応、そして筋肉の調整が非常に多く必要なんです。"
       }
     },
     {
@@ -773,7 +1157,11 @@
       "start": 542.32,
       "end": 547.08,
       "text": {
-        "ko": "그런데 이것이 이 시기 때 비로소 잘 발달될 수 있다는 거죠."
+        "ko": "그런데 이것이 이 시기 때 비로소 잘 발달될 수 있다는 거죠.",
+        "en": "And it's during this period that these can finally develop well.",
+        "vi": "Và chính trong giai đoạn này những khả năng đó mới có thể phát triển tốt.",
+        "zh": "而这些正是在这个时期才能得到良好的发展。",
+        "ja": "そして、これがこの時期になってようやくよく発達できるということです。"
       }
     },
     {
@@ -781,7 +1169,11 @@
       "start": 547.08,
       "end": 551.6,
       "text": {
-        "ko": "아이들이 몇 개월, 단 몇 년 사이에 이렇게 성장하는 것을 보면"
+        "ko": "아이들이 몇 개월, 단 몇 년 사이에 이렇게 성장하는 것을 보면",
+        "en": "When you see children grow like this in just a few months or a few years,",
+        "vi": "Khi nhìn thấy trẻ phát triển như vậy chỉ trong vài tháng, vài năm,",
+        "zh": "看到孩子们在短短几个月、几年间就这样成长，",
+        "ja": "子どもたちが数か月、わずか数年の間にこれほど成長するのを見ると、"
       }
     },
     {
@@ -789,7 +1181,11 @@
       "start": 551.6,
       "end": 553.84,
       "text": {
-        "ko": "굉장히 놀라울 때가 많습니다."
+        "ko": "굉장히 놀라울 때가 많습니다.",
+        "en": "it is often truly amazing.",
+        "vi": "nhiều lúc thật sự rất kinh ngạc.",
+        "zh": "常常会感到非常惊讶。",
+        "ja": "とても驚かされることが多いです。"
       }
     },
     {
@@ -797,7 +1193,11 @@
       "start": 553.84,
       "end": 558.56,
       "text": {
-        "ko": "2에서 6세 사이의 아이들의 발달을 봐도 정말 놀라울 때가 많은데요."
+        "ko": "2에서 6세 사이의 아이들의 발달을 봐도 정말 놀라울 때가 많은데요.",
+        "en": "Looking at the development of children between ages 2 and 6, there are truly many amazing moments.",
+        "vi": "Quan sát sự phát triển của trẻ từ 2 đến 6 tuổi, cũng có rất nhiều lúc thật đáng kinh ngạc.",
+        "zh": "看一看2到6岁孩子的发育，也常常令人非常惊叹。",
+        "ja": "2歳から6歳の子どもたちの発達を見ても、本当に驚くことが多いんです。"
       }
     },
     {
@@ -805,7 +1205,11 @@
       "start": 558.56,
       "end": 561.16,
       "text": {
-        "ko": "그래서 4살 아이들이 할 수 있는 운동과"
+        "ko": "그래서 4살 아이들이 할 수 있는 운동과",
+        "en": "So the exercises that 4-year-olds can do",
+        "vi": "Vì vậy, những vận động mà trẻ 4 tuổi có thể làm",
+        "zh": "所以4岁孩子能做的运动",
+        "ja": "なので、4歳の子どもができる運動と"
       }
     },
     {
@@ -813,7 +1217,11 @@
       "start": 561.16,
       "end": 565.6,
       "text": {
-        "ko": "6살 아이들이 할 수 있는 운동이 정말 큰 차이가 있는 거죠."
+        "ko": "6살 아이들이 할 수 있는 운동이 정말 큰 차이가 있는 거죠.",
+        "en": "and the exercises that 6-year-olds can do are really quite different.",
+        "vi": "và những vận động mà trẻ 6 tuổi có thể làm thực sự có sự khác biệt rất lớn.",
+        "zh": "和6岁孩子能做的运动确实有很大的差别。",
+        "ja": "6歳の子どもができる運動には本当に大きな違いがあるんですね。"
       }
     },
     {
@@ -821,7 +1229,11 @@
       "start": 565.6,
       "end": 566.6,
       "text": {
-        "ko": "네, 맞습니다."
+        "ko": "네, 맞습니다.",
+        "en": "Yes, that's right.",
+        "vi": "Vâng, đúng vậy.",
+        "zh": "是的，没错。",
+        "ja": "はい、そうです。"
       }
     },
     {
@@ -829,7 +1241,11 @@
       "start": 566.6,
       "end": 572.52,
       "text": {
-        "ko": "괜히 어린이집, 유치원에서 연령별로 반이 나눠져 있는 게 아니에요."
+        "ko": "괜히 어린이집, 유치원에서 연령별로 반이 나눠져 있는 게 아니에요.",
+        "en": "It's not for nothing that daycare centers and kindergartens divide classes by age.",
+        "vi": "Không phải tự nhiên mà ở nhà trẻ, trường mẫu giáo lại chia lớp theo độ tuổi.",
+        "zh": "托儿所、幼儿园按年龄分班不是没有道理的。",
+        "ja": "保育園や幼稚園で年齢別にクラスが分かれているのには理由があるんです。"
       }
     },
     {
@@ -837,7 +1253,11 @@
       "start": 572.52,
       "end": 577.36,
       "text": {
-        "ko": "조금 더 구체적으로 예를 들어서 설명을 해볼게요."
+        "ko": "조금 더 구체적으로 예를 들어서 설명을 해볼게요.",
+        "en": "Let me explain a bit more specifically with an example.",
+        "vi": "Tôi sẽ giải thích cụ thể hơn bằng một ví dụ.",
+        "zh": "我用一个例子更具体地说明一下。",
+        "ja": "もう少し具体的に例を挙げて説明してみますね。"
       }
     },
     {
@@ -845,7 +1265,11 @@
       "start": 577.36,
       "end": 580.04,
       "text": {
-        "ko": "먼저 대근육 운동 같은 경우에는"
+        "ko": "먼저 대근육 운동 같은 경우에는",
+        "en": "First, in the case of gross motor movements,",
+        "vi": "Trước tiên, đối với vận động cơ lớn,",
+        "zh": "首先，就大肌肉运动而言，",
+        "ja": "まず、大筋肉運動の場合は、"
       }
     },
     {
@@ -853,7 +1277,11 @@
       "start": 580.04,
       "end": 586.6,
       "text": {
-        "ko": "3세대에는 아무것도 붙잡지 않고 한 발로 3초 정도 서 있을 수 있어요."
+        "ko": "3세에는 아무것도 붙잡지 않고 한 발로 3초 정도 서 있을 수 있어요.",
+        "en": "at age 3, they can stand on one foot for about 3 seconds without holding onto anything.",
+        "vi": "ở tuổi lên 3, trẻ có thể đứng một chân khoảng 3 giây mà không cần bám vào gì.",
+        "zh": "3岁时，孩子可以不扶任何东西，单脚站立大约3秒。",
+        "ja": "3歳では何にもつかまらずに片足で3秒くらい立っていられます。"
       }
     },
     {
@@ -861,7 +1289,11 @@
       "start": 586.6,
       "end": 592.56,
       "text": {
-        "ko": "4세대가 되면 한 발로 2, 3발자국 정도 뛸 수 있고요."
+        "ko": "4세가 되면 한 발로 2, 3발자국 정도 뛸 수 있고요.",
+        "en": "At age 4, they can hop about 2 or 3 steps on one foot.",
+        "vi": "Đến 4 tuổi, trẻ có thể nhảy lò cò bằng một chân khoảng 2, 3 bước.",
+        "zh": "到了4岁，可以单脚跳2、3步。",
+        "ja": "4歳になると片足で2、3歩くらい跳べます。"
       }
     },
     {
@@ -869,7 +1301,11 @@
       "start": 592.56,
       "end": 600.24,
       "text": {
-        "ko": "5살, 5세대는 깨근발로 좌우로 한 발씩 번갈아서 뛸 수 있게 됩니다."
+        "ko": "5살, 5세는 깨금발로 좌우로 한 발씩 번갈아서 뛸 수 있게 됩니다.",
+        "en": "At age 5, they become able to hop alternating one foot to the left and right.",
+        "vi": "Đến 5 tuổi, trẻ có thể nhảy lò cò luân phiên từng chân sang trái và phải.",
+        "zh": "5岁的孩子能够用单脚左右交替地跳。",
+        "ja": "5歳になると片足跳びで左右に一歩ずつ交互に跳べるようになります。"
       }
     },
     {
@@ -877,7 +1313,11 @@
       "start": 600.24,
       "end": 605.28,
       "text": {
-        "ko": "이렇게 연령대마다 할 수 있는 대근육 운동의 범위가 다르기 때문에"
+        "ko": "이렇게 연령대마다 할 수 있는 대근육 운동의 범위가 다르기 때문에",
+        "en": "Since the range of gross motor movements they can do differs by age group like this,",
+        "vi": "Vì phạm vi vận động cơ lớn mà trẻ có thể làm khác nhau theo từng độ tuổi như vậy,",
+        "zh": "因为每个年龄段能做的大肌肉运动范围都不同，",
+        "ja": "このように年齢ごとにできる大筋肉運動の範囲が違うので、"
       }
     },
     {
@@ -885,7 +1325,11 @@
       "start": 605.28,
       "end": 607.84,
       "text": {
-        "ko": "같은 놀이를 해도 좀 다르겠죠."
+        "ko": "같은 놀이를 해도 좀 다르겠죠.",
+        "en": "even playing the same game would be a bit different.",
+        "vi": "dù chơi cùng một trò chơi cũng sẽ có chút khác biệt.",
+        "zh": "即使玩同样的游戏也会有所不同。",
+        "ja": "同じ遊びをしても少し違ってきますよね。"
       }
     },
     {
@@ -893,7 +1337,11 @@
       "start": 607.84,
       "end": 613.4,
       "text": {
-        "ko": "예를 들어서 공놀이를 하더라도 연령별로 달라질 수 있겠습니다."
+        "ko": "예를 들어서 공놀이를 하더라도 연령별로 달라질 수 있겠습니다.",
+        "en": "For example, even when playing with a ball, it can vary by age.",
+        "vi": "Ví dụ, ngay cả khi chơi bóng, nó cũng có thể khác nhau theo độ tuổi.",
+        "zh": "比如说，即使是玩球，也会因年龄而异。",
+        "ja": "例えば、ボール遊びをするにしても年齢によって変わってきます。"
       }
     },
     {
@@ -901,7 +1349,11 @@
       "start": 613.4,
       "end": 617.28,
       "text": {
-        "ko": "3세대는 서 있는 자세에서 서 있는 공을"
+        "ko": "3세는 서 있는 자세에서 서 있는 공을",
+        "en": "A 3-year-old, while standing, can kick a stationary ball",
+        "vi": "Trẻ 3 tuổi, ở tư thế đứng, có thể đá quả bóng đang đứng yên",
+        "zh": "3岁孩子在站立姿势下，能把静止的球",
+        "ja": "3歳は立った姿勢で、止まっているボールを"
       }
     },
     {
@@ -909,7 +1361,11 @@
       "start": 617.28,
       "end": 621.04,
       "text": {
-        "ko": "발로 한 번 찰 수 있는 정도까지만 할 수 있어요."
+        "ko": "발로 한 번 찰 수 있는 정도까지만 할 수 있어요.",
+        "en": "with their foot just once, that's about as far as they can go.",
+        "vi": "bằng chân một lần, chỉ làm được đến mức đó thôi.",
+        "zh": "用脚踢一下，只能做到这个程度。",
+        "ja": "足で一回蹴れる程度までしかできません。"
       }
     },
     {
@@ -917,7 +1373,11 @@
       "start": 621.04,
       "end": 626.08,
       "text": {
-        "ko": "그리고 4세대가 되면 굴러오는 공을 발로 세우고"
+        "ko": "그리고 4세가 되면 굴러오는 공을 발로 세우고",
+        "en": "And at age 4, they can stop a rolling ball with their foot",
+        "vi": "Và đến 4 tuổi, trẻ có thể dùng chân dừng quả bóng đang lăn tới",
+        "zh": "到了4岁，能用脚把滚过来的球停住，",
+        "ja": "そして4歳になると、転がってくるボールを足で止めて、"
       }
     },
     {
@@ -925,7 +1385,11 @@
       "start": 626.08,
       "end": 628.6,
       "text": {
-        "ko": "그다음에 발로 찰 수 있겠죠."
+        "ko": "그다음에 발로 찰 수 있겠죠.",
+        "en": "and then kick it with their foot.",
+        "vi": "rồi sau đó đá bóng bằng chân.",
+        "zh": "然后再用脚踢出去。",
+        "ja": "その後に足で蹴ることができます。"
       }
     },
     {
@@ -933,7 +1397,11 @@
       "start": 628.6,
       "end": 632.12,
       "text": {
-        "ko": "그리고 5세가 되어야 굴러오는 공을"
+        "ko": "그리고 5세가 되어야 굴러오는 공을",
+        "en": "And it's only at age 5 that, while moving,",
+        "vi": "Và phải đến 5 tuổi thì trẻ mới có thể vừa di chuyển",
+        "zh": "而要到5岁，孩子才能一边移动",
+        "ja": "そして5歳になってようやく、転がってくるボールを"
       }
     },
     {
@@ -941,7 +1409,11 @@
       "start": 632.12,
       "end": 636.6,
       "text": {
-        "ko": "아이가 움직이면서 동시에 발로 찰 수 있게 되는 겁니다."
+        "ko": "아이가 움직이면서 동시에 발로 찰 수 있게 되는 겁니다.",
+        "en": "the child becomes able to kick the rolling ball with their foot at the same time.",
+        "vi": "vừa đá quả bóng đang lăn tới bằng chân cùng một lúc.",
+        "zh": "一边同时用脚踢滚过来的球。",
+        "ja": "子どもが動きながら同時に足で蹴れるようになるんです。"
       }
     },
     {
@@ -949,7 +1421,11 @@
       "start": 636.6,
       "end": 641.28,
       "text": {
-        "ko": "그러면 축구 경기와 같은 신체 운동을 아이들이 제대로 즐기려면"
+        "ko": "그러면 축구 경기와 같은 신체 운동을 아이들이 제대로 즐기려면",
+        "en": "So, for children to properly enjoy physical activities like a soccer game,",
+        "vi": "Vậy thì, để trẻ có thể thực sự tận hưởng các vận động thể chất như trận đá bóng,",
+        "zh": "那么，要让孩子真正享受像足球比赛这样的身体运动，",
+        "ja": "では、サッカーの試合のような身体運動を子どもがきちんと楽しむには、"
       }
     },
     {
@@ -957,7 +1433,11 @@
       "start": 641.28,
       "end": 644.48,
       "text": {
-        "ko": "5세 정도는 되어야 한다는 말씀이시네요."
+        "ko": "5세 정도는 되어야 한다는 말씀이시네요.",
+        "en": "you're saying they need to be about 5 years old.",
+        "vi": "ý ông là trẻ cần phải khoảng 5 tuổi.",
+        "zh": "您是说要到5岁左右才行。",
+        "ja": "5歳くらいにはならないといけないということですね。"
       }
     },
     {
@@ -965,7 +1445,11 @@
       "start": 644.48,
       "end": 647.6,
       "text": {
-        "ko": "그리고 그전에는 난이도를 조절해가면서"
+        "ko": "그리고 그전에는 난이도를 조절해가면서",
+        "en": "And before that, while adjusting the difficulty level,",
+        "vi": "Và trước đó, hãy điều chỉnh độ khó dần dần,",
+        "zh": "而在那之前，要一边调节难度，",
+        "ja": "そしてその前には、難易度を調節しながら"
       }
     },
     {
@@ -973,7 +1457,11 @@
       "start": 647.6,
       "end": 652.4,
       "text": {
-        "ko": "조금씩 단계별로 운동 범위를 넓혀주시는 것이 좋겠습니다."
+        "ko": "조금씩 단계별로 운동 범위를 넓혀주시는 것이 좋겠습니다.",
+        "en": "it would be good to gradually expand the range of movement step by step.",
+        "vi": "từng bước mở rộng phạm vi vận động một cách dần dần thì sẽ tốt hơn.",
+        "zh": "一点一点地、分阶段地拓宽运动范围会比较好。",
+        "ja": "少しずつ段階的に運動の範囲を広げてあげるのが良いでしょう。"
       }
     },
     {
@@ -981,7 +1469,11 @@
       "start": 652.4,
       "end": 654.76,
       "text": {
-        "ko": "소근육 발달에도 마찬가지죠."
+        "ko": "소근육 발달에도 마찬가지죠.",
+        "en": "The same goes for fine motor skill development.",
+        "vi": "Sự phát triển vận động tinh cũng vậy nhỉ.",
+        "zh": "小肌肉运动的发展也是一样的吧。",
+        "ja": "微細運動（小筋肉）の発達も同じですよね。"
       }
     },
     {
@@ -989,7 +1481,11 @@
       "start": 654.76,
       "end": 656.24,
       "text": {
-        "ko": "네, 맞습니다."
+        "ko": "네, 맞습니다.",
+        "en": "Yes, that's right.",
+        "vi": "Vâng, đúng vậy.",
+        "zh": "是的，没错。",
+        "ja": "はい、そうです。"
       }
     },
     {
@@ -997,7 +1493,11 @@
       "start": 656.24,
       "end": 660.6,
       "text": {
-        "ko": "3세대는 원을 보여주면 그릴 수 있는 정도고요."
+        "ko": "3세대는 원을 보여주면 그릴 수 있는 정도고요.",
+        "en": "At age three, they can draw a circle if you show them one.",
+        "vi": "Ở tuổi lên ba, nếu cho xem hình tròn thì trẻ có thể vẽ được.",
+        "zh": "三岁的孩子，给他看圆形就能画出来的程度。",
+        "ja": "3歳児は円を見せれば描ける程度です。"
       }
     },
     {
@@ -1005,7 +1505,11 @@
       "start": 660.6,
       "end": 665.16,
       "text": {
-        "ko": "가위질도 직선을 따라서 오르는 것까지 할 수 있어요."
+        "ko": "가위질도 직선을 따라서 오리는 것까지 할 수 있어요.",
+        "en": "With scissors, they can also cut along a straight line.",
+        "vi": "Việc dùng kéo thì trẻ cũng có thể cắt theo đường thẳng.",
+        "zh": "用剪刀也能沿着直线剪下来。",
+        "ja": "はさみも直線に沿って切ることまでできます。"
       }
     },
     {
@@ -1013,7 +1517,11 @@
       "start": 665.16,
       "end": 670.8,
       "text": {
-        "ko": "4세가 되면 조금 더 그리기 어려운 네모를 따라서 그릴 수 있게 되고요."
+        "ko": "4세가 되면 조금 더 그리기 어려운 네모를 따라서 그릴 수 있게 되고요.",
+        "en": "At age four, they can draw a square, which is a bit harder, by tracing it.",
+        "vi": "Đến tuổi lên bốn, trẻ có thể vẽ theo hình vuông, vốn khó vẽ hơn một chút.",
+        "zh": "到了四岁，就能照着稍微难画一点的方形画出来。",
+        "ja": "4歳になると、少し描くのが難しい四角を写して描けるようになります。"
       }
     },
     {
@@ -1021,7 +1529,11 @@
       "start": 670.8,
       "end": 676.68,
       "text": {
-        "ko": "가위질도 스스로 방향을 틀어서 네모나게 오를 수 있게 됩니다."
+        "ko": "가위질도 스스로 방향을 틀어서 네모나게 오릴 수 있게 됩니다.",
+        "en": "They can also turn the scissors on their own to cut out a square shape.",
+        "vi": "Việc dùng kéo cũng vậy, trẻ có thể tự đổi hướng để cắt thành hình vuông.",
+        "zh": "用剪刀也能自己转换方向，剪出方形。",
+        "ja": "はさみも自分で方向を変えて四角く切れるようになります。"
       }
     },
     {
@@ -1029,7 +1541,11 @@
       "start": 676.68,
       "end": 684.52,
       "text": {
-        "ko": "5세가 되어야 비로소 얼굴, 집, 나무, 동물과 같이 형상화된 사물을 그리고"
+        "ko": "5세가 되어야 비로소 얼굴, 집, 나무, 동물과 같이 형상화된 사물을 그리고",
+        "en": "It's only at age five that they finally draw recognizable objects like faces, houses, trees, and animals,",
+        "vi": "Phải đến tuổi lên năm trẻ mới có thể vẽ các vật thể có hình dạng rõ ràng như mặt người, ngôi nhà, cây, con vật,",
+        "zh": "要到五岁，孩子才终于能画出像脸、房子、树、动物这样具体成形的事物，",
+        "ja": "5歳になって初めて、顔・家・木・動物のように形を成した物を描き、"
       }
     },
     {
@@ -1037,7 +1553,11 @@
       "start": 684.52,
       "end": 689.24,
       "text": {
-        "ko": "또 종이를 오릴 때도 이 동그라미를 오르는 게 가장 어렵잖아요."
+        "ko": "또 종이를 오릴 때도 이 동그라미를 오리는 게 가장 어렵잖아요.",
+        "en": "and also when cutting paper, cutting out a circle is the hardest, right?",
+        "vi": "và khi cắt giấy thì cắt hình tròn là khó nhất đúng không.",
+        "zh": "而且在剪纸的时候，剪这个圆圈是最难的，对吧。",
+        "ja": "また紙を切るときも、この丸を切るのが一番難しいですよね。"
       }
     },
     {
@@ -1045,7 +1565,11 @@
       "start": 689.24,
       "end": 693.2,
       "text": {
-        "ko": "이 원을 따라서 가위질이 가능하게 됩니다."
+        "ko": "이 원을 따라서 가위질이 가능하게 됩니다.",
+        "en": "They become able to cut along this circle with scissors.",
+        "vi": "Trẻ có thể dùng kéo cắt theo đường tròn này.",
+        "zh": "能够沿着这个圆圈用剪刀剪下来了。",
+        "ja": "この円に沿ってはさみで切ることができるようになります。"
       }
     },
     {
@@ -1053,7 +1577,11 @@
       "start": 693.2,
       "end": 695.44,
       "text": {
-        "ko": "이렇게 나눠서 설명을 들어보니까"
+        "ko": "이렇게 나눠서 설명을 들어보니까",
+        "en": "Hearing it explained broken down like this,",
+        "vi": "Nghe giải thích phân chia rõ ràng như thế này,",
+        "zh": "这样分开来听解释之后，",
+        "ja": "こうして分けて説明を聞いてみると、"
       }
     },
     {
@@ -1061,7 +1589,11 @@
       "start": 695.44,
       "end": 699.72,
       "text": {
-        "ko": "5살 아이가 3살 동생과 왜 그렇게 놀이하기 싫어하는지"
+        "ko": "5살 아이가 3살 동생과 왜 그렇게 놀이하기 싫어하는지",
+        "en": "why a five-year-old child dislikes playing with a three-year-old sibling so much",
+        "vi": "vì sao đứa trẻ 5 tuổi lại không thích chơi với em 3 tuổi đến vậy",
+        "zh": "五岁的孩子为什么那么不愿意和三岁的弟弟妹妹一起玩，",
+        "ja": "5歳の子がなぜ3歳の弟妹とそんなに遊びたがらないのか、"
       }
     },
     {
@@ -1069,7 +1601,11 @@
       "start": 699.72,
       "end": 702.12,
       "text": {
-        "ko": "단번에 이해가 되는 것 같습니다."
+        "ko": "단번에 이해가 되는 것 같습니다.",
+        "en": "I think I can understand it right away.",
+        "vi": "có vẻ tôi hiểu ngay lập tức.",
+        "zh": "好像一下子就能理解了。",
+        "ja": "一度に理解できる気がします。"
       }
     },
     {
@@ -1077,7 +1613,11 @@
       "start": 702.12,
       "end": 704.84,
       "text": {
-        "ko": "그래서 놀이를 할 때 우리 아이들의 발달 단계를"
+        "ko": "그래서 놀이를 할 때 우리 아이들의 발달 단계를",
+        "en": "So when playing, understanding our children's developmental stages",
+        "vi": "Vì vậy, khi chơi, việc hiểu rõ giai đoạn phát triển của con",
+        "zh": "所以在玩耍的时候，好好理解我们孩子的发展阶段",
+        "ja": "なので遊ぶときに、子どもたちの発達段階を"
       }
     },
     {
@@ -1085,7 +1625,11 @@
       "start": 704.84,
       "end": 708.28,
       "text": {
-        "ko": "잘 이해하시는 것이 정말 중요할 것 같습니다."
+        "ko": "잘 이해하시는 것이 정말 중요할 것 같습니다.",
+        "en": "seems to be really important.",
+        "vi": "có vẻ là điều thực sự quan trọng.",
+        "zh": "看来真的非常重要。",
+        "ja": "よく理解することが本当に重要だと思います。"
       }
     },
     {
@@ -1093,7 +1637,11 @@
       "start": 708.28,
       "end": 712.04,
       "text": {
-        "ko": "네, 그러면 선생님 2세에서 6세 시기 아이들의"
+        "ko": "네, 그러면 선생님 2세에서 6세 시기 아이들의",
+        "en": "Yes, then, Doctor, for children aged two to six,",
+        "vi": "Vâng, vậy thì thưa bác sĩ, đối với trẻ trong độ tuổi từ 2 đến 6,",
+        "zh": "是的，那么医生，对于2岁到6岁时期的孩子，",
+        "ja": "はい、それでは先生、2歳から6歳の時期の子どもたちの"
       }
     },
     {
@@ -1101,7 +1649,11 @@
       "start": 712.04,
       "end": 716.08,
       "text": {
-        "ko": "신체 운동 놀이 시간은 어느 정도가 적당할까요?"
+        "ko": "신체 운동 놀이 시간은 어느 정도가 적당할까요?",
+        "en": "how much physical exercise and play time would be appropriate?",
+        "vi": "thời gian vận động và vui chơi thể chất bao nhiêu là phù hợp ạ?",
+        "zh": "身体运动游戏的时间大概多少比较合适呢？",
+        "ja": "身体運動の遊び時間はどのくらいが適切でしょうか？"
       }
     },
     {
@@ -1109,7 +1661,11 @@
       "start": 716.08,
       "end": 722.4,
       "text": {
-        "ko": "WHO에서 제시한 권장 신체 활동 및 강도를 기준으로 말씀드리면"
+        "ko": "WHO에서 제시한 권장 신체 활동 및 강도를 기준으로 말씀드리면",
+        "en": "Based on the recommended physical activity and intensity proposed by the WHO,",
+        "vi": "Nếu nói dựa trên hoạt động thể chất và cường độ được WHO khuyến nghị,",
+        "zh": "以WHO提出的推荐身体活动及强度为标准来说的话，",
+        "ja": "WHOが提示した推奨身体活動および強度を基準に申し上げると、"
       }
     },
     {
@@ -1117,7 +1673,11 @@
       "start": 722.4,
       "end": 727.08,
       "text": {
-        "ko": "중등도에서 격렬한 강도의 유산소 운동을 중심으로"
+        "ko": "중등도에서 격렬한 강도의 유산소 운동을 중심으로",
+        "en": "centering on aerobic exercise of moderate to vigorous intensity,",
+        "vi": "lấy bài tập aerobic với cường độ từ trung bình đến mạnh làm trọng tâm,",
+        "zh": "以中等到剧烈强度的有氧运动为中心，",
+        "ja": "中等度から激しい強度の有酸素運動を中心に、"
       }
     },
     {
@@ -1125,7 +1685,11 @@
       "start": 727.08,
       "end": 732.84,
       "text": {
-        "ko": "신체 운동을 일주일에 하루 평균 60분 이상 해야 합니다."
+        "ko": "신체 운동을 일주일에 하루 평균 60분 이상 해야 합니다.",
+        "en": "Children should do at least 60 minutes of physical exercise per day on average each week.",
+        "vi": "Trẻ cần vận động thể chất trung bình ít nhất 60 phút mỗi ngày trong tuần.",
+        "zh": "每周平均每天应进行至少60分钟的身体运动。",
+        "ja": "身体運動を1週間に1日平均60分以上行わなければなりません。"
       }
     },
     {
@@ -1133,7 +1697,11 @@
       "start": 732.84,
       "end": 735.96,
       "text": {
-        "ko": "격렬한 강도의 유산소 활동뿐만 아니라"
+        "ko": "격렬한 강도의 유산소 활동뿐만 아니라",
+        "en": "Not only vigorous-intensity aerobic activity,",
+        "vi": "Không chỉ hoạt động hiếu khí cường độ mạnh,",
+        "zh": "不仅是高强度的有氧活动,",
+        "ja": "激しい強度の有酸素活動だけでなく、"
       }
     },
     {
@@ -1141,7 +1709,11 @@
       "start": 735.96,
       "end": 742.04,
       "text": {
-        "ko": "근육과 뼈를 강화할 수 있는 활동을 일주일에 3일 이상 병행해야 합니다."
+        "ko": "근육과 뼈를 강화할 수 있는 활동을 일주일에 3일 이상 병행해야 합니다.",
+        "en": "activities that strengthen muscles and bones should also be done together at least three days a week.",
+        "vi": "mà còn phải kết hợp các hoạt động giúp tăng cường cơ và xương ít nhất 3 ngày mỗi tuần.",
+        "zh": "还要每周至少三天结合进行能强化肌肉和骨骼的活动。",
+        "ja": "筋肉と骨を強化できる活動を1週間に3日以上併行しなければなりません。"
       }
     },
     {
@@ -1149,7 +1721,11 @@
       "start": 742.04,
       "end": 747.6,
       "text": {
-        "ko": "전자 미디어 사용 시간, 스크린 타임을 제한할 수 있도록 신경 써야 합니다."
+        "ko": "전자 미디어 사용 시간, 스크린 타임을 제한할 수 있도록 신경 써야 합니다.",
+        "en": "You should be mindful of limiting electronic media use, that is, screen time.",
+        "vi": "Cần chú ý hạn chế thời gian sử dụng phương tiện điện tử, tức là thời gian dùng màn hình.",
+        "zh": "要注意限制电子媒体使用时间,也就是屏幕时间。",
+        "ja": "電子メディアの使用時間、スクリーンタイムを制限できるよう気をつけなければなりません。"
       }
     },
     {
@@ -1157,7 +1733,11 @@
       "start": 747.6,
       "end": 750.84,
       "text": {
-        "ko": "그래서 2시기 같은 경우에는"
+        "ko": "그래서 이 시기 같은 경우에는",
+        "en": "So, in the case of this stage,",
+        "vi": "Vì vậy, đối với giai đoạn này,",
+        "zh": "所以在这个时期的话,",
+        "ja": "ですから、この時期の場合には、"
       }
     },
     {
@@ -1165,7 +1745,11 @@
       "start": 750.84,
       "end": 754.68,
       "text": {
-        "ko": "주중에는 보통 스크린 타임을 1시간 미만"
+        "ko": "주중에는 보통 스크린 타임을 1시간 미만,",
+        "en": "on weekdays, screen time should usually be limited to less than one hour,",
+        "vi": "vào các ngày trong tuần thường nên giới hạn thời gian dùng màn hình dưới 1 giờ,",
+        "zh": "工作日通常应将屏幕时间限制在1小时以内,",
+        "ja": "平日は普通スクリーンタイムを1時間未満、"
       }
     },
     {
@@ -1173,7 +1757,11 @@
       "start": 754.68,
       "end": 759.12,
       "text": {
-        "ko": "그리고 주말에도 3시간 미만으로 제한을 해주셔서"
+        "ko": "그리고 주말에도 3시간 미만으로 제한을 해주셔서",
+        "en": "and on weekends as well, limit it to less than three hours,",
+        "vi": "và cả cuối tuần cũng nên giới hạn dưới 3 giờ,",
+        "zh": "周末也应限制在3小时以内,",
+        "ja": "そして週末も3時間未満に制限していただいて、"
       }
     },
     {
@@ -1181,7 +1769,11 @@
       "start": 759.12,
       "end": 764.64,
       "text": {
-        "ko": "그리고 신체 활동 시간을 늘리는 것을 신경 써주셔야 하겠습니다."
+        "ko": "그리고 신체 활동 시간을 늘리는 것을 신경 써주셔야 하겠습니다.",
+        "en": "and you should be mindful of increasing physical activity time.",
+        "vi": "và nên chú ý tăng thời gian hoạt động thể chất.",
+        "zh": "并且要注意增加身体活动的时间。",
+        "ja": "そして身体活動の時間を増やすことに気をつけていただかなければなりません。"
       }
     },
     {
@@ -1189,7 +1781,11 @@
       "start": 764.64,
       "end": 771.8,
       "text": {
-        "ko": "우리 아이들에게는 60분이라는 시간이 금방 쏜살같이 지나갈 수 있을 것 같습니다."
+        "ko": "우리 아이들에게는 60분이라는 시간이 금방 쏜살같이 지나갈 수 있을 것 같습니다.",
+        "en": "For our children, 60 minutes can fly by in an instant.",
+        "vi": "Đối với trẻ, 60 phút có thể trôi qua nhanh như tên bắn.",
+        "zh": "对孩子们来说,60分钟可能转眼就飞快地过去了。",
+        "ja": "子どもたちにとっては60分という時間はあっという間に過ぎてしまうかもしれません。"
       }
     },
     {
@@ -1197,7 +1793,11 @@
       "start": 771.8,
       "end": 775.64,
       "text": {
-        "ko": "중등도에서 격렬한 강도의 운동이라고 하셨는데"
+        "ko": "중등도에서 격렬한 강도의 운동이라고 하셨는데",
+        "en": "You mentioned moderate to vigorous-intensity exercise,",
+        "vi": "Bạn đã nói về vận động cường độ vừa đến mạnh,",
+        "zh": "您说的是中等到剧烈强度的运动,",
+        "ja": "中等度から激しい強度の運動とおっしゃいましたが、"
       }
     },
     {
@@ -1205,7 +1805,11 @@
       "start": 775.64,
       "end": 778.08,
       "text": {
-        "ko": "이게 좀 감이 잘 안 오거든요."
+        "ko": "이게 좀 감이 잘 안 오거든요.",
+        "en": "but it's a bit hard to get a sense of that.",
+        "vi": "nhưng điều này hơi khó hình dung.",
+        "zh": "这个有点不太好把握。",
+        "ja": "これがちょっとピンとこないんですよね。"
       }
     },
     {
@@ -1213,7 +1817,11 @@
       "start": 778.08,
       "end": 782.4,
       "text": {
-        "ko": "이게 어느 정도의 운동인지 궁금해하시는 분들이 많으실 것 같습니다."
+        "ko": "이게 어느 정도의 운동인지 궁금해하시는 분들이 많으실 것 같습니다.",
+        "en": "I think many people are curious about what level of exercise this is.",
+        "vi": "Tôi nghĩ có nhiều người thắc mắc đây là mức độ vận động như thế nào.",
+        "zh": "我想很多人会好奇这是什么程度的运动。",
+        "ja": "これがどの程度の運動なのか気になる方が多いと思います。"
       }
     },
     {
@@ -1221,7 +1829,11 @@
       "start": 782.4,
       "end": 787.24,
       "text": {
-        "ko": "운동을 하게 되면 심장 박동수, 호흡수가 어떻게 되죠?"
+        "ko": "운동을 하게 되면 심장 박동수, 호흡수가 어떻게 되죠?",
+        "en": "When you exercise, what happens to your heart rate and breathing rate?",
+        "vi": "Khi vận động, nhịp tim và nhịp thở sẽ thế nào?",
+        "zh": "运动时,心率和呼吸频率会怎么样呢?",
+        "ja": "運動をすると、心拍数や呼吸数はどうなりますか?"
       }
     },
     {
@@ -1229,7 +1841,11 @@
       "start": 787.24,
       "end": 788.44,
       "text": {
-        "ko": "빨라지게 되죠."
+        "ko": "빨라지게 되죠.",
+        "en": "They speed up.",
+        "vi": "Chúng sẽ nhanh hơn.",
+        "zh": "会加快。",
+        "ja": "速くなりますよね。"
       }
     },
     {
@@ -1237,7 +1853,11 @@
       "start": 788.44,
       "end": 793.32,
       "text": {
-        "ko": "그러면 말을 하거나 밥을 먹거나 이런 것도 어렵게 되겠죠."
+        "ko": "그러면 말을 하거나 밥을 먹거나 이런 것도 어렵게 되겠죠.",
+        "en": "Then talking or eating becomes difficult, right?",
+        "vi": "Vậy thì nói chuyện hay ăn uống cũng trở nên khó khăn đúng không?",
+        "zh": "那么说话或吃饭这些也会变得困难吧。",
+        "ja": "そうすると話したりご飯を食べたりすることも難しくなりますよね。"
       }
     },
     {
@@ -1245,7 +1865,11 @@
       "start": 793.32,
       "end": 797.52,
       "text": {
-        "ko": "그래서 중등도에서 격렬한 강도의 운동이란"
+        "ko": "그래서 중등도에서 격렬한 강도의 운동이란",
+        "en": "So moderate to vigorous-intensity exercise",
+        "vi": "Vì vậy, vận động cường độ vừa đến mạnh",
+        "zh": "所以中等到剧烈强度的运动",
+        "ja": "ですから、中等度から激しい強度の運動とは、"
       }
     },
     {
@@ -1253,7 +1877,11 @@
       "start": 797.52,
       "end": 802.68,
       "text": {
-        "ko": "운동을 하는 동안에 바로 옆에 있는 사람한테 말을 할 수 없는 정도로"
+        "ko": "운동을 하는 동안에 바로 옆에 있는 사람한테 말을 할 수 없는 정도로",
+        "en": "can be understood as exercise so intense that you can't talk to the person right next to you while doing it.",
+        "vi": "có thể hiểu là vận động đến mức không thể nói chuyện với người ngay bên cạnh trong khi tập.",
+        "zh": "可以理解为运动时强度大到无法跟旁边的人说话的程度。",
+        "ja": "運動をしている間にすぐ隣にいる人に話しかけられないほど、"
       }
     },
     {
@@ -1261,7 +1889,11 @@
       "start": 802.68,
       "end": 806.76,
       "text": {
-        "ko": "힘든 운동 강도라고 이해하시면 되겠습니다."
+        "ko": "힘든 운동 강도라고 이해하시면 되겠습니다.",
+        "en": "You can understand it as that demanding a level of exercise intensity.",
+        "vi": "đó là cường độ vận động vất vả, bạn có thể hiểu như vậy.",
+        "zh": "是很吃力的运动强度,这样理解就可以了。",
+        "ja": "きつい運動強度だと理解していただければよいでしょう。"
       }
     },
     {
@@ -1269,7 +1901,11 @@
       "start": 806.76,
       "end": 810.92,
       "text": {
-        "ko": "초반에 말씀드렸던 거리감이나 입체감을 눈으로 보고"
+        "ko": "초반에 말씀드렸던 거리감이나 입체감을 눈으로 보고",
+        "en": "It also helps develop the ability to visually perceive the sense of distance and depth I mentioned earlier",
+        "vi": "Nó cũng giúp phát triển khả năng dùng mắt nhìn nhận cảm giác khoảng cách và cảm giác không gian mà tôi đã nói lúc đầu",
+        "zh": "它也有助于培养用眼睛观察前面提到的距离感和立体感",
+        "ja": "序盤にお話しした距離感や立体感を目で見て、"
       }
     },
     {
@@ -1277,7 +1913,11 @@
       "start": 810.92,
       "end": 813.52,
       "text": {
-        "ko": "운동을 조절하는 능력을 기르는데도"
+        "ko": "운동을 조절하는 능력을 기르는데도",
+        "en": "and to control movement accordingly.",
+        "vi": "và điều chỉnh vận động.",
+        "zh": "并据此调节运动的能力。",
+        "ja": "運動を調節する能力を育てるのにも、"
       }
     },
     {
@@ -1285,7 +1925,11 @@
       "start": 813.52,
       "end": 817.96,
       "text": {
-        "ko": "바깥 놀이가 실내 놀이보다 훨씬 더 낫습니다."
+        "ko": "바깥 놀이가 실내 놀이보다 훨씬 더 낫습니다.",
+        "en": "Outdoor play is much better than indoor play.",
+        "vi": "Chơi ngoài trời tốt hơn nhiều so với chơi trong nhà.",
+        "zh": "户外游戏比室内游戏要好得多。",
+        "ja": "外遊びは室内遊びよりもずっと良いです。"
       }
     },
     {
@@ -1293,7 +1937,11 @@
       "start": 817.96,
       "end": 822.72,
       "text": {
-        "ko": "그래서 되도록이면 바깥 활동을 포함시키는 것이 좋은데요."
+        "ko": "그래서 되도록이면 바깥 활동을 포함시키는 것이 좋은데요.",
+        "en": "So it's best to include outdoor activities whenever possible.",
+        "vi": "Vì vậy, nếu có thể thì tốt nhất là nên đưa các hoạt động ngoài trời vào.",
+        "zh": "所以尽可能地把户外活动包含进来是比较好的。",
+        "ja": "なので、できるだけ外での活動を取り入れるのが良いです。"
       }
     },
     {
@@ -1301,7 +1949,11 @@
       "start": 822.72,
       "end": 826.4,
       "text": {
-        "ko": "이런 이유로 어린이집이나 유치원의 교육 과정에는"
+        "ko": "이런 이유로 어린이집이나 유치원의 교육 과정에는",
+        "en": "For this reason, in the curriculum of daycare centers or kindergartens,",
+        "vi": "Vì lý do này, trong chương trình giáo dục của nhà trẻ hoặc trường mẫu giáo,",
+        "zh": "正因如此,在托儿所或幼儿园的教育课程中,",
+        "ja": "こうした理由から、保育園や幼稚園の教育課程では、"
       }
     },
     {
@@ -1309,7 +1961,11 @@
       "start": 826.4,
       "end": 832.08,
       "text": {
-        "ko": "바깥 놀이를 강조하고 의무적으로 몇 시간씩 하게 되어 있는 겁니다."
+        "ko": "바깥 놀이를 강조하고 의무적으로 몇 시간씩 하게 되어 있는 겁니다.",
+        "en": "outdoor play is emphasized and is required to be done for a certain number of hours.",
+        "vi": "việc chơi ngoài trời được nhấn mạnh và bắt buộc phải thực hiện trong vài giờ.",
+        "zh": "强调户外游戏,并规定必须进行几个小时。",
+        "ja": "外遊びを重視し、義務的に数時間ずつ行うようになっているのです。"
       }
     },
     {
@@ -1317,7 +1973,11 @@
       "start": 832.08,
       "end": 837.56,
       "text": {
-        "ko": "특히 유치원 시기가 되면 부모님들이 아이들의 학습적인 부분에 신경을 많이 쓰다 보니까"
+        "ko": "특히 유치원 시기가 되면 부모님들이 아이들의 학습적인 부분에 신경을 많이 쓰다 보니까",
+        "en": "Especially during the kindergarten years, parents tend to focus a lot on their children's academic aspects,",
+        "vi": "Đặc biệt khi đến giai đoạn mẫu giáo, các bậc phụ huynh thường rất chú trọng đến phần học tập của con,",
+        "zh": "特别是到了幼儿园时期,父母们往往很关注孩子的学习方面,",
+        "ja": "特に幼稚園の時期になると、保護者の方々がお子さんの学習面に多く気を配るため、"
       }
     },
     {
@@ -1325,7 +1985,11 @@
       "start": 837.56,
       "end": 842.56,
       "text": {
-        "ko": "상대적으로 신체 놀이를 조금 소홀하게 여기는 경향이 생기는 것 같기도 합니다."
+        "ko": "상대적으로 신체 놀이를 조금 소홀하게 여기는 경향이 생기는 것 같기도 합니다.",
+        "en": "so they tend to relatively neglect physical play a bit, it seems.",
+        "vi": "nên có vẻ như có xu hướng xem nhẹ phần chơi vận động thể chất một chút.",
+        "zh": "所以相对来说,似乎会有些忽视身体活动类的游戏。",
+        "ja": "相対的に身体を使った遊びを少しおろそかにする傾向が生じるように思います。"
       }
     },
     {
@@ -1333,7 +1997,11 @@
       "start": 842.56,
       "end": 847.4,
       "text": {
-        "ko": "그럼 신체 놀이는 우리 아이들의 성장, 발달에 어떤 효과를"
+        "ko": "그럼 신체 놀이는 우리 아이들의 성장, 발달에 어떤 효과를",
+        "en": "So let's look at what effects physical play has on our children's growth and development,",
+        "vi": "Vậy thì chúng ta hãy cùng tìm hiểu xem chơi vận động thể chất có hiệu quả gì đối với sự tăng trưởng, phát triển của trẻ,",
+        "zh": "那么,我们来看看身体游戏对孩子们的成长、发育有什么效果,",
+        "ja": "では、身体を使った遊びが子どもたちの成長・発達にどんな効果を、"
       }
     },
     {
@@ -1341,7 +2009,11 @@
       "start": 847.4,
       "end": 849.8,
       "text": {
-        "ko": "어떤 영향을 주는지 알아보겠습니다."
+        "ko": "어떤 영향을 주는지 알아보겠습니다.",
+        "en": "and what kind of influence it has.",
+        "vi": "và có ảnh hưởng như thế nào.",
+        "zh": "会带来什么样的影响。",
+        "ja": "どんな影響を与えるのか調べてみましょう。"
       }
     },
     {
@@ -1349,7 +2021,11 @@
       "start": 849.8,
       "end": 857.4,
       "text": {
-        "ko": "먼저 심폐 기능이 향상되고 뼈의 밀도를 증가시키면서 뼈의 성장을 촉진시킵니다."
+        "ko": "먼저 심폐 기능이 향상되고 뼈의 밀도를 증가시키면서 뼈의 성장을 촉진시킵니다.",
+        "en": "First, it improves cardiopulmonary function and increases bone density, thereby promoting bone growth.",
+        "vi": "Trước tiên, nó cải thiện chức năng tim phổi và làm tăng mật độ xương, từ đó thúc đẩy sự phát triển của xương.",
+        "zh": "首先,它能提高心肺功能,增加骨密度,从而促进骨骼生长。",
+        "ja": "まず、心肺機能が向上し、骨の密度を高めながら骨の成長を促進します。"
       }
     },
     {
@@ -1357,7 +2033,11 @@
       "start": 857.4,
       "end": 863.4,
       "text": {
-        "ko": "그리고 성장 호르몬 분비가 자극되면서 키 성장에 도움을 줍니다."
+        "ko": "그리고 성장 호르몬 분비가 자극되면서 키 성장에 도움을 줍니다.",
+        "en": "And it stimulates growth hormone secretion, which helps with height growth.",
+        "vi": "Và nó kích thích tiết hormone tăng trưởng, giúp ích cho việc tăng chiều cao.",
+        "zh": "而且能刺激生长激素的分泌,有助于身高的增长。",
+        "ja": "そして成長ホルモンの分泌が刺激され、身長の成長に役立ちます。"
       }
     },
     {
@@ -1365,7 +2045,11 @@
       "start": 863.4,
       "end": 867.88,
       "text": {
-        "ko": "한 연구에 의하면 학년기, 청소년기 아이들에게서"
+        "ko": "한 연구에 의하면 학년기, 청소년기 아이들에게서",
+        "en": "According to one study, in school-age and adolescent children,",
+        "vi": "Theo một nghiên cứu, ở trẻ em độ tuổi đi học và thanh thiếu niên,",
+        "zh": "根据一项研究,在学龄期、青少年期的孩子身上,",
+        "ja": "ある研究によると、学齢期や青少年期の子どもたちにおいて、"
       }
     },
     {
@@ -1373,7 +2057,11 @@
       "start": 867.88,
       "end": 873.2,
       "text": {
-        "ko": "격렬한 신체 운동을 한 후에 성장 호르몬 수치를 재봤더니"
+        "ko": "격렬한 신체 운동을 한 후에 성장 호르몬 수치를 재봤더니",
+        "en": "when they measured growth hormone levels after vigorous physical exercise,",
+        "vi": "khi đo nồng độ hormone tăng trưởng sau khi vận động thể chất cường độ cao,",
+        "zh": "在进行剧烈的身体运动后测量生长激素水平时,",
+        "ja": "激しい身体運動をした後に成長ホルモンの数値を測ってみたところ、"
       }
     },
     {
@@ -1381,7 +2069,11 @@
       "start": 873.2,
       "end": 879.28,
       "text": {
-        "ko": "그 수치가 깊은 수면 상태일 때의 성장 호르몬 수치와 비슷했다고 합니다."
+        "ko": "그 수치가 깊은 수면 상태일 때의 성장 호르몬 수치와 비슷했다고 합니다.",
+        "en": "the levels were similar to the growth hormone levels during deep sleep.",
+        "vi": "nồng độ đó tương tự với nồng độ hormone tăng trưởng khi ở trạng thái ngủ sâu.",
+        "zh": "该数值与深度睡眠状态下的生长激素水平相似。",
+        "ja": "その数値が深い睡眠状態のときの成長ホルモンの数値と似ていたそうです。"
       }
     },
     {
@@ -1389,7 +2081,11 @@
       "start": 879.28,
       "end": 884,
       "text": {
-        "ko": "깊은 수면일 때 보통 성장 호르몬이 활발하게 분비가 되니까요."
+        "ko": "깊은 수면일 때 보통 성장 호르몬이 활발하게 분비가 되니까요.",
+        "en": "Because growth hormone is usually actively secreted during deep sleep.",
+        "vi": "Bởi vì khi ngủ sâu, hormone tăng trưởng thường được tiết ra một cách tích cực.",
+        "zh": "因为深度睡眠时通常生长激素会活跃地分泌。",
+        "ja": "深い睡眠のときは普通、成長ホルモンが活発に分泌されますからね。"
       }
     },
     {
@@ -1397,7 +2093,11 @@
       "start": 884,
       "end": 888.48,
       "text": {
-        "ko": "그만큼 신체 운동은 키 성장에 직접적인 영향을 끼칩니다."
+        "ko": "그만큼 신체 운동은 키 성장에 직접적인 영향을 끼칩니다.",
+        "en": "That's how directly physical exercise affects height growth.",
+        "vi": "Điều đó cho thấy vận động thể chất có ảnh hưởng trực tiếp đến việc tăng chiều cao.",
+        "zh": "由此可见,身体运动对身高增长有着直接的影响。",
+        "ja": "それほど身体運動は身長の成長に直接的な影響を与えます。"
       }
     },
     {
@@ -1405,7 +2105,11 @@
       "start": 888.48,
       "end": 891.96,
       "text": {
-        "ko": "또 비만 및 성인병을 예방해줍니다."
+        "ko": "또 비만 및 성인병을 예방해줍니다.",
+        "en": "It also helps prevent obesity and adult diseases.",
+        "vi": "Ngoài ra, nó còn giúp phòng ngừa béo phì và các bệnh người lớn.",
+        "zh": "另外,它还能预防肥胖以及成人病。",
+        "ja": "また、肥満や生活習慣病を予防してくれます。"
       }
     },
     {
@@ -1413,7 +2117,11 @@
       "start": 891.96,
       "end": 896.24,
       "text": {
-        "ko": "영유아기, 학령 전기의 아이들의 운동량을 늘리고"
+        "ko": "영유아기, 학령 전기의 아이들의 운동량을 늘리고",
+        "en": "Increasing the amount of exercise in infants, toddlers, and preschool-age children,",
+        "vi": "Việc tăng lượng vận động cho trẻ ở độ tuổi nhũ nhi, trẻ nhỏ và trước tuổi đi học,",
+        "zh": "增加婴幼儿期、学龄前期孩子的运动量,",
+        "ja": "乳幼児期や就学前の子どもたちの運動量を増やし、"
       }
     },
     {
@@ -1421,7 +2129,11 @@
       "start": 896.24,
       "end": 899.12,
       "text": {
-        "ko": "운동에 대한 흥미를 유발시키는 것은"
+        "ko": "운동에 대한 흥미를 유발시키는 것은",
+        "en": "and sparking their interest in exercise,",
+        "vi": "và khơi gợi hứng thú đối với việc vận động,",
+        "zh": "激发他们对运动的兴趣,",
+        "ja": "運動への興味を引き出すことは、"
       }
     },
     {
@@ -1429,7 +2141,11 @@
       "start": 899.12,
       "end": 903.04,
       "text": {
-        "ko": "또 자연스럽게 평소 활동량을 늘리게 되겠죠."
+        "ko": "또 자연스럽게 평소 활동량을 늘리게 되겠죠.",
+        "en": "will also naturally increase their everyday activity level.",
+        "vi": "cũng sẽ tự nhiên làm tăng lượng hoạt động thường ngày của trẻ.",
+        "zh": "也会自然而然地增加他们平时的活动量。",
+        "ja": "自然と普段の活動量も増やすことになりますよね。"
       }
     },
     {
@@ -1437,7 +2153,11 @@
       "start": 903.04,
       "end": 909.16,
       "text": {
-        "ko": "그러면서 학동기, 소아 비만 유병률을 낮추는 효과가 나타나게 됩니다."
+        "ko": "그러면서 학동기, 소아 비만 유병률을 낮추는 효과가 나타나게 됩니다.",
+        "en": "And this brings the effect of lowering the prevalence of childhood, pediatric obesity.",
+        "vi": "Qua đó, sẽ mang lại hiệu quả làm giảm tỷ lệ mắc béo phì ở tuổi học đường, ở trẻ em.",
+        "zh": "这样一来,就会产生降低学龄期、儿童肥胖患病率的效果。",
+        "ja": "そうすることで、学童期や小児肥満の有病率を下げる効果が現れます。"
       }
     },
     {
@@ -1445,7 +2165,11 @@
       "start": 909.16,
       "end": 912,
       "text": {
-        "ko": "최근 아이들의 미디어 사용 시간이 늘어나면서"
+        "ko": "최근 아이들의 미디어 사용 시간이 늘어나면서",
+        "en": "Recently, as children's media usage time has increased,",
+        "vi": "Gần đây, khi thời gian sử dụng thiết bị truyền thông của trẻ tăng lên,",
+        "zh": "最近，随着孩子们使用媒体的时间增加，",
+        "ja": "最近、子どもたちのメディア使用時間が増えるにつれて、"
       }
     },
     {
@@ -1453,7 +2177,11 @@
       "start": 912,
       "end": 915.32,
       "text": {
-        "ko": "사실 소아 비만도 굉장히 많이 늘어났잖아요."
+        "ko": "사실 소아 비만도 굉장히 많이 늘어났잖아요.",
+        "en": "in fact, childhood obesity has also increased quite a lot, right?",
+        "vi": "thực ra béo phì ở trẻ em cũng đã tăng lên rất nhiều đúng không?",
+        "zh": "其实儿童肥胖也增加了很多对吧。",
+        "ja": "実は小児肥満もかなり増えましたよね。"
       }
     },
     {
@@ -1461,7 +2189,11 @@
       "start": 915.32,
       "end": 918.44,
       "text": {
-        "ko": "그래서 이렇게 신체 활동 시간을 많이 늘리게 되면"
+        "ko": "그래서 이렇게 신체 활동 시간을 많이 늘리게 되면",
+        "en": "So if we increase the time spent on physical activity like this,",
+        "vi": "Vì vậy nếu chúng ta tăng nhiều thời gian hoạt động thể chất như thế này,",
+        "zh": "所以如果像这样大幅增加身体活动时间，",
+        "ja": "なので、このように身体活動の時間を多く増やせば、"
       }
     },
     {
@@ -1469,7 +2201,11 @@
       "start": 918.44,
       "end": 920.4,
       "text": {
-        "ko": "미디어를 제한하는 효과도 있고"
+        "ko": "미디어를 제한하는 효과도 있고",
+        "en": "it has the effect of limiting media use,",
+        "vi": "vừa có tác dụng hạn chế thiết bị truyền thông,",
+        "zh": "既有限制媒体使用的效果，",
+        "ja": "メディアを制限する効果もあり、"
       }
     },
     {
@@ -1477,7 +2213,11 @@
       "start": 920.4,
       "end": 925.08,
       "text": {
-        "ko": "동시에 소아 비만도 예방하는 효과를 가지게 될 것 같습니다."
+        "ko": "동시에 소아 비만도 예방하는 효과를 가지게 될 것 같습니다.",
+        "en": "and at the same time, it seems it will also have the effect of preventing childhood obesity.",
+        "vi": "đồng thời cũng có tác dụng phòng ngừa béo phì ở trẻ em.",
+        "zh": "同时还能起到预防儿童肥胖的效果。",
+        "ja": "同時に小児肥満を予防する効果も持つことになると思います。"
       }
     },
     {
@@ -1485,7 +2225,11 @@
       "start": 925.08,
       "end": 927.6,
       "text": {
-        "ko": "또 다른 것으로는 어떤 효과가 있을까요?"
+        "ko": "또 다른 것으로는 어떤 효과가 있을까요?",
+        "en": "What other effects might there be?",
+        "vi": "Còn có những tác dụng nào khác nữa nhỉ?",
+        "zh": "还有其他什么效果呢？",
+        "ja": "他にはどんな効果があるでしょうか？"
       }
     },
     {
@@ -1493,7 +2237,11 @@
       "start": 927.6,
       "end": 930.88,
       "text": {
-        "ko": "학령 전기 신체 놀이는 신체뿐만 아니라"
+        "ko": "학령 전기 신체 놀이는 신체뿐만 아니라",
+        "en": "Physical play in the preschool period affects not only the body",
+        "vi": "Trò chơi vận động ở giai đoạn trước tuổi đi học không chỉ ảnh hưởng đến cơ thể",
+        "zh": "学龄前期的身体游戏不仅对身体，",
+        "ja": "就学前期の身体遊びは、身体だけでなく"
       }
     },
     {
@@ -1501,7 +2249,11 @@
       "start": 930.88,
       "end": 934.92,
       "text": {
-        "ko": "뇌의 발달에도 직접적인 영향을 미칩니다."
+        "ko": "뇌의 발달에도 직접적인 영향을 미칩니다.",
+        "en": "but also has a direct influence on brain development.",
+        "vi": "mà còn ảnh hưởng trực tiếp đến sự phát triển của não bộ.",
+        "zh": "对大脑发育也有直接影响。",
+        "ja": "脳の発達にも直接的な影響を及ぼします。"
       }
     },
     {
@@ -1509,7 +2261,11 @@
       "start": 934.92,
       "end": 940.08,
       "text": {
-        "ko": "바로 인지 발달, 학습 능력, 자기 조절력을 향상시키는데요."
+        "ko": "바로 인지 발달, 학습 능력, 자기 조절력을 향상시키는데요.",
+        "en": "It improves cognitive development, learning ability, and self-regulation.",
+        "vi": "Cụ thể là nó cải thiện sự phát triển nhận thức, khả năng học tập và khả năng tự điều chỉnh.",
+        "zh": "它能提升认知发展、学习能力和自我调节能力。",
+        "ja": "まさに認知発達、学習能力、自己調節力を向上させるんですね。"
       }
     },
     {
@@ -1517,7 +2273,11 @@
       "start": 940.08,
       "end": 943.32,
       "text": {
-        "ko": "어? 운동을 하는데 왜 머리가 좋아진다는 거지?"
+        "ko": "어? 운동을 하는데 왜 머리가 좋아진다는 거지?",
+        "en": "Huh? You're exercising, so why would your brain get better?",
+        "vi": "Ơ? Vận động mà sao đầu óc lại thông minh hơn được nhỉ?",
+        "zh": "咦？做运动怎么会让脑子变聪明呢？",
+        "ja": "あれ？運動するのに、なぜ頭が良くなるの？"
       }
     },
     {
@@ -1525,7 +2285,11 @@
       "start": 943.32,
       "end": 946.04,
       "text": {
-        "ko": "하고 의아해하시는 분들이 있을 것 같습니다."
+        "ko": "하고 의아해하시는 분들이 있을 것 같습니다.",
+        "en": "Some of you might be wondering about that.",
+        "vi": "Có lẽ sẽ có những người thắc mắc như vậy.",
+        "zh": "可能有些人会感到疑惑。",
+        "ja": "と不思議に思う方もいらっしゃると思います。"
       }
     },
     {
@@ -1533,7 +2297,11 @@
       "start": 946.04,
       "end": 949.88,
       "text": {
-        "ko": "그런데 이것은 이미 과학적으로 증명된 이론이죠."
+        "ko": "그런데 이것은 이미 과학적으로 증명된 이론이죠.",
+        "en": "But this is already a scientifically proven theory.",
+        "vi": "Nhưng điều này đã là một lý thuyết được chứng minh về mặt khoa học rồi.",
+        "zh": "但这已经是科学上得到证明的理论了。",
+        "ja": "ですが、これはすでに科学的に証明された理論なんです。"
       }
     },
     {
@@ -1541,7 +2309,11 @@
       "start": 949.88,
       "end": 955.72,
       "text": {
-        "ko": "이런 신체 놀이로 인해서 집중력, 인지력, 그리고 의욕,"
+        "ko": "이런 신체 놀이로 인해서 집중력, 인지력, 그리고 의욕,",
+        "en": "Through this kind of physical play, concentration, cognition, motivation,",
+        "vi": "Nhờ trò chơi vận động này, sự tập trung, khả năng nhận thức, và động lực,",
+        "zh": "通过这种身体游戏，调节专注力、认知力以及意志、",
+        "ja": "このような身体遊びによって、集中力、認知力、そして意欲、"
       }
     },
     {
@@ -1549,7 +2321,11 @@
       "start": 955.72,
       "end": 958.6,
       "text": {
-        "ko": "각성을 조절하는 노르 에피네프린,"
+        "ko": "각성을 조절하는 노르에피네프린,",
+        "en": "norepinephrine, which regulates arousal,",
+        "vi": "norepinephrine điều chỉnh sự tỉnh táo,",
+        "zh": "调节觉醒的去甲肾上腺素，",
+        "ja": "覚醒を調節するノルエピネフリン、"
       }
     },
     {
@@ -1557,7 +2333,11 @@
       "start": 958.6,
       "end": 963.24,
       "text": {
-        "ko": "그리고 학습력, 보상에 대한 만족감을 조절하는 도파민,"
+        "ko": "그리고 학습력, 보상에 대한 만족감을 조절하는 도파민,",
+        "en": "dopamine, which regulates learning ability and satisfaction with rewards,",
+        "vi": "và dopamine điều chỉnh khả năng học tập và cảm giác hài lòng với phần thưởng,",
+        "zh": "以及调节学习能力和奖励满足感的多巴胺，",
+        "ja": "そして学習力、報酬に対する満足感を調節するドーパミン、"
       }
     },
     {
@@ -1565,7 +2345,11 @@
       "start": 963.24,
       "end": 966.2,
       "text": {
-        "ko": "뇌 활동을 적절하게 통제하고"
+        "ko": "뇌 활동을 적절하게 통제하고",
+        "en": "and serotonin, which appropriately controls brain activity",
+        "vi": "và serotonin kiểm soát hoạt động của não một cách hợp lý",
+        "zh": "以及适当控制大脑活动",
+        "ja": "脳の活動を適切にコントロールし、"
       }
     },
     {
@@ -1573,7 +2357,11 @@
       "start": 966.2,
       "end": 969,
       "text": {
-        "ko": "그리고 공격성을 조절해주는 세루토닌,"
+        "ko": "그리고 공격성을 조절해주는 세로토닌,",
+        "en": "and regulates aggression—",
+        "vi": "và điều chỉnh tính hung hăng—",
+        "zh": "并调节攻击性的血清素，",
+        "ja": "そして攻撃性を調節してくれるセロトニン、"
       }
     },
     {
@@ -1581,7 +2369,11 @@
       "start": 969,
       "end": 973.4,
       "text": {
-        "ko": "이와 같이 뇌 발달을 촉진시키는 여러 신경 전달 물질들이"
+        "ko": "이와 같이 뇌 발달을 촉진시키는 여러 신경 전달 물질들이",
+        "en": "like this, various neurotransmitters that promote brain development",
+        "vi": "như vậy, nhiều chất dẫn truyền thần kinh thúc đẩy sự phát triển của não",
+        "zh": "像这样，多种促进大脑发育的神经递质",
+        "ja": "このように脳の発達を促進する様々な神経伝達物質が"
       }
     },
     {
@@ -1589,7 +2381,11 @@
       "start": 973.4,
       "end": 978.48,
       "text": {
-        "ko": "안정적으로 분비되고 균형을 잘 이룰 수 있도록 해줍니다."
+        "ko": "안정적으로 분비되고 균형을 잘 이룰 수 있도록 해줍니다.",
+        "en": "are secreted stably and can maintain a good balance.",
+        "vi": "được tiết ra một cách ổn định và có thể đạt được sự cân bằng tốt.",
+        "zh": "能够稳定地分泌并保持良好的平衡。",
+        "ja": "安定的に分泌され、バランスをうまく保てるようにしてくれます。"
       }
     },
     {
@@ -1597,7 +2393,11 @@
       "start": 978.48,
       "end": 983.4,
       "text": {
-        "ko": "신체 운동을 한다 이렇게 말을 들으면 부모님들이 막연하게"
+        "ko": "신체 운동을 한다 이렇게 말을 들으면 부모님들이 막연하게",
+        "en": "When parents hear the words \"do physical exercise,\" they vaguely",
+        "vi": "Khi nghe nói \"vận động thể chất\", các bậc phụ huynh một cách mơ hồ",
+        "zh": "听到\"做身体运动\"这句话，父母们会笼统地",
+        "ja": "身体運動をする、こう聞くと保護者の方々は漠然と"
       }
     },
     {
@@ -1605,7 +2405,11 @@
       "start": 983.4,
       "end": 986.04,
       "text": {
-        "ko": "너무 아이가 산만해지지는 않을까"
+        "ko": "너무 아이가 산만해지지는 않을까",
+        "en": "Won't the child become too distracted?",
+        "vi": "Liệu trẻ có trở nên quá xao nhãng không?",
+        "zh": "孩子会不会变得太散漫呢?",
+        "ja": "子どもが落ち着きなくなってしまわないか"
       }
     },
     {
@@ -1613,7 +2417,11 @@
       "start": 986.04,
       "end": 988.6,
       "text": {
-        "ko": "혹은 너무 자유분방해지지는 않을까"
+        "ko": "혹은 너무 자유분방해지지는 않을까",
+        "en": "or won't the child become too free-spirited?",
+        "vi": "hoặc liệu trẻ có trở nên quá phóng túng không?",
+        "zh": "或者会不会变得太自由散漫呢?",
+        "ja": "あるいは自由奔放になりすぎないか"
       }
     },
     {
@@ -1621,7 +2429,11 @@
       "start": 988.6,
       "end": 991.36,
       "text": {
-        "ko": "이렇게 생각을 하시곤 하시는데요."
+        "ko": "이렇게 생각을 하시곤 하시는데요.",
+        "en": "You often think this way.",
+        "vi": "Quý vị thường nghĩ như vậy.",
+        "zh": "大家常常会这样想。",
+        "ja": "このように考えることがありますよね。"
       }
     },
     {
@@ -1629,7 +2441,11 @@
       "start": 991.36,
       "end": 995.64,
       "text": {
-        "ko": "사실은 그 반대 효과, 자기조절력, 집중력"
+        "ko": "사실은 그 반대 효과, 자기조절력, 집중력",
+        "en": "But actually, the opposite effect occurs—self-regulation and concentration,",
+        "vi": "Nhưng thực ra, hiệu quả lại ngược lại—khả năng tự điều chỉnh, sự tập trung,",
+        "zh": "其实恰恰相反,自我调节力、专注力,",
+        "ja": "実はその反対の効果、自己調節力、集中力、"
       }
     },
     {
@@ -1637,7 +2453,11 @@
       "start": 995.64,
       "end": 998.8,
       "text": {
-        "ko": "이런 것들을 높일 수 있는 효과를 보게 된다는 것입니다."
+        "ko": "이런 것들을 높일 수 있는 효과를 보게 된다는 것입니다.",
+        "en": "these are the things that can actually be enhanced.",
+        "vi": "đây là những điều có thể được nâng cao.",
+        "zh": "会看到能够提升这些能力的效果。",
+        "ja": "こういったものを高める効果が見られるということです。"
       }
     },
     {
@@ -1645,7 +2465,11 @@
       "start": 998.8,
       "end": 1001.52,
       "text": {
-        "ko": "그리고 그것이 그 순간뿐만 아니라"
+        "ko": "그리고 그것이 그 순간뿐만 아니라",
+        "en": "And that's not just in the moment,",
+        "vi": "Và điều đó không chỉ trong khoảnh khắc đó,",
+        "zh": "而且这不仅仅是在那一刻,",
+        "ja": "そしてそれはその瞬間だけでなく、"
       }
     },
     {
@@ -1653,7 +2477,11 @@
       "start": 1001.52,
       "end": 1006.16,
       "text": {
-        "ko": "앞으로 학교 생활할 때까지도 계속 지속이 된다는 거죠."
+        "ko": "앞으로 학교 생활할 때까지도 계속 지속이 된다는 거죠.",
+        "en": "it continues to last all the way through their school life.",
+        "vi": "mà còn tiếp tục kéo dài cho đến khi trẻ đi học.",
+        "zh": "会一直持续到将来的学校生活。",
+        "ja": "これから学校生活を送るときまでずっと続くということです。"
       }
     },
     {
@@ -1661,7 +2489,11 @@
       "start": 1006.16,
       "end": 1010.44,
       "text": {
-        "ko": "신경세포가 서로 결합을 하며 정보를 교환하는 것을"
+        "ko": "신경세포가 서로 결합을 하며 정보를 교환하는 것을",
+        "en": "The process of nerve cells connecting with each other and exchanging information",
+        "vi": "Quá trình các tế bào thần kinh kết hợp với nhau và trao đổi thông tin",
+        "zh": "神经细胞相互结合并交换信息",
+        "ja": "神経細胞が互いに結合して情報を交換することを"
       }
     },
     {
@@ -1669,7 +2501,11 @@
       "start": 1010.44,
       "end": 1013.04,
       "text": {
-        "ko": "시냅스 작용이라고 하는데요."
+        "ko": "시냅스 작용이라고 하는데요.",
+        "en": "is called synaptic action.",
+        "vi": "được gọi là hoạt động synap.",
+        "zh": "被称为突触作用。",
+        "ja": "シナプス作用と言います。"
       }
     },
     {
@@ -1677,7 +2513,11 @@
       "start": 1013.04,
       "end": 1016.88,
       "text": {
-        "ko": "이 시냅스 작용이 운동을 하면서 활성화가 되고"
+        "ko": "이 시냅스 작용이 운동을 하면서 활성화가 되고",
+        "en": "This synaptic action becomes activated through exercise,",
+        "vi": "Hoạt động synap này được kích hoạt khi vận động,",
+        "zh": "这种突触作用在运动时被激活,",
+        "ja": "このシナプス作用が運動をしながら活性化され、"
       }
     },
     {
@@ -1685,7 +2525,11 @@
       "start": 1016.88,
       "end": 1021.08,
       "text": {
-        "ko": "뇌 전반적인 영역의 구조가 좋은 쪽으로 개선이 됩니다."
+        "ko": "뇌 전반적인 영역의 구조가 좋은 쪽으로 개선이 됩니다.",
+        "en": "and the structure of the overall brain regions improves for the better.",
+        "vi": "và cấu trúc của các vùng não nói chung được cải thiện theo hướng tốt hơn.",
+        "zh": "大脑整体区域的结构会向好的方向改善。",
+        "ja": "脳全般の領域の構造が良い方向に改善されます。"
       }
     },
     {
@@ -1693,7 +2537,11 @@
       "start": 1021.08,
       "end": 1024.52,
       "text": {
-        "ko": "예를 들어서 대근육 운동을 열심히 하게 되면요."
+        "ko": "예를 들어서 대근육 운동을 열심히 하게 되면요.",
+        "en": "For example, when you do gross motor exercises diligently,",
+        "vi": "Ví dụ, khi trẻ chăm chỉ vận động cơ lớn,",
+        "zh": "比如说,如果努力进行大肌肉运动的话,",
+        "ja": "例えば大筋運動を一生懸命に行うと、"
       }
     },
     {
@@ -1701,7 +2549,11 @@
       "start": 1024.52,
       "end": 1029.44,
       "text": {
-        "ko": "우리 뇌 내의 전전두엽 피질발달이 촉진이 되고요."
+        "ko": "우리 뇌 내의 전전두엽 피질발달이 촉진이 되고요.",
+        "en": "the development of the prefrontal cortex in our brain is promoted,",
+        "vi": "sự phát triển của vỏ não trước trán trong não bộ được thúc đẩy,",
+        "zh": "我们大脑内的前额叶皮质发育会得到促进,",
+        "ja": "私たちの脳内の前頭前野皮質の発達が促進され、"
       }
     },
     {
@@ -1709,7 +2561,11 @@
       "start": 1029.44,
       "end": 1033.76,
       "text": {
-        "ko": "그러므로서 정보를 분석하고 순서대로 배열하고"
+        "ko": "그러므로써 정보를 분석하고 순서대로 배열하고",
+        "en": "and thereby the ability to analyze information, arrange it in order,",
+        "vi": "và nhờ đó khả năng phân tích thông tin, sắp xếp theo trình tự",
+        "zh": "由此分析信息、按顺序排列",
+        "ja": "それによって情報を分析し、順序立てて配列し、"
       }
     },
     {
@@ -1717,7 +2573,11 @@
       "start": 1033.76,
       "end": 1036.44,
       "text": {
-        "ko": "연결하는 능력이 향상됩니다."
+        "ko": "연결하는 능력이 향상됩니다.",
+        "en": "and connect it improves.",
+        "vi": "và kết nối được nâng cao.",
+        "zh": "以及连接的能力会得到提升。",
+        "ja": "つなげる能力が向上します。"
       }
     },
     {
@@ -1725,7 +2585,11 @@
       "start": 1036.44,
       "end": 1039.24,
       "text": {
-        "ko": "또 소근육 운동을 열심히 하게 되면"
+        "ko": "또 소근육 운동을 열심히 하게 되면",
+        "en": "Also, when you do fine motor exercises diligently,",
+        "vi": "Ngoài ra, khi trẻ chăm chỉ vận động cơ nhỏ,",
+        "zh": "另外,如果努力进行小肌肉运动的话,",
+        "ja": "また小筋運動を一生懸命に行うと、"
       }
     },
     {
@@ -1733,7 +2597,11 @@
       "start": 1039.24,
       "end": 1043.88,
       "text": {
-        "ko": "몸의 균형, 조화로운 움직임을 담당하는 소뇌의 발달"
+        "ko": "몸의 균형, 조화로운 움직임을 담당하는 소뇌의 발달",
+        "en": "the development of the cerebellum, which is responsible for body balance and harmonious movement,",
+        "vi": "sự phát triển của tiểu não, vốn đảm nhận sự cân bằng cơ thể và chuyển động hài hòa,",
+        "zh": "负责身体平衡、协调运动的小脑的发育,",
+        "ja": "体のバランスや調和のとれた動きを担う小脳の発達、"
       }
     },
     {
@@ -1741,7 +2609,11 @@
       "start": 1043.88,
       "end": 1047.32,
       "text": {
-        "ko": "그리고 충동성, 자기조절 능력을 담당하는"
+        "ko": "그리고 충동성, 자기조절 능력을 담당하는",
+        "en": "and the basal ganglia, which is responsible for impulsivity and self-regulation ability,",
+        "vi": "và hạch nền, vốn đảm nhận tính bốc đồng và khả năng tự điều chỉnh,",
+        "zh": "以及负责冲动性、自我调节能力的",
+        "ja": "そして衝動性、自己調節能力を担う"
       }
     },
     {
@@ -1749,7 +2621,11 @@
       "start": 1047.32,
       "end": 1049.96,
       "text": {
-        "ko": "기저액의 발달이 촉진이 됩니다."
+        "ko": "기저핵의 발달이 촉진이 됩니다.",
+        "en": "the development of these is promoted.",
+        "vi": "sự phát triển của chúng được thúc đẩy.",
+        "zh": "基底核的发育会得到促进。",
+        "ja": "基底核の発達が促進されます。"
       }
     },
     {
@@ -1757,7 +2633,11 @@
       "start": 1049.96,
       "end": 1054.2,
       "text": {
-        "ko": "그래서 결론적으로는 스트레스를 잘 조절할 수 있는 아이가 되고요."
+        "ko": "그래서 결론적으로는 스트레스를 잘 조절할 수 있는 아이가 되고요.",
+        "en": "So in conclusion, the child becomes able to manage stress well.",
+        "vi": "Vì vậy, kết luận lại, trẻ trở thành một đứa trẻ có thể điều chỉnh căng thẳng tốt.",
+        "zh": "所以总的来说,孩子会变成能够很好地调节压力的孩子。",
+        "ja": "ですから結論的には、ストレスを上手に調節できる子どもになります。"
       }
     },
     {
@@ -1765,7 +2645,11 @@
       "start": 1054.2,
       "end": 1057.52,
       "text": {
-        "ko": "또 자기 통제력, 집중력이 향상이 됩니다."
+        "ko": "또 자기 통제력, 집중력이 향상이 됩니다.",
+        "en": "Also, self-control and concentration improve.",
+        "vi": "Ngoài ra, khả năng tự kiểm soát và sự tập trung cũng được cải thiện.",
+        "zh": "另外，自我控制力和专注力也会得到提升。",
+        "ja": "また、自己統制力や集中力が向上します。"
       }
     },
     {
@@ -1773,7 +2657,11 @@
       "start": 1057.52,
       "end": 1062.4,
       "text": {
-        "ko": "마지막으로 기억과 학습을 관장하는 뇌의 영역인 헤마에도"
+        "ko": "마지막으로 기억과 학습을 관장하는 뇌의 영역인 해마에도",
+        "en": "Lastly, in the hippocampus, the brain region that governs memory and learning,",
+        "vi": "Cuối cùng, ở vùng hồi hải mã của não, vùng chi phối trí nhớ và việc học,",
+        "zh": "最后，在掌管记忆与学习的大脑区域海马体中，",
+        "ja": "最後に、記憶と学習をつかさどる脳の領域である海馬にも、"
       }
     },
     {
@@ -1781,7 +2669,11 @@
       "start": 1062.4,
       "end": 1065.92,
       "text": {
-        "ko": "새로운 신경세포가 잘 발달할 수 있도록 해서"
+        "ko": "새로운 신경세포가 잘 발달할 수 있도록 해서",
+        "en": "it helps new nerve cells develop well,",
+        "vi": "nó giúp các tế bào thần kinh mới phát triển tốt,",
+        "zh": "它能促使新的神经细胞良好发育，",
+        "ja": "新しい神経細胞がよく発達できるようにして、"
       }
     },
     {
@@ -1789,7 +2681,11 @@
       "start": 1065.92,
       "end": 1068.96,
       "text": {
-        "ko": "학습 능력까지 끌어올려줍니다."
+        "ko": "학습 능력까지 끌어올려줍니다.",
+        "en": "thereby even boosting learning ability.",
+        "vi": "từ đó nâng cao cả khả năng học tập.",
+        "zh": "从而连学习能力都能得到提升。",
+        "ja": "学習能力まで引き上げてくれます。"
       }
     },
     {
@@ -1797,7 +2693,11 @@
       "start": 1068.96,
       "end": 1071.8,
       "text": {
-        "ko": "그래서 한 재미있는 연구에 의하면"
+        "ko": "그래서 한 재미있는 연구에 의하면",
+        "en": "So, according to an interesting study,",
+        "vi": "Vì vậy, theo một nghiên cứu thú vị,",
+        "zh": "所以，根据一项有趣的研究，",
+        "ja": "そこで、ある面白い研究によると、"
       }
     },
     {
@@ -1805,7 +2705,11 @@
       "start": 1071.8,
       "end": 1075.2,
       "text": {
-        "ko": "학령 전기의 인지능력, 읽기 점수"
+        "ko": "학령 전기의 인지능력, 읽기 점수",
+        "en": "preschool-age cognitive ability and reading scores,",
+        "vi": "khả năng nhận thức và điểm đọc ở giai đoạn tuổi mầm non,",
+        "zh": "学龄前的认知能力、阅读分数，",
+        "ja": "就学前期の認知能力、読みの点数、"
       }
     },
     {
@@ -1813,7 +2717,11 @@
       "start": 1075.2,
       "end": 1077.4,
       "text": {
-        "ko": "정말 그 점수 자체가"
+        "ko": "정말 그 점수 자체가",
+        "en": "those scores themselves",
+        "vi": "thật sự chính những điểm số đó",
+        "zh": "那个分数本身",
+        "ja": "本当にその点数自体が、"
       }
     },
     {
@@ -1821,7 +2729,11 @@
       "start": 1077.4,
       "end": 1081.2,
       "text": {
-        "ko": "어렸을 때 얼마나 신체 놀이를 몇 시간 했는지"
+        "ko": "어렸을 때 얼마나 신체 놀이를 몇 시간 했는지",
+        "en": "rise in proportion to how many hours of physical play the child did when young.",
+        "vi": "tăng tỷ lệ thuận với số giờ chơi vận động khi còn nhỏ.",
+        "zh": "会随着小时候做了多少小时的身体游戏，",
+        "ja": "幼い頃にどれだけ、何時間身体遊びをしたか、"
       }
     },
     {
@@ -1829,7 +2741,11 @@
       "start": 1081.2,
       "end": 1086.44,
       "text": {
-        "ko": "그 시간만큼 비례해서 올라간다는 재미있는 연구도 있었습니다."
+        "ko": "그 시간만큼 비례해서 올라간다는 재미있는 연구도 있었습니다.",
+        "en": "There was an interesting study showing they go up in proportion to that amount of time.",
+        "vi": "Có một nghiên cứu thú vị cho thấy chúng tăng lên tỷ lệ thuận với khoảng thời gian đó.",
+        "zh": "成正比地上升，有这样一项有趣的研究。",
+        "ja": "その時間に比例して上がるという面白い研究もありました。"
       }
     },
     {
@@ -1837,7 +2753,11 @@
       "start": 1086.44,
       "end": 1090.04,
       "text": {
-        "ko": "네, 이쯤 되면 부모님들께서"
+        "ko": "네, 이쯤 되면 부모님들께서",
+        "en": "Yes, by now, parents",
+        "vi": "Vâng, đến lúc này thì các bậc phụ huynh",
+        "zh": "是的，到这个时候，父母们",
+        "ja": "はい、ここまで来ると、保護者の皆さんは、"
       }
     },
     {
@@ -1845,7 +2765,11 @@
       "start": 1090.04,
       "end": 1092.24,
       "text": {
-        "ko": "지금 당장 바로 우리 아이를 데리고"
+        "ko": "지금 당장 바로 우리 아이를 데리고",
+        "en": "will probably want to take their child right now",
+        "vi": "có lẽ sẽ muốn ngay bây giờ dẫn con mình",
+        "zh": "可能马上就想带着自己的孩子",
+        "ja": "今すぐにでもお子さんを連れて、"
       }
     },
     {
@@ -1853,7 +2777,11 @@
       "start": 1092.24,
       "end": 1094.88,
       "text": {
-        "ko": "바깥 놀이를 하러 나가실 것 같은데요."
+        "ko": "바깥 놀이를 하러 나가실 것 같은데요.",
+        "en": "and go out for outdoor play.",
+        "vi": "đi ra ngoài chơi.",
+        "zh": "出去进行户外游戏了吧。",
+        "ja": "外遊びに出かけたくなると思います。"
       }
     },
     {
@@ -1861,7 +2789,11 @@
       "start": 1094.88,
       "end": 1099.96,
       "text": {
-        "ko": "이렇게 2에서 6세 사이의 아이들, 학령 전기 아이들에 있어서"
+        "ko": "이렇게 2에서 6세 사이의 아이들, 학령 전기 아이들에 있어서",
+        "en": "For children aged 2 to 6, preschool-age children like this,",
+        "vi": "Đối với trẻ từ 2 đến 6 tuổi, trẻ ở giai đoạn tuổi mầm non như vậy,",
+        "zh": "对于这样2到6岁之间的孩子，学龄前的孩子来说，",
+        "ja": "このように2歳から6歳の子ども、就学前期の子どもにとって、"
       }
     },
     {
@@ -1869,7 +2801,11 @@
       "start": 1099.96,
       "end": 1101.96,
       "text": {
-        "ko": "이 신체 놀이가 중요한 이유는"
+        "ko": "이 신체 놀이가 중요한 이유는",
+        "en": "the reason this physical play is important",
+        "vi": "lý do trò chơi vận động này quan trọng",
+        "zh": "这种身体游戏之所以重要的原因，",
+        "ja": "この身体遊びが重要な理由は、"
       }
     },
     {
@@ -1877,7 +2813,11 @@
       "start": 1101.96,
       "end": 1104.4,
       "text": {
-        "ko": "신체 발달 자체뿐만 아니라"
+        "ko": "신체 발달 자체뿐만 아니라",
+        "en": "is that it plays an important role not only in physical development itself,",
+        "vi": "là vì nó không chỉ đóng vai trò quan trọng trong sự phát triển thể chất,",
+        "zh": "是因为它不仅对身体发育本身，",
+        "ja": "身体発達そのものだけでなく、"
       }
     },
     {
@@ -1885,7 +2825,11 @@
       "start": 1104.4,
       "end": 1107.6,
       "text": {
-        "ko": "자기조절력, 학습 능력, 집중력"
+        "ko": "자기조절력, 학습 능력, 집중력",
+        "en": "but also in self-regulation, learning ability, and concentration,",
+        "vi": "mà còn trong khả năng tự điều chỉnh, khả năng học tập, sự tập trung,",
+        "zh": "还对自我调节能力、学习能力、专注力，",
+        "ja": "自己調節力、学習能力、集中力、"
       }
     },
     {
@@ -1893,7 +2837,11 @@
       "start": 1107.6,
       "end": 1111.44,
       "text": {
-        "ko": "이런 모든 성장, 발달에 중요한 역할을 하기 때문이겠죠."
+        "ko": "이런 모든 성장, 발달에 중요한 역할을 하기 때문이겠죠.",
+        "en": "in all of this growth and development.",
+        "vi": "trong tất cả những sự tăng trưởng và phát triển này.",
+        "zh": "对这一切的成长、发育都起着重要作用。",
+        "ja": "こうしたすべての成長、発達に重要な役割を果たすからでしょう。"
       }
     },
     {
@@ -1901,7 +2849,11 @@
       "start": 1111.44,
       "end": 1114.56,
       "text": {
-        "ko": "초등학교 가서도 생활을 잘하게 됩니다."
+        "ko": "초등학교 가서도 생활을 잘하게 됩니다.",
+        "en": "They will also do well in life once they go to elementary school.",
+        "vi": "Khi vào tiểu học các em cũng sẽ sinh hoạt tốt.",
+        "zh": "上小学后也能很好地适应生活。",
+        "ja": "小学校に行ってからも生活をうまく送れるようになります。"
       }
     },
     {
@@ -1909,7 +2861,11 @@
       "start": 1114.56,
       "end": 1118.36,
       "text": {
-        "ko": "이게 꼭 읽기 능력, 학습 능력 이런 것뿐만 아니라"
+        "ko": "이게 꼭 읽기 능력, 학습 능력 이런 것뿐만 아니라",
+        "en": "This isn't just about reading ability or learning ability,",
+        "vi": "Điều này không chỉ là khả năng đọc hay khả năng học tập,",
+        "zh": "这不仅仅是阅读能力、学习能力这些方面，",
+        "ja": "これは読みの能力や学習能力といったものだけでなく、"
       }
     },
     {
@@ -1917,7 +2873,11 @@
       "start": 1118.36,
       "end": 1122.84,
       "text": {
-        "ko": "학교 생활의 전반적인 부분을 잘하게 해주는데요."
+        "ko": "학교 생활의 전반적인 부분을 잘하게 해주는데요.",
+        "en": "it helps them do well in all aspects of school life overall.",
+        "vi": "mà còn giúp các em làm tốt mọi mặt của sinh hoạt trường học nói chung.",
+        "zh": "还能让孩子在学校生活的整体方面都表现良好。",
+        "ja": "学校生活全般をうまくこなせるようにしてくれるんです。"
       }
     },
     {
@@ -1925,7 +2885,11 @@
       "start": 1122.84,
       "end": 1127.2,
       "text": {
-        "ko": "사실 초등학교 1학년 이때는 학습적인 부분보다는"
+        "ko": "사실 초등학교 1학년 이때는 학습적인 부분보다는",
+        "en": "Actually, in the first grade of elementary school, rather than the academic side,",
+        "vi": "Thật ra, ở thời điểm lớp 1 tiểu học, thay vì khía cạnh học tập,",
+        "zh": "其实在小学一年级这个阶段，比起学习方面，",
+        "ja": "実は小学校1年生のこの時期は、学習的な部分よりも、"
       }
     },
     {
@@ -1933,7 +2897,11 @@
       "start": 1127.2,
       "end": 1130.4,
       "text": {
-        "ko": "학교 생활에서 가장 중요하게 생각되는 부분이"
+        "ko": "학교 생활에서 가장 중요하게 생각되는 부분이",
+        "en": "the part considered most important in school life",
+        "vi": "phần được coi là quan trọng nhất trong cuộc sống ở trường",
+        "zh": "在学校生活中被认为最重要的部分，",
+        "ja": "学校生活で最も重要だと考えられる部分が、"
       }
     },
     {
@@ -1941,7 +2909,11 @@
       "start": 1130.4,
       "end": 1132.84,
       "text": {
-        "ko": "바로 학교라는 큰 단체에서"
+        "ko": "바로 학교라는 큰 단체에서",
+        "en": "is, within the large group called school,",
+        "vi": "chính là, trong một tập thể lớn gọi là trường học,",
+        "zh": "就是在学校这个大集体中，",
+        "ja": "まさに学校という大きな団体の中で、"
       }
     },
     {
@@ -1949,7 +2921,11 @@
       "start": 1132.84,
       "end": 1136,
       "text": {
-        "ko": "규칙을 잘 지키고 잘 어우러지고"
+        "ko": "규칙을 잘 지키고 잘 어우러지고",
+        "en": "following the rules well, getting along well,",
+        "vi": "tuân thủ tốt các quy tắc, hòa nhập tốt,",
+        "zh": "好好遵守规则、好好融入，",
+        "ja": "ルールをよく守り、よく溶け込み、"
       }
     },
     {
@@ -1957,7 +2933,11 @@
       "start": 1136,
       "end": 1140.16,
       "text": {
-        "ko": "또 올바른 생활습관을 기르는 것을 배우는 거잖아요."
+        "ko": "또 올바른 생활습관을 기르는 것을 배우는 거잖아요.",
+        "en": "and learning to develop proper lifestyle habits, right?",
+        "vi": "và học cách rèn luyện thói quen sinh hoạt đúng đắn, phải không ạ?",
+        "zh": "还有学习养成正确的生活习惯，对吧。",
+        "ja": "そして正しい生活習慣を身につけることを学ぶわけですよね。"
       }
     },
     {
@@ -1965,7 +2945,11 @@
       "start": 1140.16,
       "end": 1144.52,
       "text": {
-        "ko": "유치원 시기까지는 사실 규모도 좀 작고"
+        "ko": "유치원 시기까지는 사실 규모도 좀 작고",
+        "en": "Up until the kindergarten period, the scale was actually a bit smaller,",
+        "vi": "Cho đến thời kỳ mẫu giáo, thật ra quy mô cũng nhỏ hơn một chút,",
+        "zh": "到幼儿园时期为止，其实规模也比较小，",
+        "ja": "幼稚園の時期までは実は規模も少し小さく、"
       }
     },
     {
@@ -1973,7 +2957,11 @@
       "start": 1144.52,
       "end": 1147.4,
       "text": {
-        "ko": "유치원 담임 선생님이나 보조 선생님께서"
+        "ko": "유치원 담임 선생님이나 보조 선생님께서",
+        "en": "and the kindergarten homeroom teacher or assistant teacher",
+        "vi": "và giáo viên chủ nhiệm hoặc giáo viên trợ giảng ở mẫu giáo",
+        "zh": "幼儿园的班主任老师或助教老师",
+        "ja": "幼稚園の担任の先生や補助の先生が、"
       }
     },
     {
@@ -1981,7 +2969,11 @@
       "start": 1147.4,
       "end": 1150.8,
       "text": {
-        "ko": "여러 가지 활동을 도와주시니까 그나마 괜찮다가"
+        "ko": "여러 가지 활동을 도와주시니까 그나마 괜찮다가",
+        "en": "helped with various activities, so it was relatively okay, but",
+        "vi": "giúp đỡ nhiều hoạt động khác nhau nên dù sao cũng còn ổn, nhưng",
+        "zh": "会帮忙做各种活动，所以还算可以，但是",
+        "ja": "いろいろな活動を手伝ってくださるので、まだ何とかなっていたのが、"
       }
     },
     {
@@ -1989,7 +2981,11 @@
       "start": 1150.8,
       "end": 1152.6,
       "text": {
-        "ko": "초등학교에 입학하게 되면"
+        "ko": "초등학교에 입학하게 되면",
+        "en": "once they enter elementary school,",
+        "vi": "khi vào tiểu học,",
+        "zh": "一旦进入小学，",
+        "ja": "小学校に入学すると、"
       }
     },
     {
@@ -1997,7 +2993,11 @@
       "start": 1152.6,
       "end": 1156.2,
       "text": {
-        "ko": "아이들이 스스로 혼자만의 힘으로 해야 되는 일들이"
+        "ko": "아이들이 스스로 혼자만의 힘으로 해야 되는 일들이",
+        "en": "the things children have to do on their own, by themselves,",
+        "vi": "những việc mà trẻ phải tự mình làm một mình",
+        "zh": "孩子们要靠自己一个人完成的事情",
+        "ja": "子どもたちが自分一人の力でやらなければならないことが、"
       }
     },
     {
@@ -2005,7 +3005,11 @@
       "start": 1156.2,
       "end": 1157.88,
       "text": {
-        "ko": "훨씬 많아지게 됩니다."
+        "ko": "훨씬 많아지게 됩니다.",
+        "en": "become much more numerous.",
+        "vi": "trở nên nhiều hơn rất nhiều.",
+        "zh": "会变得多得多。",
+        "ja": "はるかに多くなります。"
       }
     },
     {
@@ -2013,7 +3017,11 @@
       "start": 1157.88,
       "end": 1161.16,
       "text": {
-        "ko": "맞습니다. 예를 들어서 급식 시간대에"
+        "ko": "맞습니다. 예를 들어서 급식 시간대에",
+        "en": "That's right. For example, during meal time,",
+        "vi": "Đúng vậy. Ví dụ như vào giờ ăn,",
+        "zh": "没错。比如说在用餐时间，",
+        "ja": "そうですね。例えば給食の時間帯に、"
       }
     },
     {
@@ -2021,7 +3029,11 @@
       "start": 1161.16,
       "end": 1164.04,
       "text": {
-        "ko": "유치원에서는 선생님이 식판을 가지고"
+        "ko": "유치원에서는 선생님이 식판을 가지고",
+        "en": "in kindergarten, the teacher takes the meal tray",
+        "vi": "ở mẫu giáo, giáo viên cầm khay ăn",
+        "zh": "在幼儿园老师会拿着餐盘，",
+        "ja": "幼稚園では先生が食器トレーを持って、"
       }
     },
     {
@@ -2029,7 +3041,11 @@
       "start": 1164.04,
       "end": 1167.68,
       "text": {
-        "ko": "밥을 퍼주시고 차려주시잖아요."
+        "ko": "밥을 퍼주시고 차려주시잖아요.",
+        "en": "and serves the food and sets it out for them, right?",
+        "vi": "và xới cơm, dọn sẵn cho các bé, phải không ạ.",
+        "zh": "帮忙盛饭、摆好饭菜，对吧。",
+        "ja": "ご飯をよそって用意してくださいますよね。"
       }
     },
     {
@@ -2037,7 +3053,11 @@
       "start": 1167.68,
       "end": 1171,
       "text": {
-        "ko": "초등학교에 가면 스스로 식판을 들고"
+        "ko": "초등학교에 가면 스스로 식판을 들고",
+        "en": "In elementary school, they have to hold the tray themselves,",
+        "vi": "Khi lên tiểu học, các bé phải tự cầm khay ăn,",
+        "zh": "上了小学就要自己端着餐盘，",
+        "ja": "小学校に行くと、自分で食器トレーを持って、"
       }
     },
     {
@@ -2045,7 +3065,11 @@
       "start": 1171,
       "end": 1173.56,
       "text": {
-        "ko": "한 줄로 서서 차례를 기다리면서"
+        "ko": "한 줄로 서서 차례를 기다리면서",
+        "en": "stand in a line, wait their turn,",
+        "vi": "xếp thành một hàng, chờ đến lượt,",
+        "zh": "排成一排等待轮到自己，",
+        "ja": "一列に並んで順番を待ちながら、"
       }
     },
     {
@@ -2053,7 +3077,11 @@
       "start": 1173.56,
       "end": 1176.96,
       "text": {
-        "ko": "음식을 받아서 자기 자리로 이동을 해야 되는 것도"
+        "ko": "음식을 받아서 자기 자리로 이동을 해야 되는 것도",
+        "en": "receive the food, and move to their own seat — that too",
+        "vi": "nhận thức ăn rồi di chuyển về chỗ ngồi của mình — điều đó cũng",
+        "zh": "领取食物再移动到自己的座位，这也",
+        "ja": "食べ物を受け取って自分の席へ移動しなければならないのも、"
       }
     },
     {
@@ -2061,7 +3089,11 @@
       "start": 1176.96,
       "end": 1178.64,
       "text": {
-        "ko": "처음 해볼 것이고요."
+        "ko": "처음 해볼 것이고요.",
+        "en": "will be something they try for the first time.",
+        "vi": "sẽ là lần đầu tiên các bé thử làm.",
+        "zh": "也是第一次尝试做。",
+        "ja": "初めてやることになりますし。"
       }
     },
     {
@@ -2069,7 +3101,11 @@
       "start": 1178.64,
       "end": 1181.36,
       "text": {
-        "ko": "그리고 포크나 어린이 젓가락이 아니라"
+        "ko": "그리고 포크나 어린이 젓가락이 아니라",
+        "en": "And not with a fork or children's chopsticks,",
+        "vi": "Và không phải bằng nĩa hay đũa trẻ em,",
+        "zh": "而且不是用叉子或儿童筷子，",
+        "ja": "そしてフォークや子ども用の箸ではなく、"
       }
     },
     {
@@ -2077,7 +3113,11 @@
       "start": 1181.36,
       "end": 1184.56,
       "text": {
-        "ko": "쇠 젓가락으로 음식을 먹어야 됩니다."
+        "ko": "쇠 젓가락으로 음식을 먹어야 됩니다.",
+        "en": "they have to eat with metal chopsticks.",
+        "vi": "mà phải ăn bằng đũa kim loại.",
+        "zh": "而要用金属筷子来吃饭。",
+        "ja": "金属の箸で食べ物を食べなければなりません。"
       }
     },
     {
@@ -2085,7 +3125,11 @@
       "start": 1184.56,
       "end": 1188.28,
       "text": {
-        "ko": "또 우유 급식을 받으면 우유 종이팩을"
+        "ko": "또 우유 급식을 받으면 우유 종이팩을",
+        "en": "Also, when they receive milk at school, they should be able to",
+        "vi": "Ngoài ra, khi nhận sữa ở trường, hộp giấy đựng sữa",
+        "zh": "另外,在学校领到牛奶时,牛奶纸盒",
+        "ja": "また、牛乳の給食をもらったら、牛乳の紙パックを"
       }
     },
     {
@@ -2093,7 +3137,11 @@
       "start": 1188.28,
       "end": 1190.84,
       "text": {
-        "ko": "성인에게 도움 없이 혼자서 열고"
+        "ko": "성인에게 도움 없이 혼자서 열고",
+        "en": "open it on their own without help from an adult,",
+        "vi": "trẻ phải tự mở mà không cần người lớn giúp,",
+        "zh": "要能在没有大人帮助的情况下自己打开,",
+        "ja": "大人の助けなしに自分で開けて、"
       }
     },
     {
@@ -2101,7 +3149,11 @@
       "start": 1190.84,
       "end": 1192.76,
       "text": {
-        "ko": "또 우유를 먹고 남을 수 있죠."
+        "ko": "또 우유를 먹고 남을 수 있죠.",
+        "en": "and they might have some milk left over after drinking.",
+        "vi": "và sau khi uống sữa cũng có thể còn lại một ít.",
+        "zh": "喝完牛奶后也可能会剩下一些。",
+        "ja": "また牛乳を飲んで残ることもありますよね。"
       }
     },
     {
@@ -2109,7 +3161,11 @@
       "start": 1192.76,
       "end": 1198.36,
       "text": {
-        "ko": "그러면 본인이 스스로 닫고 보관도 잘 할 수 있어야 합니다."
+        "ko": "그러면 본인이 스스로 닫고 보관도 잘 할 수 있어야 합니다.",
+        "en": "In that case, they should be able to close it themselves and store it properly.",
+        "vi": "Khi đó, trẻ phải tự đóng lại và bảo quản tốt.",
+        "zh": "那么孩子要能自己盖好并妥善保存。",
+        "ja": "そうしたら自分で閉めて、ちゃんと保管もできなければなりません。"
       }
     },
     {
@@ -2117,7 +3173,11 @@
       "start": 1198.36,
       "end": 1201.6,
       "text": {
-        "ko": "또 수업 시간에는 연필을 올바르게 잡고"
+        "ko": "또 수업 시간에는 연필을 올바르게 잡고",
+        "en": "Also, during class they hold the pencil correctly",
+        "vi": "Ngoài ra, trong giờ học trẻ cầm bút chì đúng cách",
+        "zh": "另外,在上课时要正确握铅笔,",
+        "ja": "また授業時間には鉛筆を正しく持って、"
       }
     },
     {
@@ -2125,7 +3185,11 @@
       "start": 1201.6,
       "end": 1205.8,
       "text": {
-        "ko": "공책 줄에 맞춰서 글씨를 쓰는 것, 가위질을 하는 것,"
+        "ko": "공책 줄에 맞춰서 글씨를 쓰는 것, 가위질을 하는 것,",
+        "en": "writing along the lines of the notebook, using scissors,",
+        "vi": "viết chữ theo dòng kẻ trong vở, dùng kéo cắt,",
+        "zh": "按照本子上的横线写字、用剪刀剪东西、",
+        "ja": "ノートの線に合わせて字を書くこと、はさみを使うこと、"
       }
     },
     {
@@ -2133,7 +3197,11 @@
       "start": 1205.8,
       "end": 1209.88,
       "text": {
-        "ko": "만들기, 색칠하기 등 다양한 활동을 하게 되는데요."
+        "ko": "만들기, 색칠하기 등 다양한 활동을 하게 되는데요.",
+        "en": "crafting, coloring, and many other activities.",
+        "vi": "làm thủ công, tô màu và nhiều hoạt động đa dạng khác.",
+        "zh": "做手工、涂色等各种各样的活动。",
+        "ja": "工作、塗り絵など様々な活動をすることになります。"
       }
     },
     {
@@ -2141,7 +3209,11 @@
       "start": 1209.88,
       "end": 1214.88,
       "text": {
-        "ko": "이런 학교에서의 학습활동 대부분을 어려움 없이 하려면"
+        "ko": "이런 학교에서의 학습활동 대부분을 어려움 없이 하려면",
+        "en": "To do most of these school learning activities without difficulty,",
+        "vi": "Để thực hiện hầu hết các hoạt động học tập ở trường một cách dễ dàng,",
+        "zh": "要想毫无困难地完成学校里这些大部分学习活动,",
+        "ja": "こうした学校での学習活動の大部分を難なくこなすには、"
       }
     },
     {
@@ -2149,7 +3221,11 @@
       "start": 1214.88,
       "end": 1219.24,
       "text": {
-        "ko": "대근육, 소근육 운동의 발달이 제대로 이루어져야 하는 겁니다."
+        "ko": "대근육, 소근육 운동의 발달이 제대로 이루어져야 하는 겁니다.",
+        "en": "the development of gross motor and fine motor skills must be properly achieved.",
+        "vi": "sự phát triển của vận động thô và vận động tinh phải diễn ra đúng cách.",
+        "zh": "大肌肉运动和小肌肉运动的发展必须得到正常发展。",
+        "ja": "大筋肉・小筋肉運動の発達がきちんと行われなければならないのです。"
       }
     },
     {
@@ -2157,7 +3233,11 @@
       "start": 1219.24,
       "end": 1221.64,
       "text": {
-        "ko": "네, 이런 것들이 잘 발달이 되려면"
+        "ko": "네, 이런 것들이 잘 발달이 되려면",
+        "en": "Yes, for these things to develop well,",
+        "vi": "Vâng, để những điều này phát triển tốt,",
+        "zh": "是的,要想这些方面发展得好,",
+        "ja": "はい、こうしたことがしっかり発達するためには、"
       }
     },
     {
@@ -2165,7 +3245,11 @@
       "start": 1221.64,
       "end": 1224.88,
       "text": {
-        "ko": "이 환경 전기의 신체 놀이는 필수적인 것이고"
+        "ko": "이 환경 전기의 신체 놀이는 필수적인 것이고",
+        "en": "physical play in this early period is essential,",
+        "vi": "hoạt động vận động cơ thể trong giai đoạn đầu này là điều thiết yếu,",
+        "zh": "这一早期阶段的身体游戏是必不可少的,",
+        "ja": "この時期の身体遊びは必須であり、"
       }
     },
     {
@@ -2173,7 +3257,11 @@
       "start": 1224.88,
       "end": 1228.12,
       "text": {
-        "ko": "그 시간이 많을수록 더 좋을 것 같습니다."
+        "ko": "그 시간이 많을수록 더 좋을 것 같습니다.",
+        "en": "and the more time spent on it, the better, I think.",
+        "vi": "và thời gian đó càng nhiều thì càng tốt.",
+        "zh": "花的时间越多就越好。",
+        "ja": "その時間が多ければ多いほど良いと思います。"
       }
     },
     {
@@ -2181,7 +3269,11 @@
       "start": 1228.12,
       "end": 1231.16,
       "text": {
-        "ko": "소화과 선생님께서 추천하시는"
+        "ko": "소아과 선생님께서 추천하시는",
+        "en": "What physical play activities would the pediatrician recommend",
+        "vi": "Những hoạt động vận động cơ thể mà bác sĩ nhi khoa khuyên dùng",
+        "zh": "小儿科医生推荐的",
+        "ja": "小児科の先生がおすすめする"
       }
     },
     {
@@ -2189,7 +3281,11 @@
       "start": 1231.16,
       "end": 1233.72,
       "text": {
-        "ko": "2세에서 6세 아이들을 위한 신체 놀이"
+        "ko": "2세에서 6세 아이들을 위한 신체 놀이",
+        "en": "physical play for children aged 2 to 6 years—",
+        "vi": "hoạt động vận động cơ thể cho trẻ từ 2 đến 6 tuổi",
+        "zh": "适合2岁到6岁孩子的身体游戏",
+        "ja": "2歳から6歳の子どもたちのための身体遊び、"
       }
     },
     {
@@ -2197,7 +3293,11 @@
       "start": 1233.72,
       "end": 1236.04,
       "text": {
-        "ko": "어떤 것들이 있을까요?"
+        "ko": "어떤 것들이 있을까요?",
+        "en": "what kinds are there?",
+        "vi": "có những loại nào?",
+        "zh": "会有哪些呢?",
+        "ja": "どんなものがあるでしょうか?"
       }
     },
     {
@@ -2205,7 +3305,11 @@
       "start": 1236.04,
       "end": 1239.12,
       "text": {
-        "ko": "놀이의 기본은 재미잖아요."
+        "ko": "놀이의 기본은 재미잖아요.",
+        "en": "The basis of play is fun, right?",
+        "vi": "Cơ bản của việc chơi là sự vui vẻ mà.",
+        "zh": "游戏的基本就是有趣嘛。",
+        "ja": "遊びの基本は楽しさですよね。"
       }
     },
     {
@@ -2213,7 +3317,11 @@
       "start": 1239.12,
       "end": 1241.24,
       "text": {
-        "ko": "재미이기 때문에 신체 놀이도"
+        "ko": "재미이기 때문에 신체 놀이도",
+        "en": "Because it's about fun, for physical play too,",
+        "vi": "Vì là sự vui vẻ nên với hoạt động vận động cơ thể cũng vậy,",
+        "zh": "因为是有趣的,所以身体游戏也",
+        "ja": "楽しさが大事なので、身体遊びも"
       }
     },
     {
@@ -2221,7 +3329,11 @@
       "start": 1241.24,
       "end": 1245.12,
       "text": {
-        "ko": "아이가 좋아하는 활동을 선택하면 됩니다."
+        "ko": "아이가 좋아하는 활동을 선택하면 됩니다.",
+        "en": "you can just choose activities the child enjoys.",
+        "vi": "chỉ cần chọn hoạt động mà trẻ thích là được.",
+        "zh": "选择孩子喜欢的活动就可以了。",
+        "ja": "子どもが好きな活動を選べばいいんです。"
       }
     },
     {
@@ -2229,7 +3341,11 @@
       "start": 1245.12,
       "end": 1246.96,
       "text": {
-        "ko": "아이가 좋아하는 놀이를 하되"
+        "ko": "아이가 좋아하는 놀이를 하되",
+        "en": "While doing the play the child enjoys,",
+        "vi": "Cho trẻ chơi trò mà trẻ thích, nhưng",
+        "zh": "做孩子喜欢的游戏,但是",
+        "ja": "子どもが好きな遊びをしつつ、"
       }
     },
     {
@@ -2237,7 +3353,11 @@
       "start": 1246.96,
       "end": 1251.56,
       "text": {
-        "ko": "되도록이면 두 가지를 포함시키는 것이 좋겠는데요."
+        "ko": "되도록이면 두 가지를 포함시키는 것이 좋겠는데요.",
+        "en": "it would be good to include two things if possible.",
+        "vi": "nếu có thể thì nên bao gồm hai yếu tố sẽ tốt hơn.",
+        "zh": "最好尽量包含两个要素。",
+        "ja": "できれば二つのことを含めるのが良いでしょう。"
       }
     },
     {
@@ -2245,7 +3365,11 @@
       "start": 1251.56,
       "end": 1256.28,
       "text": {
-        "ko": "첫 번째는 대근육, 소근육을 같이 발달시킬 수 있는 놀이"
+        "ko": "첫 번째는 대근육, 소근육을 같이 발달시킬 수 있는 놀이,",
+        "en": "The first is play that can develop both gross motor and fine motor skills together,",
+        "vi": "Thứ nhất là các trò chơi có thể phát triển cả vận động thô và vận động tinh,",
+        "zh": "第一是能够同时发展大肌肉和小肌肉的游戏，",
+        "ja": "一つ目は粗大運動と微細運動を一緒に発達させられる遊び、"
       }
     },
     {
@@ -2253,7 +3377,11 @@
       "start": 1256.28,
       "end": 1262.2,
       "text": {
-        "ko": "그리고 두 번째는 간단한 규칙이 있는 놀이를 하는 것이 좋겠습니다."
+        "ko": "그리고 두 번째는 간단한 규칙이 있는 놀이를 하는 것이 좋겠습니다.",
+        "en": "and second, it would be good to do play with simple rules.",
+        "vi": "và thứ hai là nên chơi những trò chơi có quy tắc đơn giản.",
+        "zh": "第二是玩有简单规则的游戏会比较好。",
+        "ja": "そして二つ目は簡単なルールのある遊びをするのが良いでしょう。"
       }
     },
     {
@@ -2261,7 +3389,11 @@
       "start": 1262.2,
       "end": 1264.96,
       "text": {
-        "ko": "예를 들어 공놀이를 좋아하는 아이라면"
+        "ko": "예를 들어 공놀이를 좋아하는 아이라면",
+        "en": "For example, if it's a child who likes playing with balls,",
+        "vi": "Ví dụ, nếu là một đứa trẻ thích chơi bóng,",
+        "zh": "比如说，如果是喜欢玩球的孩子，",
+        "ja": "例えばボール遊びが好きな子なら、"
       }
     },
     {
@@ -2269,7 +3401,11 @@
       "start": 1264.96,
       "end": 1267.96,
       "text": {
-        "ko": "공을 던지면서 대근육 발달도 하지만"
+        "ko": "공을 던지면서 대근육 발달도 하지만",
+        "en": "throwing the ball develops gross motor skills, but",
+        "vi": "việc ném bóng vừa phát triển vận động thô, nhưng",
+        "zh": "扔球既能发展大肌肉，",
+        "ja": "ボールを投げながら粗大運動も発達させますが、"
       }
     },
     {
@@ -2277,7 +3413,11 @@
       "start": 1267.96,
       "end": 1270.76,
       "text": {
-        "ko": "동시에 바구니에 공을 던져 넣기"
+        "ko": "동시에 바구니에 공을 던져 넣기",
+        "en": "at the same time, throwing the ball into a basket,",
+        "vi": "đồng thời ném bóng vào rổ,",
+        "zh": "同时还能把球扔进篮子里，",
+        "ja": "同時にかごにボールを投げ入れたり、"
       }
     },
     {
@@ -2285,7 +3425,11 @@
       "start": 1270.76,
       "end": 1273.64,
       "text": {
-        "ko": "혹은 공을 굴려서 장애물을 쓰러뜨리기"
+        "ko": "혹은 공을 굴려서 장애물을 쓰러뜨리기",
+        "en": "or rolling the ball to knock over obstacles,",
+        "vi": "hoặc lăn bóng để làm đổ chướng ngại vật,",
+        "zh": "或者滚球把障碍物撞倒，",
+        "ja": "あるいはボールを転がして障害物を倒すような、"
       }
     },
     {
@@ -2293,7 +3437,11 @@
       "start": 1273.64,
       "end": 1276.4,
       "text": {
-        "ko": "같은 소근육 활동도 같이 넣어서 하면"
+        "ko": "같은 소근육 활동도 같이 넣어서 하면",
+        "en": "if you include such fine motor activities together,",
+        "vi": "nếu kết hợp thêm các hoạt động vận động tinh như vậy,",
+        "zh": "把这样的小肌肉活动也一起加进去的话，",
+        "ja": "そういった微細運動の活動も一緒に取り入れてやると、"
       }
     },
     {
@@ -2301,7 +3449,11 @@
       "start": 1276.4,
       "end": 1278.4,
       "text": {
-        "ko": "더 좋겠다는 말씀이시네요."
+        "ko": "더 좋겠다는 말씀이시네요.",
+        "en": "it would be even better, you're saying.",
+        "vi": "thì sẽ tốt hơn, ý chị là vậy phải không.",
+        "zh": "会更好，您是这个意思吧。",
+        "ja": "もっと良いということですね。"
       }
     },
     {
@@ -2309,7 +3461,11 @@
       "start": 1278.4,
       "end": 1280.72,
       "text": {
-        "ko": "아이 스스로가 내가 해냈다"
+        "ko": "아이 스스로가 '내가 해냈다'",
+        "en": "If the child can feel a sense of accomplishment, like 'I did it,'",
+        "vi": "Nếu bản thân đứa trẻ có thể cảm nhận được cảm giác thành tựu 'mình đã làm được',",
+        "zh": "如果孩子自己能感受到“我做到了”",
+        "ja": "子ども自身が「自分がやり遂げた」"
       }
     },
     {
@@ -2317,7 +3473,11 @@
       "start": 1280.72,
       "end": 1283.04,
       "text": {
-        "ko": "라는 성취감을 같이 느낄 수 있다면"
+        "ko": "라는 성취감을 같이 느낄 수 있다면",
+        "en": "on their own as well,",
+        "vi": "cùng lúc đó nữa,",
+        "zh": "这样的成就感的话，",
+        "ja": "という達成感も一緒に感じられたら、"
       }
     },
     {
@@ -2325,7 +3485,11 @@
       "start": 1283.04,
       "end": 1286.08,
       "text": {
-        "ko": "그 놀이가 금상첨화가 될 것 같습니다."
+        "ko": "그 놀이가 금상첨화가 될 것 같습니다.",
+        "en": "that play would be the icing on the cake.",
+        "vi": "thì trò chơi đó sẽ là điều tuyệt vời nhất.",
+        "zh": "那个游戏就锦上添花了。",
+        "ja": "その遊びは鬼に金棒になりそうですね。"
       }
     },
     {
@@ -2333,7 +3497,11 @@
       "start": 1286.08,
       "end": 1287.28,
       "text": {
-        "ko": "맞습니다."
+        "ko": "맞습니다.",
+        "en": "That's right.",
+        "vi": "Đúng vậy.",
+        "zh": "没错。",
+        "ja": "そうですね。"
       }
     },
     {
@@ -2341,7 +3509,11 @@
       "start": 1287.28,
       "end": 1290,
       "text": {
-        "ko": "이렇게 아이의 발달 단계에 맞춰서"
+        "ko": "이렇게 아이의 발달 단계에 맞춰서",
+        "en": "When you give a mission that matches the child's developmental stage like this",
+        "vi": "Khi đưa ra nhiệm vụ phù hợp với giai đoạn phát triển của trẻ như vậy",
+        "zh": "像这样根据孩子的发展阶段",
+        "ja": "このように子どもの発達段階に合わせて"
       }
     },
     {
@@ -2349,7 +3521,11 @@
       "start": 1290,
       "end": 1293.28,
       "text": {
-        "ko": "맞는 미션을 주고 그 놀이를 하게 되면요"
+        "ko": "맞는 미션을 주고 그 놀이를 하게 되면요",
+        "en": "and have them do that play,",
+        "vi": "và cho trẻ chơi trò chơi đó,",
+        "zh": "给出合适的任务，让孩子玩那个游戏的话，",
+        "ja": "合ったミッションを与えてその遊びをすると、"
       }
     },
     {
@@ -2357,7 +3533,11 @@
       "start": 1293.28,
       "end": 1297.36,
       "text": {
-        "ko": "아이가 훨씬 더 재미있게 놀이에 참여할 수 있게 돼요."
+        "ko": "아이가 훨씬 더 재미있게 놀이에 참여할 수 있게 돼요.",
+        "en": "the child can participate in the play much more enjoyably.",
+        "vi": "trẻ có thể tham gia vào trò chơi một cách thú vị hơn nhiều.",
+        "zh": "孩子就能更有趣地参与到游戏中。",
+        "ja": "子どもがずっと楽しく遊びに参加できるようになるんです。"
       }
     },
     {
@@ -2365,7 +3545,11 @@
       "start": 1297.36,
       "end": 1300.92,
       "text": {
-        "ko": "그래서 저는 그런 놀이 중에 하나로"
+        "ko": "그래서 저는 그런 놀이 중에 하나로",
+        "en": "So as one of those kinds of play,",
+        "vi": "Vì vậy, một trong những trò chơi như vậy,",
+        "zh": "所以我作为这类游戏中的一种，",
+        "ja": "そこで私はそういった遊びの一つとして、"
       }
     },
     {
@@ -2373,7 +3557,11 @@
       "start": 1300.92,
       "end": 1303.88,
       "text": {
-        "ko": "장애물 넘기 놀이를 추천합니다."
+        "ko": "장애물 넘기 놀이를 추천합니다.",
+        "en": "I recommend an obstacle course game.",
+        "vi": "tôi khuyên dùng trò chơi vượt chướng ngại vật.",
+        "zh": "推荐越过障碍物的游戏。",
+        "ja": "障害物越え遊びをおすすめします。"
       }
     },
     {
@@ -2381,7 +3569,11 @@
       "start": 1303.88,
       "end": 1306.44,
       "text": {
-        "ko": "이 놀이의 규칙은 정말 간단해요."
+        "ko": "이 놀이의 규칙은 정말 간단해요.",
+        "en": "The rules of this game are really simple.",
+        "vi": "Quy tắc của trò chơi này thực sự đơn giản.",
+        "zh": "这个游戏的规则真的很简单。",
+        "ja": "この遊びのルールは本当に簡単です。"
       }
     },
     {
@@ -2389,7 +3581,11 @@
       "start": 1306.44,
       "end": 1311.36,
       "text": {
-        "ko": "목표 지점을 정해두고 아이가 완주하게 만드는 놀이인데요."
+        "ko": "목표 지점을 정해두고 아이가 완주하게 만드는 놀이인데요.",
+        "en": "It's a game where you set a goal point and have the child complete the course.",
+        "vi": "Đây là trò chơi đặt sẵn điểm đích và cho trẻ hoàn thành chặng đường.",
+        "zh": "是先定好目标地点，让孩子完成全程的游戏。",
+        "ja": "目標地点を決めておいて、子どもが完走できるようにする遊びです。"
       }
     },
     {
@@ -2397,7 +3593,11 @@
       "start": 1311.36,
       "end": 1313.56,
       "text": {
-        "ko": "아이가 목표 지점까지 가는 동안"
+        "ko": "아이가 목표 지점까지 가는 동안",
+        "en": "While the child goes to the goal point,",
+        "vi": "Trong khi trẻ đi đến điểm đích,",
+        "zh": "在孩子前往目标地点的过程中，",
+        "ja": "子どもが目標地点まで行く間に、"
       }
     },
     {
@@ -2405,7 +3605,11 @@
       "start": 1313.56,
       "end": 1316.36,
       "text": {
-        "ko": "아이의 발달 단계에 맞춰서 부모님께서"
+        "ko": "아이의 발달 단계에 맞춰서 부모님께서",
+        "en": "In line with your child's developmental stage, you as parents",
+        "vi": "Phù hợp với giai đoạn phát triển của trẻ, cha mẹ",
+        "zh": "配合孩子的发育阶段，父母",
+        "ja": "お子さんの発達段階に合わせて、保護者の方が"
       }
     },
     {
@@ -2413,7 +3617,11 @@
       "start": 1316.36,
       "end": 1320.48,
       "text": {
-        "ko": "주변에 있는 사물로 여러 가지 장애물을 만들어"
+        "ko": "주변에 있는 사물로 여러 가지 장애물을 만들어",
+        "en": "can use objects around you to create various obstacles,",
+        "vi": "dùng những đồ vật xung quanh để tạo ra nhiều chướng ngại vật khác nhau,",
+        "zh": "用周围的物品制作各种障碍物，",
+        "ja": "周りにある物でさまざまな障害物を作って"
       }
     },
     {
@@ -2421,7 +3629,11 @@
       "start": 1320.48,
       "end": 1324.28,
       "text": {
-        "ko": "아이가 미션을 통과하면서 가도록 하는 놀이입니다."
+        "ko": "아이가 미션을 통과하면서 가도록 하는 놀이입니다.",
+        "en": "and have your child pass through them like missions. That's the game.",
+        "vi": "và cho trẻ vượt qua các nhiệm vụ để đi tiếp. Đây là trò chơi như vậy.",
+        "zh": "让孩子通过任务一边前进的游戏。",
+        "ja": "お子さんがミッションを通過しながら進むという遊びです。"
       }
     },
     {
@@ -2429,7 +3641,11 @@
       "start": 1324.28,
       "end": 1327.24,
       "text": {
-        "ko": "그 미션은 아이가 해내는 정도에 따라서"
+        "ko": "그 미션은 아이가 해내는 정도에 따라서",
+        "en": "Depending on how well your child can do it,",
+        "vi": "Nhiệm vụ đó, tùy theo mức độ trẻ làm được,",
+        "zh": "那个任务可以根据孩子完成的程度，",
+        "ja": "そのミッションは、お子さんができる程度に応じて"
       }
     },
     {
@@ -2437,7 +3653,11 @@
       "start": 1327.24,
       "end": 1329.52,
       "text": {
-        "ko": "얼마든지 변형이 가능한데요."
+        "ko": "얼마든지 변형이 가능한데요.",
+        "en": "that mission can be modified however you like.",
+        "vi": "có thể biến đổi tùy ý.",
+        "zh": "任意进行变化。",
+        "ja": "いくらでも変形が可能なんです。"
       }
     },
     {
@@ -2445,7 +3665,11 @@
       "start": 1329.52,
       "end": 1333.44,
       "text": {
-        "ko": "예를 들어서 3세 아이는 선을 그어 놓고"
+        "ko": "예를 들어서 3세 아이는 선을 그어 놓고",
+        "en": "For example, for a 3-year-old, you can draw a line",
+        "vi": "Ví dụ, với trẻ 3 tuổi, bạn có thể vẽ một đường thẳng",
+        "zh": "比如说，对3岁的孩子，可以画一条线，",
+        "ja": "例えば、3歳のお子さんには線を引いておいて"
       }
     },
     {
@@ -2453,7 +3677,11 @@
       "start": 1333.44,
       "end": 1337.52,
       "text": {
-        "ko": "일자로 걸어가면서 통과하는 미션을 주셔도 되고"
+        "ko": "일자로 걸어가면서 통과하는 미션을 주셔도 되고",
+        "en": "and give the mission of walking straight along it,",
+        "vi": "và giao nhiệm vụ đi thẳng theo đường để vượt qua,",
+        "zh": "给出沿直线走过去的任务，",
+        "ja": "まっすぐ歩いて通過するミッションを与えてもいいですし"
       }
     },
     {
@@ -2461,7 +3689,11 @@
       "start": 1337.52,
       "end": 1340.08,
       "text": {
-        "ko": "6세 아이에게는 너무 쉬운 미션이잖아요."
+        "ko": "6세 아이에게는 너무 쉬운 미션이잖아요.",
+        "en": "but for a 6-year-old, that's too easy a mission, right?",
+        "vi": "nhưng với trẻ 6 tuổi thì nhiệm vụ đó quá dễ phải không?",
+        "zh": "对6岁的孩子来说，这个任务太简单了吧。",
+        "ja": "6歳のお子さんには簡単すぎるミッションですよね。"
       }
     },
     {
@@ -2469,7 +3701,11 @@
       "start": 1340.08,
       "end": 1343.52,
       "text": {
-        "ko": "그러면 선을 일자로 통과를 하되"
+        "ko": "그러면 선을 일자로 통과를 하되",
+        "en": "In that case, they walk straight along the line,",
+        "vi": "Vậy thì cho trẻ đi thẳng theo đường,",
+        "zh": "那么就让孩子沿直线走过去，",
+        "ja": "それなら線をまっすぐ通過させつつ"
       }
     },
     {
@@ -2477,7 +3713,11 @@
       "start": 1343.52,
       "end": 1345.56,
       "text": {
-        "ko": "숟가락에 작은 궁을 올리고"
+        "ko": "숟가락에 작은 공을 올리고",
+        "en": "but you can put a small ball on a spoon",
+        "vi": "nhưng đặt một quả bóng nhỏ lên thìa",
+        "zh": "在勺子上放一个小球，",
+        "ja": "スプーンに小さなボールを乗せて"
       }
     },
     {
@@ -2485,7 +3725,11 @@
       "start": 1345.56,
       "end": 1349,
       "text": {
-        "ko": "떨어뜨리지 않고 이동하게 만들 수도 있겠죠."
+        "ko": "떨어뜨리지 않고 이동하게 만들 수도 있겠죠.",
+        "en": "and have them move without dropping it.",
+        "vi": "và cho trẻ di chuyển mà không làm rơi nó.",
+        "zh": "让孩子不掉下来地移动也可以。",
+        "ja": "落とさずに移動させることもできますよね。"
       }
     },
     {
@@ -2493,7 +3737,11 @@
       "start": 1349,
       "end": 1351.84,
       "text": {
-        "ko": "또는 낮은 장애물을 만들고"
+        "ko": "또는 낮은 장애물을 만들고",
+        "en": "Or you can make a low obstacle",
+        "vi": "Hoặc bạn có thể tạo một chướng ngại vật thấp",
+        "zh": "或者制作一个低的障碍物，",
+        "ja": "または低い障害物を作って"
       }
     },
     {
@@ -2501,7 +3749,11 @@
       "start": 1351.84,
       "end": 1355.32,
       "text": {
-        "ko": "아래로 지나가는 림보 놀이를 하게 할 수도 있고요."
+        "ko": "아래로 지나가는 림보 놀이를 하게 할 수도 있고요.",
+        "en": "and have them play limbo, passing underneath it.",
+        "vi": "và cho trẻ chơi trò limbo, chui qua bên dưới.",
+        "zh": "让孩子玩从下面穿过的林波舞游戏也可以。",
+        "ja": "下をくぐるリンボーダンス遊びをさせることもできます。"
       }
     },
     {
@@ -2509,7 +3761,11 @@
       "start": 1355.32,
       "end": 1359.24,
       "text": {
-        "ko": "이처럼 부모님께서 조금만 창의력을 발휘하신다면"
+        "ko": "이처럼 부모님께서 조금만 창의력을 발휘하신다면",
+        "en": "Like this, if you parents use just a little creativity,",
+        "vi": "Như vậy, nếu cha mẹ phát huy một chút sáng tạo,",
+        "zh": "像这样，只要父母稍微发挥一点创意，",
+        "ja": "このように、保護者の方が少し創意工夫を発揮すれば"
       }
     },
     {
@@ -2517,7 +3773,11 @@
       "start": 1359.24,
       "end": 1364.28,
       "text": {
-        "ko": "집에 있는 물건들로 충분히 다양한 코스를 만들 수 있어요."
+        "ko": "집에 있는 물건들로 충분히 다양한 코스를 만들 수 있어요.",
+        "en": "you can create plenty of varied courses with things at home.",
+        "vi": "bạn hoàn toàn có thể tạo ra nhiều đường đi đa dạng bằng đồ vật trong nhà.",
+        "zh": "用家里的物品就完全可以制作出各种各样的路线。",
+        "ja": "家にある物で十分にさまざまなコースを作ることができます。"
       }
     },
     {
@@ -2525,7 +3785,11 @@
       "start": 1364.28,
       "end": 1367.48,
       "text": {
-        "ko": "조금씩 난이도를 올려가면서 놀이를 하면"
+        "ko": "조금씩 난이도를 올려가면서 놀이를 하면",
+        "en": "If you play while gradually raising the difficulty,",
+        "vi": "Nếu chơi mà tăng dần độ khó từng chút một,",
+        "zh": "一点点提高难度来玩游戏的话，",
+        "ja": "少しずつ難易度を上げながら遊べば"
       }
     },
     {
@@ -2533,7 +3797,11 @@
       "start": 1367.48,
       "end": 1369.04,
       "text": {
-        "ko": "아이가 지루해지지도 않고"
+        "ko": "아이가 지루해지지도 않고",
+        "en": "your child won't get bored,",
+        "vi": "trẻ sẽ không bị chán,",
+        "zh": "孩子也不会觉得无聊，",
+        "ja": "お子さんが退屈しませんし"
       }
     },
     {
@@ -2541,7 +3809,11 @@
       "start": 1369.04,
       "end": 1371.56,
       "text": {
-        "ko": "놀이를 끝까지 이어나갈 수 있겠죠."
+        "ko": "놀이를 끝까지 이어나갈 수 있겠죠.",
+        "en": "and can keep the game going to the end.",
+        "vi": "và có thể tiếp tục trò chơi đến cùng.",
+        "zh": "也能把游戏坚持玩到最后。",
+        "ja": "遊びを最後まで続けることができますよね。"
       }
     },
     {
@@ -2549,7 +3821,11 @@
       "start": 1371.56,
       "end": 1374.44,
       "text": {
-        "ko": "단 기억해야 할 것은 하나가 있습니다."
+        "ko": "단 기억해야 할 것은 하나가 있습니다.",
+        "en": "But there's one thing you must remember.",
+        "vi": "Nhưng có một điều bạn cần ghi nhớ.",
+        "zh": "不过有一点是必须记住的。",
+        "ja": "ただ、覚えておくべきことが一つあります。"
       }
     },
     {
@@ -2557,7 +3833,11 @@
       "start": 1374.44,
       "end": 1376.88,
       "text": {
-        "ko": "이것은 절대 아이를 평가하거나"
+        "ko": "이것은 절대 아이를 평가하거나",
+        "en": "This is absolutely not about evaluating your child,",
+        "vi": "Đây tuyệt đối không phải để đánh giá trẻ,",
+        "zh": "这绝对不是要评价孩子，",
+        "ja": "これは絶対にお子さんを評価したり"
       }
     },
     {
@@ -2565,7 +3845,11 @@
       "start": 1376.88,
       "end": 1379.2,
       "text": {
-        "ko": "경쟁하게 만드는 것이 아니라"
+        "ko": "경쟁하게 만드는 것이 아니라",
+        "en": "Rather than making them compete,",
+        "vi": "Không phải là khiến trẻ phải cạnh tranh,",
+        "zh": "不是让孩子去竞争,",
+        "ja": "競争させるのではなく、"
       }
     },
     {
@@ -2573,7 +3857,11 @@
       "start": 1379.2,
       "end": 1382.56,
       "text": {
-        "ko": "단순히 재미가 있는 놀이여야 하기 때문에"
+        "ko": "단순히 재미가 있는 놀이여야 하기 때문에",
+        "en": "it should simply be a fun kind of play,",
+        "vi": "mà phải đơn giản là một trò chơi vui vẻ,",
+        "zh": "而应该单纯是有趣的游戏,",
+        "ja": "単純に楽しい遊びでなければならないので、"
       }
     },
     {
@@ -2581,7 +3869,11 @@
       "start": 1382.56,
       "end": 1385.28,
       "text": {
-        "ko": "아이가 중간에 규칙을 바꾸더라도"
+        "ko": "아이가 중간에 규칙을 바꾸더라도",
+        "en": "so even if the child changes the rules midway,",
+        "vi": "nên dù trẻ có thay đổi luật chơi giữa chừng,",
+        "zh": "所以即使孩子中途改变规则,",
+        "ja": "子どもが途中でルールを変えても、"
       }
     },
     {
@@ -2589,7 +3881,11 @@
       "start": 1385.28,
       "end": 1389.28,
       "text": {
-        "ko": "아니면 아이가 새로운 장애물을 본인 스스로 만들더라도"
+        "ko": "아니면 아이가 새로운 장애물을 본인 스스로 만들더라도",
+        "en": "or even if the child creates a new obstacle on their own,",
+        "vi": "hoặc dù trẻ tự mình tạo ra chướng ngại vật mới,",
+        "zh": "或者孩子自己制造出新的障碍物,",
+        "ja": "あるいは子どもが新しい障害物を自分で作ったとしても、"
       }
     },
     {
@@ -2597,7 +3893,11 @@
       "start": 1389.28,
       "end": 1393.84,
       "text": {
-        "ko": "언제든지 놀이는 변형될 수 있다는 점을 명심해주세요."
+        "ko": "언제든지 놀이는 변형될 수 있다는 점을 명심해주세요.",
+        "en": "please keep in mind that play can be modified at any time.",
+        "vi": "xin hãy ghi nhớ rằng trò chơi có thể được biến đổi bất cứ lúc nào.",
+        "zh": "请记住,游戏随时都可以变化。",
+        "ja": "いつでも遊びは変形できるという点を心に留めておいてください。"
       }
     },
     {
@@ -2605,7 +3905,11 @@
       "start": 1400.2,
       "end": 1402.24,
       "text": {
-        "ko": "오늘은 놀이가 왜 중요한지"
+        "ko": "오늘은 놀이가 왜 중요한지",
+        "en": "Today, we looked at why play is important,",
+        "vi": "Hôm nay chúng ta đã tìm hiểu về việc tại sao chơi lại quan trọng,",
+        "zh": "今天我们了解了为什么游戏很重要,",
+        "ja": "今日は遊びがなぜ重要なのか、"
       }
     },
     {
@@ -2613,7 +3917,11 @@
       "start": 1402.24,
       "end": 1407.24,
       "text": {
-        "ko": "그리고 그 중에서도 신체 놀이의 중요성과 역할에 대해서 알아보았습니다."
+        "ko": "그리고 그 중에서도 신체 놀이의 중요성과 역할에 대해서 알아보았습니다.",
+        "en": "and among those, the importance and role of physical play.",
+        "vi": "và trong đó, về tầm quan trọng cũng như vai trò của trò chơi vận động.",
+        "zh": "以及其中身体游戏的重要性和作用。",
+        "ja": "そしてその中でも身体遊びの重要性と役割について調べてみました。"
       }
     },
     {
@@ -2621,7 +3929,11 @@
       "start": 1407.24,
       "end": 1409.16,
       "text": {
-        "ko": "오늘 이 강연을 듣고 나시면"
+        "ko": "오늘 이 강연을 듣고 나시면",
+        "en": "After listening to today's lecture,",
+        "vi": "Sau khi nghe bài giảng hôm nay,",
+        "zh": "听完今天这场讲座之后,",
+        "ja": "今日のこの講演を聞き終えたら、"
       }
     },
     {
@@ -2629,7 +3941,11 @@
       "start": 1409.16,
       "end": 1412.88,
       "text": {
-        "ko": "우리 아이와 함께 손세 선생님께서 추천해주신"
+        "ko": "우리 아이와 함께 손수예 선생님께서 추천해주신",
+        "en": "how about trying the obstacle-crossing game that teacher Son Su-ye recommended",
+        "vi": "thì cùng con thử chơi trò vượt chướng ngại vật mà cô Son Su-ye đã giới thiệu",
+        "zh": "和孩子一起试试孙秀艺老师推荐的",
+        "ja": "お子さんと一緒に、ソン・スイェ先生が勧めてくださった"
       }
     },
     {
@@ -2637,7 +3953,11 @@
       "start": 1412.88,
       "end": 1416.44,
       "text": {
-        "ko": "장애물 넘기 놀이 한번 해보시면 어떨까요?"
+        "ko": "장애물 넘기 놀이 한번 해보시면 어떨까요?",
+        "en": "with your child?",
+        "vi": "thì sao nhỉ?",
+        "zh": "跨越障碍物的游戏,怎么样呢?",
+        "ja": "障害物越え遊びを一度やってみてはいかがでしょうか?"
       }
     },
     {
@@ -2645,7 +3965,11 @@
       "start": 1416.44,
       "end": 1418.6,
       "text": {
-        "ko": "다음은 신체 놀이에 이어서"
+        "ko": "다음은 신체 놀이에 이어서",
+        "en": "Next, following physical play,",
+        "vi": "Tiếp theo, sau trò chơi vận động,",
+        "zh": "接下来,继续身体游戏之后,",
+        "ja": "次は身体遊びに続いて、"
       }
     },
     {
@@ -2653,7 +3977,11 @@
       "start": 1418.6,
       "end": 1421.92,
       "text": {
-        "ko": "언어, 인지적 그리고 사회적 발달을 중심으로"
+        "ko": "언어, 인지적 그리고 사회적 발달을 중심으로",
+        "en": "we will continue to explore the changes in play, focusing on language, cognitive, and social development.",
+        "vi": "chúng ta sẽ tiếp tục tìm hiểu về sự thay đổi của trò chơi, tập trung vào sự phát triển ngôn ngữ, nhận thức và xã hội.",
+        "zh": "以语言、认知以及社会性发展为中心,",
+        "ja": "言語、認知的、そして社会的発達を中心に、"
       }
     },
     {
@@ -2661,7 +3989,11 @@
       "start": 1421.92,
       "end": 1424.72,
       "text": {
-        "ko": "놀이의 변화에 대해서 계속 알아보겠습니다."
+        "ko": "놀이의 변화에 대해서 계속 알아보겠습니다.",
+        "en": "We will continue to look at the changes in play.",
+        "vi": "Chúng ta sẽ tiếp tục tìm hiểu về sự thay đổi của trò chơi.",
+        "zh": "我们将继续了解游戏的变化。",
+        "ja": "遊びの変化について引き続き調べていきます。"
       }
     }
   ]
