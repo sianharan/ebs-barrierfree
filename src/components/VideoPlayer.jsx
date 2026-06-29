@@ -3,19 +3,23 @@
 // content.json 의 videoUrl(EBS VOD CDN 직접 .mp4)을 HTML5 <video> 로 재생하고,
 // 그 위에 이중자막(DualSubtitle)을 오버레이한다. 더빙(⑥)은 이후 단계.
 //
-// 재생시간은 video 의 timeupdate 이벤트로 추적해 자막 컴포넌트에 내려준다.
-// (timeupdate 는 브라우저가 초당 약 4회만 발생시키므로 추가 throttle 없이 충분하다.)
+// 재생시간/시킹은 App 이 소유한다(대본 패널과 공유해야 하므로):
+//  - videoRef: App 이 넘긴 ref. 대본 줄 클릭 시 App 이 이 ref 로 currentTime 을 옮긴다.
+//  - onTimeUpdate(seconds): timeupdate 마다 현재 시각을 App 으로 올린다(초당 약 4회).
+//  - activeSegment: App 이 계산한 현재 세그먼트(자막 표시용).
 //
-// CORS 주의: 자막은 영상 호스트의 <track> 이 아니라 로컬 JSON 오버레이로 표시하므로
-// 영상에 crossOrigin 이 필요 없다(다른 출처 재생은 localhost·배포 모두 확인됨, AGENTS.md).
+// CORS 주의: 자막은 <track> 이 아니라 로컬 JSON 오버레이라 crossOrigin 불필요(AGENTS.md).
 
-import { useRef, useState } from 'react';
 import DualSubtitle from './DualSubtitle.jsx';
 
-export default function VideoPlayer({ src, title, segments = [], subtitleLangs = ['ko', 'vi'] }) {
-  const videoRef = useRef(null);
-  const [time, setTime] = useState(0);
-
+export default function VideoPlayer({
+  src,
+  title,
+  videoRef,
+  onTimeUpdate,
+  activeSegment,
+  subtitleLangs = ['ko', 'vi'],
+}) {
   if (!src) {
     return (
       <div className="aspect-video w-full grid place-items-center rounded-xl bg-ink/5 text-ink/60">
@@ -34,15 +38,13 @@ export default function VideoPlayer({ src, title, segments = [], subtitleLangs =
         controls
         preload="metadata"
         playsInline
-        onTimeUpdate={(e) => setTime(e.currentTarget.currentTime)}
+        onTimeUpdate={(e) => onTimeUpdate?.(e.currentTarget.currentTime)}
         aria-label={title ? `${title} 동영상 플레이어` : '동영상 플레이어'}
       >
         이 브라우저는 동영상 재생을 지원하지 않습니다.
       </video>
 
-      {segments.length > 0 && (
-        <DualSubtitle segments={segments} time={time} langs={subtitleLangs} />
-      )}
+      <DualSubtitle segment={activeSegment} langs={subtitleLangs} />
     </div>
   );
 }
