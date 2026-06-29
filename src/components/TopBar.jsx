@@ -7,6 +7,7 @@
 // 검색(④)·AI 도구 버튼은 이후 단계에서 이 바에 더한다.
 
 import { useSettings, LANGUAGES, DISPLAY_MODES } from '../lib/settings.jsx';
+import { t } from '../lib/i18n.js';
 
 function GlobeIcon() {
   return (
@@ -33,12 +34,14 @@ export default function TopBar() {
         <span className="font-title text-xl text-logo-navy">EBS 배리어프리</span>
 
         <div className="ml-auto flex flex-wrap items-center gap-3">
-          {/* 번역 표시 모드 (세그먼트 토글) */}
+          {/* 번역 표시 모드 (세그먼트 토글) — 라벨은 내 언어 기준 t() */}
           <div className="flex items-center gap-2">
-            <span className="hidden text-xs font-medium text-ink/60 sm:inline">번역 표시</span>
+            <span className="hidden text-xs font-medium text-ink/60 sm:inline">
+              {t('nav.translateDisplay', myLang)}
+            </span>
             <div
               role="group"
-              aria-label="번역 표시"
+              aria-label={t('nav.translateDisplay', myLang)}
               className="flex items-center rounded-full border border-ink/15 bg-white p-1"
             >
               {DISPLAY_MODES.map((m) => {
@@ -55,7 +58,7 @@ export default function TopBar() {
                         : 'text-ink hover:bg-ink/5'
                     }`}
                   >
-                    {m.label}
+                    {t(m.key, myLang)}
                   </button>
                 );
               })}
@@ -65,7 +68,7 @@ export default function TopBar() {
           {/* 내 언어 (지구본 드롭다운) */}
           <label className="flex min-h-[44px] items-center gap-1.5 rounded-full border border-ink/15 bg-white pl-3 pr-2">
             <GlobeIcon />
-            <span className="sr-only">내 언어</span>
+            <span className="sr-only">{t('nav.myLanguage', myLang)}</span>
             <select
               value={myLang}
               onChange={(e) => setMyLang(e.target.value)}

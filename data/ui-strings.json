@@ -1,0 +1,9 @@
+{
+  "nav.translateDisplay": { "ko": "번역 표시", "en": "Translation", "vi": "Hiển thị bản dịch", "zh": "翻译显示", "ja": "翻訳表示" },
+  "nav.myLanguage": { "ko": "내 언어", "en": "My language", "vi": "Ngôn ngữ của tôi", "zh": "我的语言", "ja": "私の言語" },
+  "mode.ko": { "ko": "한국어만", "en": "Korean only", "vi": "Chỉ tiếng Hàn", "zh": "仅韩语", "ja": "韓国語のみ" },
+  "mode.both": { "ko": "함께", "en": "Both", "vi": "Cả hai", "zh": "对照", "ja": "併記" },
+  "mode.mine": { "ko": "모국어만", "en": "My language only", "vi": "Chỉ ngôn ngữ của tôi", "zh": "仅母语", "ja": "母語のみ" },
+  "content.description": { "ko": "설명", "en": "Description", "vi": "Mô tả", "zh": "说明", "ja": "説明" },
+  "content.hashtags": { "ko": "해시태그", "en": "Hashtags", "vi": "Hashtag", "zh": "标签", "ja": "ハッシュタグ" }
+}

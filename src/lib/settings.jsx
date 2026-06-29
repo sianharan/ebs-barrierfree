@@ -18,11 +18,11 @@ export const LANGUAGES = [
   { code: 'ja', label: '日本語' },
 ];
 
-// 번역 표시 모드.
+// 번역 표시 모드. 버튼 라벨은 ui-strings.json 키로(한국어 하드코딩 금지, AGENTS.md ②).
 export const DISPLAY_MODES = [
-  { id: 'ko', label: '한국어만' },
-  { id: 'both', label: '함께' },
-  { id: 'mine', label: '모국어만' },
+  { id: 'ko', key: 'mode.ko' },
+  { id: 'both', key: 'mode.both' },
+  { id: 'mine', key: 'mode.mine' },
 ];
 
 const DEFAULT_LANG = 'vi';
@@ -46,12 +46,21 @@ export function useSettings() {
   return ctx;
 }
 
-// 모드 + 내 언어 → 표시할 자막 언어 배열(첫 번째가 주 언어=크게).
+// 모드 + 내 언어 → 표시할 언어 배열(첫 번째가 주 언어). 자막·정적 텍스트가 같은 규칙을 공유한다.
 //  - 'ko'(한국어만):   [ko]
 //  - 'mine'(모국어만): [myLang]
 //  - 'both'(함께):     [ko, myLang]  (내 언어가 ko면 중복 제거 → [ko])
-export function subtitleLangsFor(displayMode, myLang) {
+export function displayLangsFor(displayMode, myLang) {
   if (displayMode === 'ko') return ['ko'];
   if (displayMode === 'mine') return [myLang];
   return myLang === 'ko' ? ['ko'] : ['ko', myLang];
+}
+
+// 자막용 별칭(의미 명확화) — 규칙은 displayLangsFor 와 동일.
+export const subtitleLangsFor = displayLangsFor;
+
+// 현재 전역 설정 기준의 표시 언어 배열을 반환하는 훅.
+export function useDisplayLangs() {
+  const { displayMode, myLang } = useSettings();
+  return displayLangsFor(displayMode, myLang);
 }
