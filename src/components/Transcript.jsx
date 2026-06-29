@@ -10,12 +10,16 @@
 // 구간이동은 줄을 덮는 오버레이 <button>(z-0)으로, 텍스트는 그 위(z-10, pointer-events-none)에
 // 둔다. 어휘 단어·스피커만 pointer-events-auto 라 클릭이 그쪽으로 가고, 빈 곳 클릭은 오버레이(이동)로 떨어진다.
 
-import { Fragment, memo, useEffect, useMemo, useRef } from 'react';
+import { Fragment, memo, useEffect, useMemo, useRef, useSyncExternalStore } from 'react';
 import { formatTimecode } from '../lib/segments.js';
 import { indexVocabBySegment, matchTerms } from '../lib/vocab.js';
 import { t } from '../lib/i18n.js';
+import { subscribe as subscribeAudio, getState as getAudioState } from '../lib/audioBus.js';
 import VocabularyTooltip from './VocabularyTooltip.jsx';
 import ReadAloud from './ReadAloud.jsx';
+
+// 읽어주기 줄 식별용 안정 키(버스 activeId 와 동일 규칙).
+const readId = (segId) => `seg-${segId}`;
 
 // 한국어 텍스트를 어휘 매칭 구간으로 쪼개, 단어는 툴팁으로·나머지는 평문으로 렌더.
 function renderKorean(text, terms, defLang) {
@@ -41,6 +45,10 @@ function Transcript({ segments, langs = ['ko', 'vi'], activeId, onSeek, vocabula
   const containerRef = useRef(null);
   const vocabBySegment = useMemo(() => indexVocabBySegment(vocabulary), [vocabulary]);
 
+  // 현재 읽어주는 줄 — 오디오 버스에서 구독해 줄에 시각 신호를 준다.
+  const audio = useSyncExternalStore(subscribeAudio, getAudioState, getAudioState);
+  const readingId = audio.source === 'read' ? audio.activeId : null;
+
   // 활성 줄이 바뀌면 패널 내부에서 가운데로 부드럽게 스크롤(페이지는 건드리지 않는다).
   useEffect(() => {
     const c = containerRef.current;
@@ -63,6 +71,7 @@ function Transcript({ segments, langs = ['ko', 'vi'], activeId, onSeek, vocabula
       <ul className="divide-y divide-ink/5">
         {segments.map((seg) => {
           const active = seg.id === activeId;
+          const reading = readingId === readId(seg.id);
           const terms = vocabBySegment.get(seg.id) || [];
 
           const renderLine = (lang, isPrimary) => {
@@ -85,16 +94,23 @@ function Transcript({ segments, langs = ['ko', 'vi'], activeId, onSeek, vocabula
           };
 
           return (
-            <li key={seg.id} data-active={active ? 'true' : undefined} className="relative">
-              {/* 구간이동 오버레이(줄 전체) — 빈 곳 클릭/키보드로 이동 */}
+            <li
+              key={seg.id}
+              data-active={active ? 'true' : undefined}
+              data-reading={reading ? 'true' : undefined}
+              className={`relative ${reading ? 'ring-1 ring-inset ring-brand-deepblue/40' : ''}`}
+            >
+              {/* 구간이동 오버레이(줄 전체) — 빈 곳 클릭/키보드로 이동. 읽는 줄은 살짝 더 진하게. */}
               <button
                 type="button"
                 onClick={() => onSeek?.(seg.start)}
                 aria-label={`${formatTimecode(seg.start)} 구간으로 이동`}
                 className={`absolute inset-0 z-0 w-full border-l-4 transition-colors ${
-                  active
-                    ? 'border-brand-deepblue bg-brand-deepblue/10'
-                    : 'border-transparent hover:bg-ink/5'
+                  reading
+                    ? 'border-brand-deepblue bg-brand-deepblue/[0.07]'
+                    : active
+                      ? 'border-brand-deepblue bg-brand-deepblue/10'
+                      : 'border-transparent hover:bg-ink/5'
                 }`}
               />
               {/* 텍스트(오버레이 위) — 평문은 클릭이 통과(pointer-events-none), 어휘 단어·스피커만 클릭 대상 */}
@@ -108,6 +124,7 @@ function Transcript({ segments, langs = ['ko', 'vi'], activeId, onSeek, vocabula
                 </div>
                 {/* 읽어주기(③) — 줄 끝, 어휘 밑줄과 안 겹치게. 현재 표시 주 언어(primary)로 읽는다. */}
                 <ReadAloud
+                  id={readId(seg.id)}
                   className="pointer-events-auto mt-0.5"
                   text={seg.text?.[primary]}
                   lang={primary}

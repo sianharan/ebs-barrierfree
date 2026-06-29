@@ -4,7 +4,7 @@
 //  - time: video timeupdate 로 갱신.
 //  - activeIndex: 공용 유틸로 time 에 해당하는 세그먼트를 효율적으로 탐색(hint 근처부터).
 //  - handleSeek: 대본 줄 클릭 시 videoRef 로 currentTime 이동.
-import { useCallback, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import VideoPlayer from './components/VideoPlayer.jsx';
 import TopBar from './components/TopBar.jsx';
 import Transcript from './components/Transcript.jsx';
@@ -12,6 +12,7 @@ import { getContent } from './lib/content.js';
 import { useSettings, displayLangsFor } from './lib/settings.jsx';
 import { findActiveIndex } from './lib/segments.js';
 import { t } from './lib/i18n.js';
+import { registerVideo } from './lib/audioBus.js';
 
 export default function App() {
   const content = getContent();
@@ -36,6 +37,9 @@ export default function App() {
     const v = videoRef.current;
     if (v) v.currentTime = seconds;
   }, []);
+
+  // 영상을 오디오 버스에 등록 — 읽어주기가 시작/종료될 때 버스가 영상을 일시정지/재개한다.
+  useEffect(() => registerVideo(videoRef.current), []);
 
   return (
     <div className="min-h-screen bg-background text-ink font-sans">

@@ -1,39 +1,30 @@
 // ③ 읽어주기 — 대본 줄 끝의 스피커 버튼. 누르면 그 줄을 현재 표시 언어로 읽어준다.
 //
-// - 엔진은 lib/tts.js(브라우저 TTS → 추후 OpenAI). 이 컴포넌트는 버튼 UI·재생 상태만 갖는다.
-// - 재생 중 다시 누르면 멈춘다(토글). 다른 줄을 누르면 tts 가 이전 음성을 취소하고 시작한다.
-// - 오디오 충돌 제어("한 번에 한 목소리")는 다음 단계에서 audioBus 로 얹는다 — 지금은 소리부터.
-// - 강조색은 AI 기능 활성색 deep blue(brand-deepblue). 탭 타깃 44px 확보(접근성).
+// 재생은 직접 하지 않고 오디오 버스(audioBus)를 거친다("한 번에 한 목소리"):
+//  - 누르면 audioBus.playReadAloud → 영상 일시정지 + 이전 읽기 취소 후 재생.
+//  - 재생 상태는 버스가 진실의 원천 — 이 줄(id)이 현재 읽는 줄인지 구독해 음파 아이콘으로 표시.
+//  - 재생 중 다시 누르면 멈춘다(토글).
+// 강조색은 AI 기능 활성색 deep blue. 탭 타깃 44px 확보(접근성).
 
-import { useEffect, useState } from 'react';
-import { speak, cancel, isSupported } from '../lib/tts.js';
+import { useSyncExternalStore } from 'react';
+import {
+  subscribe,
+  getState,
+  playReadAloud,
+  stopReadAloud,
+  isReadAloudSupported,
+} from '../lib/audioBus.js';
 
-export default function ReadAloud({ text, lang = 'ko', label = '읽어주기', className = '' }) {
-  const [speaking, setSpeaking] = useState(false);
-
-  // 언마운트 시 재생 중이면 멈춘다(다른 화면으로 떠나도 소리가 남지 않게).
-  useEffect(() => {
-    return () => {
-      if (speaking) cancel();
-    };
-  }, [speaking]);
+export default function ReadAloud({ id, text, lang = 'ko', label = '읽어주기', className = '' }) {
+  const state = useSyncExternalStore(subscribe, getState, getState);
+  const speaking = state.source === 'read' && state.activeId === id;
 
   // 엔진 미지원이거나 읽을 텍스트가 없으면 버튼 자체를 숨긴다.
-  if (!isSupported() || !text) return null;
+  if (!isReadAloudSupported() || !text) return null;
 
   const toggle = () => {
-    if (speaking) {
-      cancel();
-      setSpeaking(false);
-      return;
-    }
-    setSpeaking(true);
-    speak({
-      text,
-      lang,
-      onEnd: () => setSpeaking(false),
-      onError: () => setSpeaking(false),
-    });
+    if (speaking) stopReadAloud(id);
+    else playReadAloud({ id, text, lang });
   };
 
   return (
