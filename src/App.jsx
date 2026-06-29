@@ -1,9 +1,30 @@
-// Phase 0 플레이스홀더 — 셋업 검증용 최소 화면. 기능은 이후 Phase에서 구현.
+// 콘텐츠 상세 페이지(영상) 뼈대 — Phase 2 ①이중자막 1단계.
+// 지금은 영상 + 제목(한국어)만. 이중자막·대본 패널·번역 표시 등은 이후 단계에서 얹는다.
+import VideoPlayer from './components/VideoPlayer.jsx';
+import { getContent } from './lib/content.js';
+
 export default function App() {
+  const content = getContent();
+
   return (
-    <main className="min-h-screen bg-background text-ink font-sans flex flex-col items-center justify-center gap-3 p-8">
-      <h1 className="font-title text-3xl text-logo-navy">EBS 배리어프리</h1>
-      <p className="text-brand-deepblue">다문화가정·외국인 언어 지원 PoC — Phase 0 셋업 완료</p>
-    </main>
-  )
+    <div className="min-h-screen bg-background text-ink font-sans">
+      {/* 상단 바(뼈대) — 컨트롤(번역 표시·검색·내 언어·AI 도구)은 이후 단계 */}
+      <header className="border-b border-ink/10 bg-white/70 backdrop-blur">
+        <div className="mx-auto flex max-w-5xl items-center px-4 py-3">
+          <span className="font-title text-xl text-logo-navy">EBS 배리어프리</span>
+        </div>
+      </header>
+
+      {/* 콘텐츠 상세 */}
+      <main className="mx-auto max-w-5xl px-4 py-6">
+        <article className="flex flex-col gap-4">
+          <VideoPlayer src={content.videoUrl} title={content.title?.ko} />
+
+          <h1 className="font-title text-2xl text-logo-navy md:text-3xl">
+            {content.title?.ko}
+          </h1>
+        </article>
+      </main>
+    </div>
+  );
 }
