@@ -11,6 +11,7 @@
 // CORS 주의: 자막은 <track> 이 아니라 로컬 JSON 오버레이라 crossOrigin 불필요(AGENTS.md).
 
 import DualSubtitle from './DualSubtitle.jsx';
+import DubbingControl from './DubbingControl.jsx';
 
 export default function VideoPlayer({
   src,
@@ -19,6 +20,8 @@ export default function VideoPlayer({
   onTimeUpdate,
   activeSegment,
   subtitleLangs = ['ko', 'vi'],
+  dubSegments,
+  uiLang = 'ko',
 }) {
   if (!src) {
     return (
@@ -45,6 +48,9 @@ export default function VideoPlayer({
       </video>
 
       <DualSubtitle segment={activeSegment} langs={subtitleLangs} />
+
+      {/* ⑥ 더빙 토글 — 플레이어 바(오른쪽 위). 해당 언어 더빙이 있을 때만 표시. */}
+      <DubbingControl segments={dubSegments} uiLang={uiLang} />
     </div>
   );
 }

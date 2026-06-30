@@ -55,6 +55,8 @@ export default function App() {
             onTimeUpdate={setTime}
             activeSegment={activeSegment}
             subtitleLangs={displayLangs}
+            dubSegments={content.dubByLang?.[myLang]}
+            uiLang={myLang}
           />
           <Transcript
             segments={segments}
