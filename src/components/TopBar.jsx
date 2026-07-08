@@ -7,6 +7,7 @@
 // 검색(④)·AI 도구 버튼은 이후 단계에서 이 바에 더한다.
 
 import { useSettings, LANGUAGES, DISPLAY_MODES } from '../lib/settings.jsx';
+import { useRouter } from '../lib/router.jsx';
 import { t } from '../lib/i18n.js';
 import SemanticSearch from './SemanticSearch.jsx';
 
@@ -28,13 +29,21 @@ function GlobeIcon() {
 
 export default function TopBar() {
   const { myLang, setMyLang, displayMode, setDisplayMode } = useSettings();
+  const { goList } = useRouter();
 
   return (
     // sticky + z-50: backdrop-blur 가 만드는 헤더 스택 컨텍스트를 본문(영상) 위로 올려,
     // 검색 결과 드롭다운(헤더 안 absolute)이 영상 플레이어에 가리지 않게 한다.
     <header className="sticky top-0 z-50 border-b border-ink/10 bg-white/70 backdrop-blur">
       <div className="mx-auto flex max-w-5xl flex-wrap items-center gap-x-4 gap-y-2 px-4 py-3">
-        <span className="font-title text-xl text-logo-navy">EBS 배리어프리</span>
+        {/* 로고 = 리스트로 돌아가기(상세에서 홈 역할). 리스트에서 눌러도 무해. */}
+        <button
+          type="button"
+          onClick={goList}
+          className="font-title text-xl text-logo-navy transition-opacity hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-deepblue"
+        >
+          EBS 배리어프리
+        </button>
 
         {/* ④ 의미 검색 — 넓은 화면에선 브랜드와 컨트롤 사이에서 늘어나고, 좁은 화면에선 줄바꿈. */}
         <div className="order-last w-full sm:order-none sm:w-auto sm:flex-1 sm:max-w-md">

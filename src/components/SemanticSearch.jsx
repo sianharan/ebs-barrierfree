@@ -9,6 +9,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { useSettings, displayLangsFor } from '../lib/settings.jsx';
+import { useRouter } from '../lib/router.jsx';
 import { getContentMeta } from '../lib/catalog.js';
 import { t } from '../lib/i18n.js';
 
@@ -34,6 +35,7 @@ function SearchIcon() {
 
 export default function SemanticSearch() {
   const { myLang, displayMode } = useSettings();
+  const { goDetail } = useRouter();
   const displayLangs = displayLangsFor(displayMode, myLang);
   const [primary, ...secondary] = displayLangs;
 
@@ -138,7 +140,11 @@ export default function SemanticSearch() {
                   <li key={r.contentId}>
                     <button
                       type="button"
-                      onClick={() => setOpen(false)}
+                      onClick={() => {
+                        // 검색 결과 클릭 → 해당 상세 페이지로 이동 + 패널 닫기.
+                        setOpen(false);
+                        goDetail(r.contentId);
+                      }}
                       className="flex w-full flex-col gap-1 px-4 py-3 text-left transition-colors hover:bg-brand-blue/10"
                     >
                       <div className="flex items-start justify-between gap-3">

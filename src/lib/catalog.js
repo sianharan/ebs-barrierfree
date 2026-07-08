@@ -13,6 +13,9 @@ import sample03 from '../../data/sample-03/content.json';
 const ALL = [sample01, sample02, sample03];
 export const CATALOG = Object.fromEntries(ALL.map((c) => [c.id, c]));
 
+// 리스트 페이지용 정렬된 콘텐츠 메타 배열(표시 순서 그대로). 새 콘텐츠는 위 import + ALL 에 추가.
+export const CATALOG_LIST = ALL;
+
 // contentId → 콘텐츠 메타(title/description/… 다국어). 없으면 null.
 export function getContentMeta(id) {
   return CATALOG[id] || null;
