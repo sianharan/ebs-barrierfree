@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "id": "thumb",
+      "src": "/images/sample-01.png",
+      "regions": [
+        {
+          "bbox": [
+            0.03,
+            0.07,
+            0.15,
+            0.08
+          ],
+          "text": {
+            "ko": "유아 클래스 e",
+            "en": "Toddler Class e",
+            "vi": "Lớp học trẻ nhỏ e",
+            "zh": "幼儿课堂 e",
+            "ja": "幼児クラス e"
+          }
+        },
+        {
+          "bbox": [
+            0.13,
+            0.74,
+            0.75,
+            0.24
+          ],
+          "text": {
+            "ko": "1강 우리 아이의 신체 발달과 놀이",
+            "en": "Lesson 1: Our Child's Physical Development and Play",
+            "vi": "Bài 1: Sự phát triển thể chất và trò chơi của con chúng ta",
+            "zh": "第1讲 我们孩子的身体发育与游戏",
+            "ja": "第1講 うちの子の身体発達と遊び"
+          }
+        }
+      ]
+    }
+  ]
+}

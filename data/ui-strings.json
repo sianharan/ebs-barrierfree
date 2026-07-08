@@ -18,6 +18,7 @@
   "list.back": { "ko": "목록으로", "en": "Back to list", "vi": "Về danh sách", "zh": "返回列表", "ja": "一覧へ" },
   "content.description": { "ko": "설명", "en": "Description", "vi": "Mô tả", "zh": "说明", "ja": "説明" },
   "content.hashtags": { "ko": "해시태그", "en": "Hashtags", "vi": "Hashtag", "zh": "标签", "ja": "ハッシュタグ" },
+  "content.related": { "ko": "관련 영상", "en": "Related videos", "vi": "Video liên quan", "zh": "相关视频", "ja": "関連動画" },
   "transcript.readAloud": { "ko": "읽어주기", "en": "Read aloud", "vi": "Đọc to", "zh": "朗读", "ja": "読み上げ" },
   "player.dubbing": { "ko": "더빙", "en": "Dubbing", "vi": "Lồng tiếng", "zh": "配音", "ja": "吹き替え" },
   "player.dubbingNow": { "ko": "더빙 중", "en": "Dubbing", "vi": "Đang lồng tiếng", "zh": "配音中", "ja": "吹き替え中" }

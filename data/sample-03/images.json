@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "id": "thumb",
+      "src": "/images/sample-03.png",
+      "regions": [
+        {
+          "bbox": [
+            0.03,
+            0.08,
+            0.16,
+            0.06
+          ],
+          "text": {
+            "ko": "유아 클래스",
+            "en": "Early Childhood Class",
+            "vi": "Lớp học mầm non",
+            "zh": "幼儿课堂",
+            "ja": "幼児クラス"
+          }
+        },
+        {
+          "bbox": [
+            0.22,
+            0.73,
+            0.56,
+            0.24
+          ],
+          "text": {
+            "ko": "3강 우리 아이 첫 성교육",
+            "en": "Lesson 3: Our Child's First Sex Education",
+            "vi": "Bài 3: Giáo dục giới tính đầu tiên cho con",
+            "zh": "第3讲 孩子的第一堂性教育",
+            "ja": "第3講 うちの子の初めての性教育"
+          }
+        }
+      ]
+    }
+  ]
+}

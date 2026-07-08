@@ -8,7 +8,9 @@
 // 번역으로 실제 이미지를 얹을 자리라, <TranslatableImage> 로 감싸기 쉽게 별도 컴포넌트로 둔다.
 
 import TopBar from '../components/TopBar.jsx';
+import TranslatableImage from '../components/TranslatableImage.jsx';
 import { CATALOG_LIST } from '../lib/catalog.js';
+import { getImage } from '../lib/images.js';
 import { useRouter } from '../lib/router.jsx';
 import { useSettings, displayLangsFor } from '../lib/settings.jsx';
 import { t } from '../lib/i18n.js';
@@ -27,19 +29,26 @@ function lessonBadge(content, index) {
   return m ? `${m[1]}강` : String(index + 1);
 }
 
-function Thumbnail({ content, index }) {
+// 16:9 썸네일 — 실제 대표 이미지 + ② 오버레이 번역(TranslatableImage). 배지·재생 아이콘은
+// children 으로 오버레이 위에 얹는다. 전처리 이미지가 없으면 컴포넌트가 브랜드 틴트로 폴백한다.
+function Thumbnail({ content, index, langs }) {
   return (
-    // 16:9 플레이스홀더 — 나중에 실제 이미지 + ② 오버레이 번역이 들어올 자리.
-    <div className="relative aspect-video w-full overflow-hidden rounded-xl bg-gradient-to-br from-brand-blue/30 to-logo-navy/20">
-      <span className="absolute left-3 top-3 rounded-md bg-white/85 px-2 py-0.5 text-xs font-bold text-logo-navy">
+    <TranslatableImage
+      image={getImage(content.id)}
+      langs={langs}
+      alt={content.title?.ko ?? ''}
+      className="aspect-video w-full rounded-xl"
+    >
+      {/* 배지는 우상단으로 — 좌상단 브랜딩 오버레이(②)와 겹치지 않게. */}
+      <span className="pointer-events-none absolute right-3 top-3 z-10 rounded-md bg-white/85 px-2 py-0.5 text-xs font-bold text-logo-navy">
         {lessonBadge(content, index)}
       </span>
-      <span className="absolute inset-0 grid place-items-center">
+      <span className="pointer-events-none absolute inset-0 z-10 grid place-items-center">
         <span className="grid h-14 w-14 place-items-center rounded-full bg-white/90 text-brand-deepblue shadow-sm">
           <PlayIcon />
         </span>
       </span>
-    </div>
+    </TranslatableImage>
   );
 }
 
@@ -56,7 +65,7 @@ function ContentCard({ content, index, langs, onOpen }) {
         onClick={() => onOpen(content.id)}
         className="group flex w-full flex-col gap-3 rounded-xl border border-ink/10 bg-white/70 p-3 text-left shadow-sm transition-shadow hover:shadow-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-deepblue"
       >
-        <Thumbnail content={content} index={index} />
+        <Thumbnail content={content} index={index} langs={langs} />
 
         <div className="flex flex-col gap-1 px-1 pb-1">
           {/* 제목 — 주 언어 크게, 보조 언어는 아래 옅게 */}
@@ -132,8 +141,9 @@ export default function ListPage() {
           <span className="font-title text-xl text-brand-deepblue">{items.length}</span>
         </div>
 
-        {/* 카드 그리드 */}
-        <ul className="mt-4 grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-3">
+        {/* 카드 그리드 — 넓은 화면 2열(모바일 1열). 카드를 키워 썸네일 속 ② 번역 텍스트가 잘 읽히게.
+            콘텐츠 3개라 2열이면 첫 줄 2개·둘째 줄 1개. */}
+        <ul className="mt-4 grid grid-cols-1 gap-5 sm:grid-cols-2">
           {items.map((content, index) => (
             <ContentCard
               key={content.id}

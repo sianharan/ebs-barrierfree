@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "id": "thumb",
+      "src": "/images/sample-02.png",
+      "regions": [
+        {
+          "bbox": [
+            0.17,
+            0.76,
+            0.71,
+            0.22
+          ],
+          "text": {
+            "ko": "2강 진정한 놀이란 무엇일까?",
+            "en": "Lesson 2: What Is True Play?",
+            "vi": "Bài 2: Chơi thực sự là gì?",
+            "zh": "第2讲 什么才是真正的游戏？",
+            "ja": "第2講 本当の遊びとは何か？"
+          }
+        }
+      ]
+    }
+  ]
+}
