@@ -11,6 +11,8 @@ import subtitles01 from '../../data/sample-01/subtitles.json';
 import vocabulary01 from '../../data/sample-01/vocabulary.json';
 import dubVi01 from '../../data/sample-01/dub-vi.json';
 import content02 from '../../data/sample-02/content.json';
+import subtitles02 from '../../data/sample-02/subtitles.json';
+import vocabulary02 from '../../data/sample-02/vocabulary.json';
 import content03 from '../../data/sample-03/content.json';
 
 // ⑥ 더빙 음성 사전(dub-{lang}.json) — 언어별로 묶는다(데이터로 관리, AGENTS.md).
@@ -26,7 +28,12 @@ const REGISTRY = {
     vocabulary: Array.isArray(vocabulary01.terms) ? vocabulary01.terms : [],
     dubByLang: { vi: segs(dubVi01) },
   },
-  'sample-02': { content: content02, segments: [], vocabulary: [], dubByLang: {} },
+  'sample-02': {
+    content: content02,
+    segments: segs(subtitles02),
+    vocabulary: Array.isArray(vocabulary02.terms) ? vocabulary02.terms : [],
+    dubByLang: {}, // 더빙(⑥)은 아직 미생성 — 토글 숨김.
+  },
   'sample-03': { content: content03, segments: [], vocabulary: [], dubByLang: {} },
 };
 

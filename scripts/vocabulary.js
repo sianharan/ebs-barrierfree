@@ -11,19 +11,22 @@
 // 추출을 전체 단위로 하는 이유: 배치로 쪼개면 단어가 중복되고, segmentId 를 실제 자막에서
 // 정확히 고르기 어렵다. 출력이 가벼운 추출은 한 번에, 무거운 뜻풀이만 배치+동시성으로 처리한다.
 //
-// 실행: node scripts/vocabulary.js
+// 실행: node scripts/vocabulary.js [contentId]   (기본 sample-01)
 // 필요: .env 의 ANTHROPIC_API_KEY, 그리고 먼저 translate.js 로 교정된 subtitles.json.
 
 import { readFile, mkdir } from 'node:fs/promises';
 import { existsSync, createWriteStream } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { contentConfig } from './contents.js';
 
 // ── 경로 설정 ──────────────────────────────────────────────────────────────
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 
-const CONTENT_ID = 'sample-01';
+// 대상 콘텐츠는 CLI 인자로(기본 sample-01). 예: node scripts/vocabulary.js sample-02
+const CONTENT_ID = process.argv[2] || 'sample-01';
+const TOPIC = contentConfig(CONTENT_ID).topic;
 const DATA_DIR = path.join(ROOT, 'data', CONTENT_ID);
 const SUBTITLES_JSON = path.join(DATA_DIR, 'subtitles.json');
 const VOCABULARY_JSON = path.join(DATA_DIR, 'vocabulary.json');
@@ -245,7 +248,7 @@ function parseJsonLoose(text) {
 // ── 프롬프트 ───────────────────────────────────────────────────────────────
 const EXTRACT_SYSTEM = `당신은 EBS 교육 영상의 한국어 자막에서, 한국어가 모국어가 아닌 학습자(다문화가정·외국인)가 어려워할 주요 단어를 골라내는 한국어 교육 전문가입니다.
 
-영상 주제: 영유아(유아)의 신체 발달과 놀이. 소아청소년과·소아청소년 정신건강의학과 전문의가 부모를 대상으로 설명하는 강의입니다.
+영상 주제: ${TOPIC}
 
 [작업] 입력은 전체 자막 세그먼트 배열(각 {id, ko})입니다. 자막 전체를 보고, 학습자에게 풀이가 필요한 핵심 단어를 추출하세요.
 - 우선 대상: 유아 신체발달·놀이 관련 전문용어와 학습 핵심어(예: 대근육, 소근육, 발달 단계, 운동 발달, 협응, 균형감각, 감각통합, 정서 발달 등).
@@ -259,7 +262,7 @@ const EXTRACT_SYSTEM = `당신은 EBS 교육 영상의 한국어 자막에서, �
 
 const DEFINE_SYSTEM = `당신은 한국어 학습 어휘 사전을 만드는 다국어 전문가입니다. 한국어 단어 각각에 대해 학습자(다문화가정·외국인)를 위한 짧고 쉬운 뜻풀이를 5개 언어로 작성합니다.
 
-영상 주제: 영유아의 신체 발달과 놀이. 단어의 의미는 이 맥락(유아 발달·놀이)에 맞게 풀이합니다.
+영상 주제: ${TOPIC} 단어의 의미는 이 맥락에 맞게 풀이합니다.
 
 [작업] 입력은 단어 배열입니다(각 {term, context} — context 는 그 단어가 쓰인 자막 문장으로, 의미를 정확히 잡기 위한 참고용입니다).
 각 단어마다 def 를 작성하세요.
@@ -386,6 +389,7 @@ async function defineTerms(terms, koById, apiKey) {
 // ── 메인 ───────────────────────────────────────────────────────────────────
 async function run() {
   await loadEnv();
+  log(`대상 콘텐츠: ${CONTENT_ID}`);
 
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) fail('.env 에 ANTHROPIC_API_KEY 가 비어 있습니다.');

@@ -9,19 +9,22 @@
 //
 // 어휘(vocabulary)는 이후 단계(vocabulary.js)에서 처리한다.
 //
-// 실행: node scripts/translate.js
+// 실행: node scripts/translate.js [contentId]   (기본 sample-01)
 // 필요: .env 의 ANTHROPIC_API_KEY.
 
 import { readFile, mkdir } from 'node:fs/promises';
 import { existsSync, createWriteStream } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { contentConfig } from './contents.js';
 
 // ── 경로 설정 ──────────────────────────────────────────────────────────────
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 
-const CONTENT_ID = 'sample-01';
+// 대상 콘텐츠는 CLI 인자로(기본 sample-01). 예: node scripts/translate.js sample-02
+const CONTENT_ID = process.argv[2] || 'sample-01';
+const CONFIG = contentConfig(CONTENT_ID);
 const DATA_DIR = path.join(ROOT, 'data', CONTENT_ID);
 const SUBTITLES_JSON = path.join(DATA_DIR, 'subtitles.json');
 const CONTENT_JSON = path.join(DATA_DIR, 'content.json');
@@ -41,15 +44,12 @@ const BATCH_SIZE = 20;   // 세그먼트/요청
 const CONCURRENCY = 4;   // 동시 요청 수
 const MAX_RETRIES = 4;   // 요청당 재시도(429/5xx/네트워크/파싱)
 
-// 콘텐츠 메타데이터(한국어 원문). 한국어는 그대로, 나머지는 번역한다.
-const CONTENT_META_KO = {
-  title: '1강 우리 아이의 신체 발달과 놀이',
-  instructors: ['박소영', '손수예'],
-  description: '아이들의 신체 발달 특성과 놀이가 주는 긍정적 영향력에 대해 알아본다',
-  hashtags: ['유아', '신체', '발달', '놀이', '운동'],
-};
-const VIDEO_URL =
-  'https://ebsvod.ebs.co.kr/ebsvod/cul/2024/40049780/2m/20241007_094000_1f712df8_m20.mp4';
+// 콘텐츠 메타데이터(한국어 원문)와 영상 URL 은 콘텐츠 레지스트리(scripts/contents.js)에서.
+// content.json 이 아직 없을 때만 CONTENT_META_KO 로 새로 생성한다(있으면 보존).
+const CONTENT_META_KO = CONFIG.meta;
+const VIDEO_URL = CONFIG.videoUrl;
+const TOPIC = CONFIG.topic;
+const INSTRUCTOR_NAMES = CONFIG.instructors || [];
 
 // ── 유틸 ───────────────────────────────────────────────────────────────────
 function log(msg) {
@@ -243,14 +243,16 @@ function parseJsonLoose(text) {
 }
 
 // ── 프롬프트 ───────────────────────────────────────────────────────────────
+const namesForPrompt = INSTRUCTOR_NAMES.map((n) => `'${n}'`).join(', ');
+
 const SUBTITLE_SYSTEM = `당신은 EBS 교육 영상의 한국어 STT(음성인식) 자막을 교정하고 다국어로 번역하는 전문 번역가입니다.
 
-영상 주제: 영유아(유아)의 신체 발달과 놀이. 소아청소년과 전문의와 소아청소년 정신건강의학과 전문의가 부모를 대상으로 설명하는 강의입니다.
+영상 주제: ${TOPIC}
 
 [작업] 입력은 한국어 자막 세그먼트 배열(각 {id, ko})입니다. 각 세그먼트마다 다음을 수행합니다.
 1) 한국어 교정: STT 오인식 단어, 띄어쓰기, 구두점을 자연스럽게 바로잡습니다. 의미와 분량은 최대한 보존하고, 내용을 새로 추가하거나 삭제하지 않습니다. 세그먼트 경계는 그대로 둡니다(문장을 합치거나 나누지 마세요).
-2) 고유명사: 강사 이름은 '박소영', '손수예' 입니다. STT가 '손수혜' 등으로 잘못 적었다면 '손수예'로 교정하세요.
-3) 전문용어: 유아 신체발달 용어(예: 대근육/소근육 운동, 운동 발달, 신체 발달, 협응, 균형감각 등)를 정확하게 교정합니다.
+2) 고유명사: 강사 이름은 ${namesForPrompt} 입니다. STT가 유사 발음으로 잘못 적었다면 올바른 이름으로 교정하세요.
+3) 전문용어: 유아 발달·놀이 관련 용어(예: 대근육/소근육 운동, 운동 발달, 협응, 균형감각, 정서 발달 등)를 정확하게 교정합니다.
 4) 번역: 교정된 한국어를 기준으로 영어(en), 베트남어(vi), 중국어 간체(zh), 일본어(ja)로 번역합니다. 강의의 구어체 어조를 유지하되 각 언어로 자연스럽게 옮기고, 전문용어는 일관되게 사용합니다.
 
 [출력] 주어진 스키마에 맞춰 입력의 모든 id에 대해 {id, ko(교정본), en, vi, zh, ja}를 반환합니다. id는 입력과 정확히 일치해야 합니다.`;
@@ -261,7 +263,7 @@ const CONTENT_SYSTEM = `당신은 EBS 교육 영상의 메타데이터를 다국
 - 강사 이름(person name)은 번역하지 말고 각 언어 표기 관습에 맞게 음역(transliterate)합니다(en은 로마자, ja는 가타카나/한자 관습, zh는 한자 표기, vi는 로마자). ko는 한글 원문 그대로 둡니다.
 - 해시태그는 단어 단위로 자연스럽게 번역합니다.
 - 제목과 설명은 교육적이고 자연스러운 어조로 번역합니다.
-영상 주제: 영유아의 신체 발달과 놀이.`;
+영상 주제: ${TOPIC}`;
 
 // ── 자막 교정+번역 ─────────────────────────────────────────────────────────
 async function translateSubtitles(segments, apiKey) {
@@ -317,7 +319,25 @@ async function translateSubtitles(segments, apiKey) {
 }
 
 // ── content.json 생성 ──────────────────────────────────────────────────────
+// content.json 이 이미 있으면 보존한다(예: sample-02 는 10개 언어가 이미 채워져 있어
+// 5개 언어로 재생성하면 오히려 데이터가 줄어든다). null 을 반환하면 저장하지 않는다.
 async function buildContent(apiKey) {
+  if (existsSync(CONTENT_JSON)) {
+    let langs = '?';
+    try {
+      langs = JSON.parse(await readFile(CONTENT_JSON, 'utf8')).languages?.length ?? '?';
+    } catch {
+      /* 파싱 실패해도 보존 결정에는 영향 없음 */
+    }
+    log(`content.json 이미 존재 → 보존(재생성 안 함, 언어 ${langs}개).`);
+    return null;
+  }
+  if (!CONTENT_META_KO) {
+    fail(
+      `content.json 이 없고 scripts/contents.js 의 '${CONTENT_ID}'.meta 도 비어 있습니다. ` +
+        `한국어 메타(title·instructors·description·hashtags)를 채우세요.`,
+    );
+  }
   log(`content.json 메타데이터 번역(제목·강사 ${CONTENT_META_KO.instructors.length}명·설명·해시태그 ${CONTENT_META_KO.hashtags.length}개)`);
 
   const user =
@@ -375,6 +395,7 @@ async function buildContent(apiKey) {
 // ── 메인 ───────────────────────────────────────────────────────────────────
 async function run() {
   await loadEnv();
+  log(`대상 콘텐츠: ${CONTENT_ID}`);
 
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) fail('.env 에 ANTHROPIC_API_KEY 가 비어 있습니다.');
@@ -391,10 +412,12 @@ async function run() {
   await writeJson(SUBTITLES_JSON, { segments: translated });
   log(`✓ 저장: ${path.relative(ROOT, SUBTITLES_JSON)} (세그먼트 ${translated.length}개 × ${LANGUAGES.length}개 언어)`);
 
-  // 2) content.json
+  // 2) content.json (이미 있으면 buildContent 가 null 을 반환 → 보존)
   const content = await buildContent(apiKey);
-  await writeJson(CONTENT_JSON, content);
-  log(`✓ 저장: ${path.relative(ROOT, CONTENT_JSON)}`);
+  if (content) {
+    await writeJson(CONTENT_JSON, content);
+    log(`✓ 저장: ${path.relative(ROOT, CONTENT_JSON)}`);
+  }
 
   log(`완료. 어휘 풀이는 vocabulary.js 에서 처리합니다.`);
 }

@@ -8,7 +8,7 @@
 //
 // 번역·어휘는 이후 단계(translate.js / vocabulary.js)에서 처리한다.
 //
-// 실행: node scripts/transcribe.js
+// 실행: node scripts/transcribe.js [contentId]   (기본 sample-01)
 // 필요: 로컬에 ffmpeg/ffprobe 설치, .env 의 OPENAI_API_KEY.
 
 import { execFile } from 'node:child_process';
@@ -24,7 +24,8 @@ const execFileAsync = promisify(execFile);
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 
-const CONTENT_ID = 'sample-01';
+// 대상 콘텐츠는 CLI 인자로(기본 sample-01). 예: node scripts/transcribe.js sample-02
+const CONTENT_ID = process.argv[2] || 'sample-01';
 const SOURCE_MP4 = path.join(ROOT, 'source', `${CONTENT_ID}.mp4`);
 const WORK_DIR = path.join(ROOT, 'source', `.cache-${CONTENT_ID}`); // source/ 는 gitignore
 const AUDIO_MP3 = path.join(WORK_DIR, 'audio.mp3');
@@ -194,6 +195,7 @@ async function transcribeChunk(file, apiKey) {
 // ── 4) 병합 → subtitles.json (ko 만) ───────────────────────────────────────
 async function run() {
   await loadEnv();
+  log(`대상 콘텐츠: ${CONTENT_ID}`);
 
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) fail('.env 에 OPENAI_API_KEY 가 비어 있습니다.');

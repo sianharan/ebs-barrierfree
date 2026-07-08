@@ -1,0 +1,444 @@
+{
+  "terms": [
+    {
+      "term": "소아청소년 정신건강의학과",
+      "segmentId": 0,
+      "def": {
+        "ko": "어린이와 청소년의 마음과 정신 건강을 진료하고 치료하는 의학 분야입니다.",
+        "en": "A branch of medicine that examines and treats the mind and mental health of children and teenagers.",
+        "vi": "Lĩnh vực y học khám và điều trị tâm lý, sức khỏe tinh thần của trẻ em và thanh thiếu niên.",
+        "zh": "诊治儿童和青少年心理与精神健康的医学科室。",
+        "ja": "子どもや青少年の心と精神の健康を診療・治療する医学分野です。"
+      }
+    },
+    {
+      "term": "전문의",
+      "segmentId": 0,
+      "def": {
+        "ko": "어떤 분야를 깊이 공부하고 자격을 받은 의사입니다.",
+        "en": "A doctor who has studied a specific field in depth and is certified in it.",
+        "vi": "Bác sĩ đã học chuyên sâu một lĩnh vực và được cấp chứng chỉ.",
+        "zh": "在某一领域深入学习并取得资格的医生。",
+        "ja": "ある分野を深く学び資格を取った医師です。"
+      }
+    },
+    {
+      "term": "소아청소년과",
+      "segmentId": 1,
+      "def": {
+        "ko": "어린이와 청소년의 몸의 건강과 병을 진료하는 의학 분야입니다.",
+        "en": "A branch of medicine that treats the physical health and illnesses of children and teenagers.",
+        "vi": "Lĩnh vực y học khám và chữa bệnh, chăm sóc sức khỏe thể chất cho trẻ em và thanh thiếu niên.",
+        "zh": "诊治儿童和青少年身体健康与疾病的医学科室。",
+        "ja": "子どもや青少年の体の健康や病気を診療する医学分野です。"
+      }
+    },
+    {
+      "term": "인지",
+      "segmentId": 3,
+      "def": {
+        "ko": "보고 듣고 생각해서 사물이나 상황을 알고 이해하는 것입니다.",
+        "en": "Knowing and understanding things or situations by seeing, hearing, and thinking.",
+        "vi": "Việc nhận biết và hiểu sự vật, tình huống qua việc nhìn, nghe và suy nghĩ.",
+        "zh": "通过看、听、思考来认识和理解事物或情况。",
+        "ja": "見たり聞いたり考えたりして物事や状況を知り理解することです。"
+      }
+    },
+    {
+      "term": "정서적 발달",
+      "segmentId": 3,
+      "def": {
+        "ko": "기쁨, 슬픔 같은 감정을 느끼고 잘 다루는 능력이 자라나는 것입니다.",
+        "en": "The growth of the ability to feel and handle emotions like joy and sadness.",
+        "vi": "Sự phát triển khả năng cảm nhận và xử lý cảm xúc như vui, buồn.",
+        "zh": "感受和调节喜悦、悲伤等情绪的能力逐渐成长。",
+        "ja": "喜びや悲しみなどの感情を感じ、うまく扱う力が育つことです。"
+      }
+    },
+    {
+      "term": "비약적",
+      "segmentId": 4,
+      "def": {
+        "ko": "조금씩이 아니라 매우 빠르고 크게 발전하는 모습입니다.",
+        "en": "Developing very quickly and greatly, not just little by little.",
+        "vi": "Sự phát triển rất nhanh và lớn, không phải từng chút một.",
+        "zh": "不是一点点，而是非常快速、大幅地进步。",
+        "ja": "少しずつではなく、とても速く大きく発展する様子です。"
+      }
+    },
+    {
+      "term": "신체 발달",
+      "segmentId": 4,
+      "def": {
+        "ko": "키가 크고 힘이 세지는 것처럼 몸이 자라고 튼튼해지는 것입니다.",
+        "en": "The way the body grows and gets stronger, like growing taller and stronger.",
+        "vi": "Việc cơ thể lớn lên và khỏe mạnh hơn, như cao lên và mạnh hơn.",
+        "zh": "身体成长并变得强壮，比如长高、变有力。",
+        "ja": "背が伸びたり力が強くなったりして体が成長し丈夫になることです。"
+      }
+    },
+    {
+      "term": "심리적 발달",
+      "segmentId": 4,
+      "def": {
+        "ko": "마음과 생각이 자라고 성숙해지는 것입니다.",
+        "en": "The growth and maturing of the mind and thoughts.",
+        "vi": "Sự phát triển và trưởng thành của tâm lý và suy nghĩ.",
+        "zh": "内心和思维逐渐成长、成熟。",
+        "ja": "心や考えが育ち成熟していくことです。"
+      }
+    },
+    {
+      "term": "기승전결",
+      "segmentId": 11,
+      "def": {
+        "ko": "이야기가 시작되고 전개되어 마무리되는 순서, 즉 이야기의 흐름입니다.",
+        "en": "The order in which a story starts, develops, and ends; the flow of a story.",
+        "vi": "Trình tự câu chuyện mở đầu, phát triển và kết thúc, tức là mạch chuyện.",
+        "zh": "故事开始、发展到结束的顺序，即故事的脉络。",
+        "ja": "物語が始まり、展開して終わる順序、つまり話の流れです。"
+      }
+    },
+    {
+      "term": "토론",
+      "segmentId": 12,
+      "def": {
+        "ko": "어떤 주제에 대해 서로 생각을 말하며 이야기를 나누는 것입니다.",
+        "en": "Talking and sharing opinions with each other about a topic.",
+        "vi": "Việc cùng nhau nói lên và trao đổi ý kiến về một chủ đề.",
+        "zh": "就某个话题互相说出想法、交流意见。",
+        "ja": "あるテーマについてお互いに意見を言い合うことです。"
+      }
+    },
+    {
+      "term": "상징적 매개체",
+      "segmentId": 15,
+      "def": {
+        "ko": "어떤 뜻을 대신 나타내어 서로 이해하도록 이어 주는 도구로, 언어 같은 것입니다.",
+        "en": "A tool, like language, that represents a meaning and connects people so they understand each other.",
+        "vi": "Công cụ như ngôn ngữ, thay thế biểu đạt ý nghĩa và giúp mọi người hiểu nhau.",
+        "zh": "像语言一样代表某种意义、帮助彼此理解的媒介工具。",
+        "ja": "言語のように、ある意味を代わりに表して互いの理解をつなぐ道具です。"
+      }
+    },
+    {
+      "term": "인지적",
+      "segmentId": 16,
+      "def": {
+        "ko": "보고 듣고 생각하며 무언가를 알고 이해하는 것과 관련된 것을 말해요.",
+        "en": "Related to knowing, thinking, and understanding things.",
+        "vi": "Liên quan đến việc nhận biết, suy nghĩ và hiểu mọi thứ.",
+        "zh": "与认识、思考和理解事物有关的。",
+        "ja": "知ったり考えたり理解したりすることに関わることです。"
+      }
+    },
+    {
+      "term": "환상",
+      "segmentId": 16,
+      "def": {
+        "ko": "실제로 없는 것을 머릿속으로 그려 보는 신기한 상상입니다.",
+        "en": "An imaginative image in the mind of something that does not really exist.",
+        "vi": "Sự tưởng tượng kỳ diệu trong đầu về những điều không có thật.",
+        "zh": "在脑海中想象出实际不存在的奇妙事物。",
+        "ja": "実際には存在しないものを頭の中で思い描く不思議な想像です。"
+      }
+    },
+    {
+      "term": "표출",
+      "segmentId": 20,
+      "def": {
+        "ko": "마음속에 있던 생각이나 감정이 밖으로 드러나 나타나는 것이에요.",
+        "en": "When thoughts or feelings inside come out and show.",
+        "vi": "Việc suy nghĩ hay cảm xúc bên trong lộ ra ngoài.",
+        "zh": "把内心的想法或情感表现出来。",
+        "ja": "心の中の考えや感情が外に表れることです。"
+      }
+    },
+    {
+      "term": "욕구",
+      "segmentId": 21,
+      "def": {
+        "ko": "무언가를 하고 싶거나 갖고 싶은 마음을 말해요.",
+        "en": "A wish or desire to do or have something.",
+        "vi": "Mong muốn làm hay có được điều gì đó.",
+        "zh": "想做或想拥有某样东西的心情。",
+        "ja": "何かをしたい、欲しいと思う気持ちです。"
+      }
+    },
+    {
+      "term": "공포",
+      "segmentId": 22,
+      "def": {
+        "ko": "무언가가 매우 무섭고 두려운 마음을 말해요.",
+        "en": "A strong feeling of fear.",
+        "vi": "Cảm giác rất sợ hãi.",
+        "zh": "非常害怕、恐惧的心情。",
+        "ja": "とても怖いと感じる気持ちです。"
+      }
+    },
+    {
+      "term": "질투",
+      "segmentId": 23,
+      "def": {
+        "ko": "남이 가진 것이나 사랑을 부러워하며 속상해하는 마음이에요.",
+        "en": "Feeling upset because you envy what someone else has.",
+        "vi": "Cảm giác ghen tị và khó chịu vì thứ người khác có.",
+        "zh": "羡慕别人拥有的东西而感到不舒服的心情。",
+        "ja": "人が持っているものをうらやんで嫌な気持ちになることです。"
+      }
+    },
+    {
+      "term": "역할놀이",
+      "segmentId": 25,
+      "def": {
+        "ko": "엄마, 의사, 선생님처럼 다른 사람이 된 척하며 노는 놀이예요.",
+        "en": "Play where children pretend to be someone else, like a mom or doctor.",
+        "vi": "Trò chơi đóng vai làm người khác như mẹ, bác sĩ.",
+        "zh": "扮演别人（如妈妈、医生）来玩的游戏。",
+        "ja": "お母さんや医者などになりきって遊ぶ遊びです。"
+      }
+    },
+    {
+      "term": "뒤집기",
+      "segmentId": 27,
+      "def": {
+        "ko": "아기가 누운 자세에서 몸을 돌려 엎드리는 동작이에요.",
+        "en": "When a baby turns over from lying on its back to its tummy.",
+        "vi": "Động tác bé lật người từ nằm ngửa sang nằm sấp.",
+        "zh": "婴儿从仰卧翻身变成趴着的动作。",
+        "ja": "赤ちゃんが仰向けからうつ伏せに体を返す動きです。"
+      }
+    },
+    {
+      "term": "치발기",
+      "segmentId": 29,
+      "def": {
+        "ko": "이가 날 때 아기가 물고 씹을 수 있게 만든 장난감이에요.",
+        "en": "A toy babies bite and chew when their teeth are coming in.",
+        "vi": "Đồ chơi cho bé cắn nhai khi mọc răng.",
+        "zh": "婴儿长牙时可以咬和啃的玩具。",
+        "ja": "歯が生える時に赤ちゃんが噛む道具です。"
+      }
+    },
+    {
+      "term": "오감",
+      "segmentId": 30,
+      "def": {
+        "ko": "보고, 듣고, 냄새 맡고, 맛보고, 만지는 다섯 가지 감각이에요.",
+        "en": "The five senses: sight, hearing, smell, taste, and touch.",
+        "vi": "Năm giác quan: nhìn, nghe, ngửi, nếm, chạm.",
+        "zh": "看、听、闻、尝、摸这五种感觉。",
+        "ja": "見る・聞く・嗅ぐ・味わう・触るの五つの感覚です。"
+      }
+    },
+    {
+      "term": "감각운동 놀이",
+      "segmentId": 31,
+      "def": {
+        "ko": "보고 만지고 움직이며 감각과 몸으로 배우는 아기의 놀이예요.",
+        "en": "A baby's play of learning by looking, touching, and moving.",
+        "vi": "Trò chơi của bé học qua nhìn, chạm và vận động.",
+        "zh": "婴儿通过看、摸、动来学习的游戏。",
+        "ja": "見て触って動いて感覚と体で学ぶ赤ちゃんの遊びです。"
+      }
+    },
+    {
+      "term": "영아기",
+      "segmentId": 31,
+      "def": {
+        "ko": "태어나서 대략 두 살까지의 아주 어린 아기 시기예요.",
+        "en": "The very young baby stage, from birth to about two years old.",
+        "vi": "Giai đoạn bé sơ sinh, từ khi sinh đến khoảng hai tuổi.",
+        "zh": "从出生到约两岁的婴儿时期。",
+        "ja": "生まれてから約2歳までの赤ちゃんの時期です。"
+      }
+    },
+    {
+      "term": "걸음마",
+      "segmentId": 32,
+      "def": {
+        "ko": "아기가 처음으로 걷기 시작하는 것이나 그 걸음을 말해요.",
+        "en": "When a baby first starts to walk.",
+        "vi": "Việc bé bắt đầu tập đi những bước đầu tiên.",
+        "zh": "婴儿开始学走路的第一步。",
+        "ja": "赤ちゃんが初めて歩き始めることです。"
+      }
+    },
+    {
+      "term": "기능적 놀이",
+      "segmentId": 32,
+      "def": {
+        "ko": "물건을 원래 쓰임새대로 만지고 다루며 노는 놀이예요. 걸음마 시기에 시작해요.",
+        "en": "Play where a child handles objects the way they are meant to be used; it starts around the toddler stage.",
+        "vi": "Trò chơi trong đó trẻ cầm nắm và sử dụng đồ vật đúng công dụng của nó; bắt đầu khi trẻ tập đi.",
+        "zh": "孩子按照物品本来的用途去摆弄、使用的游戏，从学步期开始。",
+        "ja": "物を本来の使い方どおりに触って扱う遊び。よちよち歩きの時期に始まります。"
+      }
+    },
+    {
+      "term": "조작법",
+      "segmentId": 37,
+      "def": {
+        "ko": "어떤 물건을 어떻게 다루고 움직이는지에 대한 방법이에요.",
+        "en": "The way to handle or operate an object.",
+        "vi": "Cách cầm, điều khiển hoặc sử dụng một đồ vật.",
+        "zh": "操作、摆弄某个物品的方法。",
+        "ja": "ある物をどう扱い、動かすかというやり方。"
+      }
+    },
+    {
+      "term": "숙련",
+      "segmentId": 38,
+      "def": {
+        "ko": "여러 번 반복해서 익숙하고 잘하게 되는 것이에요.",
+        "en": "Becoming skilled and familiar by practicing over and over.",
+        "vi": "Trở nên thành thạo và quen thuộc nhờ lặp lại nhiều lần.",
+        "zh": "通过反复练习变得熟练、擅长。",
+        "ja": "何度も繰り返して慣れ、上手になること。"
+      }
+    },
+    {
+      "term": "학령 전기",
+      "segmentId": 39,
+      "def": {
+        "ko": "학교에 들어가기 전 시기로, 보통 2세에서 6세를 말해요.",
+        "en": "The period before starting school, usually ages 2 to 6.",
+        "vi": "Giai đoạn trước khi đi học, thường là từ 2 đến 6 tuổi.",
+        "zh": "上学之前的时期，一般指2到6岁。",
+        "ja": "学校に入る前の時期で、ふつう2歳から6歳をいいます。"
+      }
+    },
+    {
+      "term": "상징 놀이",
+      "segmentId": 40,
+      "def": {
+        "ko": "어떤 물건이나 행동을 다른 것으로 여기며 상상해서 노는 놀이예요.",
+        "en": "Play where a child imagines one object or action as something else.",
+        "vi": "Trò chơi trong đó trẻ tưởng tượng một đồ vật hay hành động là thứ khác.",
+        "zh": "把某个物品或动作想象成别的东西来玩的游戏。",
+        "ja": "物や動作を別のものに見立てて想像しながら遊ぶ遊び。"
+      }
+    },
+    {
+      "term": "가장 놀이",
+      "segmentId": 43,
+      "def": {
+        "ko": "다른 사람이나 상황인 척하며 흉내 내어 노는 놀이예요.",
+        "en": "Play where a child pretends to be someone or something else.",
+        "vi": "Trò chơi giả vờ, trẻ đóng vai người khác hay tình huống khác.",
+        "zh": "假装成别人或别的情形来模仿玩的游戏。",
+        "ja": "別の人や状況のふりをしてまねて遊ぶ遊び。"
+      }
+    },
+    {
+      "term": "재현",
+      "segmentId": 46,
+      "def": {
+        "ko": "이미 겪었던 일을 다시 그대로 나타내 보이는 것이에요.",
+        "en": "Showing or acting out again something that was already experienced.",
+        "vi": "Tái hiện lại, thể hiện lại điều đã từng trải qua.",
+        "zh": "把已经经历过的事情再重新表现出来。",
+        "ja": "すでに経験したことをもう一度そのまま表して見せること。"
+      }
+    },
+    {
+      "term": "예방접종",
+      "segmentId": 52,
+      "def": {
+        "ko": "병에 걸리지 않도록 미리 맞는 주사예요.",
+        "en": "A shot given in advance to prevent getting sick.",
+        "vi": "Mũi tiêm chích ngừa để phòng bệnh trước.",
+        "zh": "为了预防生病而事先打的针（疫苗）。",
+        "ja": "病気にかからないように前もって受ける注射（予防接種）。"
+      }
+    },
+    {
+      "term": "무력하다",
+      "segmentId": 53,
+      "def": {
+        "ko": "힘이 없어 아무것도 할 수 없다고 느끼는 것이에요.",
+        "en": "To feel powerless, as if unable to do anything.",
+        "vi": "Cảm thấy bất lực, như không thể làm gì được.",
+        "zh": "感到无能为力，好像什么都做不了。",
+        "ja": "力がなく、何もできないように感じること。"
+      }
+    },
+    {
+      "term": "수동적",
+      "segmentId": 53,
+      "def": {
+        "ko": "스스로 하지 않고 남이 하는 대로 따르기만 하는 것이에요.",
+        "en": "Just following what others do, without acting on one's own.",
+        "vi": "Chỉ làm theo người khác, không tự mình chủ động.",
+        "zh": "不主动做，只是被动地按照别人做的去接受。",
+        "ja": "自分から動かず、人のするままに従うだけであること。"
+      }
+    },
+    {
+      "term": "능동적",
+      "segmentId": 57,
+      "def": {
+        "ko": "남이 시키지 않아도 스스로 나서서 하는 것이에요.",
+        "en": "Acting on one's own initiative without being told.",
+        "vi": "Chủ động tự mình làm mà không cần ai bảo.",
+        "zh": "不用别人吩咐，自己主动去做。",
+        "ja": "人に言われなくても自分から進んで行うこと。"
+      }
+    },
+    {
+      "term": "주체적",
+      "segmentId": 59,
+      "def": {
+        "ko": "자기가 중심이 되어 스스로 생각하고 결정하는 것이에요.",
+        "en": "Being the one in charge, thinking and deciding for oneself.",
+        "vi": "Là người làm chủ, tự mình suy nghĩ và quyết định.",
+        "zh": "以自己为主，自己思考、自己做决定。",
+        "ja": "自分が中心となって、自分で考え決めること。"
+      }
+    },
+    {
+      "term": "이완",
+      "segmentId": 61,
+      "def": {
+        "ko": "긴장이 풀리고 마음이나 몸이 편안해지는 것.",
+        "en": "The state of becoming relaxed, when tension in the mind or body is released.",
+        "vi": "Sự thư giãn, khi căng thẳng trong tâm trí hoặc cơ thể được giải tỏa.",
+        "zh": "放松，指身心的紧张得到缓解、变得舒适。",
+        "ja": "緊張がほぐれて心や体が楽になること。"
+      }
+    },
+    {
+      "term": "완화",
+      "segmentId": 62,
+      "def": {
+        "ko": "힘들거나 심한 것을 조금 덜어서 부드럽게 만드는 것.",
+        "en": "To ease or lessen something difficult or intense so it becomes milder.",
+        "vi": "Làm dịu bớt, giảm nhẹ điều gì đó khó khăn hoặc căng thẳng.",
+        "zh": "缓和，把困难或强烈的东西减轻、使其变得温和。",
+        "ja": "つらいことや強いものを少し和らげて軽くすること。"
+      }
+    },
+    {
+      "term": "선망",
+      "segmentId": 64,
+      "def": {
+        "ko": "부럽게 여기며 자기도 그렇게 되고 싶어 하는 마음.",
+        "en": "To admire and envy something, wishing to become like it.",
+        "vi": "Ngưỡng mộ và ao ước, mong muốn mình cũng được như vậy.",
+        "zh": "羡慕向往，希望自己也能成为那样。",
+        "ja": "うらやましく思い、自分もそうなりたいと願う気持ち。"
+      }
+    },
+    {
+      "term": "동일 성별",
+      "segmentId": 67,
+      "def": {
+        "ko": "자신과 같은 성별. 남자면 남자, 여자면 여자를 뜻해요.",
+        "en": "The same gender as oneself, such as a boy for a boy or a girl for a girl.",
+        "vi": "Cùng giới tính với bản thân, ví dụ con trai với con trai, con gái với con gái.",
+        "zh": "与自己相同的性别，男孩对男孩、女孩对女孩。",
+        "ja": "自分と同じ性別。男の子なら男、女の子なら女を指す。"
+      }
+    }
+  ]
+}
