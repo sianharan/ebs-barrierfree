@@ -1,0 +1,444 @@
+{
+  "terms": [
+    {
+      "term": "소아청소년",
+      "segmentId": 0,
+      "def": {
+        "ko": "어린아이부터 청소년까지의 나이대를 말합니다.",
+        "en": "The age group from young children to teenagers.",
+        "vi": "Nhóm tuổi từ trẻ nhỏ đến thanh thiếu niên.",
+        "zh": "从幼儿到青少年的年龄阶段。",
+        "ja": "幼い子どもから青少年までの年齢層のことです。"
+      }
+    },
+    {
+      "term": "전문의",
+      "segmentId": 0,
+      "def": {
+        "ko": "특정 분야를 오래 공부하고 자격을 갖춘 의사입니다.",
+        "en": "A doctor who is specially trained and qualified in a certain field.",
+        "vi": "Bác sĩ được đào tạo chuyên sâu và có chứng chỉ trong một lĩnh vực.",
+        "zh": "在特定领域受过专门训练并取得资格的医生。",
+        "ja": "特定の分野を専門的に学び資格を持つ医師です。"
+      }
+    },
+    {
+      "term": "정신건강의학과",
+      "segmentId": 0,
+      "def": {
+        "ko": "마음과 정신의 건강을 진료하고 치료하는 병원의 진료 과목입니다.",
+        "en": "A medical department that examines and treats mental and emotional health.",
+        "vi": "Khoa y tế khám và điều trị sức khỏe tâm thần và tinh thần.",
+        "zh": "诊治心理和精神健康的医学科室。",
+        "ja": "心と精神の健康を診療し治療する診療科です。"
+      }
+    },
+    {
+      "term": "탐구심",
+      "segmentId": 3,
+      "def": {
+        "ko": "궁금한 것을 깊이 알아보고 싶어 하는 마음입니다.",
+        "en": "The desire to explore and understand things deeply.",
+        "vi": "Lòng ham muốn tìm tòi, khám phá điều mình thắc mắc.",
+        "zh": "想深入探索和研究事物的心。",
+        "ja": "気になることを深く調べたいと思う気持ちです。"
+      }
+    },
+    {
+      "term": "호기심",
+      "segmentId": 3,
+      "def": {
+        "ko": "새로운 것을 알고 싶어 하는 마음입니다.",
+        "en": "The desire to know or learn about new things.",
+        "vi": "Sự tò mò, mong muốn tìm hiểu điều mới.",
+        "zh": "想了解新事物的心情，即好奇心。",
+        "ja": "新しいことを知りたいと思う気持ちです。"
+      }
+    },
+    {
+      "term": "신체",
+      "segmentId": 4,
+      "def": {
+        "ko": "사람의 몸을 말합니다.",
+        "en": "A person's body.",
+        "vi": "Cơ thể của con người.",
+        "zh": "人的身体。",
+        "ja": "人の体のことです。"
+      }
+    },
+    {
+      "term": "또래",
+      "segmentId": 5,
+      "def": {
+        "ko": "나이가 비슷한 친구들을 말합니다.",
+        "en": "Friends of a similar age.",
+        "vi": "Những người bạn cùng độ tuổi.",
+        "zh": "年龄相仿的同龄人。",
+        "ja": "年齢が近い友だちのことです。"
+      }
+    },
+    {
+      "term": "성장 발달",
+      "segmentId": 6,
+      "def": {
+        "ko": "몸과 마음이 자라고 발전해 나가는 과정입니다.",
+        "en": "The process of the body and mind growing and developing.",
+        "vi": "Quá trình cơ thể và tâm trí lớn lên và phát triển.",
+        "zh": "身体和心智成长发展的过程。",
+        "ja": "体と心が育ち発達していく過程です。"
+      }
+    },
+    {
+      "term": "인지 발달",
+      "segmentId": 6,
+      "def": {
+        "ko": "생각하고 이해하는 능력이 자라나는 것입니다.",
+        "en": "The growth of the ability to think and understand.",
+        "vi": "Sự phát triển của khả năng suy nghĩ và hiểu biết.",
+        "zh": "思考和理解能力的成长发展。",
+        "ja": "考えたり理解したりする能力が育つことです。"
+      }
+    },
+    {
+      "term": "성교육",
+      "segmentId": 7,
+      "def": {
+        "ko": "몸과 성에 대해 바르게 알려 주는 교육입니다.",
+        "en": "Education that teaches correctly about the body and sexuality.",
+        "vi": "Giáo dục dạy đúng đắn về cơ thể và giới tính.",
+        "zh": "正确讲解身体和性知识的教育。",
+        "ja": "体や性について正しく教える教育です。"
+      }
+    },
+    {
+      "term": "의무적",
+      "segmentId": 7,
+      "def": {
+        "ko": "반드시 해야 하는 것을 말합니다.",
+        "en": "Something that must be done as a requirement.",
+        "vi": "Điều bắt buộc phải làm.",
+        "zh": "必须要做的、有义务的。",
+        "ja": "必ずしなければならないことです。"
+      }
+    },
+    {
+      "term": "가치관",
+      "segmentId": 13,
+      "def": {
+        "ko": "무엇이 옳고 중요한지 판단하는 생각의 기준입니다.",
+        "en": "One's standards for judging what is right and important.",
+        "vi": "Quan niệm, tiêu chuẩn để đánh giá điều gì đúng và quan trọng.",
+        "zh": "判断什么是对的、重要的的思想标准，即价值观。",
+        "ja": "何が正しく大切かを判断する考えの基準です。"
+      }
+    },
+    {
+      "term": "유아기",
+      "segmentId": 14,
+      "def": {
+        "ko": "아기에서 벗어나 어린이가 되기 전, 대략 두세 살부터 여섯 살 정도까지의 어린 시기예요.",
+        "en": "The early childhood stage, roughly from ages two or three to about six, after being a baby.",
+        "vi": "Giai đoạn tuổi ấu thơ, khoảng từ hai, ba tuổi đến sáu tuổi, sau khi không còn là em bé.",
+        "zh": "幼儿期，大约从两三岁到六岁左右的年幼阶段。",
+        "ja": "赤ちゃんを過ぎたおよそ2〜3歳から6歳ごろまでの幼い時期です。"
+      }
+    },
+    {
+      "term": "육하원칙",
+      "segmentId": 24,
+      "def": {
+        "ko": "누가, 언제, 어디서, 무엇을, 어떻게, 왜의 여섯 가지로 내용을 빠짐없이 정리하는 방법이에요.",
+        "en": "The six basic questions—who, when, where, what, how, why—used to explain something fully.",
+        "vi": "Sáu yếu tố cơ bản: ai, khi nào, ở đâu, cái gì, thế nào, tại sao, dùng để trình bày đầy đủ.",
+        "zh": "用“谁、何时、何地、何事、如何、为何”六个方面来完整说明事情的方法。",
+        "ja": "だれが・いつ・どこで・なにを・どのように・なぜ、の六つで内容を整理する方法です。"
+      }
+    },
+    {
+      "term": "적정 연령",
+      "segmentId": 26,
+      "def": {
+        "ko": "어떤 일을 하기에 알맞은 나이를 말해요.",
+        "en": "The suitable or right age for doing something.",
+        "vi": "Độ tuổi phù hợp, thích hợp để làm một việc gì đó.",
+        "zh": "做某件事最合适的年龄。",
+        "ja": "あることをするのにちょうどよい年齢のことです。"
+      }
+    },
+    {
+      "term": "성기",
+      "segmentId": 30,
+      "def": {
+        "ko": "남자와 여자의 몸에서 서로 다른, 소변을 보고 아기를 만드는 데 관련된 몸의 부분이에요.",
+        "en": "The private body parts that differ between males and females, used for urinating and reproduction.",
+        "vi": "Bộ phận sinh dục, phần cơ thể khác nhau ở nam và nữ, liên quan đến tiểu tiện và sinh con.",
+        "zh": "男女身体上不同的、与排尿和生育有关的私密部位。",
+        "ja": "男女で異なる、排尿や子どもをつくることに関わる体の部分（性器）です。"
+      }
+    },
+    {
+      "term": "언어 발달",
+      "segmentId": 35,
+      "def": {
+        "ko": "아이가 말을 알아듣고 스스로 말하는 능력이 점점 자라는 것이에요.",
+        "en": "The gradual growth of a child's ability to understand and use language.",
+        "vi": "Sự phát triển dần dần khả năng hiểu và nói của trẻ.",
+        "zh": "孩子理解语言和自己说话的能力逐渐成长的过程。",
+        "ja": "子どもが言葉を理解し、自分で話す力が少しずつ育つことです。"
+      }
+    },
+    {
+      "term": "신체 감각",
+      "segmentId": 37,
+      "def": {
+        "ko": "몸으로 느끼는 촉감, 아픔, 뜨겁고 차가움 같은 느낌을 말해요.",
+        "en": "The feelings sensed by the body, such as touch, pain, heat, or cold.",
+        "vi": "Cảm giác cơ thể như xúc giác, đau, nóng, lạnh mà cơ thể cảm nhận được.",
+        "zh": "身体感受到的触觉、疼痛、冷热等感觉。",
+        "ja": "体で感じる触れる感覚や痛み、熱さ・冷たさなどの感覚です。"
+      }
+    },
+    {
+      "term": "배변 훈련",
+      "segmentId": 38,
+      "def": {
+        "ko": "아이가 기저귀를 떼고 스스로 화장실에서 대소변을 보도록 가르치는 것이에요.",
+        "en": "Teaching a child to stop using diapers and use the toilet by themselves.",
+        "vi": "Việc dạy trẻ bỏ tã và tự đi vệ sinh trong nhà vệ sinh.",
+        "zh": "教孩子脱离尿布，自己去厕所大小便的训练。",
+        "ja": "子どもがおむつを外し、自分でトイレで排便・排尿できるように教えることです。"
+      }
+    },
+    {
+      "term": "예민",
+      "segmentId": 39,
+      "def": {
+        "ko": "작은 자극에도 쉽게 느끼거나 반응하는 것이에요.",
+        "en": "Being sensitive, reacting easily even to small stimulation.",
+        "vi": "Nhạy cảm, dễ cảm nhận hoặc phản ứng ngay cả với kích thích nhỏ.",
+        "zh": "敏感，对很小的刺激也容易感觉到或做出反应。",
+        "ja": "わずかな刺激にも敏感に感じたり反応したりすることです。"
+      }
+    },
+    {
+      "term": "대소변",
+      "segmentId": 43,
+      "def": {
+        "ko": "똥(대변)과 오줌(소변)을 함께 이르는 말이에요.",
+        "en": "A word referring to both feces (poop) and urine (pee).",
+        "vi": "Từ chỉ chung cả phân (đại tiện) và nước tiểu (tiểu tiện).",
+        "zh": "大便和小便的合称。",
+        "ja": "大便（うんち）と小便（おしっこ）をまとめて言う言葉です。"
+      }
+    },
+    {
+      "term": "본능적",
+      "segmentId": 60,
+      "def": {
+        "ko": "배우지 않아도 저절로 그렇게 하게 되는 성질을 말해요.",
+        "en": "Something done naturally without having to learn it.",
+        "vi": "Tính chất tự nhiên làm mà không cần học, theo bản năng.",
+        "zh": "不用学习就自然而然会做出的、出于本能的。",
+        "ja": "教わらなくても自然にそうしてしまう、本能によるものです。"
+      }
+    },
+    {
+      "term": "탐험심",
+      "segmentId": 68,
+      "def": {
+        "ko": "모르는 것을 찾아보고 알아내려는 마음이에요.",
+        "en": "The urge to explore and find out about unknown things.",
+        "vi": "Tinh thần muốn khám phá và tìm hiểu những điều chưa biết.",
+        "zh": "想去探索、弄清未知事物的心情。",
+        "ja": "知らないことを探して調べ、知ろうとする気持ちです。"
+      }
+    },
+    {
+      "term": "욕구",
+      "segmentId": 69,
+      "def": {
+        "ko": "무엇을 하고 싶거나 갖고 싶어 하는 마음이에요.",
+        "en": "A desire or wish to do or have something.",
+        "vi": "Mong muốn, nhu cầu muốn làm hoặc muốn có điều gì đó.",
+        "zh": "想做某事或想拥有某物的心愿、需求。",
+        "ja": "何かをしたい、あるいは欲しいと思う気持ち（欲求）です。"
+      }
+    },
+    {
+      "term": "정서적",
+      "segmentId": 72,
+      "def": {
+        "ko": "마음이나 감정과 관련된 것을 뜻해요.",
+        "en": "Relating to feelings or emotions.",
+        "vi": "Liên quan đến tâm trạng hoặc cảm xúc.",
+        "zh": "与内心或情感相关的。",
+        "ja": "心や感情に関わることを指します。"
+      }
+    },
+    {
+      "term": "무해",
+      "segmentId": 74,
+      "def": {
+        "ko": "해롭거나 나쁜 것이 없는 상태를 말해요.",
+        "en": "Something that causes no harm or damage.",
+        "vi": "Không gây hại hay tổn thương gì.",
+        "zh": "没有害处、无害的状态。",
+        "ja": "害がなく、悪くない状態のことです。"
+      }
+    },
+    {
+      "term": "미디어 노출",
+      "segmentId": 78,
+      "def": {
+        "ko": "텔레비전, 인터넷, 영상 같은 매체를 자주 접하는 것을 말해요.",
+        "en": "Being exposed to media like TV, the internet, or videos.",
+        "vi": "Việc thường xuyên tiếp xúc với truyền hình, internet, video và các phương tiện khác.",
+        "zh": "经常接触电视、网络、视频等媒体。",
+        "ja": "テレビやインターネット、動画などのメディアに触れることです。"
+      }
+    },
+    {
+      "term": "명칭",
+      "segmentId": 91,
+      "def": {
+        "ko": "어떤 것을 부르는 이름을 말해요.",
+        "en": "The name used to call something.",
+        "vi": "Tên gọi dùng để chỉ một vật hay bộ phận nào đó.",
+        "zh": "称呼某个事物的名字。",
+        "ja": "あるものを呼ぶときの名前のことです。"
+      }
+    },
+    {
+      "term": "음경",
+      "segmentId": 104,
+      "def": {
+        "ko": "남자아이의 몸에 있는 생식기 부위예요.",
+        "en": "The penis, a genital part of a boy's body.",
+        "vi": "Dương vật, bộ phận sinh dục của bé trai.",
+        "zh": "男孩身上的生殖器部位（阴茎）。",
+        "ja": "男の子の体にある生殖器の部分（陰茎）です。"
+      }
+    },
+    {
+      "term": "음낭",
+      "segmentId": 104,
+      "def": {
+        "ko": "남자아이의 몸에서 고환을 감싸고 있는 주머니 모양의 부위예요.",
+        "en": "The pouch of skin that holds the testicles in a boy's body.",
+        "vi": "Túi da bao bọc tinh hoàn trong cơ thể bé trai.",
+        "zh": "男孩身上包裹睾丸的袋状部位（阴囊）。",
+        "ja": "男の子の体で睾丸を包んでいる袋状の部分です。"
+      }
+    },
+    {
+      "term": "음순",
+      "segmentId": 104,
+      "def": {
+        "ko": "여자아이의 생식기 바깥을 감싸는 살 부위예요.",
+        "en": "The labia, folds of skin around the outer genitals of a girl.",
+        "vi": "Môi âm hộ, phần da bao quanh bộ phận sinh dục ngoài của bé gái.",
+        "zh": "女孩生殖器外部周围的皮肤部位（阴唇）。",
+        "ja": "女の子の生殖器の外側を包む肉の部分（陰唇）です。"
+      }
+    },
+    {
+      "term": "외성기",
+      "segmentId": 105,
+      "def": {
+        "ko": "몸 밖에서 보이는 생식기 부위를 말해요.",
+        "en": "The genital parts that can be seen on the outside of the body.",
+        "vi": "Bộ phận sinh dục nhìn thấy được bên ngoài cơ thể.",
+        "zh": "身体外部可见的生殖器部位（外生殖器）。",
+        "ja": "体の外側から見える生殖器の部分です。"
+      }
+    },
+    {
+      "term": "임신",
+      "segmentId": 114,
+      "def": {
+        "ko": "엄마의 몸속에 아기가 생겨 자라는 것을 말해요.",
+        "en": "When a baby forms and grows inside the mother's body.",
+        "vi": "Việc em bé hình thành và lớn lên trong cơ thể mẹ.",
+        "zh": "妈妈体内有了宝宝并孕育成长（怀孕）。",
+        "ja": "お母さんの体の中に赤ちゃんができて育つことです。"
+      }
+    },
+    {
+      "term": "출산",
+      "segmentId": 114,
+      "def": {
+        "ko": "엄마가 아기를 낳는 것을 말해요.",
+        "en": "When a mother gives birth to a baby.",
+        "vi": "Việc người mẹ sinh em bé.",
+        "zh": "妈妈生下宝宝（分娩）。",
+        "ja": "お母さんが赤ちゃんを産むことです。"
+      }
+    },
+    {
+      "term": "잉태",
+      "segmentId": 120,
+      "def": {
+        "ko": "엄마 몸속에 새로운 생명이 처음 생기는 것을 말해요.",
+        "en": "When a new life first begins inside the mother's body.",
+        "vi": "Việc một sinh mệnh mới bắt đầu hình thành trong cơ thể mẹ.",
+        "zh": "新的生命在妈妈体内开始形成（受孕）。",
+        "ja": "お母さんの体の中に新しい命が初めて宿ることです。"
+      }
+    },
+    {
+      "term": "존중감",
+      "segmentId": 122,
+      "def": {
+        "ko": "소중히 여기고 귀하게 대하는 마음을 말해요.",
+        "en": "A feeling of valuing and treating something as precious.",
+        "vi": "Cảm giác trân trọng và coi trọng điều gì đó.",
+        "zh": "珍视并尊重某事物的心情（尊重感）。",
+        "ja": "大切に思い、尊く扱おうとする気持ちのことです。"
+      }
+    },
+    {
+      "term": "경계",
+      "segmentId": 123,
+      "def": {
+        "ko": "내 몸과 다른 사람의 몸 사이에 함부로 넘으면 안 되는 선이에요. 나와 남을 지키는 규칙이에요.",
+        "en": "A line between my body and another person's body that should not be crossed carelessly; a rule that protects both myself and others.",
+        "vi": "Ranh giới giữa cơ thể của tôi và của người khác mà không được tùy tiện vượt qua; quy tắc bảo vệ cả bản thân và người khác.",
+        "zh": "我的身体和别人身体之间不能随意越过的界线，是保护自己和他人的规则。",
+        "ja": "自分の体と他人の体の間の、勝手に越えてはいけない線のこと。自分と他人を守るルールです。"
+      }
+    },
+    {
+      "term": "성적 자기결정권",
+      "segmentId": 124,
+      "def": {
+        "ko": "내 몸에 대한 일을 스스로 정할 수 있는 권리예요. 누가 만지거나 다가오는 것을 내가 결정할 수 있어요.",
+        "en": "The right to decide for oneself about matters concerning one's own body, such as who may touch or approach you.",
+        "vi": "Quyền tự quyết định những việc liên quan đến cơ thể mình, như ai được chạm hay đến gần mình.",
+        "zh": "自己决定与自己身体有关事情的权利，比如谁可以触碰或靠近自己。",
+        "ja": "自分の体に関することを自分で決められる権利のこと。誰が触れたり近づいたりするかを自分で決められます。"
+      }
+    },
+    {
+      "term": "동의",
+      "segmentId": 129,
+      "def": {
+        "ko": "어떤 일을 해도 좋다고 상대가 허락하는 것이에요. 몸을 만지기 전에 꼭 물어봐서 받아야 해요.",
+        "en": "When the other person agrees or gives permission to do something; you must ask for it before touching someone's body.",
+        "vi": "Việc người kia đồng ý hoặc cho phép làm điều gì đó; phải hỏi và nhận được trước khi chạm vào cơ thể người khác.",
+        "zh": "对方同意或允许做某件事，在触碰别人身体前一定要先询问并得到同意。",
+        "ja": "相手が何かをしてよいと許可すること。体に触れる前に必ず尋ねて得る必要があります。"
+      }
+    },
+    {
+      "term": "사회성",
+      "segmentId": 141,
+      "def": {
+        "ko": "다른 사람과 잘 어울리고 사이좋게 지내는 능력이에요.",
+        "en": "The ability to get along and interact well with other people.",
+        "vi": "Khả năng hòa đồng và giao tiếp tốt với người khác.",
+        "zh": "与他人相处融洽、良好交往的能力。",
+        "ja": "他の人と仲良くうまく付き合う能力のこと。"
+      }
+    }
+  ]
+}

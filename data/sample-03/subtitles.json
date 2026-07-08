@@ -1,0 +1,5044 @@
+{
+  "segments": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 21.76,
+      "text": {
+        "ko": "안녕하세요. 소아청소년 정신건강의학과 전문의 박소영입니다.",
+        "en": "Hello. I'm Park So-young, a specialist in child and adolescent psychiatry.",
+        "vi": "Xin chào. Tôi là Park So-young, bác sĩ chuyên khoa tâm thần trẻ em và vị thành niên.",
+        "zh": "大家好。我是儿童青少年精神健康医学科专科医生朴素英。",
+        "ja": "こんにちは。児童青少年精神健康医学科の専門医、パク・ソヨンです。"
+      }
+    },
+    {
+      "id": 1,
+      "start": 21.76,
+      "end": 34.64,
+      "text": {
+        "ko": "안녕하세요. 소아청소년과 전문의 손수예입니다.",
+        "en": "Hello. I'm Son Su-ye, a pediatrician specializing in child and adolescent medicine.",
+        "vi": "Xin chào. Tôi là Son Su-ye, bác sĩ chuyên khoa nhi và vị thành niên.",
+        "zh": "大家好。我是儿童青少年科专科医生孙秀艺。",
+        "ja": "こんにちは。小児青少年科の専門医、ソン・スイェです。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 34.64,
+      "end": 39.32,
+      "text": {
+        "ko": "2세에서 6세 아이들은 굉장히 다양한 변화를 보이게 됩니다.",
+        "en": "Children between the ages of 2 and 6 go through a wide variety of changes.",
+        "vi": "Trẻ từ 2 đến 6 tuổi sẽ có rất nhiều thay đổi đa dạng.",
+        "zh": "2岁到6岁的孩子会呈现出非常多样的变化。",
+        "ja": "2歳から6歳の子どもは、とても多様な変化を見せるようになります。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 39.32,
+      "end": 43.28,
+      "text": {
+        "ko": "그러면서 세상에 대한 호기심, 탐구심이 생기죠.",
+        "en": "In the process, they develop curiosity and a desire to explore the world.",
+        "vi": "Trong quá trình đó, trẻ nảy sinh sự tò mò và tinh thần khám phá về thế giới.",
+        "zh": "在这个过程中，孩子会对世界产生好奇心和探究心。",
+        "ja": "その過程で、世界に対する好奇心や探求心が芽生えます。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 43.28,
+      "end": 48.52,
+      "text": {
+        "ko": "그중에서도 특히 자신의 신체, 그리고 자신의 신체와 비교하여",
+        "en": "Among these, they become especially curious about their own body, and in comparison to their own body,",
+        "vi": "Trong đó, đặc biệt là về cơ thể của chính mình, và khi so sánh với cơ thể mình,",
+        "zh": "其中，尤其是对自己的身体，以及与自己身体相比较，",
+        "ja": "その中でも特に、自分の体、そして自分の体と比べて、"
+      }
+    },
+    {
+      "id": 5,
+      "start": 48.52,
+      "end": 54.8,
+      "text": {
+        "ko": "부모님의 신체, 그리고 또래 친구들의 신체에 대해서도 궁금증을 보이기 시작합니다.",
+        "en": "they begin to show curiosity about their parents' bodies and their peers' bodies as well.",
+        "vi": "trẻ bắt đầu tò mò về cơ thể của cha mẹ và cơ thể của bạn bè cùng trang lứa.",
+        "zh": "孩子开始对父母的身体以及同龄朋友的身体也表现出好奇。",
+        "ja": "親の体、そして同年代の友だちの体についても興味を示し始めます。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 54.8,
+      "end": 61.6,
+      "text": {
+        "ko": "그래서 이 시기 성장 발달 단계에서 빼놓을 수 없는 것이 바로 성에 대한 인지 발달입니다.",
+        "en": "So an indispensable part of the growth and development stage at this age is cognitive development regarding sexuality.",
+        "vi": "Vì vậy, điều không thể thiếu trong giai đoạn tăng trưởng và phát triển ở lứa tuổi này chính là sự phát triển nhận thức về giới tính.",
+        "zh": "因此，在这个时期的成长发育阶段中不可或缺的，正是关于性的认知发展。",
+        "ja": "ですから、この時期の成長発達段階で欠かせないのが、まさに性に対する認知の発達です。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 61.6,
+      "end": 67.36,
+      "text": {
+        "ko": "또 요새는 어린이집이나 유치원에서 성교육을 의무적으로 하게 되어 있잖아요.",
+        "en": "Also, these days daycare centers and kindergartens are required to provide sex education.",
+        "vi": "Ngoài ra, ngày nay các nhà trẻ và trường mẫu giáo bắt buộc phải giáo dục giới tính.",
+        "zh": "另外，现在托儿所或幼儿园都必须进行性教育。",
+        "ja": "また、最近は保育園や幼稚園で性教育が義務化されていますよね。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 67.36,
+      "end": 73.28,
+      "text": {
+        "ko": "그렇기 때문에 아이가 그것을 배워온 후에 그것에 대해서 추가적으로 궁금증이 생겨서",
+        "en": "So after a child learns about it, they may develop additional curiosity about it,",
+        "vi": "Chính vì vậy, sau khi trẻ học về điều đó, trẻ có thể nảy sinh thêm thắc mắc,",
+        "zh": "因此，孩子学过之后，可能会对此产生更多的好奇，",
+        "ja": "そのため、子どもがそれを学んできた後、それについてさらに疑問が生じて、"
+      }
+    },
+    {
+      "id": 9,
+      "start": 73.28,
+      "end": 77.08,
+      "text": {
+        "ko": "부모님에게 추가적으로 질문을 할 수도 있어요.",
+        "en": "and they might ask their parents additional questions.",
+        "vi": "và có thể hỏi thêm cha mẹ những câu hỏi.",
+        "zh": "可能会向父母提出更多的问题。",
+        "ja": "親にさらに質問をすることもあります。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 77.08,
+      "end": 81.44,
+      "text": {
+        "ko": "그럴 때 대부분의 부모님들은 좀 당황해하시더라고요.",
+        "en": "In those moments, most parents tend to be a bit flustered.",
+        "vi": "Những lúc như vậy, hầu hết các bậc cha mẹ đều tỏ ra khá bối rối.",
+        "zh": "这种时候，大多数父母都会有点慌张。",
+        "ja": "そういうとき、ほとんどの親御さんは少し戸惑われるんですよね。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 81.44,
+      "end": 87.28,
+      "text": {
+        "ko": "그래서 이것을 어떻게 대답하는 게 좋은 것일지 사실 알 수가 없잖아요.",
+        "en": "So they honestly don't know how best to answer this.",
+        "vi": "Nên thực sự họ không biết nên trả lời điều này như thế nào cho tốt.",
+        "zh": "所以其实真的不知道该怎么回答才好。",
+        "ja": "だから、これをどう答えるのがいいのか、実際にはわからないですよね。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 87.28,
+      "end": 91.04,
+      "text": {
+        "ko": "배운 적이 없잖아요. 그러니까 많은 고민들을 하세요.",
+        "en": "They've never learned how. So they worry about it a lot.",
+        "vi": "Vì họ chưa từng được học. Nên họ trăn trở rất nhiều.",
+        "zh": "因为从来没学过嘛。所以会有很多苦恼。",
+        "ja": "教わったことがないですからね。だから、たくさん悩まれます。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 91.04,
+      "end": 94.4,
+      "text": {
+        "ko": "우리 아이들이 성에 대한 올바른 가치관을 갖기 위해서는",
+        "en": "In order for our children to have the right values about sexuality,",
+        "vi": "Để con em chúng ta có được những giá trị quan đúng đắn về giới tính,",
+        "zh": "为了让我们的孩子拥有正确的性价值观，",
+        "ja": "子どもたちが性について正しい価値観を持つためには、"
+      }
+    },
+    {
+      "id": 14,
+      "start": 94.4,
+      "end": 99.68,
+      "text": {
+        "ko": "유아기 때부터 성교육을 제대로 해야 된다는 생각에는 아마 동의하실 겁니다.",
+        "en": "you'll probably agree that proper sex education should start from early childhood.",
+        "vi": "chắc hẳn các bậc phụ huynh sẽ đồng ý rằng cần phải giáo dục giới tính đúng cách ngay từ giai đoạn ấu thơ.",
+        "zh": "想必大家都会同意，应该从幼儿期就好好进行性教育。",
+        "ja": "幼児期からきちんと性教育をすべきだという考えには、おそらく同意されるでしょう。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 99.68,
+      "end": 103.24,
+      "text": {
+        "ko": "그렇지만 저희들을 포함한 부모님 세대에는",
+        "en": "However, in our generation of parents, including ourselves,",
+        "vi": "Tuy nhiên, thế hệ cha mẹ bao gồm cả chúng tôi,",
+        "zh": "但是，包括我们在内的父母这一代人，",
+        "ja": "しかし、私たちを含む親世代には、"
+      }
+    },
+    {
+      "id": 16,
+      "start": 103.24,
+      "end": 106.4,
+      "text": {
+        "ko": "유아기 때부터 성교육을 받았던 그런 경험이 없고",
+        "en": "we don't have the experience of receiving sex education from early childhood,",
+        "vi": "không có kinh nghiệm được giáo dục giới tính từ khi còn nhỏ,",
+        "zh": "没有从幼儿期就接受性教育的那种经历，",
+        "ja": "幼児期から性教育を受けたという経験がなく、"
+      }
+    },
+    {
+      "id": 17,
+      "start": 106.4,
+      "end": 108.16,
+      "text": {
+        "ko": "그런 시대가 아니었기 때문에",
+        "en": "because it wasn't that kind of era.",
+        "vi": "vì đó không phải là thời đại như vậy.",
+        "zh": "因为那不是那样的时代，",
+        "ja": "そういう時代ではなかったので、"
+      }
+    },
+    {
+      "id": 18,
+      "start": 108.16,
+      "end": 112.12,
+      "text": {
+        "ko": "막상 우리 아이에게 제대로 된 성교육을 하려고 할 때",
+        "en": "so when it actually comes to giving our child proper sex education,",
+        "vi": "nên khi thực sự muốn giáo dục giới tính đúng cách cho con,",
+        "zh": "真正要给我们的孩子进行正确的性教育时，",
+        "ja": "いざ自分の子どもにきちんとした性教育をしようとするとき、"
+      }
+    },
+    {
+      "id": 19,
+      "start": 112.12,
+      "end": 115.16,
+      "text": {
+        "ko": "어떻게 해야 할지 막막한 것은 사실입니다.",
+        "en": "it's true that we feel at a loss about how to do it.",
+        "vi": "quả thật là chúng ta cảm thấy mơ hồ không biết phải làm thế nào.",
+        "zh": "确实会感到不知所措，这是事实。",
+        "ja": "どうすればいいのか途方に暮れるのは事実です。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 115.16,
+      "end": 116.96,
+      "text": {
+        "ko": "그래서 오늘은 저희가",
+        "en": "So today, we're going to",
+        "vi": "Vì vậy hôm nay, chúng tôi sẽ",
+        "zh": "所以今天我们",
+        "ja": "そこで今日は私たちが"
+      }
+    },
+    {
+      "id": 21,
+      "start": 116.96,
+      "end": 122.88,
+      "text": {
+        "ko": "우리 아이 첫 성교육은 어떻게 해야 할까라는 주제로 이야기를 해보려고 합니다.",
+        "en": "talk about the topic of how we should approach our child's first sex education.",
+        "vi": "nói về chủ đề nên thực hiện buổi giáo dục giới tính đầu tiên cho con như thế nào.",
+        "zh": "就'孩子的第一次性教育该怎么进行'这个主题来聊一聊。",
+        "ja": "うちの子の初めての性教育はどうすればよいのか、というテーマでお話ししようと思います。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 122.88,
+      "end": 129.2,
+      "text": {
+        "ko": "그래서 오늘은 실생활에서 자연스럽게 유아기 성교육을 어떻게 해야 하는지",
+        "en": "So today, how to naturally carry out early childhood sex education in daily life,",
+        "vi": "Vì vậy hôm nay, làm thế nào để thực hiện giáo dục giới tính cho trẻ nhỏ một cách tự nhiên trong đời sống thực,",
+        "zh": "所以今天，如何在日常生活中自然地进行幼儿期的性教育，",
+        "ja": "そこで今日は、実生活の中で自然に幼児期の性教育をどうすればよいのか、"
+      }
+    },
+    {
+      "id": 23,
+      "start": 129.2,
+      "end": 133.72,
+      "text": {
+        "ko": "또 언제, 어디서, 누가, 어떻게, 무엇을, 왜",
+        "en": "and also when, where, who, how, what, and why,",
+        "vi": "và cả khi nào, ở đâu, ai, như thế nào, cái gì, tại sao,",
+        "zh": "以及何时、何地、谁、如何、做什么、为什么，",
+        "ja": "また、いつ、どこで、誰が、どのように、何を、なぜ、"
+      }
+    },
+    {
+      "id": 24,
+      "start": 133.72,
+      "end": 140.2,
+      "text": {
+        "ko": "육하원칙에 맞춰서 현실적인 방법을 제시해 드리도록 하겠습니다.",
+        "en": "following the five W's and one H, I'll present practical methods for you.",
+        "vi": "theo nguyên tắc 5W1H, tôi sẽ đưa ra những phương pháp thực tế.",
+        "zh": "按照六何原则，为您提供切实可行的方法。",
+        "ja": "5W1Hに沿って現実的な方法をご提示いたします。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 140.2,
+      "end": 144.6,
+      "text": {
+        "ko": "먼저 우리 아이 첫 성교육, 언제부터 시작해야 할까요?",
+        "en": "First, when should we start our child's first sex education?",
+        "vi": "Trước tiên, buổi giáo dục giới tính đầu tiên cho con nên bắt đầu từ khi nào?",
+        "zh": "首先，孩子的第一次性教育该从什么时候开始呢？",
+        "ja": "まず、うちの子の初めての性教育、いつから始めればよいのでしょうか？"
+      }
+    },
+    {
+      "id": 26,
+      "start": 144.6,
+      "end": 148.8,
+      "text": {
+        "ko": "이 적정 연령에 대한 고민이 굉장히 많으시거든요.",
+        "en": "Many of you worry a lot about the right age for this.",
+        "vi": "Rất nhiều người băn khoăn về độ tuổi thích hợp cho việc này.",
+        "zh": "大家对于这个适当年龄有很多顾虑。",
+        "ja": "この適正年齢についての悩みがとても多いんです。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 148.8,
+      "end": 155,
+      "text": {
+        "ko": "유아기 첫 성교육은 3에서 4세 시기에 시작하는 것이 좋습니다.",
+        "en": "It's good to start the first sex education in early childhood around ages 3 to 4.",
+        "vi": "Buổi giáo dục giới tính đầu tiên ở tuổi ấu thơ nên bắt đầu vào khoảng 3 đến 4 tuổi.",
+        "zh": "幼儿期的第一次性教育最好在3到4岁时开始。",
+        "ja": "幼児期の初めての性教育は3歳から4歳の時期に始めるのがよいです。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 155,
+      "end": 158.32,
+      "text": {
+        "ko": "이 시기가 인지 발달학적으로 성에 대한 호기심",
+        "en": "This period is when, in terms of cognitive development, curiosity about sex",
+        "vi": "Đây là thời kỳ mà, về mặt phát triển nhận thức, sự tò mò về giới tính",
+        "zh": "这个时期从认知发展的角度来看，对性的好奇心",
+        "ja": "この時期は認知発達的に性への好奇心、"
+      }
+    },
+    {
+      "id": 29,
+      "start": 158.32,
+      "end": 160.92,
+      "text": {
+        "ko": "그리고 관심도가 많아지기 때문이죠.",
+        "en": "and interest increase.",
+        "vi": "và mức độ quan tâm tăng lên.",
+        "zh": "以及关注度会增加。",
+        "ja": "そして関心度が高まるからです。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 160.92,
+      "end": 165.6,
+      "text": {
+        "ko": "인지 발달 단계상 자신의 성기가 엄마, 아빠와의 것과는",
+        "en": "In terms of the cognitive development stage, it's when children start to notice that their genitals",
+        "vi": "Theo giai đoạn phát triển nhận thức, đây là lúc trẻ bắt đầu nhận ra rằng bộ phận sinh dục của mình",
+        "zh": "从认知发展阶段来看，孩子开始察觉到自己的生殖器与",
+        "ja": "認知発達段階上、自分の性器がお母さん、お父さんのものとは"
+      }
+    },
+    {
+      "id": 31,
+      "start": 165.6,
+      "end": 169.24,
+      "text": {
+        "ko": "다르다는 것을 알아채기 시작하는 시기거든요.",
+        "en": "are different from those of their mom and dad.",
+        "vi": "khác với của bố mẹ.",
+        "zh": "妈妈、爸爸的不同。",
+        "ja": "違うということに気づき始める時期なんです。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 169.24,
+      "end": 170.92,
+      "text": {
+        "ko": "왜 이렇게 다르게 생겼지?",
+        "en": "Why does it look so different?",
+        "vi": "Tại sao lại trông khác thế này?",
+        "zh": "为什么长得这么不一样呢？",
+        "ja": "どうしてこんなに違う形なんだろう？"
+      }
+    },
+    {
+      "id": 33,
+      "start": 170.92,
+      "end": 174.96,
+      "text": {
+        "ko": "왜 생김새가 다를까? 하는 호기심에서부터 시작이 돼서",
+        "en": "It starts from the curiosity of why they look different,",
+        "vi": "Bắt đầu từ sự tò mò 'tại sao lại khác nhau về hình dạng?',",
+        "zh": "从'为什么样子不一样呢？'这样的好奇心开始，",
+        "ja": "どうして見た目が違うんだろう？という好奇心から始まって、"
+      }
+    },
+    {
+      "id": 34,
+      "start": 174.96,
+      "end": 177.6,
+      "text": {
+        "ko": "혼자서 상상의 나래를 펼칠 수도 있고요.",
+        "en": "and they may let their imagination run wild on their own.",
+        "vi": "và trẻ có thể tự mình thỏa sức tưởng tượng.",
+        "zh": "孩子可能会自己展开想象。",
+        "ja": "一人で想像を膨らませることもあります。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 177.6,
+      "end": 180,
+      "text": {
+        "ko": "언어 발달이 어느 정도 이루어졌기 때문에",
+        "en": "Since language development has progressed to some extent,",
+        "vi": "Vì sự phát triển ngôn ngữ đã đạt đến một mức độ nhất định,",
+        "zh": "由于语言发展已达到一定程度，",
+        "ja": "言語発達がある程度進んでいるため、"
+      }
+    },
+    {
+      "id": 36,
+      "start": 180,
+      "end": 184.76,
+      "text": {
+        "ko": "엄마, 아빠에게 직접적으로 물어봐서 궁금증을 해소할 수도 있습니다.",
+        "en": "they can also directly ask their mom and dad to resolve their curiosity.",
+        "vi": "trẻ cũng có thể hỏi trực tiếp bố mẹ để giải tỏa thắc mắc.",
+        "zh": "孩子也可以直接向妈妈、爸爸询问来解开疑惑。",
+        "ja": "お母さん、お父さんに直接尋ねて疑問を解消することもできます。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 184.76,
+      "end": 187.04,
+      "text": {
+        "ko": "또 신체 감각 또한 발달이 돼서",
+        "en": "Also, since bodily sensations develop as well,",
+        "vi": "Ngoài ra, vì cảm giác cơ thể cũng phát triển,",
+        "zh": "另外，身体感觉也会发展，",
+        "ja": "また、身体感覚も発達するため、"
+      }
+    },
+    {
+      "id": 38,
+      "start": 187.04,
+      "end": 190.04,
+      "text": {
+        "ko": "이 시기에는 배변 훈련을 하기 시작하는데요.",
+        "en": "in this period children start toilet training.",
+        "vi": "trong thời kỳ này trẻ bắt đầu tập đi vệ sinh.",
+        "zh": "这个时期开始进行如厕训练。",
+        "ja": "この時期にはトイレトレーニングを始めるのですが、"
+      }
+    },
+    {
+      "id": 39,
+      "start": 190.04,
+      "end": 194.64,
+      "text": {
+        "ko": "자신의 성기에 대한 감각이 이전에 비해서 굉장히 예민해지기 때문에",
+        "en": "Because the sensation regarding their own genitals becomes much more sensitive than before,",
+        "vi": "Vì cảm giác về bộ phận sinh dục của mình trở nên nhạy cảm hơn nhiều so với trước,",
+        "zh": "由于对自己生殖器的感觉比以前变得非常敏感，",
+        "ja": "自分の性器に対する感覚が以前に比べてとても敏感になるため、"
+      }
+    },
+    {
+      "id": 40,
+      "start": 194.64,
+      "end": 199.6,
+      "text": {
+        "ko": "궁금증이 더욱 높아지는 것은 굉장히 자연스러운 발달 과정이라고 할 수 있습니다.",
+        "en": "The increasing curiosity can be said to be a very natural part of the developmental process.",
+        "vi": "Việc sự tò mò ngày càng tăng lên có thể nói là một quá trình phát triển rất tự nhiên.",
+        "zh": "好奇心越来越强，可以说是一个非常自然的发展过程。",
+        "ja": "好奇心がさらに高まるのは、とても自然な発達過程だと言えます。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 199.6,
+      "end": 205.08,
+      "text": {
+        "ko": "네, 근데 여기서 부모님들이 꼭 아셔야 되는 것이 한 가지가 있습니다.",
+        "en": "Yes, but there's one thing that parents absolutely need to know here.",
+        "vi": "Vâng, nhưng ở đây có một điều mà các bậc phụ huynh nhất định phải biết.",
+        "zh": "是的，不过在这里有一点父母们一定要知道。",
+        "ja": "はい、でもここで親御さんが必ず知っておくべきことが一つあります。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 205.08,
+      "end": 210.52,
+      "text": {
+        "ko": "이 신체 인지 발달은 아이마다 개개인마다 좀 차이가 있을 수 있잖아요.",
+        "en": "This physical cognitive development can vary a bit from child to child, from individual to individual, right?",
+        "vi": "Sự phát triển nhận thức về cơ thể này có thể khác nhau ở mỗi đứa trẻ, mỗi cá nhân đúng không ạ.",
+        "zh": "这种身体认知发展，每个孩子、每个人可能会有些差异嘛。",
+        "ja": "この身体認知の発達は、子どもによって、一人ひとりによって少し差があることがありますよね。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 210.52,
+      "end": 213.44,
+      "text": {
+        "ko": "그래서 어떤 아이는 대소변을 좀 일찍 가려서",
+        "en": "So some children are toilet-trained a bit earlier,",
+        "vi": "Vì vậy có những đứa trẻ tự đi vệ sinh sớm hơn một chút,",
+        "zh": "所以有些孩子较早学会大小便自理，",
+        "ja": "なので、ある子はトイレトレーニングが少し早くて、"
+      }
+    },
+    {
+      "id": 44,
+      "start": 213.44,
+      "end": 216.16,
+      "text": {
+        "ko": "성기에 대한 궁금증이 더 빨리 올 수도 있고",
+        "en": "and their curiosity about their genitals can come earlier,",
+        "vi": "nên sự tò mò về bộ phận sinh dục có thể đến sớm hơn,",
+        "zh": "对性器官的好奇心可能会来得更早，",
+        "ja": "性器についての好奇心がより早く来ることもあり、"
+      }
+    },
+    {
+      "id": 45,
+      "start": 216.16,
+      "end": 219.12,
+      "text": {
+        "ko": "발달이 좀 느린 아이들은 늦게 올 수도 있고요.",
+        "en": "while for children whose development is a bit slower, it can come later.",
+        "vi": "còn những đứa trẻ phát triển chậm hơn một chút thì có thể đến muộn hơn.",
+        "zh": "而发展稍慢的孩子可能会来得晚一些。",
+        "ja": "発達が少し遅い子どもたちは遅く来ることもあります。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 219.12,
+      "end": 224.64,
+      "text": {
+        "ko": "그래서 이 성교육을 시작하는 시기는 딱 3세 이렇게 정해놓는 것보다는",
+        "en": "So rather than fixing the time to start this sex education at exactly age three,",
+        "vi": "Vì vậy, thay vì ấn định thời điểm bắt đầu giáo dục giới tính này chính xác là 3 tuổi,",
+        "zh": "所以，与其把开始性教育的时间硬性定在3岁，",
+        "ja": "なので、この性教育を始める時期をきっちり3歳と決めておくよりは、"
+      }
+    },
+    {
+      "id": 47,
+      "start": 224.64,
+      "end": 226.96,
+      "text": {
+        "ko": "아이의 인지 발달 속도라든지",
+        "en": "it's better to decide based on the child's pace of cognitive development,",
+        "vi": "nên quyết định dựa theo tốc độ phát triển nhận thức của trẻ,",
+        "zh": "根据孩子的认知发展速度，",
+        "ja": "子どもの認知発達の速度であるとか、"
+      }
+    },
+    {
+      "id": 48,
+      "start": 226.96,
+      "end": 232.84,
+      "text": {
+        "ko": "아이가 얼마나 성적 호기심을 보이는가에 따라서 정하는 것이 맞겠습니다.",
+        "en": "or how much sexual curiosity the child shows, and decide accordingly.",
+        "vi": "hoặc mức độ tò mò về giới tính mà trẻ thể hiện để quyết định thì sẽ đúng hơn.",
+        "zh": "以及孩子表现出多少性方面的好奇心来决定才是对的。",
+        "ja": "子どもがどれくらい性的好奇心を示すかによって決めるのが良いでしょう。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 232.84,
+      "end": 238.12,
+      "text": {
+        "ko": "그 대신에 부모님은 이 아이가 언제 그렇게 갑작스러운 질문을 할지 모르잖아요.",
+        "en": "Instead, parents never know when the child might suddenly ask such a question, right?",
+        "vi": "Thay vào đó, cha mẹ không biết khi nào đứa trẻ sẽ đột ngột hỏi những câu như vậy đúng không ạ.",
+        "zh": "取而代之的是，父母不知道孩子什么时候会突然问出这样的问题嘛。",
+        "ja": "その代わり、親御さんは子どもがいつそんな突然の質問をするか分からないですよね。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 238.12,
+      "end": 242.4,
+      "text": {
+        "ko": "그렇기 때문에 미리미리 이런 대답을 어떻게 해야 될지에 대해서는",
+        "en": "That's why, regarding how to answer such questions,",
+        "vi": "Chính vì vậy, về việc phải trả lời những câu hỏi như thế nào,",
+        "zh": "正因为如此，关于该如何回答这样的问题，",
+        "ja": "だからこそ、こういう答えをどうすればいいかについては、"
+      }
+    },
+    {
+      "id": 51,
+      "start": 242.4,
+      "end": 244.56,
+      "text": {
+        "ko": "미리 대비해두는 것이 좋겠죠.",
+        "en": "it's best to prepare in advance.",
+        "vi": "thì nên chuẩn bị trước là tốt nhất.",
+        "zh": "提前做好准备会比较好。",
+        "ja": "あらかじめ備えておくのが良いでしょう。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 244.56,
+      "end": 249.24,
+      "text": {
+        "ko": "그런데 선생님 이렇게 또 반문하시는 부모님들도 계실 것 같아요.",
+        "en": "But doctor, I think there may also be parents who would counter like this.",
+        "vi": "Nhưng thưa bác sĩ, chắc cũng có những bậc phụ huynh sẽ hỏi ngược lại thế này.",
+        "zh": "不过老师，我想也会有父母这样反问。",
+        "ja": "ですが先生、こんなふうに反問される親御さんもいらっしゃると思います。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 249.24,
+      "end": 254.64,
+      "text": {
+        "ko": "3, 4세, 그러니까 3, 4살이면 성교육 하기에는 좀 어린 나이 아닌가요?",
+        "en": "\"Isn't three or four, I mean three or four years old, a bit too young for sex education?\"",
+        "vi": "\"3, 4 tuổi, tức là 3, 4 tuổi thì có phải hơi nhỏ để giáo dục giới tính không ạ?\"",
+        "zh": "“3、4岁，也就是3、4岁，进行性教育不是有点太小了吗？”",
+        "ja": "「3、4歳、つまり3、4歳だと性教育をするには少し幼い年齢ではないですか？」"
+      }
+    },
+    {
+      "id": 54,
+      "start": 254.64,
+      "end": 258.16,
+      "text": {
+        "ko": "근데 이렇게 어린 나이 때부터 성교육이 왜 필요한 거 아닌가?",
+        "en": "\"Why is sex education necessary from such a young age?\"",
+        "vi": "\"Nhưng tại sao lại cần giáo dục giới tính ngay từ độ tuổi nhỏ như vậy?\"",
+        "zh": "“从这么小的年纪就需要性教育吗？”",
+        "ja": "「こんな幼い年齢から性教育がなぜ必要なのか？」"
+      }
+    },
+    {
+      "id": 55,
+      "start": 258.16,
+      "end": 259.88,
+      "text": {
+        "ko": "너무 빠른 거 아닌가?",
+        "en": "\"Isn't it too early?\"",
+        "vi": "\"Có phải quá sớm không?\"",
+        "zh": "“会不会太早了？”",
+        "ja": "「早すぎるのではないか？」"
+      }
+    },
+    {
+      "id": 56,
+      "start": 259.88,
+      "end": 263.84,
+      "text": {
+        "ko": "이제 궁금해하시고 걱정하시는 분들이 계실 거란 말이에요.",
+        "en": "There will surely be people who wonder and worry about this.",
+        "vi": "Chắc chắn sẽ có những người thắc mắc và lo lắng như vậy.",
+        "zh": "我是说，肯定会有人对此感到好奇和担心。",
+        "ja": "そう疑問に思い、心配される方がいらっしゃると思うんですよね。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 263.84,
+      "end": 269.48,
+      "text": {
+        "ko": "네, 하지만 유아기 때부터의 성교육은 꼭 필요합니다.",
+        "en": "Yes, but sex education from early childhood is absolutely necessary.",
+        "vi": "Vâng, nhưng giáo dục giới tính từ giai đoạn ấu thơ là điều thực sự cần thiết.",
+        "zh": "是的，但从幼儿期开始的性教育是绝对必要的。",
+        "ja": "はい、しかし幼児期からの性教育は必ず必要です。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 269.48,
+      "end": 273.32,
+      "text": {
+        "ko": "왜냐? 바로 아이가 궁금해하기 때문이죠.",
+        "en": "Why? Precisely because the child is curious.",
+        "vi": "Tại sao? Chính vì đứa trẻ tò mò.",
+        "zh": "为什么呢？正是因为孩子感到好奇。",
+        "ja": "なぜか？それはまさに子どもが知りたがっているからです。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 273.88,
+      "end": 277.72,
+      "text": {
+        "ko": "우리 아이가 내 몸에 대해서 그리고 성에 대해 호기심을 갖는 것은",
+        "en": "Our child having curiosity about their body and about sexuality is",
+        "vi": "Việc con chúng ta có sự tò mò về cơ thể của mình và về giới tính là",
+        "zh": "我们的孩子对自己的身体以及对性感到好奇，",
+        "ja": "うちの子が自分の体について、そして性について好奇心を持つことは、"
+      }
+    },
+    {
+      "id": 60,
+      "start": 277.72,
+      "end": 282.04,
+      "text": {
+        "ko": "사실 굉장히 본능적이면서도 자연스러운 일이거든요.",
+        "en": "In fact, it's a very instinctive and natural thing.",
+        "vi": "Thật ra đó là điều rất bản năng và tự nhiên.",
+        "zh": "其实这是一件非常本能而且自然的事情。",
+        "ja": "実はとても本能的で自然なことなんです。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 282.04,
+      "end": 285.76,
+      "text": {
+        "ko": "우리 아이가 '엄마, 내 손가락은 왜 다섯 개야?'",
+        "en": "Our child asks, 'Mom, why do I have five fingers?'",
+        "vi": "Con chúng ta hỏi: 'Mẹ ơi, tại sao con có năm ngón tay?'",
+        "zh": "我们的孩子会问：'妈妈，我的手指为什么是五根呀?'",
+        "ja": "うちの子が「ママ、私の指はどうして5本なの?」"
+      }
+    },
+    {
+      "id": 62,
+      "start": 285.76,
+      "end": 289.24,
+      "text": {
+        "ko": "'뼈는 왜 딱딱해? 하늘은 왜 파란색이야?'",
+        "en": "'Why are bones hard? Why is the sky blue?'",
+        "vi": "'Tại sao xương lại cứng? Tại sao bầu trời màu xanh?'",
+        "zh": "'骨头为什么是硬的？天空为什么是蓝色的?'",
+        "ja": "「骨はどうして硬いの? 空はどうして青いの?」"
+      }
+    },
+    {
+      "id": 63,
+      "start": 289.24,
+      "end": 293.12,
+      "text": {
+        "ko": "'바람은 어디서 불어와?' 이런 질문들을 하잖아요.",
+        "en": "'Where does the wind come from?' They ask these kinds of questions.",
+        "vi": "'Gió thổi từ đâu đến?' Chúng thường hỏi những câu như vậy.",
+        "zh": "'风是从哪里吹来的?' 他们会问这样的问题。",
+        "ja": "「風はどこから吹いてくるの?」こういう質問をしますよね。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 293.12,
+      "end": 296.76,
+      "text": {
+        "ko": "그래서 세상의 다른 사물에 대해서 관심을 갖는 것과 같이",
+        "en": "So, just like being interested in other objects in the world,",
+        "vi": "Vì vậy, cũng giống như quan tâm đến những sự vật khác trên thế giới,",
+        "zh": "所以，就像对世界上其他事物感兴趣一样，",
+        "ja": "ですから、世の中の他の物事に関心を持つのと同じように、"
+      }
+    },
+    {
+      "id": 65,
+      "start": 296.76,
+      "end": 300.84,
+      "text": {
+        "ko": "그리고 내 몸의 발가락, 손가락, 이런 신체, 다른 신체 부위에 대해서",
+        "en": "and just like being curious about my body's toes, fingers, and other body parts,",
+        "vi": "và cũng như tò mò về ngón chân, ngón tay và các bộ phận cơ thể khác của mình,",
+        "zh": "以及对自己身体的脚趾、手指等其他身体部位感到好奇一样，",
+        "ja": "そして自分の体の足の指、手の指、こういった体、他の体の部位について、"
+      }
+    },
+    {
+      "id": 66,
+      "start": 300.84,
+      "end": 304.4,
+      "text": {
+        "ko": "궁금해하는 것과 마찬가지로 자신의 성에 대해서",
+        "en": "in the same way, being interested in one's own sexuality,",
+        "vi": "cũng như vậy, việc quan tâm đến giới tính của mình,",
+        "zh": "同样地，对自己的性别、",
+        "ja": "気になるのと同じように、自分の性について、"
+      }
+    },
+    {
+      "id": 67,
+      "start": 304.4,
+      "end": 309.24,
+      "text": {
+        "ko": "자신의 몸에 대해서 관심을 갖는 것은 굉장히 자연스러운 현상입니다.",
+        "en": "being interested in one's own body is a very natural phenomenon.",
+        "vi": "quan tâm đến cơ thể của mình là một hiện tượng rất tự nhiên.",
+        "zh": "对自己的身体感兴趣是非常自然的现象。",
+        "ja": "自分の体について関心を持つことはとても自然な現象です。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 309.24,
+      "end": 313.4,
+      "text": {
+        "ko": "그래서 아이들의 호기심과 탐험심, 세상과 나를 알아가고자 하는",
+        "en": "So it should be seen as one of children's natural desires—their curiosity and sense of exploration, wanting to get to know the world and themselves.",
+        "vi": "Vì vậy nó nên được xem là một trong những nhu cầu tự nhiên của trẻ—sự tò mò và tinh thần khám phá, mong muốn tìm hiểu về thế giới và bản thân.",
+        "zh": "所以应该把它看作是孩子好奇心和探索欲、想要了解世界和自我的",
+        "ja": "ですから子どもの好奇心と探求心、世界と自分を知ろうとする"
+      }
+    },
+    {
+      "id": 69,
+      "start": 313.4,
+      "end": 316.92,
+      "text": {
+        "ko": "자연스러운 욕구 중에 하나라고 봐야 합니다.",
+        "en": "It should be regarded as one of those natural desires.",
+        "vi": "Cần phải xem đó là một trong những nhu cầu tự nhiên.",
+        "zh": "自然欲求之一。",
+        "ja": "自然な欲求のひとつと見るべきです。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 316.92,
+      "end": 321.36,
+      "text": {
+        "ko": "이런 아이의 궁금증에 대해서 현명하게 지도하고 알려주는 것이",
+        "en": "Wisely guiding and teaching about such a child's curiosity",
+        "vi": "Việc hướng dẫn và giải thích một cách khôn ngoan về sự tò mò này của trẻ",
+        "zh": "对孩子的这种好奇心进行明智的引导和讲解，",
+        "ja": "こうした子どもの疑問に対して賢く指導し教えてあげることが"
+      }
+    },
+    {
+      "id": 71,
+      "start": 321.36,
+      "end": 324.12,
+      "text": {
+        "ko": "바로 우리 부모의 역할이겠죠.",
+        "en": "is precisely the role of us parents.",
+        "vi": "chính là vai trò của chúng ta, những bậc cha mẹ.",
+        "zh": "正是我们做父母的责任。",
+        "ja": "まさに私たち親の役割でしょう。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 324.12,
+      "end": 329.96,
+      "text": {
+        "ko": "네, 그리고 유아기 성교육은 신체적, 사회적, 정서적 관계 성장에도",
+        "en": "Yes, and early childhood sex education is also essential for physical, social, and emotional relationship growth.",
+        "vi": "Vâng, và giáo dục giới tính ở tuổi ấu thơ cũng rất cần thiết cho sự phát triển về thể chất, xã hội và các mối quan hệ tình cảm.",
+        "zh": "是的，而且幼儿期的性教育对于身体、社会、情感关系的成长",
+        "ja": "はい、そして幼児期の性教育は身体的、社会的、情緒的な関係の成長にも"
+      }
+    },
+    {
+      "id": 73,
+      "start": 330,
+      "end": 331.64,
+      "text": {
+        "ko": "꼭 필요합니다.",
+        "en": "It is absolutely necessary.",
+        "vi": "là điều rất cần thiết.",
+        "zh": "也是必不可少的。",
+        "ja": "必ず必要です。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 331.64,
+      "end": 334.72,
+      "text": {
+        "ko": "이 성에 대한 호기심은 참 무해한 거지만",
+        "en": "This curiosity about sexuality is quite harmless, but",
+        "vi": "Sự tò mò về giới tính này thật ra rất vô hại, nhưng",
+        "zh": "这种对性的好奇心其实是无害的，但是",
+        "ja": "この性に対する好奇心はまったく無害なものですが、"
+      }
+    },
+    {
+      "id": 75,
+      "start": 334.72,
+      "end": 337.8,
+      "text": {
+        "ko": "친구 몸을 그렇다고 함부로 만진다든지",
+        "en": "touching a friend's body carelessly because of it,",
+        "vi": "nếu vì thế mà tùy tiện chạm vào cơ thể bạn bè,",
+        "zh": "如果因此随意触碰朋友的身体，",
+        "ja": "だからといって友達の体をむやみに触ったり、"
+      }
+    },
+    {
+      "id": 76,
+      "start": 337.8,
+      "end": 341.52,
+      "text": {
+        "ko": "아니면 자신의 몸을 타인에게 아무렇게나 보여주는 방식으로",
+        "en": "or expressing it by showing one's own body to others carelessly",
+        "vi": "hoặc thể hiện bằng cách phô bày cơ thể mình cho người khác một cách tùy tiện",
+        "zh": "或者以随意向他人展示自己身体的方式来表达，",
+        "ja": "あるいは自分の体を他人にむやみに見せるような形で"
+      }
+    },
+    {
+      "id": 77,
+      "start": 341.52,
+      "end": 344.28,
+      "text": {
+        "ko": "표현하는 것은 옳지 않겠죠.",
+        "en": "would not be right.",
+        "vi": "thì đó là điều không đúng.",
+        "zh": "这样的做法是不对的。",
+        "ja": "表現するのは正しくないでしょう。"
+      }
+    },
+    {
+      "id": 78,
+      "start": 344.28,
+      "end": 348.72,
+      "text": {
+        "ko": "또 미디어 노출이 많은 요즘 성적 호기심을 자극하는",
+        "en": "Also, these days when there's a lot of media exposure, before children are exposed to media that stimulates sexual curiosity,",
+        "vi": "Ngoài ra, trong thời buổi tiếp xúc với truyền thông nhiều như hiện nay, trước khi trẻ tiếp xúc với những phương tiện truyền thông kích thích sự tò mò tình dục,",
+        "zh": "另外，在媒体接触频繁的当今，在孩子接触到刺激性好奇心的",
+        "ja": "また、メディアへの露出が多い最近、性的好奇心を刺激する"
+      }
+    },
+    {
+      "id": 79,
+      "start": 348.72,
+      "end": 353.36,
+      "text": {
+        "ko": "미디어에 노출되기 전에 이런 올바른 지식을 쌓을 수 있게",
+        "en": "so that they can build this kind of correct knowledge beforehand.",
+        "vi": "để trẻ có thể tích lũy những kiến thức đúng đắn như thế này.",
+        "zh": "媒体之前，让孩子能够积累这些正确的知识。",
+        "ja": "メディアに触れる前に、こうした正しい知識を身につけられるように。"
+      }
+    },
+    {
+      "id": 80,
+      "start": 353.36,
+      "end": 356.36,
+      "text": {
+        "ko": "기초 공사를 해두는 것이 좋겠습니다.",
+        "en": "It would be good to lay the foundation.",
+        "vi": "Sẽ tốt hơn nếu chúng ta xây dựng nền móng cơ bản.",
+        "zh": "最好先打好基础。",
+        "ja": "基礎工事をしておくのが良いでしょう。"
+      }
+    },
+    {
+      "id": 81,
+      "start": 356.36,
+      "end": 360.2,
+      "text": {
+        "ko": "자, 그럼 이렇게 중요한 성교육, 무엇을 해야 하는지",
+        "en": "So, this important sex education—what exactly we should do,",
+        "vi": "Vậy thì, với việc giáo dục giới tính quan trọng như thế này, chúng ta cần làm gì,",
+        "zh": "那么，如此重要的性教育，究竟该做些什么，",
+        "ja": "さて、それではこんなに重要な性教育、何をすべきかを"
+      }
+    },
+    {
+      "id": 82,
+      "start": 360.2,
+      "end": 362.44,
+      "text": {
+        "ko": "구체적으로 알아보겠습니다.",
+        "en": "let's take a look in detail.",
+        "vi": "chúng ta hãy cùng tìm hiểu cụ thể.",
+        "zh": "我们来具体了解一下。",
+        "ja": "具体的に見ていきましょう。"
+      }
+    },
+    {
+      "id": 83,
+      "start": 362.44,
+      "end": 366.72,
+      "text": {
+        "ko": "유아기 성교육은 크게 두 가지로 분류를 할 수 있습니다.",
+        "en": "Early childhood sex education can be broadly classified into two categories.",
+        "vi": "Giáo dục giới tính ở lứa tuổi mầm non có thể được phân thành hai loại lớn.",
+        "zh": "幼儿期的性教育大致可以分为两类。",
+        "ja": "幼児期の性教育は大きく二つに分類することができます。"
+      }
+    },
+    {
+      "id": 84,
+      "start": 366.72,
+      "end": 369.64,
+      "text": {
+        "ko": "하나는 신체와 관련된 교육이고요.",
+        "en": "One is education related to the body.",
+        "vi": "Một là giáo dục liên quan đến cơ thể.",
+        "zh": "一类是与身体相关的教育。",
+        "ja": "一つは身体に関する教育です。"
+      }
+    },
+    {
+      "id": 85,
+      "start": 369.64,
+      "end": 374.4,
+      "text": {
+        "ko": "그리고 두 번째는 사회, 정서와 관련된 교육이 되겠습니다.",
+        "en": "And the second is education related to social and emotional aspects.",
+        "vi": "Và loại thứ hai là giáo dục liên quan đến xã hội và cảm xúc.",
+        "zh": "第二类是与社会、情绪相关的教育。",
+        "ja": "そして二つ目は社会性・情緒に関する教育です。"
+      }
+    },
+    {
+      "id": 86,
+      "start": 374.4,
+      "end": 377.08,
+      "text": {
+        "ko": "먼저 신체에 대한 교육은",
+        "en": "First, education about the body",
+        "vi": "Trước tiên, giáo dục về cơ thể",
+        "zh": "首先，关于身体的教育",
+        "ja": "まず身体に関する教育は"
+      }
+    },
+    {
+      "id": 87,
+      "start": 377.08,
+      "end": 380.96,
+      "text": {
+        "ko": "말 그대로 보여지는 신체에 대한 성교육입니다.",
+        "en": "is literally sex education about the visible body.",
+        "vi": "đúng như tên gọi, là giáo dục giới tính về cơ thể mà ta nhìn thấy được.",
+        "zh": "顾名思义，就是关于看得见的身体的性教育。",
+        "ja": "文字通り、目に見える身体に関する性教育です。"
+      }
+    },
+    {
+      "id": 88,
+      "start": 380.96,
+      "end": 384.92,
+      "text": {
+        "ko": "먼저 자신의 신체에 대한 학습 먼저 이루어지겠죠.",
+        "en": "First, learning about one's own body takes place first.",
+        "vi": "Trước tiên, việc học về cơ thể của chính mình sẽ diễn ra đầu tiên.",
+        "zh": "首先，对自己身体的学习会先进行。",
+        "ja": "まず自分自身の身体についての学習が先に行われるでしょう。"
+      }
+    },
+    {
+      "id": 89,
+      "start": 384.92,
+      "end": 387.4,
+      "text": {
+        "ko": "목욕을 할 때 배변 훈련을 하면서",
+        "en": "While bathing or during toilet training,",
+        "vi": "Khi tắm hay trong lúc tập đi vệ sinh,",
+        "zh": "在洗澡时、进行排便训练时，",
+        "ja": "お風呂に入る時や排便トレーニングをしながら、"
+      }
+    },
+    {
+      "id": 90,
+      "start": 387.4,
+      "end": 391.2,
+      "text": {
+        "ko": "자신의 신체를 관찰하고 또 만져보기도 하고",
+        "en": "they observe their own body, touch it,",
+        "vi": "trẻ quan sát cơ thể của mình, rồi sờ thử,",
+        "zh": "孩子会观察自己的身体，也会摸一摸，",
+        "ja": "自分の身体を観察したり、触ってみたりして、"
+      }
+    },
+    {
+      "id": 91,
+      "start": 391.2,
+      "end": 395.04,
+      "text": {
+        "ko": "신체 명칭을 알아가는 과정을 거치게 되는 거죠.",
+        "en": "and go through the process of learning the names of body parts.",
+        "vi": "và trải qua quá trình học tên gọi các bộ phận cơ thể.",
+        "zh": "经历一个了解身体各部位名称的过程。",
+        "ja": "身体の名称を知っていく過程を経ることになるのです。"
+      }
+    },
+    {
+      "id": 92,
+      "start": 395.04,
+      "end": 398.8,
+      "text": {
+        "ko": "이때 사실 가장 많이 물어보는 질문 중에 하나가",
+        "en": "At this time, one of the questions they ask most often is,",
+        "vi": "Vào lúc này, thực ra một trong những câu hỏi mà trẻ hỏi nhiều nhất là,",
+        "zh": "这时候，其实孩子问得最多的问题之一就是，",
+        "ja": "この時期に実は一番よく聞かれる質問の一つが、"
+      }
+    },
+    {
+      "id": 93,
+      "start": 398.8,
+      "end": 400.48,
+      "text": {
+        "ko": "나는 남자야, 여자야?",
+        "en": "\"Am I a boy or a girl?\"",
+        "vi": "\"Con là con trai hay con gái?\"",
+        "zh": "\"我是男孩还是女孩？\"",
+        "ja": "「僕は男の子？女の子？」"
+      }
+    },
+    {
+      "id": 94,
+      "start": 400.48,
+      "end": 402.32,
+      "text": {
+        "ko": "이런 질문을 굉장히 많이 하잖아요.",
+        "en": "They ask this kind of question a lot.",
+        "vi": "Trẻ hỏi những câu như vậy rất nhiều.",
+        "zh": "孩子会非常频繁地问这样的问题。",
+        "ja": "こういう質問をとてもよくするんですよね。"
+      }
+    },
+    {
+      "id": 95,
+      "start": 402.32,
+      "end": 406.28,
+      "text": {
+        "ko": "근데 이걸 한 번 하는 게 아니라 답을 알려줘도 계속 할 겁니다.",
+        "en": "But they don't just ask once—even after you give the answer, they'll keep asking.",
+        "vi": "Nhưng trẻ không chỉ hỏi một lần, dù bạn đã trả lời thì trẻ vẫn tiếp tục hỏi.",
+        "zh": "但是这个问题不是只问一次，就算你告诉了答案，孩子还是会一直问。",
+        "ja": "でもこれを一度だけするのではなく、答えを教えても繰り返し聞くんです。"
+      }
+    },
+    {
+      "id": 96,
+      "start": 406.28,
+      "end": 409.36,
+      "text": {
+        "ko": "아이는 이걸 계속 확인받고 싶어 하거든요.",
+        "en": "The child wants to keep getting confirmation of this.",
+        "vi": "Trẻ muốn liên tục được xác nhận điều này.",
+        "zh": "孩子想要不断地得到确认。",
+        "ja": "子どもはこれを繰り返し確認してもらいたいんですね。"
+      }
+    },
+    {
+      "id": 97,
+      "start": 409.36,
+      "end": 413.16,
+      "text": {
+        "ko": "그리고 신체 부위에 대해서도 계속 확인을 받고 싶어 해요.",
+        "en": "And they also want to keep getting confirmation about body parts.",
+        "vi": "Và trẻ cũng muốn liên tục được xác nhận về các bộ phận cơ thể.",
+        "zh": "而且孩子对身体部位也想要不断得到确认。",
+        "ja": "そして身体の部位についても繰り返し確認してもらいたがります。"
+      }
+    },
+    {
+      "id": 98,
+      "start": 413.32,
+      "end": 417.6,
+      "text": {
+        "ko": "예를 들어서 나는 찌찌가 있어, 없어?",
+        "en": "For example, \"Do I have breasts or not?\"",
+        "vi": "Ví dụ như \"Con có ti không?\"",
+        "zh": "比如说，\"我有奶奶吗，没有？\"",
+        "ja": "例えば「僕はおっぱいがある？ない？」"
+      }
+    },
+    {
+      "id": 99,
+      "start": 417.6,
+      "end": 419.28,
+      "text": {
+        "ko": "아니면 나는 꼬추가 있어, 없어?",
+        "en": "Or, \"Do I have a wee-wee or not?\"",
+        "vi": "Hoặc \"Con có chim không?\"",
+        "zh": "或者，\"我有小鸡鸡吗，没有？\"",
+        "ja": "あるいは「僕はおちんちんがある？ない？」"
+      }
+    },
+    {
+      "id": 100,
+      "start": 419.28,
+      "end": 422.76,
+      "text": {
+        "ko": "이런 것도 계속 확인을 받고 싶어 합니다.",
+        "en": "They keep wanting to get reassurance about these things too.",
+        "vi": "Trẻ cũng liên tục muốn được xác nhận về những điều như thế này.",
+        "zh": "孩子也会不断想要得到关于这些事情的确认。",
+        "ja": "こういうことも、繰り返し確認したがるんです。"
+      }
+    },
+    {
+      "id": 101,
+      "start": 422.76,
+      "end": 425.56,
+      "text": {
+        "ko": "그런데 이것은 되게 자연스러운 일이에요.",
+        "en": "But this is a very natural thing.",
+        "vi": "Nhưng đây là một điều rất tự nhiên.",
+        "zh": "不过，这是非常自然的事情。",
+        "ja": "でも、これはとても自然なことなんです。"
+      }
+    },
+    {
+      "id": 102,
+      "start": 425.56,
+      "end": 428.56,
+      "text": {
+        "ko": "눈, 코, 입 이런 것도 가르쳐 주잖아요.",
+        "en": "We teach them things like eyes, nose, and mouth, right?",
+        "vi": "Chúng ta cũng dạy trẻ những thứ như mắt, mũi, miệng mà.",
+        "zh": "我们也会教孩子眼睛、鼻子、嘴巴这些嘛。",
+        "ja": "目、鼻、口、こういうものも教えてあげますよね。"
+      }
+    },
+    {
+      "id": 103,
+      "start": 428.56,
+      "end": 431.4,
+      "text": {
+        "ko": "그런 것같이 신체 부위를 알려주는 것처럼",
+        "en": "Just like that, in the same way we teach body parts,",
+        "vi": "Cũng giống như việc chỉ cho trẻ các bộ phận cơ thể như vậy,",
+        "zh": "就像那样，如同教身体部位一样，",
+        "ja": "そういうふうに、体の部位を教えるのと同じように、"
+      }
+    },
+    {
+      "id": 104,
+      "start": 431.4,
+      "end": 435.32,
+      "text": {
+        "ko": "자연스럽게 음낭, 음경, 질, 음순과 같이",
+        "en": "we can naturally teach them the external genitalia such as the scrotum, penis, vagina, and labia,",
+        "vi": "chúng ta có thể tự nhiên dạy trẻ về cơ quan sinh dục ngoài như bìu, dương vật, âm đạo, môi âm hộ,",
+        "zh": "可以自然地告诉孩子阴囊、阴茎、阴道、阴唇这样的",
+        "ja": "自然に陰嚢、陰茎、膣、陰唇といった"
+      }
+    },
+    {
+      "id": 105,
+      "start": 435.32,
+      "end": 438,
+      "text": {
+        "ko": "외성기도 알려줄 수 있겠습니다.",
+        "en": "as well.",
+        "vi": "cũng có thể chỉ dạy được.",
+        "zh": "外生殖器也可以告诉孩子。",
+        "ja": "外性器も教えてあげることができます。"
+      }
+    },
+    {
+      "id": 106,
+      "start": 438,
+      "end": 440.24,
+      "text": {
+        "ko": "아이들이 편하게 쓰는 꼬추, 찌찌",
+        "en": "You can use words that children use comfortably, like 'weenie' or 'boobie',",
+        "vi": "Có thể dùng những từ mà trẻ dùng thoải mái như 'chim', 'ti',",
+        "zh": "可以使用孩子们随口说的“小鸡鸡”“咪咪”",
+        "ja": "子どもが気軽に使う「おちんちん」「おっぱい」"
+      }
+    },
+    {
+      "id": 107,
+      "start": 440.24,
+      "end": 443,
+      "text": {
+        "ko": "이런 등의 단어를 사용할 수 있지만",
+        "en": "but",
+        "vi": "những từ như thế này,",
+        "zh": "这样的词汇，",
+        "ja": "といった言葉を使うこともできますが、"
+      }
+    },
+    {
+      "id": 108,
+      "start": 443,
+      "end": 446.12,
+      "text": {
+        "ko": "정확하고 사실적인 표현을 사용해서",
+        "en": "it's important to use accurate and factual expressions",
+        "vi": "nhưng việc dùng những cách diễn đạt chính xác và đúng thực tế",
+        "zh": "但使用准确、真实的表达，",
+        "ja": "正確で事実に即した表現を使って、"
+      }
+    },
+    {
+      "id": 109,
+      "start": 446.12,
+      "end": 451.44,
+      "text": {
+        "ko": "성인이 아닌 아이의 관점에 맞게 설명해주는 것이 중요하겠습니다.",
+        "en": "and to explain things from the child's perspective rather than an adult's.",
+        "vi": "để giải thích phù hợp với góc nhìn của trẻ chứ không phải của người lớn là điều quan trọng.",
+        "zh": "按照孩子而非成人的视角来解释是很重要的。",
+        "ja": "大人ではなく子どもの視点に合わせて説明してあげることが大切です。"
+      }
+    },
+    {
+      "id": 110,
+      "start": 451.44,
+      "end": 456,
+      "text": {
+        "ko": "그래서 나중에 혹시라도 자신의 성기가 아프거나 몸이 아팠을 때",
+        "en": "So that later, if by chance their genitals hurt or their body is in pain,",
+        "vi": "Để sau này, nếu chẳng may cơ quan sinh dục của trẻ bị đau hoặc cơ thể bị đau,",
+        "zh": "这样一来，以后万一孩子的性器官疼痛或身体不舒服时，",
+        "ja": "そうすることで、あとで万が一自分の性器が痛かったり体が痛かったりしたときに、"
+      }
+    },
+    {
+      "id": 111,
+      "start": 456,
+      "end": 461.6,
+      "text": {
+        "ko": "자신이 어디가 아픈지 정확하게 아이가 스스로 말할 수 있게 되는 거거든요.",
+        "en": "the child will be able to say exactly where it hurts on their own.",
+        "vi": "trẻ sẽ có thể tự mình nói chính xác chỗ nào bị đau.",
+        "zh": "孩子就能够自己准确地说出哪里疼。",
+        "ja": "自分がどこが痛いのかを正確に、子ども自身が言えるようになるからなんです。"
+      }
+    },
+    {
+      "id": 112,
+      "start": 461.6,
+      "end": 464.32,
+      "text": {
+        "ko": "아이들이 엄마, 아빠의 몸과",
+        "en": "When children begin to recognize that Mom and Dad's bodies",
+        "vi": "Khi trẻ bắt đầu nhận thức rằng cơ thể của bố, mẹ",
+        "zh": "当孩子开始认识到爸爸妈妈的身体",
+        "ja": "子どもがお母さん、お父さんの体と、"
+      }
+    },
+    {
+      "id": 113,
+      "start": 464.32,
+      "end": 467.92,
+      "text": {
+        "ko": "어린 아이인 내 몸이 다르다는 것을 인지하기 시작하면서",
+        "en": "are different from their own young body,",
+        "vi": "khác với cơ thể của mình còn là trẻ nhỏ,",
+        "zh": "与作为小孩子的自己的身体不同时，",
+        "ja": "幼い子どもである自分の体が違うということを認識し始めると、"
+      }
+    },
+    {
+      "id": 114,
+      "start": 467.92,
+      "end": 471.52,
+      "text": {
+        "ko": "바로 그때가 임신, 출산에 대해서 교육을 할 수 있는",
+        "en": "that's exactly a good time to educate them about pregnancy and childbirth.",
+        "vi": "chính lúc đó cũng là thời điểm tốt để giáo dục về mang thai và sinh nở.",
+        "zh": "那时正是可以进行怀孕、生育教育的",
+        "ja": "まさにそのときが、妊娠、出産について教育できる"
+      }
+    },
+    {
+      "id": 115,
+      "start": 471.52,
+      "end": 473.4,
+      "text": {
+        "ko": "좋은 시기이기도 한데요.",
+        "en": "It's a good time.",
+        "vi": "Đó cũng là thời điểm tốt.",
+        "zh": "好时机。",
+        "ja": "良い時期でもあるんです。"
+      }
+    },
+    {
+      "id": 116,
+      "start": 473.4,
+      "end": 475.72,
+      "text": {
+        "ko": "왜 남녀의 몸은 다르게 생겼는지",
+        "en": "Why the bodies of men and women look different,",
+        "vi": "Tại sao cơ thể nam và nữ lại khác nhau,",
+        "zh": "为什么男女的身体长得不一样，",
+        "ja": "なぜ男女の体は違う形をしているのか、"
+      }
+    },
+    {
+      "id": 117,
+      "start": 475.72,
+      "end": 477.64,
+      "text": {
+        "ko": "그리고 아기가 생기기 위해서",
+        "en": "and how our bodies change",
+        "vi": "và để có em bé thì",
+        "zh": "以及为了孕育宝宝，",
+        "ja": "そして赤ちゃんができるために、"
+      }
+    },
+    {
+      "id": 118,
+      "start": 477.64,
+      "end": 480.32,
+      "text": {
+        "ko": "우리의 몸은 어떻게 변화하는지에 대해서",
+        "en": "in order for a baby to be conceived —",
+        "vi": "cơ thể chúng ta thay đổi như thế nào —",
+        "zh": "我们的身体是如何变化的——",
+        "ja": "私たちの体はどのように変化するのかについて、"
+      }
+    },
+    {
+      "id": 119,
+      "start": 480.32,
+      "end": 482.8,
+      "text": {
+        "ko": "알려줄 수 있는 좋은 기회가 되는 거죠.",
+        "en": "it becomes a good opportunity to teach them about these things.",
+        "vi": "đó trở thành cơ hội tốt để chỉ dạy cho trẻ những điều này.",
+        "zh": "这会成为一个很好的告诉孩子这些的机会。",
+        "ja": "教えてあげられる良い機会になるわけですね。"
+      }
+    },
+    {
+      "id": 120,
+      "start": 482.8,
+      "end": 485.72,
+      "text": {
+        "ko": "아기가 생기는 과정, 즉 생명이 잉태되고",
+        "en": "The process of how a baby is made—that is, how life is conceived,",
+        "vi": "Quá trình em bé hình thành, tức là sự sống được thụ thai,",
+        "zh": "婴儿是如何形成的过程，也就是生命如何孕育，",
+        "ja": "赤ちゃんができる過程、つまり命が宿り、"
+      }
+    },
+    {
+      "id": 121,
+      "start": 485.72,
+      "end": 489.6,
+      "text": {
+        "ko": "엄마 뱃속에서 자라나고 태어나는 과정을 이해함으로써",
+        "en": "grows in the mother's womb, and is born—by understanding this process,",
+        "vi": "lớn lên trong bụng mẹ và được sinh ra, thông qua việc hiểu quá trình này,",
+        "zh": "在妈妈肚子里成长并出生的过程，通过理解这个过程，",
+        "ja": "お母さんのお腹の中で育ち、生まれてくる過程を理解することで、"
+      }
+    },
+    {
+      "id": 122,
+      "start": 489.6,
+      "end": 493,
+      "text": {
+        "ko": "생명에 대한 존중감을 배울 수가 있습니다.",
+        "en": "children can learn a sense of respect for life.",
+        "vi": "trẻ có thể học được sự tôn trọng đối với sự sống.",
+        "zh": "孩子可以学会对生命的尊重。",
+        "ja": "命に対する尊重の気持ちを学ぶことができます。"
+      }
+    },
+    {
+      "id": 123,
+      "start": 493,
+      "end": 498,
+      "text": {
+        "ko": "마지막으로 자신과 타인의 신체에 대한 경계 교육을 해야 합니다.",
+        "en": "Lastly, we need to provide education on boundaries regarding one's own body and others' bodies.",
+        "vi": "Cuối cùng, cần phải giáo dục về ranh giới đối với cơ thể của bản thân và của người khác.",
+        "zh": "最后，需要进行关于自己和他人身体界限的教育。",
+        "ja": "最後に、自分自身と他人の身体に対する境界の教育をしなければなりません。"
+      }
+    },
+    {
+      "id": 124,
+      "start": 498,
+      "end": 505.32,
+      "text": {
+        "ko": "이것은 성적 자기결정권을 갖는 기초 단계를 만들어주는 건데요.",
+        "en": "This creates the foundational stage for having sexual self-determination.",
+        "vi": "Điều này tạo nên bước cơ bản để có được quyền tự quyết về tình dục.",
+        "zh": "这为拥有性自主决定权奠定了基础阶段。",
+        "ja": "これは性的自己決定権を持つための基礎段階をつくってくれるものです。"
+      }
+    },
+    {
+      "id": 125,
+      "start": 505.32,
+      "end": 508.88,
+      "text": {
+        "ko": "자신의 몸에 대해서도 소중하게 생각하도록 해주고",
+        "en": "It helps children value their own bodies,",
+        "vi": "Nó giúp trẻ biết trân trọng cơ thể của mình,",
+        "zh": "它让孩子珍视自己的身体，",
+        "ja": "自分の身体も大切に思うようにしてあげて、"
+      }
+    },
+    {
+      "id": 126,
+      "start": 508.88,
+      "end": 513.52,
+      "text": {
+        "ko": "이와 동일하게 다른 사람의 몸도 소중하게 대해야 된다는 개념을",
+        "en": "and likewise teaches them the concept that they must treat other people's bodies with care as well,",
+        "vi": "và tương tự, dạy trẻ khái niệm rằng cũng phải đối xử trân trọng với cơ thể của người khác,",
+        "zh": "同样地，也要教给孩子必须珍视他人身体的概念，",
+        "ja": "それと同じように他人の身体も大切に扱わなければならないという概念を、"
+      }
+    },
+    {
+      "id": 127,
+      "start": 513.52,
+      "end": 515.76,
+      "text": {
+        "ko": "어릴 때부터 알려주는 거죠.",
+        "en": "teaching them this from a young age.",
+        "vi": "dạy cho trẻ ngay từ khi còn nhỏ.",
+        "zh": "从小就教给他们。",
+        "ja": "幼い頃から教えてあげるのです。"
+      }
+    },
+    {
+      "id": 128,
+      "start": 515.76,
+      "end": 518.32,
+      "text": {
+        "ko": "그래서 다른 사람의 몸을 만질 때는",
+        "en": "So when touching another person's body,",
+        "vi": "Vì vậy, khi chạm vào cơ thể người khác,",
+        "zh": "所以当触碰别人的身体时，",
+        "ja": "ですから、他人の身体に触れるときは、"
+      }
+    },
+    {
+      "id": 129,
+      "start": 518.32,
+      "end": 521.88,
+      "text": {
+        "ko": "반드시 동의를 구해야 하는 것도 알려줘야 되고요.",
+        "en": "we also need to teach them that they must always ask for consent.",
+        "vi": "cũng phải dạy trẻ rằng nhất định phải xin phép sự đồng ý.",
+        "zh": "也要教给他们必须征得同意。",
+        "ja": "必ず同意を求めなければならないということも教えてあげる必要があります。"
+      }
+    },
+    {
+      "id": 130,
+      "start": 521.88,
+      "end": 525.92,
+      "text": {
+        "ko": "상대방이 거절했을 때 아이들이 상처를 받거든요, 처음에는.",
+        "en": "When the other person refuses, children get hurt—at first.",
+        "vi": "Khi người kia từ chối, ban đầu trẻ sẽ bị tổn thương.",
+        "zh": "当对方拒绝时，孩子一开始会受伤。",
+        "ja": "相手が断ったとき、子どもたちは傷つくんです、最初は。"
+      }
+    },
+    {
+      "id": 131,
+      "start": 525.92,
+      "end": 531.12,
+      "text": {
+        "ko": "그것을 잘 받아들일 수 있도록 연습하는 것이 매우 중요하겠습니다.",
+        "en": "So practicing how to accept that well is very important.",
+        "vi": "Vì vậy, việc luyện tập để trẻ có thể chấp nhận điều đó một cách tốt đẹp là rất quan trọng.",
+        "zh": "所以练习如何好好接受这一点非常重要。",
+        "ja": "それをうまく受け入れられるように練習することがとても重要です。"
+      }
+    },
+    {
+      "id": 132,
+      "start": 531.12,
+      "end": 535.28,
+      "text": {
+        "ko": "또 반대로 타인이 동의 없이 나를 만지려고 했을 때",
+        "en": "Conversely, when someone tries to touch me without my consent,",
+        "vi": "Ngược lại, khi người khác cố chạm vào mình mà không có sự đồng ý,",
+        "zh": "反过来，当别人未经同意想要触碰我时，",
+        "ja": "また逆に、他人が同意なく私に触れようとしたとき、"
+      }
+    },
+    {
+      "id": 133,
+      "start": 535.28,
+      "end": 537.72,
+      "text": {
+        "ko": "어떻게 거절하는 것도 아이들이 몰라요.",
+        "en": "children don't know how to refuse either.",
+        "vi": "trẻ cũng không biết phải từ chối như thế nào.",
+        "zh": "孩子也不知道该如何拒绝。",
+        "ja": "どう断ればいいのかも子どもたちは分からないんです。"
+      }
+    },
+    {
+      "id": 134,
+      "start": 537.72,
+      "end": 541.6,
+      "text": {
+        "ko": "그렇기 때문에 어른들이 단호하게 거절하는 방법도",
+        "en": "That's why adults must also teach them how to refuse firmly,",
+        "vi": "Chính vì vậy, người lớn cũng phải dạy trẻ cách từ chối một cách dứt khoát,",
+        "zh": "因此，大人也必须教给他们如何坚决地拒绝，",
+        "ja": "だからこそ、大人が毅然と断る方法も、"
+      }
+    },
+    {
+      "id": 135,
+      "start": 541.6,
+      "end": 543.76,
+      "text": {
+        "ko": "구체적으로 알려줘야 되는 겁니다.",
+        "en": "and teach them specifically.",
+        "vi": "và phải dạy một cách cụ thể.",
+        "zh": "要具体地教给他们。",
+        "ja": "具体的に教えてあげなければならないのです。"
+      }
+    },
+    {
+      "id": 136,
+      "start": 543.76,
+      "end": 548.6,
+      "text": {
+        "ko": "어린이집이나 유치원에서도 타인이 내 몸을 함부로 만지려고 한다면",
+        "en": "At daycare centers and kindergartens too, if someone tries to touch my body carelessly,",
+        "vi": "Ở nhà trẻ hay trường mẫu giáo cũng vậy, nếu người khác cố tùy tiện chạm vào cơ thể của mình,",
+        "zh": "在托儿所或幼儿园里也是，如果有人随意想触碰我的身体，",
+        "ja": "保育園や幼稚園でも、他人が私の身体を勝手に触ろうとしたら、"
+      }
+    },
+    {
+      "id": 137,
+      "start": 548.6,
+      "end": 552.92,
+      "text": {
+        "ko": "안 돼, 싫어요 하고 명확하게 표현하도록 가르치거든요.",
+        "en": "they teach children to clearly express \"No, I don't want that.\"",
+        "vi": "trẻ được dạy phải thể hiện rõ ràng rằng \"Không được, con không thích.\"",
+        "zh": "会教孩子明确地表达\"不行，我不喜欢\"。",
+        "ja": "「ダメ、いやです」とはっきり表現するように教えるんです。"
+      }
+    },
+    {
+      "id": 138,
+      "start": 552.92,
+      "end": 556.88,
+      "text": {
+        "ko": "단호하게 거절하는 것은 단순히 신체 부위에 한정되지 않고",
+        "en": "Refusing firmly is not limited simply to body parts,",
+        "vi": "Việc từ chối dứt khoát không chỉ giới hạn ở các bộ phận cơ thể,",
+        "zh": "坚决拒绝不仅仅局限于身体部位，",
+        "ja": "毅然と断ることは、単に身体の部位に限定されず、"
+      }
+    },
+    {
+      "id": 139,
+      "start": 556.88,
+      "end": 559.52,
+      "text": {
+        "ko": "타인의 의견을 존중하고 또 이해하는 것.",
+        "en": "it's about respecting and also understanding others' opinions.",
+        "vi": "mà là tôn trọng và cũng thấu hiểu ý kiến của người khác.",
+        "zh": "而是尊重并理解他人的意见。",
+        "ja": "他人の意見を尊重し、また理解することです。"
+      }
+    },
+    {
+      "id": 140,
+      "start": 559.52,
+      "end": 562.8,
+      "text": {
+        "ko": "궁극적으로는 타인과의 관계 맺기와 같은",
+        "en": "Ultimately, things like forming relationships with others,",
+        "vi": "Cuối cùng, những điều như việc thiết lập mối quan hệ với người khác,",
+        "zh": "最终，像与他人建立关系这样的事情，",
+        "ja": "最終的には、他人との関係づくりのような"
+      }
+    },
+    {
+      "id": 141,
+      "start": 562.8,
+      "end": 566,
+      "text": {
+        "ko": "사회성 형성에도 큰 역할을 하게 됩니다.",
+        "en": "it also plays a big role in developing social skills.",
+        "vi": "cũng đóng vai trò lớn trong việc hình thành tính xã hội.",
+        "zh": "在社会性的形成上也起着很大的作用。",
+        "ja": "社会性の形成にも大きな役割を果たすことになります。"
+      }
+    },
+    {
+      "id": 142,
+      "start": 566,
+      "end": 571.28,
+      "text": {
+        "ko": "그럼 아이들의 성교육을 어떻게 해야 하는지 궁금해하실 것 같은데요.",
+        "en": "So you're probably wondering how to give children sex education.",
+        "vi": "Vậy chắc hẳn quý vị đang thắc mắc nên giáo dục giới tính cho trẻ như thế nào.",
+        "zh": "那么您可能会好奇该如何对孩子进行性教育。",
+        "ja": "では、子どもの性教育をどうすればいいのか気になると思います。"
+      }
+    },
+    {
+      "id": 143,
+      "start": 571.28,
+      "end": 573.36,
+      "text": {
+        "ko": "이론과 현실이 좀 다르잖아요.",
+        "en": "Theory and reality are a bit different, right?",
+        "vi": "Lý thuyết và thực tế thì có chút khác nhau đúng không ạ.",
+        "zh": "理论和现实还是有点不一样的，对吧。",
+        "ja": "理論と現実はちょっと違うじゃないですか。"
+      }
+    },
+    {
+      "id": 144,
+      "start": 573.36,
+      "end": 576.36,
+      "text": {
+        "ko": "그래서 오늘은 현실적인 방법을 알려드리겠습니다.",
+        "en": "So today, I'll share some practical methods with you.",
+        "vi": "Vì vậy hôm nay tôi sẽ chỉ cho quý vị những phương pháp thực tế.",
+        "zh": "所以今天我将为您介绍一些实用的方法。",
+        "ja": "そこで今日は、現実的な方法をお伝えします。"
+      }
+    },
+    {
+      "id": 145,
+      "start": 576.36,
+      "end": 579.48,
+      "text": {
+        "ko": "가장 중요한 포인트는 바로 이것입니다.",
+        "en": "The most important point is this.",
+        "vi": "Điểm quan trọng nhất chính là điều này.",
+        "zh": "最重要的一点就是这个。",
+        "ja": "最も重要なポイントはまさにこれです。"
+      }
+    },
+    {
+      "id": 146,
+      "start": 579.48,
+      "end": 582.4,
+      "text": {
+        "ko": "정확하고 사실적인 표현을 쓰되",
+        "en": "Use accurate and factual expressions,",
+        "vi": "Hãy dùng những cách diễn đạt chính xác và đúng sự thật,",
+        "zh": "要使用准确、真实的表达，",
+        "ja": "正確で事実に基づいた表現を使いながらも、"
+      }
+    },
+    {
+      "id": 147,
+      "start": 582.4,
+      "end": 586.12,
+      "text": {
+        "ko": "성인이 아닌 아이의 관점에 맞게 설명해주는 것.",
+        "en": "but explain it from a child's perspective, not an adult's.",
+        "vi": "nhưng giải thích theo góc nhìn của trẻ chứ không phải của người lớn.",
+        "zh": "但要按照孩子的视角而非成人的视角来解释。",
+        "ja": "大人ではなく子どもの視点に合わせて説明すること。"
+      }
+    },
+    {
+      "id": 148,
+      "start": 586.12,
+      "end": 588.4,
+      "text": {
+        "ko": "그것이 바로 첫 번째입니다.",
+        "en": "That is the first thing.",
+        "vi": "Đó chính là điều đầu tiên.",
+        "zh": "这就是第一点。",
+        "ja": "それがまさに一つ目です。"
+      }
+    },
+    {
+      "id": 149,
+      "start": 588.4,
+      "end": 591.24,
+      "text": {
+        "ko": "애매모호하게 두루뭉술하게 표현하거나",
+        "en": "If you express things vaguely and ambiguously,",
+        "vi": "Nếu diễn đạt một cách mơ hồ, chung chung,",
+        "zh": "如果表达得含糊笼统，",
+        "ja": "あいまいにぼんやりと表現したり、"
+      }
+    },
+    {
+      "id": 150,
+      "start": 591.24,
+      "end": 593.88,
+      "text": {
+        "ko": "혹은 속어적인 표현을 사용하게 되면",
+        "en": "or if you use slang expressions,",
+        "vi": "hoặc nếu sử dụng những cách nói lóng,",
+        "zh": "或者使用俚语式的表达，",
+        "ja": "あるいは俗語的な表現を使ってしまうと、"
+      }
+    },
+    {
+      "id": 151,
+      "start": 593.88,
+      "end": 598.88,
+      "text": {
+        "ko": "아이는 무언가 숨기고 있다는 느낌을 받을 수 있기 때문이거든요.",
+        "en": "the child may get the feeling that something is being hidden.",
+        "vi": "vì trẻ có thể có cảm giác rằng có điều gì đó đang bị giấu giếm.",
+        "zh": "因为孩子可能会觉得有什么东西被隐瞒了。",
+        "ja": "子どもは何かを隠しているという感じを受けることがあるからです。"
+      }
+    },
+    {
+      "id": 152,
+      "start": 598.88,
+      "end": 600.32,
+      "text": {
+        "ko": "예를 들어볼까요?",
+        "en": "Shall we look at an example?",
+        "vi": "Chúng ta thử lấy một ví dụ nhé?",
+        "zh": "我们来举个例子吧？",
+        "ja": "例を挙げてみましょうか？"
+      }
+    },
+    {
+      "id": 153,
+      "start": 600.32,
+      "end": 602.56,
+      "text": {
+        "ko": "딸아이가 질문을 했어요.",
+        "en": "Let's say your daughter asked a question.",
+        "vi": "Con gái đặt một câu hỏi.",
+        "zh": "女儿问了一个问题。",
+        "ja": "娘が質問をしました。"
+      }
+    },
+    {
+      "id": 154,
+      "start": 602.56,
+      "end": 605.68,
+      "text": {
+        "ko": "아빠는 왜 겨드랑이에도 고추에도 털이 많아?",
+        "en": "\"Dad, why do you have so much hair under your arms and on your penis?\"",
+        "vi": "\"Bố ơi, sao ở nách và ở chim của bố lại nhiều lông thế?\"",
+        "zh": "“爸爸为什么腋下和小鸡鸡上都有那么多毛？”",
+        "ja": "「パパはどうしてわきの下にもおちんちんにも毛がたくさんあるの？」"
+      }
+    },
+    {
+      "id": 155,
+      "start": 605.68,
+      "end": 607.64,
+      "text": {
+        "ko": "아빠 고추는 이상하게 생겼어.",
+        "en": "\"Dad, your penis looks weird.\"",
+        "vi": "\"Chim của bố trông kỳ kỳ.\"",
+        "zh": "“爸爸的小鸡鸡长得好奇怪。”",
+        "ja": "「パパのおちんちんは変な形だね。」"
+      }
+    },
+    {
+      "id": 156,
+      "start": 607.64,
+      "end": 610.04,
+      "text": {
+        "ko": "라고 질문을 했다고 해볼게요.",
+        "en": "Let's say the child asked something like that.",
+        "vi": "Giả sử con hỏi như vậy.",
+        "zh": "假设孩子这样问。",
+        "ja": "というふうに質問したとしましょう。"
+      }
+    },
+    {
+      "id": 157,
+      "start": 610.08,
+      "end": 612.64,
+      "text": {
+        "ko": "그런데 아빠가 당황한 나머지",
+        "en": "But the dad, being flustered,",
+        "vi": "Thế nhưng bố vì quá lúng túng,",
+        "zh": "可是爸爸因为太慌张，",
+        "ja": "ところが、パパが慌てたあまり、"
+      }
+    },
+    {
+      "id": 158,
+      "start": 612.64,
+      "end": 614.88,
+      "text": {
+        "ko": "아빠 부끄러우니까 그런 건 엄마한테 물어봐.",
+        "en": "says, \"Dad's embarrassed, so ask Mom about that.\"",
+        "vi": "nói: \"Bố xấu hổ lắm, mấy chuyện đó thì hỏi mẹ đi.\"",
+        "zh": "说：“爸爸不好意思，那种事去问妈妈吧。”",
+        "ja": "「パパは恥ずかしいから、そういうのはママに聞いて。」"
+      }
+    },
+    {
+      "id": 159,
+      "start": 614.88,
+      "end": 617,
+      "text": {
+        "ko": "아니면 원래 그런 거야.",
+        "en": "Or, \"It's just the way it is.\"",
+        "vi": "Hoặc là: \"Vốn dĩ nó là như vậy đó.\"",
+        "zh": "或者说：“本来就是那样的。”",
+        "ja": "あるいは「もともとそういうものなんだよ。」"
+      }
+    },
+    {
+      "id": 160,
+      "start": 617,
+      "end": 619,
+      "text": {
+        "ko": "원래 남자는 다른 거야.",
+        "en": "Boys are just different, that's how it is.",
+        "vi": "Con trai vốn dĩ là khác mà.",
+        "zh": "男孩子本来就不一样嘛。",
+        "ja": "もともと男の子は違うんだよ。"
+      }
+    },
+    {
+      "id": 161,
+      "start": 619,
+      "end": 621.04,
+      "text": {
+        "ko": "뭘 그런 거를 꼬치꼬치 물어보니.",
+        "en": "Why are you asking about such things in such detail?",
+        "vi": "Sao con lại hỏi cặn kẽ mấy chuyện như thế?",
+        "zh": "这种事你干嘛问得那么仔细呢？",
+        "ja": "どうしてそんなことを根掘り葉掘り聞くの。"
+      }
+    },
+    {
+      "id": 162,
+      "start": 621.04,
+      "end": 622.4,
+      "text": {
+        "ko": "혼내기도 하시고 그렇죠.",
+        "en": "They might even scold the child, right?",
+        "vi": "Có khi còn mắng nữa, đúng không?",
+        "zh": "甚至还会训斥孩子，对吧。",
+        "ja": "叱ったりもしますよね。"
+      }
+    },
+    {
+      "id": 163,
+      "start": 622.4,
+      "end": 625.36,
+      "text": {
+        "ko": "라고 대답을 했다면",
+        "en": "If they answered like that,",
+        "vi": "Nếu trả lời như vậy,",
+        "zh": "如果这样回答的话，",
+        "ja": "と答えたとしたら、"
+      }
+    },
+    {
+      "id": 164,
+      "start": 625.36,
+      "end": 628.32,
+      "text": {
+        "ko": "아버님이 아마 나쁜 의도는 아니셨을 거예요.",
+        "en": "The father probably didn't have bad intentions.",
+        "vi": "Có lẽ người bố không hề có ý xấu đâu.",
+        "zh": "父亲可能并没有恶意。",
+        "ja": "お父さんはおそらく悪気はなかったと思います。"
+      }
+    },
+    {
+      "id": 165,
+      "start": 628.32,
+      "end": 630.24,
+      "text": {
+        "ko": "그래서 아버님이 당황한 나머지",
+        "en": "So because the father was flustered,",
+        "vi": "Vì thế người bố quá bối rối,",
+        "zh": "所以父亲因为一时慌张，",
+        "ja": "それでお父さんが慌てるあまり、"
+      }
+    },
+    {
+      "id": 166,
+      "start": 630.24,
+      "end": 633.4,
+      "text": {
+        "ko": "아이에게 제대로 된 답을 제공하지 못하고",
+        "en": "he couldn't give the child a proper answer,",
+        "vi": "đã không đưa ra được câu trả lời đúng đắn cho con,",
+        "zh": "没能给孩子一个恰当的回答，",
+        "ja": "子どもにちゃんとした答えを与えられず、"
+      }
+    },
+    {
+      "id": 167,
+      "start": 633.4,
+      "end": 635.04,
+      "text": {
+        "ko": "또 오히려 혼내는 듯",
+        "en": "and instead came across as scolding the child,",
+        "vi": "lại còn tỏ ra như đang mắng con,",
+        "zh": "反而好像在训斥孩子，",
+        "ja": "むしろ叱るような、"
+      }
+    },
+    {
+      "id": 168,
+      "start": 635.04,
+      "end": 636.84,
+      "text": {
+        "ko": "이렇게 이런 태도를 보였다면",
+        "en": "if the father showed this kind of attitude,",
+        "vi": "nếu người bố thể hiện thái độ như thế này,",
+        "zh": "如果表现出这样的态度，",
+        "ja": "このような態度を見せたとしたら、"
+      }
+    },
+    {
+      "id": 169,
+      "start": 636.84,
+      "end": 639.56,
+      "text": {
+        "ko": "질문한 아이는 어떤 감정을 느끼게 될까요?",
+        "en": "how would the child who asked feel?",
+        "vi": "đứa trẻ đã hỏi sẽ cảm thấy thế nào?",
+        "zh": "提问的孩子会有什么样的感受呢？",
+        "ja": "質問した子どもはどんな気持ちになるでしょうか？"
+      }
+    },
+    {
+      "id": 170,
+      "start": 639.56,
+      "end": 642.92,
+      "text": {
+        "ko": "마치 물어봐서는 안 될 금기를 말한 것처럼",
+        "en": "As if they had mentioned some taboo they shouldn't have asked about,",
+        "vi": "Cứ như thể đã nói ra một điều cấm kỵ không nên hỏi,",
+        "zh": "就好像说了不该问的禁忌一样，",
+        "ja": "まるで聞いてはいけないタブーを口にしたかのように、"
+      }
+    },
+    {
+      "id": 171,
+      "start": 642.92,
+      "end": 644.72,
+      "text": {
+        "ko": "되게 뻘쭘해지겠죠?",
+        "en": "they'd feel really awkward, right?",
+        "vi": "sẽ cảm thấy rất ngượng ngùng, đúng không?",
+        "zh": "会觉得很尴尬吧？",
+        "ja": "すごく気まずくなりますよね？"
+      }
+    },
+    {
+      "id": 172,
+      "start": 644.72,
+      "end": 647.48,
+      "text": {
+        "ko": "창피한 느낌을 받을 수 있고요.",
+        "en": "They could feel embarrassed.",
+        "vi": "Có thể cảm thấy xấu hổ.",
+        "zh": "可能会感到羞愧。",
+        "ja": "恥ずかしい気持ちを抱くこともあります。"
+      }
+    },
+    {
+      "id": 173,
+      "start": 647.48,
+      "end": 650.8,
+      "text": {
+        "ko": "그리고 뭔가 남자의 성기에 대한 질문이나",
+        "en": "And a question about the male genitals,",
+        "vi": "Và việc đặt câu hỏi về bộ phận sinh dục của nam giới,",
+        "zh": "而且关于男性生殖器的提问，",
+        "ja": "そして男性の性器についての質問や、"
+      }
+    },
+    {
+      "id": 174,
+      "start": 650.8,
+      "end": 652.72,
+      "text": {
+        "ko": "호기심을 가지는 것 자체가",
+        "en": "or having curiosity itself,",
+        "vi": "hay việc có sự tò mò tự bản thân nó,",
+        "zh": "或者产生好奇心这件事本身，",
+        "ja": "好奇心を持つこと自体が、"
+      }
+    },
+    {
+      "id": 175,
+      "start": 652.72,
+      "end": 655.24,
+      "text": {
+        "ko": "나쁜 일인가? 나쁜 짓인가?",
+        "en": "is it a bad thing? Is it something wrong?",
+        "vi": "là điều xấu sao? Là việc làm sai sao?",
+        "zh": "是坏事吗？是错误的行为吗？",
+        "ja": "悪いことなのか？悪い行いなのか？"
+      }
+    },
+    {
+      "id": 176,
+      "start": 655.24,
+      "end": 658.16,
+      "text": {
+        "ko": "라는 죄책감도 느낄 수 있을 것 같아요.",
+        "en": "They might even feel guilt like that.",
+        "vi": "trẻ cũng có thể cảm thấy tội lỗi như vậy.",
+        "zh": "孩子可能还会产生这样的罪恶感。",
+        "ja": "という罪悪感も感じることがあると思います。"
+      }
+    },
+    {
+      "id": 177,
+      "start": 658.16,
+      "end": 661.12,
+      "text": {
+        "ko": "이렇게 호기심이나 궁금증을 숨기거나",
+        "en": "Hiding curiosity or questions like this,",
+        "vi": "Việc che giấu sự tò mò hay thắc mắc như thế này,",
+        "zh": "像这样隐藏好奇心或疑问，",
+        "ja": "このように好奇心や疑問を隠したり、"
+      }
+    },
+    {
+      "id": 178,
+      "start": 661.12,
+      "end": 663.88,
+      "text": {
+        "ko": "억누르는 것이 좋은 건 아니잖아요.",
+        "en": "or suppressing them isn't a good thing, right?",
+        "vi": "hay kìm nén chúng thì không phải là điều tốt đúng không?",
+        "zh": "或者压抑它们并不是好事，对吧。",
+        "ja": "抑え込むのは良いことではないですよね。"
+      }
+    },
+    {
+      "id": 179,
+      "start": 663.88,
+      "end": 668,
+      "text": {
+        "ko": "그럼 선생님 어떻게 대답을 해주는 것이 좋을까요?",
+        "en": "Then, doctor, how would it be best to answer?",
+        "vi": "Vậy thì bác sĩ ơi, trả lời như thế nào thì tốt ạ?",
+        "zh": "那么医生，怎么回答才好呢？",
+        "ja": "では先生、どのように答えてあげるのが良いでしょうか？"
+      }
+    },
+    {
+      "id": 180,
+      "start": 668.12,
+      "end": 671.48,
+      "text": {
+        "ko": "처음에는 우리 아이의 궁금증, 호기심에 대해서",
+        "en": "At first, regarding our child's questions and curiosity,",
+        "vi": "Ban đầu, đối với những thắc mắc, sự tò mò của con chúng ta,",
+        "zh": "一开始，对于孩子的疑问和好奇心，",
+        "ja": "最初は、うちの子の疑問や好奇心について、"
+      }
+    },
+    {
+      "id": 181,
+      "start": 671.48,
+      "end": 673.92,
+      "text": {
+        "ko": "일단 인정하고 받아들여줘야 되겠죠.",
+        "en": "we first need to acknowledge and accept them, right?",
+        "vi": "trước tiên chúng ta cần công nhận và tiếp nhận chúng nhỉ.",
+        "zh": "首先要认可并接纳它，对吧。",
+        "ja": "まずは認めて受け入れてあげないといけませんよね。"
+      }
+    },
+    {
+      "id": 182,
+      "start": 673.92,
+      "end": 678.08,
+      "text": {
+        "ko": "우리 누구누구가 아빠 몸을 처음 봐서 신기하구나.",
+        "en": "\"Oh, our so-and-so saw daddy's body for the first time and finds it fascinating.\"",
+        "vi": "\"À, bé nhà mình lần đầu nhìn thấy cơ thể của bố nên thấy lạ nhỉ.\"",
+        "zh": "\"哦，我们某某第一次看到爸爸的身体，觉得很新奇呢。\"",
+        "ja": "「うちの誰々ちゃんはパパの体を初めて見て不思議なんだね。」"
+      }
+    },
+    {
+      "id": 183,
+      "start": 678.08,
+      "end": 680.28,
+      "text": {
+        "ko": "그래서 아빠 몸이 궁금하구나.",
+        "en": "\"So you're curious about daddy's body.\"",
+        "vi": "\"Nên con tò mò về cơ thể của bố nhỉ.\"",
+        "zh": "\"所以对爸爸的身体感到好奇呢。\"",
+        "ja": "「だからパパの体が気になるんだね。」"
+      }
+    },
+    {
+      "id": 184,
+      "start": 680.28,
+      "end": 683.36,
+      "text": {
+        "ko": "그래 그래. 그러면 우리 궁금증을 알아가보자.",
+        "en": "\"Okay, okay. Then let's find out about our curiosity together.\"",
+        "vi": "\"Ừ, được rồi. Vậy chúng ta cùng tìm hiểu thắc mắc nhé.\"",
+        "zh": "\"好好，那我们一起来了解一下这个疑问吧。\"",
+        "ja": "「そうそう。じゃあその疑問を一緒に解いていこう。」"
+      }
+    },
+    {
+      "id": 185,
+      "start": 683.36,
+      "end": 687.4,
+      "text": {
+        "ko": "이런 태도로 먼저 궁금증 자체를 받아주시는 것이 필요합니다.",
+        "en": "With this kind of attitude, it's necessary to first accept the curiosity itself.",
+        "vi": "Với thái độ như vậy, trước tiên cần phải tiếp nhận chính sự tò mò đó.",
+        "zh": "以这样的态度，首先接纳这份好奇心本身是很有必要的。",
+        "ja": "こういった態度で、まずは疑問そのものを受け止めてあげることが必要です。"
+      }
+    },
+    {
+      "id": 186,
+      "start": 687.4,
+      "end": 691.12,
+      "text": {
+        "ko": "그 다음에 아빠는 남자, 우리 땡땡이는 여자지.",
+        "en": "Then, \"Daddy is a man, and our so-and-so is a girl.\"",
+        "vi": "Sau đó, \"Bố là con trai, còn bé nhà mình là con gái.\"",
+        "zh": "然后说，\"爸爸是男生，我们某某是女生。\"",
+        "ja": "その次に、「パパは男の子、うちの誰々ちゃんは女の子だよね。」"
+      }
+    },
+    {
+      "id": 187,
+      "start": 691.12,
+      "end": 694.92,
+      "text": {
+        "ko": "그렇기 때문에 아빠랑 오빠는 몸이 비슷하게 생겼고",
+        "en": "\"That's why daddy and your brother have similar bodies,\"",
+        "vi": "\"Vì vậy bố và anh trai có cơ thể giống nhau,\"",
+        "zh": "\"所以爸爸和哥哥的身体长得相似，\"",
+        "ja": "「だからパパとお兄ちゃんは体が似ていて、」"
+      }
+    },
+    {
+      "id": 188,
+      "start": 694.92,
+      "end": 698.24,
+      "text": {
+        "ko": "또 엄마랑 우리 땡땡이 몸이 비슷하게 생겼어.",
+        "en": "\"and mommy and our so-and-so have similar bodies.\"",
+        "vi": "\"còn mẹ và bé nhà mình thì có cơ thể giống nhau.\"",
+        "zh": "\"而妈妈和我们某某的身体也长得相似。\"",
+        "ja": "「またママとうちの誰々ちゃんは体が似ているんだよ。」"
+      }
+    },
+    {
+      "id": 189,
+      "start": 698.24,
+      "end": 701.04,
+      "text": {
+        "ko": "여자의 몸과 남자의 몸은 다르게 생겼는데",
+        "en": "\"A woman's body and a man's body look different,\"",
+        "vi": "\"Cơ thể của con gái và con trai trông khác nhau,\"",
+        "zh": "\"女生的身体和男生的身体长得不一样，\"",
+        "ja": "「女の子の体と男の子の体は違う形をしているんだけど、」"
+      }
+    },
+    {
+      "id": 190,
+      "start": 701.04,
+      "end": 704.84,
+      "text": {
+        "ko": "왜냐하면 각자 할 수 있는 일이, 역할이 다르거든.",
+        "en": "\"because the things each can do, their roles, are different.\"",
+        "vi": "\"bởi vì việc mỗi người có thể làm, vai trò của mỗi người là khác nhau.\"",
+        "zh": "\"因为各自能做的事情、扮演的角色不同。\"",
+        "ja": "「それぞれができること、役割が違うからなんだよ。」"
+      }
+    },
+    {
+      "id": 191,
+      "start": 704.84,
+      "end": 709.92,
+      "text": {
+        "ko": "하면서 자연스럽게 남녀 신체 차이를 알려주실 수 있습니다.",
+        "en": "In this way, you can naturally teach them the physical differences between men and women.",
+        "vi": "Qua đó, bạn có thể tự nhiên giải thích cho con sự khác biệt về cơ thể giữa nam và nữ.",
+        "zh": "通过这种方式，可以自然地告诉孩子男女身体的差异。",
+        "ja": "というように、自然と男女の体の違いを教えてあげることができます。"
+      }
+    },
+    {
+      "id": 192,
+      "start": 709.92,
+      "end": 713.96,
+      "text": {
+        "ko": "기본적으로 우리 아이의 궁금증이나 호기심 자체를",
+        "en": "Basically, since you didn't respond to your child's questions or curiosity itself",
+        "vi": "Về cơ bản, vì bạn đã không phản ứng một cách khước từ",
+        "zh": "基本上，由于没有对孩子的疑问或好奇心本身",
+        "ja": "基本的に、うちの子の疑問や好奇心そのものを"
+      }
+    },
+    {
+      "id": 193,
+      "start": 713.96,
+      "end": 716.04,
+      "text": {
+        "ko": "거부적으로 반응하지 않았기 때문에",
+        "en": "in a rejecting manner,",
+        "vi": "đối với thắc mắc hay tò mò của con,",
+        "zh": "作出排斥性的反应，",
+        "ja": "拒否するような反応をしなかったので、"
+      }
+    },
+    {
+      "id": 194,
+      "start": 716.04,
+      "end": 720,
+      "text": {
+        "ko": "아이가 자신의 질문이나 궁금증을",
+        "en": "the child won't perceive their own questions or curiosity",
+        "vi": "con sẽ không tiếp nhận câu hỏi hay thắc mắc của mình",
+        "zh": "孩子就不会把自己的提问或疑问",
+        "ja": "子どもは自分の質問や疑問を"
+      }
+    },
+    {
+      "id": 195,
+      "start": 720,
+      "end": 723.68,
+      "text": {
+        "ko": "나쁜 것이나 혹은 잘못된 것이라고 받아들이지 않겠죠.",
+        "en": "as something bad or wrong.",
+        "vi": "như là điều xấu hay điều sai trái.",
+        "zh": "当作坏事或错误的事情来看待。",
+        "ja": "悪いことや間違ったことだと受け取らないでしょう。"
+      }
+    },
+    {
+      "id": 196,
+      "start": 723.68,
+      "end": 727.04,
+      "text": {
+        "ko": "여기서 추가적으로 더 설명을 해주실 수 있다면",
+        "en": "If you can provide some additional explanation here,",
+        "vi": "Nếu ở đây bạn có thể giải thích thêm,",
+        "zh": "如果在这里能够额外再做一些说明，",
+        "ja": "ここでさらに追加で説明してあげられるなら、"
+      }
+    },
+    {
+      "id": 197,
+      "start": 727.04,
+      "end": 731.76,
+      "text": {
+        "ko": "성인인 어른의 몸과 그리고 아이인 우리 딸아이의 몸을",
+        "en": "you could use it as a good opportunity to compare and explain",
+        "vi": "bạn có thể tận dụng như một cơ hội tốt để so sánh và giải thích",
+        "zh": "可以把它当作一个很好的机会，来比较说明",
+        "ja": "大人である成人の体と、子どもであるうちの娘の体を"
+      }
+    },
+    {
+      "id": 198,
+      "start": 731.76,
+      "end": 735.08,
+      "text": {
+        "ko": "비교 설명해 줄 수 있는 좋은 기회로 삼을 수도 있습니다.",
+        "en": "the adult's body and the body of your child, your daughter.",
+        "vi": "cơ thể của người lớn và cơ thể của con gái mình.",
+        "zh": "成年人的身体和作为孩子的女儿的身体。",
+        "ja": "比較して説明してあげる良い機会にすることもできます。"
+      }
+    },
+    {
+      "id": 199,
+      "start": 735.08,
+      "end": 739.72,
+      "text": {
+        "ko": "예를 들어서 너희들이 밥을 골고루 잘 먹으면",
+        "en": "For example, \"If you all eat your meals well and in a balanced way,\"",
+        "vi": "Ví dụ, \"Nếu các con ăn uống đầy đủ, cân bằng,\"",
+        "zh": "比如说，\"如果你们均衡地好好吃饭，\"",
+        "ja": "例えば、「あなたたちがバランスよくご飯をしっかり食べると、」"
+      }
+    },
+    {
+      "id": 200,
+      "start": 739.72,
+      "end": 743.68,
+      "text": {
+        "ko": "키도 크고 발도 커지는 것처럼 몸이 성장하잖아.",
+        "en": "Just like how you grow taller and your feet get bigger, your body grows.",
+        "vi": "Giống như con cao lên và bàn chân to ra, cơ thể của con lớn lên vậy.",
+        "zh": "就像个子长高、脚变大一样，身体在成长嘛。",
+        "ja": "背も伸びて足も大きくなるように、体が成長するよね。"
+      }
+    },
+    {
+      "id": 201,
+      "start": 743.68,
+      "end": 748.24,
+      "text": {
+        "ko": "그런 것과 비슷하게 우리 몸속에 있는 기관들도 쑥쑥 자라나게 돼.",
+        "en": "Similarly, the organs inside our body also grow rapidly.",
+        "vi": "Tương tự như vậy, các cơ quan bên trong cơ thể chúng ta cũng lớn lên nhanh chóng.",
+        "zh": "和这类似，我们身体里的器官也会快速地长大。",
+        "ja": "それと同じように、私たちの体の中にある器官もぐんぐん育っていくんだよ。"
+      }
+    },
+    {
+      "id": 202,
+      "start": 748.24,
+      "end": 751.2,
+      "text": {
+        "ko": "그러면 형, 누나, 언니, 오빠가 되면",
+        "en": "So when you become a big brother or big sister,",
+        "vi": "Rồi khi con trở thành anh, chị lớn,",
+        "zh": "那么当你成为哥哥、姐姐的时候，",
+        "ja": "そうすると、お兄さん、お姉さんになると、"
+      }
+    },
+    {
+      "id": 203,
+      "start": 751.2,
+      "end": 754.44,
+      "text": {
+        "ko": "우리 몸이 커지고 변화를 하면서",
+        "en": "our body grows and changes,",
+        "vi": "cơ thể chúng ta lớn lên và thay đổi,",
+        "zh": "我们的身体变大、发生变化，",
+        "ja": "私たちの体が大きくなって変化しながら、"
+      }
+    },
+    {
+      "id": 204,
+      "start": 754.44,
+      "end": 757.32,
+      "text": {
+        "ko": "아기를 만들 수 있는 몸으로 변하게 돼.",
+        "en": "and it changes into a body that can make a baby.",
+        "vi": "và biến đổi thành cơ thể có thể tạo ra em bé.",
+        "zh": "变成能够孕育宝宝的身体。",
+        "ja": "赤ちゃんをつくることができる体に変わっていくんだよ。"
+      }
+    },
+    {
+      "id": 205,
+      "start": 757.32,
+      "end": 760.16,
+      "text": {
+        "ko": "이런 식으로 설명을 해 줄 수가 있는 거죠.",
+        "en": "You can explain it this way.",
+        "vi": "Bạn có thể giải thích theo cách như vậy.",
+        "zh": "可以用这种方式来解释。",
+        "ja": "こういうふうに説明してあげることができるんですね。"
+      }
+    },
+    {
+      "id": 206,
+      "start": 760.16,
+      "end": 764.76,
+      "text": {
+        "ko": "그렇게 되면 자연스럽게 가슴이 커지고 음경이 커질 수 있는 것,",
+        "en": "When that happens, the breasts naturally grow larger and the penis can grow larger,",
+        "vi": "Khi đó, ngực sẽ tự nhiên lớn lên và dương vật cũng có thể lớn hơn,",
+        "zh": "这样一来，乳房会自然变大，阴茎也会变大，",
+        "ja": "そうなると自然に胸が大きくなったり、ペニスが大きくなったりすること、"
+      }
+    },
+    {
+      "id": 207,
+      "start": 764.76,
+      "end": 769.08,
+      "text": {
+        "ko": "그리고 겨드랑이나 음경 쪽에 털이 날 수 있는 것들에 대해서도",
+        "en": "and also about hair growing in areas like the armpits or the genital area,",
+        "vi": "và cả việc mọc lông ở vùng nách hay vùng dương vật,",
+        "zh": "以及腋下或阴茎附近会长毛这些事情，",
+        "ja": "そして脇の下やペニスのあたりに毛が生えることなどについても、"
+      }
+    },
+    {
+      "id": 208,
+      "start": 769.08,
+      "end": 772.96,
+      "text": {
+        "ko": "설명을 해 줄 기회를 잡을 수가 있습니다.",
+        "en": "you can seize the opportunity to explain these things.",
+        "vi": "bạn có thể nắm lấy cơ hội để giải thích cho con.",
+        "zh": "你可以抓住机会去解释。",
+        "ja": "説明してあげる機会をつかむことができます。"
+      }
+    },
+    {
+      "id": 209,
+      "start": 772.96,
+      "end": 776.96,
+      "text": {
+        "ko": "그러니까 이게 정말 진지하지 않으면서도",
+        "en": "So this needs to be explained without being too serious,",
+        "vi": "Vậy nên điều này cần được giải thích một cách không quá nghiêm trọng,",
+        "zh": "所以这需要在不那么严肃的情况下，",
+        "ja": "つまり、これは本当に堅苦しくなりすぎないようにしながらも、"
+      }
+    },
+    {
+      "id": 210,
+      "start": 776.96,
+      "end": 781.08,
+      "text": {
+        "ko": "팩트를 기반으로 설명을 해 줘야 되는 거네요.",
+        "en": "but based on facts.",
+        "vi": "nhưng phải dựa trên sự thật.",
+        "zh": "以事实为基础来解释才行呢。",
+        "ja": "事実に基づいて説明してあげなければならないということですね。"
+      }
+    },
+    {
+      "id": 211,
+      "start": 781.08,
+      "end": 784.44,
+      "text": {
+        "ko": "그러면 이런 질문도 많이 합니다.",
+        "en": "Then they also ask questions like this a lot.",
+        "vi": "Rồi các bé cũng thường hỏi những câu như thế này.",
+        "zh": "那么孩子们也经常会问这样的问题。",
+        "ja": "すると、こんな質問もよくしてきます。"
+      }
+    },
+    {
+      "id": 212,
+      "start": 784.44,
+      "end": 788.12,
+      "text": {
+        "ko": "아이가 어떻게 생기는지에 대해서,",
+        "en": "About how a baby is made,",
+        "vi": "Về việc em bé được tạo ra như thế nào,",
+        "zh": "关于宝宝是怎么来的，",
+        "ja": "赤ちゃんがどうやってできるのかについて、"
+      }
+    },
+    {
+      "id": 213,
+      "start": 788.12,
+      "end": 791.48,
+      "text": {
+        "ko": "특히 아이와 길을 가게 되면",
+        "en": "especially when you're walking down the street with your child,",
+        "vi": "đặc biệt là khi đi đường cùng con,",
+        "zh": "尤其是和孩子一起走在路上的时候，",
+        "ja": "特に子どもと道を歩いていると、"
+      }
+    },
+    {
+      "id": 214,
+      "start": 791.48,
+      "end": 794.8,
+      "text": {
+        "ko": "건너편에 임산부가 있다, 이러면",
+        "en": "if there's a pregnant woman on the other side,",
+        "vi": "nếu có một phụ nữ mang thai ở bên kia đường,",
+        "zh": "对面有个孕妇，这时候，",
+        "ja": "向こう側に妊婦さんがいる、そうすると、"
+      }
+    },
+    {
+      "id": 215,
+      "start": 794.8,
+      "end": 798.12,
+      "text": {
+        "ko": "\"저 아줌마는 왜 배가 저렇게 불룩하게 나왔어?\"",
+        "en": "\"Why is that lady's belly sticking out like that?\"",
+        "vi": "\"Tại sao bụng cô kia lại phình to như vậy?\"",
+        "zh": "“那位阿姨的肚子为什么鼓得那么大？”",
+        "ja": "「あのおばさんはどうしてお腹があんなにぽっこり出てるの?」"
+      }
+    },
+    {
+      "id": 216,
+      "start": 798.12,
+      "end": 800.56,
+      "text": {
+        "ko": "\"저기 안에는 아기가 있는 거야?\"",
+        "en": "\"Is there a baby inside there?\"",
+        "vi": "\"Bên trong đó có em bé phải không?\"",
+        "zh": "“那里面有宝宝吗？”",
+        "ja": "「あの中には赤ちゃんがいるの?」"
+      }
+    },
+    {
+      "id": 217,
+      "start": 800.56,
+      "end": 802.2,
+      "text": {
+        "ko": "\"나도 저기에 있었어?\"",
+        "en": "\"Was I in there too?\"",
+        "vi": "\"Con cũng từng ở trong đó phải không?\"",
+        "zh": "“我也在那里面待过吗？”",
+        "ja": "「僕もあそこにいたの?」"
+      }
+    },
+    {
+      "id": 218,
+      "start": 802.2,
+      "end": 807,
+      "text": {
+        "ko": "\"나는 어떻게 생겼어?\" 등등 추가 질문이 계속 나오게 되거든요.",
+        "en": "\"How was I made?\" and so on—follow-up questions keep coming.",
+        "vi": "\"Con được tạo ra như thế nào?\" v.v.—những câu hỏi tiếp theo cứ liên tục xuất hiện.",
+        "zh": "“我是怎么来的？”等等，后续的问题会不断冒出来。",
+        "ja": "「僕はどうやってできたの?」など、追加の質問が次々と出てくるんです。"
+      }
+    },
+    {
+      "id": 219,
+      "start": 807.04,
+      "end": 810.76,
+      "text": {
+        "ko": "그러면 이런 아기가 태어나는 과정에 대한",
+        "en": "Then, regarding this process of how a baby is born,",
+        "vi": "Vậy thì, về quá trình em bé được sinh ra này,",
+        "zh": "那么，关于宝宝出生的这个过程，",
+        "ja": "すると、こういう赤ちゃんが生まれる過程についての、"
+      }
+    },
+    {
+      "id": 220,
+      "start": 810.76,
+      "end": 813.8,
+      "text": {
+        "ko": "설명을 좀 해야 될 것 같은데요.",
+        "en": "I think we need to explain a little.",
+        "vi": "Tôi nghĩ chúng ta cần giải thích một chút.",
+        "zh": "我觉得需要解释一下。",
+        "ja": "少し説明が必要だと思います。"
+      }
+    },
+    {
+      "id": 221,
+      "start": 813.8,
+      "end": 818.28,
+      "text": {
+        "ko": "그런데 보통은 저희가 어렸을 때는 부모님들이",
+        "en": "But usually, when we were young, our parents would",
+        "vi": "Nhưng thường thì khi chúng ta còn nhỏ, bố mẹ",
+        "zh": "不过通常在我们小时候，父母们会",
+        "ja": "でも普通は、私たちが幼かった頃には、両親が"
+      }
+    },
+    {
+      "id": 222,
+      "start": 818.28,
+      "end": 823.04,
+      "text": {
+        "ko": "엄마 아빠가 뽀뽀했더니 우리 사랑이가 뿅 하고 생겼어.",
+        "en": "\"Mom and dad kissed, and then our little love appeared, poof!\"",
+        "vi": "\"Bố mẹ hôn nhau, thế là con yêu của bố mẹ xuất hiện, bụp một cái!\"",
+        "zh": "“爸爸妈妈亲了一下，我们的宝贝就‘噗’地出现了。”",
+        "ja": "「ママとパパがチューしたら、うちの可愛い子がポンっと生まれたのよ。」"
+      }
+    },
+    {
+      "id": 223,
+      "start": 823.04,
+      "end": 824.96,
+      "text": {
+        "ko": "뭐 하고 얘기를 한다든지",
+        "en": "or something like that,",
+        "vi": "hoặc nói kiểu như vậy,",
+        "zh": "之类的话，",
+        "ja": "などと話したり、"
+      }
+    },
+    {
+      "id": 224,
+      "start": 824.96,
+      "end": 826.96,
+      "text": {
+        "ko": "황새가 물어다 줬지.",
+        "en": "\"A stork brought you.\"",
+        "vi": "\"Con cò đã mang con đến đấy.\"",
+        "zh": "“是鹳鸟叼来的。”",
+        "ja": "「コウノトリが運んできたのよ。」"
+      }
+    },
+    {
+      "id": 225,
+      "start": 826.96,
+      "end": 828.76,
+      "text": {
+        "ko": "다리 밑에서 주워왔지.",
+        "en": "\"We picked you up from under a bridge.\"",
+        "vi": "\"Nhặt được con ở dưới gầm cầu đấy.\"",
+        "zh": "“是从桥底下捡来的。”",
+        "ja": "「橋の下で拾ってきたのよ。」"
+      }
+    },
+    {
+      "id": 226,
+      "start": 828.76,
+      "end": 832.88,
+      "text": {
+        "ko": "이런 식의 대답들을 많이 듣고 자랐잖아요.",
+        "en": "We grew up hearing a lot of answers like these, right?",
+        "vi": "Chúng ta đã lớn lên khi nghe rất nhiều câu trả lời kiểu như vậy đúng không?",
+        "zh": "我们都是听着这样的回答长大的，对吧？",
+        "ja": "私たちはこういう答えをたくさん聞いて育ちましたよね。"
+      }
+    },
+    {
+      "id": 227,
+      "start": 832.88,
+      "end": 834.72,
+      "text": {
+        "ko": "그런데 이렇게 대답을 해버리면",
+        "en": "But if we answer like this,",
+        "vi": "Nhưng nếu trả lời như vậy,",
+        "zh": "但如果这样回答的话，",
+        "ja": "でも、このように答えてしまうと、"
+      }
+    },
+    {
+      "id": 228,
+      "start": 834.72,
+      "end": 838,
+      "text": {
+        "ko": "우리 아이들이 오해를 할 가능성이 높아지게 됩니다.",
+        "en": "our children are more likely to misunderstand.",
+        "vi": "khả năng con của chúng ta hiểu lầm sẽ tăng lên.",
+        "zh": "我们的孩子产生误解的可能性就会增加。",
+        "ja": "子どもたちが誤解する可能性が高くなります。"
+      }
+    },
+    {
+      "id": 229,
+      "start": 838,
+      "end": 838.88,
+      "text": {
+        "ko": "예를 들면",
+        "en": "For example,",
+        "vi": "Ví dụ như,",
+        "zh": "比如说，",
+        "ja": "例えば、"
+      }
+    },
+    {
+      "id": 230,
+      "start": 838.88,
+      "end": 843.28,
+      "text": {
+        "ko": "그럼 내가 친구랑 뽀뽀를 하면 아기가 생기는 건가?",
+        "en": "\"Then if I kiss my friend, does a baby appear?\"",
+        "vi": "\"Vậy nếu con hôn bạn thì sẽ có em bé sao?\"",
+        "zh": "“那我要是和朋友亲一下，就会有宝宝了吗？”",
+        "ja": "「じゃあ、僕が友だちとチューしたら赤ちゃんができるの？」"
+      }
+    },
+    {
+      "id": 231,
+      "start": 843.28,
+      "end": 845.76,
+      "text": {
+        "ko": "그러면 황새가 아기를 물어다 준다고?",
+        "en": "\"So a stork brings the baby?\"",
+        "vi": "\"Vậy con cò mang em bé đến sao?\"",
+        "zh": "“那是鹳鸟把宝宝叼来的吗？”",
+        "ja": "「じゃあ、コウノトリが赤ちゃんを運んでくるの？」"
+      }
+    },
+    {
+      "id": 232,
+      "start": 845.76,
+      "end": 848.88,
+      "text": {
+        "ko": "그러면 아기가 황새 입 안에서 다치면 어쩌지?",
+        "en": "\"Then what if the baby gets hurt in the stork's mouth?\"",
+        "vi": "\"Vậy nếu em bé bị thương trong miệng con cò thì sao?\"",
+        "zh": "“那要是宝宝在鹳鸟嘴里受伤了怎么办？”",
+        "ja": "「じゃあ、赤ちゃんがコウノトリの口の中でケガしたらどうしよう？」"
+      }
+    },
+    {
+      "id": 233,
+      "start": 848.88,
+      "end": 851.24,
+      "text": {
+        "ko": "이렇게 오해를 할 수가 있거든요.",
+        "en": "They can misunderstand like this.",
+        "vi": "Trẻ có thể hiểu lầm như vậy đấy.",
+        "zh": "孩子会这样产生误解的。",
+        "ja": "このように誤解してしまうことがあるんです。"
+      }
+    },
+    {
+      "id": 234,
+      "start": 851.24,
+      "end": 855.8,
+      "text": {
+        "ko": "그러면 어떤 대답이 좀 현명한 대답이 될 수 있을까요?",
+        "en": "So what kind of answer would be a wise one?",
+        "vi": "Vậy thì câu trả lời nào sẽ là câu trả lời khôn ngoan?",
+        "zh": "那么，什么样的回答才算是明智的回答呢？",
+        "ja": "では、どんな答えが賢い答えになるでしょうか？"
+      }
+    },
+    {
+      "id": 235,
+      "start": 855.8,
+      "end": 858.56,
+      "text": {
+        "ko": "여러 가지로 대답을 할 수 있겠지만",
+        "en": "There are many ways to answer,",
+        "vi": "Có thể trả lời theo nhiều cách khác nhau,",
+        "zh": "虽然可以有很多种回答方式，",
+        "ja": "いろいろな答え方ができますが、"
+      }
+    },
+    {
+      "id": 236,
+      "start": 858.56,
+      "end": 860.48,
+      "text": {
+        "ko": "예시를 들어볼게요.",
+        "en": "let me give you an example.",
+        "vi": "tôi sẽ đưa ra một ví dụ nhé.",
+        "zh": "我举个例子。",
+        "ja": "例を挙げてみますね。"
+      }
+    },
+    {
+      "id": 237,
+      "start": 862.48,
+      "end": 864.28,
+      "text": {
+        "ko": "물어보세요.",
+        "en": "Go ahead and ask.",
+        "vi": "Hãy hỏi đi.",
+        "zh": "来问问看。",
+        "ja": "聞いてみてください。"
+      }
+    },
+    {
+      "id": 238,
+      "start": 864.32,
+      "end": 866.48,
+      "text": {
+        "ko": "엄마, 난 어떻게 태어났어?",
+        "en": "\"Mom, how was I born?\"",
+        "vi": "\"Mẹ ơi, con sinh ra như thế nào?\"",
+        "zh": "“妈妈，我是怎么出生的？”",
+        "ja": "「ママ、私はどうやって生まれたの？」"
+      }
+    },
+    {
+      "id": 239,
+      "start": 866.48,
+      "end": 868.48,
+      "text": {
+        "ko": "좋은 질문이야.",
+        "en": "\"That's a good question.\"",
+        "vi": "\"Đó là một câu hỏi hay.\"",
+        "zh": "“这是个好问题。”",
+        "ja": "「いい質問だね。」"
+      }
+    },
+    {
+      "id": 240,
+      "start": 868.48,
+      "end": 870.96,
+      "text": {
+        "ko": "자, 아이가 태어나기 위해서는",
+        "en": "So, in order for a baby to be born,",
+        "vi": "Nào, để một em bé được sinh ra,",
+        "zh": "来，为了让宝宝出生，",
+        "ja": "さあ、赤ちゃんが生まれるためには"
+      }
+    },
+    {
+      "id": 241,
+      "start": 870.96,
+      "end": 875.44,
+      "text": {
+        "ko": "엄마 몸에 씨앗하고 아빠 몸에 씨앗 두 개가 필요해.",
+        "en": "we need two seeds—one from the mom's body and one from the dad's body.",
+        "vi": "cần hai hạt giống—một hạt trong cơ thể mẹ và một hạt trong cơ thể bố.",
+        "zh": "需要妈妈身体里的种子和爸爸身体里的种子，两颗种子。",
+        "ja": "ママの体の種とパパの体の種、二つの種が必要なんだよ。"
+      }
+    },
+    {
+      "id": 242,
+      "start": 875.44,
+      "end": 878.2,
+      "text": {
+        "ko": "이렇게 엄마 아빠가 서로 사랑하고",
+        "en": "When the mom and dad love each other like this",
+        "vi": "Khi bố mẹ yêu thương nhau như thế này",
+        "zh": "就这样，爸爸妈妈彼此相爱，",
+        "ja": "こうしてママとパパがお互いに愛し合って"
+      }
+    },
+    {
+      "id": 243,
+      "start": 878.2,
+      "end": 880.6,
+      "text": {
+        "ko": "아이를 낳게 해주세요 라고",
+        "en": "and wish, \"Please let us have a baby,\"",
+        "vi": "và cầu mong \"Xin cho chúng con có một em bé,\"",
+        "zh": "祈愿说“请让我们生一个宝宝吧”，",
+        "ja": "「赤ちゃんを授けてください」と願って"
+      }
+    },
+    {
+      "id": 244,
+      "start": 880.6,
+      "end": 882.72,
+      "text": {
+        "ko": "사랑하고 서로 아끼게 되면",
+        "en": "when they love and cherish each other,",
+        "vi": "khi họ yêu thương và trân trọng nhau,",
+        "zh": "彼此相爱、互相珍惜的时候，",
+        "ja": "愛し合って、お互いを大切にすると"
+      }
+    },
+    {
+      "id": 245,
+      "start": 882.72,
+      "end": 887.48,
+      "text": {
+        "ko": "이 두 씨앗이 만나게 되면서 아기가 생길 수 있어.",
+        "en": "these two seeds meet, and a baby can be created.",
+        "vi": "hai hạt giống này gặp nhau, và một em bé có thể được tạo ra.",
+        "zh": "这两颗种子就会相遇，宝宝就能诞生了。",
+        "ja": "この二つの種が出会って、赤ちゃんができるんだよ。"
+      }
+    },
+    {
+      "id": 246,
+      "start": 887.48,
+      "end": 890.6,
+      "text": {
+        "ko": "그래서 아빠 씨앗이 엄마 씨앗을 만나러 가서",
+        "en": "So the dad's seed goes to meet the mom's seed,",
+        "vi": "Vậy nên hạt giống của bố đi đến gặp hạt giống của mẹ,",
+        "zh": "所以爸爸的种子去和妈妈的种子相遇，",
+        "ja": "だからパパの種がママの種に会いに行って"
+      }
+    },
+    {
+      "id": 247,
+      "start": 890.6,
+      "end": 892.08,
+      "text": {
+        "ko": "잘 만나게 되면",
+        "en": "and when they meet well,",
+        "vi": "và khi chúng gặp nhau thành công,",
+        "zh": "顺利相遇之后，",
+        "ja": "うまく出会うと"
+      }
+    },
+    {
+      "id": 248,
+      "start": 892.08,
+      "end": 896.88,
+      "text": {
+        "ko": "그 후에 그 두 개의 씨앗이 같이 하나의 씨앗이 돼서",
+        "en": "after that, those two seeds come together to become one seed,",
+        "vi": "sau đó, hai hạt giống ấy cùng nhau trở thành một hạt giống,",
+        "zh": "之后这两颗种子就合成一颗种子，",
+        "ja": "その後、その二つの種が一緒になって一つの種になって"
+      }
+    },
+    {
+      "id": 249,
+      "start": 896.88,
+      "end": 900.92,
+      "text": {
+        "ko": "엄마 뱃속에서 아기가 자라나게 된단다.",
+        "en": "and the baby grows inside the mom's tummy.",
+        "vi": "và em bé lớn lên trong bụng mẹ.",
+        "zh": "宝宝就在妈妈的肚子里长大。",
+        "ja": "ママのお腹の中で赤ちゃんが育っていくんだよ。"
+      }
+    },
+    {
+      "id": 250,
+      "start": 900.92,
+      "end": 904.44,
+      "text": {
+        "ko": "그러면 엄마 뱃속에서 엄마가 주는 밥을 먹으면서",
+        "en": "Then, inside the mom's tummy, eating the food the mom gives,",
+        "vi": "Rồi trong bụng mẹ, ăn thức ăn mà mẹ cho,",
+        "zh": "然后在妈妈的肚子里，吃着妈妈给的食物，",
+        "ja": "そうしてママのお腹の中でママがくれるごはんを食べながら"
+      }
+    },
+    {
+      "id": 251,
+      "start": 904.44,
+      "end": 907,
+      "text": {
+        "ko": "아이가 쑥쑥 자라나게 되는 거지.",
+        "en": "the baby grows up quickly.",
+        "vi": "em bé lớn lên nhanh chóng.",
+        "zh": "宝宝就一天天茁壮成长。",
+        "ja": "赤ちゃんがすくすく育っていくんだよ。"
+      }
+    },
+    {
+      "id": 252,
+      "start": 907,
+      "end": 910.52,
+      "text": {
+        "ko": "우리 땡땡이도 엄마 뱃속에서 자랐었어.",
+        "en": "Our little one grew inside mommy's tummy too.",
+        "vi": "Con yêu của chúng ta cũng đã lớn lên trong bụng mẹ đấy.",
+        "zh": "我们的宝贝也是在妈妈肚子里长大的哦。",
+        "ja": "うちの子も、ママのお腹の中で育ったんだよ。"
+      }
+    },
+    {
+      "id": 253,
+      "start": 910.52,
+      "end": 913.6,
+      "text": {
+        "ko": "가끔 또 이렇게 설명을 할 때 부모님들께서",
+        "en": "Sometimes, when explaining it this way, some parents",
+        "vi": "Đôi khi, khi giải thích như thế này, một số bậc phụ huynh",
+        "zh": "有时候，在这样解释的时候，有些父母",
+        "ja": "時々、こうして説明するときに、保護者の方の中には"
+      }
+    },
+    {
+      "id": 254,
+      "start": 913.6,
+      "end": 916.56,
+      "text": {
+        "ko": "꼭 난자, 정자라는 단어를",
+        "en": "wonder whether they absolutely have to use the words \"egg\" and \"sperm\"",
+        "vi": "băn khoăn liệu có nhất thiết phải dùng chính xác các từ \"trứng\" và \"tinh trùng\"",
+        "zh": "会想是不是一定要明确地使用“卵子”“精子”这样的词",
+        "ja": "「卵子」「精子」という言葉を"
+      }
+    },
+    {
+      "id": 255,
+      "start": 916.56,
+      "end": 919.24,
+      "text": {
+        "ko": "꼭 명확하게 써야 되는 것이 아닌가 하고",
+        "en": "clearly and precisely,",
+        "vi": "một cách rõ ràng hay không,",
+        "zh": "觉得是不是必须要清楚地说出来，",
+        "ja": "必ずはっきり使わなければいけないのではないかと"
+      }
+    },
+    {
+      "id": 256,
+      "start": 919.24,
+      "end": 921.6,
+      "text": {
+        "ko": "조금 더 어려워하시는 분들도 계세요.",
+        "en": "and find it a bit more difficult.",
+        "vi": "và cảm thấy hơi khó khăn hơn một chút.",
+        "zh": "因而觉得有点为难。",
+        "ja": "少し難しく感じる方もいらっしゃいます。"
+      }
+    },
+    {
+      "id": 257,
+      "start": 921.6,
+      "end": 924.96,
+      "text": {
+        "ko": "의학적으로 정확하게 설명해 줄 필요는 없습니다.",
+        "en": "You don't need to explain it in medically precise terms.",
+        "vi": "Bạn không cần phải giải thích một cách chính xác về mặt y học.",
+        "zh": "其实不需要用医学上准确的方式来解释。",
+        "ja": "医学的に正確に説明する必要はありません。"
+      }
+    },
+    {
+      "id": 258,
+      "start": 924.96,
+      "end": 928,
+      "text": {
+        "ko": "아이들의 수준에서 아이들의 눈높이에 맞게",
+        "en": "At the child's level, matching the child's perspective,",
+        "vi": "Ở mức độ của trẻ, phù hợp với tầm hiểu biết của trẻ,",
+        "zh": "以孩子的水平、符合孩子的理解程度，",
+        "ja": "子どもの水準で、子どもの目線に合わせて"
+      }
+    },
+    {
+      "id": 259,
+      "start": 928,
+      "end": 929.6,
+      "text": {
+        "ko": "이해할 수 있는 정도의 언어로",
+        "en": "using language they can understand.",
+        "vi": "bằng ngôn ngữ mà trẻ có thể hiểu được.",
+        "zh": "用他们能理解的语言就可以了。",
+        "ja": "理解できる程度の言葉で伝えればいいのです。"
+      }
+    },
+    {
+      "id": 260,
+      "start": 929.6,
+      "end": 932,
+      "text": {
+        "ko": "설명해 주는 것이 가장 첫 번째고요.",
+        "en": "Explaining it clearly comes first.",
+        "vi": "Việc giải thích rõ ràng là điều đầu tiên.",
+        "zh": "首先要做的就是给孩子解释清楚。",
+        "ja": "まず最初に説明してあげることが大切です。"
+      }
+    },
+    {
+      "id": 261,
+      "start": 932,
+      "end": 934.48,
+      "text": {
+        "ko": "오히려 잘못된 정보를 주지 않도록",
+        "en": "Rather, you need to be careful",
+        "vi": "Thay vào đó, cần cẩn thận",
+        "zh": "反而更需要注意的是",
+        "ja": "むしろ間違った情報を与えないように"
+      }
+    },
+    {
+      "id": 262,
+      "start": 934.48,
+      "end": 936.68,
+      "text": {
+        "ko": "조심하는 것이 더 필요하겠죠.",
+        "en": "not to give wrong information.",
+        "vi": "để không đưa ra thông tin sai lệch.",
+        "zh": "不要给孩子错误的信息。",
+        "ja": "気をつけることのほうが必要でしょう。"
+      }
+    },
+    {
+      "id": 263,
+      "start": 936.68,
+      "end": 938.44,
+      "text": {
+        "ko": "이야기가 끝나고 나서",
+        "en": "After the conversation is over,",
+        "vi": "Sau khi câu chuyện kết thúc,",
+        "zh": "讲完之后,",
+        "ja": "話が終わった後で"
+      }
+    },
+    {
+      "id": 264,
+      "start": 938.44,
+      "end": 940.92,
+      "text": {
+        "ko": "엄마 아기 씨앗은 난자라고 해.",
+        "en": "\"Mommy's baby seed is called an egg cell.\"",
+        "vi": "\"Hạt giống em bé của mẹ gọi là trứng.\"",
+        "zh": "“妈妈的宝宝种子叫卵子。”",
+        "ja": "「ママの赤ちゃんの種は卵子っていうんだよ。」"
+      }
+    },
+    {
+      "id": 265,
+      "start": 940.92,
+      "end": 943.04,
+      "text": {
+        "ko": "아빠 아기 씨앗은 정자라고 해.",
+        "en": "\"Daddy's baby seed is called sperm.\"",
+        "vi": "\"Hạt giống em bé của bố gọi là tinh trùng.\"",
+        "zh": "“爸爸的宝宝种子叫精子。”",
+        "ja": "「パパの赤ちゃんの種は精子っていうんだよ。」"
+      }
+    },
+    {
+      "id": 266,
+      "start": 943.04,
+      "end": 945.44,
+      "text": {
+        "ko": "정도로 설명을 해 줄 수는 있지만",
+        "en": "You can explain it to that extent, but",
+        "vi": "Bạn có thể giải thích đến mức đó, nhưng",
+        "zh": "可以解释到这个程度,但是",
+        "ja": "という程度に説明してあげることはできますが"
+      }
+    },
+    {
+      "id": 267,
+      "start": 945.44,
+      "end": 948,
+      "text": {
+        "ko": "그것을 아이에게 주입을 해야 한다든지",
+        "en": "you don't need to be so rigid",
+        "vi": "không cần quá cứng nhắc đến mức",
+        "zh": "没必要非得把这些灌输给孩子,",
+        "ja": "それを子どもに教え込まなければならないとか"
+      }
+    },
+    {
+      "id": 268,
+      "start": 948,
+      "end": 950.6,
+      "text": {
+        "ko": "씨앗이란 말은 절대 쓰면 안 된다든지 하고",
+        "en": "as to think you must drill it into the child, or that you must never use the word \"seed.\"",
+        "vi": "phải nhồi nhét cho trẻ, hay tuyệt đối không được dùng từ \"hạt giống\".",
+        "zh": "或者绝对不能用“种子”这个词,",
+        "ja": "「種」という言葉は絶対に使ってはいけないとか"
+      }
+    },
+    {
+      "id": 269,
+      "start": 950.6,
+      "end": 954.56,
+      "text": {
+        "ko": "너무 경직되게 받아들이실 필요는 없을 것 같습니다.",
+        "en": "There's no need to take it so rigidly.",
+        "vi": "Không cần phải tiếp nhận một cách quá cứng nhắc.",
+        "zh": "不需要接受得那么死板。",
+        "ja": "あまり堅苦しく受け止める必要はないと思います。"
+      }
+    },
+    {
+      "id": 270,
+      "start": 954.56,
+      "end": 959,
+      "text": {
+        "ko": "그런데 이런 질문을 언제, 어디서 할지 모르잖아요.",
+        "en": "But you never know when or where a child will ask such questions.",
+        "vi": "Nhưng bạn không biết trẻ sẽ hỏi những câu này khi nào, ở đâu.",
+        "zh": "不过,孩子什么时候、在哪里问这些问题是不确定的。",
+        "ja": "でも、こういう質問をいつ、どこでするか分かりませんよね。"
+      }
+    },
+    {
+      "id": 271,
+      "start": 959,
+      "end": 961,
+      "text": {
+        "ko": "그래서 부모님들께서는",
+        "en": "So parents should,",
+        "vi": "Vì vậy, các bậc cha mẹ nên",
+        "zh": "所以各位家长,",
+        "ja": "ですから、保護者の方は"
+      }
+    },
+    {
+      "id": 272,
+      "start": 961,
+      "end": 964.16,
+      "text": {
+        "ko": "아이가 평소에 소변볼 때나 목욕할 때",
+        "en": "when your child is peeing or taking a bath as usual,",
+        "vi": "khi con đi tiểu hoặc tắm như thường ngày,",
+        "zh": "当孩子平时小便或洗澡时,",
+        "ja": "お子さんが普段おしっこをするときやお風呂に入るときに"
+      }
+    },
+    {
+      "id": 273,
+      "start": 964.16,
+      "end": 967.72,
+      "text": {
+        "ko": "아이가 자신의 몸을 유심히 쳐다본다든지",
+        "en": "if the child looks closely at their own body,",
+        "vi": "nếu con chăm chú nhìn cơ thể mình,",
+        "zh": "孩子仔细观察自己的身体,",
+        "ja": "お子さんが自分の体をじっと見つめたり"
+      }
+    },
+    {
+      "id": 274,
+      "start": 967.72,
+      "end": 970.36,
+      "text": {
+        "ko": "부모의 몸을 갑자기 관심을 가지고",
+        "en": "or suddenly takes an interest in the parent's body",
+        "vi": "hoặc bỗng nhiên quan tâm và",
+        "zh": "或者突然对父母的身体产生兴趣,",
+        "ja": "親の体に突然興味を持って"
+      }
+    },
+    {
+      "id": 275,
+      "start": 970.36,
+      "end": 972.88,
+      "text": {
+        "ko": "관찰하는 모습을 많이 보게 되면",
+        "en": "and you often see them observing it,",
+        "vi": "quan sát cơ thể cha mẹ nhiều lần,",
+        "zh": "经常观察父母的身体的话,",
+        "ja": "観察する様子をよく見かけるようになったら"
+      }
+    },
+    {
+      "id": 276,
+      "start": 972.88,
+      "end": 975.12,
+      "text": {
+        "ko": "이제 우리 아이가 이런 궁금증들이",
+        "en": "then you can think, \"Ah, now my child is entering",
+        "vi": "thì hãy nghĩ rằng \"À, giờ con mình đang bước vào",
+        "zh": "就可以想,原来我家孩子到了",
+        "ja": "「ああ、うちの子もこういう疑問が"
+      }
+    },
+    {
+      "id": 277,
+      "start": 975.12,
+      "end": 977.84,
+      "text": {
+        "ko": "점점 생기는 시기구나 하면서",
+        "en": "the stage where these curiosities are starting to grow,\"",
+        "vi": "giai đoạn dần nảy sinh những thắc mắc này\",",
+        "zh": "逐渐产生这些疑问的时期了,",
+        "ja": "だんだん出てくる時期なんだな」と思いながら"
+      }
+    },
+    {
+      "id": 278,
+      "start": 977.84,
+      "end": 979.72,
+      "text": {
+        "ko": "어떻게 대답해 줄지를",
+        "en": "and it would be good to think in advance",
+        "vi": "và nên suy nghĩ trước",
+        "zh": "最好提前想一想",
+        "ja": "どう答えてあげるかを"
+      }
+    },
+    {
+      "id": 279,
+      "start": 979.72,
+      "end": 982.56,
+      "text": {
+        "ko": "미리 좀 생각해 두시는 게 좋겠습니다.",
+        "en": "about how you will answer.",
+        "vi": "về cách trả lời con.",
+        "zh": "该怎么回答孩子。",
+        "ja": "あらかじめ考えておくとよいでしょう。"
+      }
+    },
+    {
+      "id": 280,
+      "start": 982.56,
+      "end": 984.44,
+      "text": {
+        "ko": "그래서 엄마 아빠가 서로",
+        "en": "So it's a good idea for mom and dad to",
+        "vi": "Vì vậy bố và mẹ hãy cùng nhau",
+        "zh": "所以建议爸爸妈妈彼此",
+        "ja": "ですから、お母さんお父さんがお互いに"
+      }
+    },
+    {
+      "id": 281,
+      "start": 984.44,
+      "end": 987.4,
+      "text": {
+        "ko": "예상 질문을 좀 뽑아보시는 걸 추천해요.",
+        "en": "come up with some anticipated questions together.",
+        "vi": "thử liệt kê ra một số câu hỏi có thể xảy ra, tôi khuyên như vậy.",
+        "zh": "预先列出一些可能的问题。",
+        "ja": "予想される質問をいくつか出してみることをおすすめします。"
+      }
+    },
+    {
+      "id": 282,
+      "start": 987.4,
+      "end": 990.12,
+      "text": {
+        "ko": "그리고 우리가 어떻게 아이에게",
+        "en": "And how we can, from the child's perspective,",
+        "vi": "Và làm thế nào chúng ta có thể",
+        "zh": "而且我们要怎样才能",
+        "ja": "そして、私たちがどうやって子どもに"
+      }
+    },
+    {
+      "id": 283,
+      "start": 990.12,
+      "end": 994.72,
+      "text": {
+        "ko": "아이 관점에서 재미있게 스토리텔링 하듯이",
+        "en": "explain things to the child in a fun way, like storytelling,",
+        "vi": "kể cho trẻ một cách thú vị như đang kể chuyện, từ góc nhìn của trẻ,",
+        "zh": "从孩子的角度像讲故事一样有趣地",
+        "ja": "子どもの視点で楽しくストーリーテリングするように"
+      }
+    },
+    {
+      "id": 284,
+      "start": 994.72,
+      "end": 996.04,
+      "text": {
+        "ko": "설명을 잘해 줄까",
+        "en": "how we can explain it well —",
+        "vi": "để giải thích cho trẻ thật tốt —",
+        "zh": "给孩子讲解清楚呢",
+        "ja": "うまく説明してあげられるか"
+      }
+    },
+    {
+      "id": 285,
+      "start": 996.04,
+      "end": 999.16,
+      "text": {
+        "ko": "이런 서로 의논해 보는 시간을 가지는 것도",
+        "en": "having time to discuss these things with each other",
+        "vi": "việc dành thời gian bàn bạc với nhau về những điều này",
+        "zh": "抽出时间彼此这样商量一下",
+        "ja": "こうしたことをお互いに話し合う時間を持つことも"
+      }
+    },
+    {
+      "id": 286,
+      "start": 999.16,
+      "end": 1001.16,
+      "text": {
+        "ko": "좋다고 생각합니다.",
+        "en": "is also a good thing, I think.",
+        "vi": "tôi nghĩ cũng rất tốt.",
+        "zh": "我觉得也是很好的。",
+        "ja": "良いと思います。"
+      }
+    },
+    {
+      "id": 287,
+      "start": 1001.16,
+      "end": 1005.52,
+      "text": {
+        "ko": "사실 아이들이 갑자기 이런 질문들을 하거든요.",
+        "en": "Actually, children suddenly ask these kinds of questions.",
+        "vi": "Thật ra, trẻ thường đột nhiên đặt ra những câu hỏi như thế này.",
+        "zh": "其实孩子们会突然问出这样的问题。",
+        "ja": "実は子どもたちは突然こういう質問をするんです。"
+      }
+    },
+    {
+      "id": 288,
+      "start": 1005.52,
+      "end": 1008.56,
+      "text": {
+        "ko": "왜냐면 본인들도 갑자기 궁금하거든요.",
+        "en": "Because they themselves suddenly get curious.",
+        "vi": "Bởi vì bản thân trẻ cũng đột nhiên thấy tò mò.",
+        "zh": "因为他们自己也是突然就好奇了。",
+        "ja": "なぜなら本人たちも突然気になるからです。"
+      }
+    },
+    {
+      "id": 289,
+      "start": 1008.56,
+      "end": 1010.84,
+      "text": {
+        "ko": "그래서 준비되지 않는 상황에서",
+        "en": "So when you're in an unprepared situation",
+        "vi": "Vì vậy, trong tình huống chưa chuẩn bị",
+        "zh": "所以在没有准备的情况下",
+        "ja": "ですから、準備ができていない状況で"
+      }
+    },
+    {
+      "id": 290,
+      "start": 1010.84,
+      "end": 1013.08,
+      "text": {
+        "ko": "아이가 이런 돌발 질문을 할 때",
+        "en": "and your child asks such an unexpected question,",
+        "vi": "khi trẻ đặt ra những câu hỏi bất ngờ như vậy,",
+        "zh": "当孩子突然提出这样的问题时",
+        "ja": "子どもがこんな突発的な質問をしたとき"
+      }
+    },
+    {
+      "id": 291,
+      "start": 1013.08,
+      "end": 1014.72,
+      "text": {
+        "ko": "많이 당황하실 수 있어요.",
+        "en": "you can get quite flustered.",
+        "vi": "bạn có thể rất bối rối.",
+        "zh": "您可能会很慌张。",
+        "ja": "とても戸惑ってしまうことがあります。"
+      }
+    },
+    {
+      "id": 292,
+      "start": 1014.72,
+      "end": 1018.2,
+      "text": {
+        "ko": "사실 어디까지 설명해 줘야지 막막하실 때는",
+        "en": "When you're at a loss about how far to explain,",
+        "vi": "Khi bạn bối rối không biết nên giải thích đến đâu,",
+        "zh": "其实当您茫然不知该讲到什么程度时",
+        "ja": "実際、どこまで説明すべきか途方に暮れたときは"
+      }
+    },
+    {
+      "id": 293,
+      "start": 1018.2,
+      "end": 1022.68,
+      "text": {
+        "ko": "대답을 곧바로 해 주시지 않으셔도 됩니다.",
+        "en": "you don't have to answer right away.",
+        "vi": "bạn không nhất thiết phải trả lời ngay lập tức.",
+        "zh": "您不必马上回答也可以。",
+        "ja": "すぐに答えてあげなくても大丈夫です。"
+      }
+    },
+    {
+      "id": 294,
+      "start": 1022.68,
+      "end": 1026.64,
+      "text": {
+        "ko": "오히려 모호한 설명이나 잘못된 정보 전달보다는",
+        "en": "Rather than giving a vague explanation or wrong information,",
+        "vi": "Thay vì giải thích mơ hồ hay truyền đạt thông tin sai lệch,",
+        "zh": "与其模糊地解释或传达错误的信息,",
+        "ja": "むしろ曖昧な説明や間違った情報を伝えるよりは"
+      }
+    },
+    {
+      "id": 295,
+      "start": 1026.64,
+      "end": 1030.68,
+      "text": {
+        "ko": "조금 있다가 설명해 주시는 게 더 나을 수가 있어요.",
+        "en": "it can be better to explain a little later.",
+        "vi": "giải thích sau một chút có thể tốt hơn.",
+        "zh": "稍后再解释可能会更好。",
+        "ja": "少し後で説明してあげる方が良いこともあります。"
+      }
+    },
+    {
+      "id": 296,
+      "start": 1030.68,
+      "end": 1033.36,
+      "text": {
+        "ko": "그래서 차라리 그럴 때는",
+        "en": "So in that case, it's better to say,",
+        "vi": "Vì vậy, trong những lúc như thế,",
+        "zh": "所以那种时候不如",
+        "ja": "ですから、そういうときはいっそのこと"
+      }
+    },
+    {
+      "id": 297,
+      "start": 1033.36,
+      "end": 1036.64,
+      "text": {
+        "ko": "엄마가 좀 더 쉽게 알려줄 수 있는 방법을 찾아볼게",
+        "en": "\"Mom will look for a way to explain it more easily.",
+        "vi": "\"Mẹ sẽ tìm cách giải thích cho con dễ hiểu hơn nhé.",
+        "zh": "“妈妈会找一个能更简单地告诉你的方法",
+        "ja": "「お母さんがもっとわかりやすく教えられる方法を探してみるね"
+      }
+    },
+    {
+      "id": 298,
+      "start": 1036.64,
+      "end": 1038.12,
+      "text": {
+        "ko": "조금만 기다려봐",
+        "en": "Just wait a little bit.\"",
+        "vi": "Con đợi mẹ một chút nhé.\"",
+        "zh": "你稍微等一下”",
+        "ja": "少しだけ待っててね」"
+      }
+    },
+    {
+      "id": 299,
+      "start": 1038.12,
+      "end": 1040.28,
+      "text": {
+        "ko": "이렇게 시간을 좀 두시는 거죠.",
+        "en": "That way, you give yourself some time.",
+        "vi": "Như vậy là bạn dành cho mình một chút thời gian.",
+        "zh": "就这样留出一点时间来。",
+        "ja": "このように少し時間を置くわけです。"
+      }
+    },
+    {
+      "id": 300,
+      "start": 1040.28,
+      "end": 1042.72,
+      "text": {
+        "ko": "그리고 그 시간을 둔 사이에",
+        "en": "And during that time you've set aside,",
+        "vi": "Và trong khoảng thời gian mà bạn đã dành ra đó,",
+        "zh": "然后在你留出的那段时间里,",
+        "ja": "そして、その時間を置いている間に、"
+      }
+    },
+    {
+      "id": 301,
+      "start": 1042.72,
+      "end": 1044.48,
+      "text": {
+        "ko": "'아, 이렇게 이렇게 말해야 되겠다'",
+        "en": "\"Ah, I should say it like this,\"",
+        "vi": "'À, mình nên nói thế này thế này',",
+        "zh": "\"啊,应该这样这样说才对\",",
+        "ja": "「あ、こういうふうに言えばいいんだ」と、"
+      }
+    },
+    {
+      "id": 302,
+      "start": 1044.48,
+      "end": 1046.68,
+      "text": {
+        "ko": "머릿속으로 연습을 한 번 하신 다음에",
+        "en": "after practicing once in your head,",
+        "vi": "sau khi bạn tập dượt một lần trong đầu,",
+        "zh": "在脑海中练习一遍之后,",
+        "ja": "頭の中で一度練習をされた後に、"
+      }
+    },
+    {
+      "id": 303,
+      "start": 1046.68,
+      "end": 1048.4,
+      "text": {
+        "ko": "좀 마음의 준비가 되셨을 때",
+        "en": "when you feel a bit ready,",
+        "vi": "khi bạn đã có chút chuẩn bị tâm lý,",
+        "zh": "当你做好一点心理准备时,",
+        "ja": "少し心の準備ができたときに、"
+      }
+    },
+    {
+      "id": 304,
+      "start": 1048.4,
+      "end": 1050.48,
+      "text": {
+        "ko": "대답을 해 주셔도 좋습니다.",
+        "en": "it's fine to give your answer.",
+        "vi": "bạn có thể trả lời cũng được.",
+        "zh": "再回答也可以。",
+        "ja": "答えてあげても大丈夫です。"
+      }
+    },
+    {
+      "id": 305,
+      "start": 1050.48,
+      "end": 1054.92,
+      "text": {
+        "ko": "다만 이 질문을 잊어버리시면 안 되겠죠.",
+        "en": "But of course, you mustn't forget the question.",
+        "vi": "Tuy nhiên, tất nhiên bạn không được quên câu hỏi này.",
+        "zh": "不过,当然不能忘记这个问题。",
+        "ja": "ただ、この質問を忘れてしまってはいけませんよね。"
+      }
+    },
+    {
+      "id": 306,
+      "start": 1054.92,
+      "end": 1058.64,
+      "text": {
+        "ko": "그리고 이걸 아이들 수준에 맞게 설명하는 것이",
+        "en": "And explaining this at a level suited to children",
+        "vi": "Và việc giải thích điều này phù hợp với trình độ của trẻ",
+        "zh": "而且要按照孩子的水平来解释这个",
+        "ja": "そして、これを子どもの水準に合わせて説明するのが"
+      }
+    },
+    {
+      "id": 307,
+      "start": 1058.64,
+      "end": 1061.16,
+      "text": {
+        "ko": "너무 어렵다, 이러신 분들도 많잖아요.",
+        "en": "is too hard — there are many parents who feel that way, right?",
+        "vi": "quá khó, có nhiều người nói vậy đúng không?",
+        "zh": "太难了,这样觉得的人也很多吧。",
+        "ja": "すごく難しい、という方も多いじゃないですか。"
+      }
+    },
+    {
+      "id": 308,
+      "start": 1061.16,
+      "end": 1063.2,
+      "text": {
+        "ko": "그래서 감이 잘 오지 않을 때는",
+        "en": "So when you can't quite get a sense of it,",
+        "vi": "Vì vậy, khi bạn chưa hình dung rõ,",
+        "zh": "所以当你没什么头绪的时候,",
+        "ja": "なので、なかなか感覚がつかめないときは、"
+      }
+    },
+    {
+      "id": 309,
+      "start": 1063.2,
+      "end": 1067.44,
+      "text": {
+        "ko": "시중에 나와 있는 성교육 그림책들을 활용해 볼 수 있어요.",
+        "en": "you can make use of the sex-education picture books available on the market.",
+        "vi": "bạn có thể tận dụng các sách tranh giáo dục giới tính có bán trên thị trường.",
+        "zh": "可以利用市面上出售的性教育图画书。",
+        "ja": "市販されている性教育の絵本を活用してみることができます。"
+      }
+    },
+    {
+      "id": 310,
+      "start": 1067.44,
+      "end": 1070.08,
+      "text": {
+        "ko": "부모님이 보시기에 가장 편안한,",
+        "en": "The one that feels most comfortable to you as a parent,",
+        "vi": "Cuốn mà bố mẹ cảm thấy thoải mái nhất,",
+        "zh": "父母看着觉得最舒服的,",
+        "ja": "親御さんが見て一番心地よい、"
+      }
+    },
+    {
+      "id": 311,
+      "start": 1070.08,
+      "end": 1073.6,
+      "text": {
+        "ko": "그리고 아이가 또 즐기면서 볼 수 있는 책을 골라서",
+        "en": "and one that your child can also enjoy reading — pick that book",
+        "vi": "và cuốn mà trẻ cũng có thể vừa xem vừa thích thú, hãy chọn cuốn đó",
+        "zh": "而且孩子也能开心地阅读的书,选出这样的书,",
+        "ja": "そして子どもも楽しみながら見られる本を選んで、"
+      }
+    },
+    {
+      "id": 312,
+      "start": 1073.6,
+      "end": 1078.28,
+      "text": {
+        "ko": "아이와 함께 이야기를 나누면서 읽어보는 것도 좋은 방법이겠습니다.",
+        "en": "and reading it together while talking with your child is also a good approach.",
+        "vi": "và cùng trẻ trò chuyện trong khi đọc cũng là một cách hay.",
+        "zh": "和孩子一边交流一边阅读,也是个好方法。",
+        "ja": "子どもと一緒に話をしながら読んでみるのも良い方法でしょう。"
+      }
+    },
+    {
+      "id": 313,
+      "start": 1078.28,
+      "end": 1081.32,
+      "text": {
+        "ko": "자, 그럼 이제 유아들 성교육에 있어서",
+        "en": "Now then, when it comes to sex education for young children,",
+        "vi": "Vậy thì bây giờ, về giáo dục giới tính cho trẻ nhỏ,",
+        "zh": "那么,接下来在幼儿性教育方面,",
+        "ja": "さて、それではこれから幼児の性教育において、"
+      }
+    },
+    {
+      "id": 314,
+      "start": 1081.32,
+      "end": 1085.36,
+      "text": {
+        "ko": "부모님들이 가장 많이 하시는 질문들을 몇 가지 뽑아 봤죠.",
+        "en": "we've picked out a few of the questions parents ask most often.",
+        "vi": "chúng tôi đã chọn ra một vài câu hỏi mà bố mẹ hay hỏi nhất.",
+        "zh": "我们挑选了几个父母最常问的问题。",
+        "ja": "親御さんが一番多くされる質問をいくつか選んでみました。"
+      }
+    },
+    {
+      "id": 315,
+      "start": 1085.36,
+      "end": 1088.12,
+      "text": {
+        "ko": "네, 그 질문들을 하나씩 다뤄보겠습니다.",
+        "en": "Yes, let's go through those questions one by one.",
+        "vi": "Vâng, chúng ta sẽ giải quyết từng câu hỏi một.",
+        "zh": "是的,我们来逐一探讨这些问题。",
+        "ja": "はい、その質問を一つずつ扱っていきましょう。"
+      }
+    },
+    {
+      "id": 316,
+      "start": 1088.12,
+      "end": 1090.76,
+      "text": {
+        "ko": "네, 이런 질문 많이 하세요.",
+        "en": "Yes, people ask this kind of question a lot.",
+        "vi": "Vâng, mọi người hỏi câu hỏi kiểu này rất nhiều.",
+        "zh": "是的,这类问题很多人问。",
+        "ja": "はい、こういう質問を多くされます。"
+      }
+    },
+    {
+      "id": 317,
+      "start": 1090.76,
+      "end": 1093.88,
+      "text": {
+        "ko": "성교육할 때 남자아이는 아빠가,",
+        "en": "When it comes to sex education, boys should be taught by the dad,",
+        "vi": "Khi giáo dục giới tính, con trai thì bố dạy,",
+        "zh": "进行性教育时,男孩由爸爸来教,",
+        "ja": "性教育をするとき、男の子はお父さんが、"
+      }
+    },
+    {
+      "id": 318,
+      "start": 1093.88,
+      "end": 1097,
+      "text": {
+        "ko": "여자아이는 엄마가 해주는 것이 맞다.",
+        "en": "and girls should be taught by the mom — that's the right way.",
+        "vi": "con gái thì mẹ dạy mới đúng.",
+        "zh": "女孩由妈妈来教才对。",
+        "ja": "女の子はお母さんがしてあげるのが正しい。"
+      }
+    },
+    {
+      "id": 319,
+      "start": 1097,
+      "end": 1099.76,
+      "text": {
+        "ko": "이렇게 알고 계신 분들이 많거든요.",
+        "en": "There are many people who believe this.",
+        "vi": "Có nhiều người nghĩ như vậy đấy.",
+        "zh": "这样认为的人很多呢。",
+        "ja": "このように思っていらっしゃる方が多いんです。"
+      }
+    },
+    {
+      "id": 320,
+      "start": 1099.76,
+      "end": 1101.04,
+      "text": {
+        "ko": "정답은 뭘까요?",
+        "en": "What's the correct answer?",
+        "vi": "Đáp án là gì nhỉ?",
+        "zh": "正确答案是什么呢？",
+        "ja": "正解は何でしょうか？"
+      }
+    },
+    {
+      "id": 321,
+      "start": 1101.04,
+      "end": 1104.68,
+      "text": {
+        "ko": "네, 정답은 X입니다.",
+        "en": "Yes, the correct answer is X.",
+        "vi": "Vâng, đáp án là X.",
+        "zh": "是的，正确答案是X。",
+        "ja": "はい、正解はXです。"
+      }
+    },
+    {
+      "id": 322,
+      "start": 1104.68,
+      "end": 1108.48,
+      "text": {
+        "ko": "사실 엄마, 아빠 정해진 사람은 없습니다.",
+        "en": "In fact, there's no set person, whether mom or dad.",
+        "vi": "Thực ra không có quy định là phải mẹ hay bố.",
+        "zh": "其实，并没有规定必须是妈妈还是爸爸。",
+        "ja": "実は、ママ・パパと決まった人はいません。"
+      }
+    },
+    {
+      "id": 323,
+      "start": 1108.48,
+      "end": 1111.12,
+      "text": {
+        "ko": "왜냐하면 아이들의 궁금증이나 호기심이",
+        "en": "Because children's questions or curiosity",
+        "vi": "Bởi vì thắc mắc hay sự tò mò của trẻ",
+        "zh": "因为孩子们的疑问或好奇心",
+        "ja": "なぜなら、子どもの疑問や好奇心が"
+      }
+    },
+    {
+      "id": 324,
+      "start": 1111.12,
+      "end": 1113.48,
+      "text": {
+        "ko": "언제 어디서 나타날지 모르거든요.",
+        "en": "can appear anytime, anywhere.",
+        "vi": "không biết sẽ xuất hiện khi nào, ở đâu.",
+        "zh": "不知道会在何时何地出现。",
+        "ja": "いつどこで現れるか分からないからです。"
+      }
+    },
+    {
+      "id": 325,
+      "start": 1113.48,
+      "end": 1115.68,
+      "text": {
+        "ko": "그래서 아이들이 질문을 했을 때",
+        "en": "So when children ask a question,",
+        "vi": "Vì vậy khi trẻ đặt câu hỏi,",
+        "zh": "所以当孩子提问时，",
+        "ja": "だから、子どもが質問をしたとき、"
+      }
+    },
+    {
+      "id": 326,
+      "start": 1115.68,
+      "end": 1119.24,
+      "text": {
+        "ko": "그 질문을 들은 사람이 해주는 게 옳은 것이 되겠죠.",
+        "en": "the person who heard the question should be the one to answer it.",
+        "vi": "người nghe được câu hỏi đó trả lời là điều đúng đắn.",
+        "zh": "由听到问题的人来回答才是恰当的。",
+        "ja": "その質問を聞いた人が答えてあげるのが正しいでしょう。"
+      }
+    },
+    {
+      "id": 327,
+      "start": 1119.24,
+      "end": 1122.44,
+      "text": {
+        "ko": "부모 중 누구라도 딸에게 아빠가,",
+        "en": "Either parent — the dad to a daughter,",
+        "vi": "Bất kỳ ai trong bố mẹ — bố với con gái,",
+        "zh": "父母中的任何一方——爸爸对女儿，",
+        "ja": "両親のどちらでも、娘に父親が、"
+      }
+    },
+    {
+      "id": 328,
+      "start": 1122.44,
+      "end": 1125.56,
+      "text": {
+        "ko": "아들에게 엄마가, 누구라도 할 수 있어야 합니다.",
+        "en": "the mom to a son — anyone should be able to do it.",
+        "vi": "mẹ với con trai — ai cũng phải có thể làm được.",
+        "zh": "妈妈对儿子——任何人都应该能够做到。",
+        "ja": "息子に母親が、誰でもできるべきです。"
+      }
+    },
+    {
+      "id": 329,
+      "start": 1125.56,
+      "end": 1129.12,
+      "text": {
+        "ko": "왜냐하면 성은 부끄러운 것이 아니기 때문이죠.",
+        "en": "Because sexuality is not something to be ashamed of.",
+        "vi": "Bởi vì tính dục không phải là điều đáng xấu hổ.",
+        "zh": "因为性并不是什么羞耻的事情。",
+        "ja": "なぜなら、性は恥ずかしいものではないからです。"
+      }
+    },
+    {
+      "id": 330,
+      "start": 1129.12,
+      "end": 1131.8,
+      "text": {
+        "ko": "다만 이후에 우리 아이가 좀 더 커서",
+        "en": "However, later on, when our child grows a bit older,",
+        "vi": "Tuy nhiên, sau này khi con lớn hơn một chút,",
+        "zh": "不过，之后当我们的孩子长大一些，",
+        "ja": "ただ、その後、子どもがもう少し大きくなって"
+      }
+    },
+    {
+      "id": 331,
+      "start": 1131.8,
+      "end": 1136.28,
+      "text": {
+        "ko": "사춘기나 청소년이 되었을 때는 조금 다를 수가 있는데요.",
+        "en": "during puberty or adolescence, it can be a little different.",
+        "vi": "đến tuổi dậy thì hoặc thanh thiếu niên thì có thể hơi khác một chút.",
+        "zh": "到了青春期或青少年时期，情况可能会有些不同。",
+        "ja": "思春期や青少年になったときは少し違うことがあります。"
+      }
+    },
+    {
+      "id": 332,
+      "start": 1136.28,
+      "end": 1138.52,
+      "text": {
+        "ko": "예를 들어 생리에 대한 이야기라든지",
+        "en": "For example, talks about menstruation,",
+        "vi": "Ví dụ như câu chuyện về kinh nguyệt,",
+        "zh": "比如关于月经的话题，",
+        "ja": "例えば、生理についての話とか"
+      }
+    },
+    {
+      "id": 333,
+      "start": 1138.52,
+      "end": 1140.64,
+      "text": {
+        "ko": "몸에 관한 이야기, 이런 것들은",
+        "en": "or talks about the body — for these kinds of things,",
+        "vi": "hay câu chuyện về cơ thể, những điều như thế này,",
+        "zh": "关于身体的话题，这些内容",
+        "ja": "体に関する話、こういったものは"
+      }
+    },
+    {
+      "id": 334,
+      "start": 1140.64,
+      "end": 1144.68,
+      "text": {
+        "ko": "실제로 경험을 해본 그 동성 부모가 해주는 것이",
+        "en": "having the same-sex parent who has actually experienced it explain",
+        "vi": "để cha mẹ cùng giới đã thực sự trải qua điều đó chia sẻ",
+        "zh": "由实际经历过的同性父母来讲解",
+        "ja": "実際に経験したことのある同性の親が話してあげるほうが"
+      }
+    },
+    {
+      "id": 335,
+      "start": 1144.68,
+      "end": 1146.88,
+      "text": {
+        "ko": "조금 더 효과적일 수는 있습니다.",
+        "en": "can be a little more effective.",
+        "vi": "có thể sẽ hiệu quả hơn một chút.",
+        "zh": "可能会更有效一些。",
+        "ja": "少し効果的なことはあります。"
+      }
+    },
+    {
+      "id": 336,
+      "start": 1146.88,
+      "end": 1148.72,
+      "text": {
+        "ko": "다만 유아기에 있어서는",
+        "en": "However, in early childhood,",
+        "vi": "Tuy nhiên, ở giai đoạn ấu thơ,",
+        "zh": "不过，在幼儿期，",
+        "ja": "ただ、幼児期においては"
+      }
+    },
+    {
+      "id": 337,
+      "start": 1148.72,
+      "end": 1151.48,
+      "text": {
+        "ko": "성에 대한 기초공사를 하는 시기이기 때문에",
+        "en": "since it's the period of laying the foundation for sexuality,",
+        "vi": "vì đây là giai đoạn xây dựng nền tảng về tính dục,",
+        "zh": "因为这是为性教育打基础的时期，",
+        "ja": "性に対する基礎工事をする時期なので"
+      }
+    },
+    {
+      "id": 338,
+      "start": 1151.48,
+      "end": 1154.32,
+      "text": {
+        "ko": "부모 중 누구라도 아이들이 궁금해할 때",
+        "en": "whichever parent it is, when the children are curious,",
+        "vi": "bất kỳ ai trong bố mẹ, khi trẻ tò mò,",
+        "zh": "父母中的任何一方，当孩子感到好奇时，",
+        "ja": "両親のどちらでも、子どもが気になったときに"
+      }
+    },
+    {
+      "id": 339,
+      "start": 1154.32,
+      "end": 1157,
+      "text": {
+        "ko": "해주시는 것이 옳겠습니다.",
+        "en": "answering them is the right thing to do.",
+        "vi": "trả lời cho con là điều đúng đắn.",
+        "zh": "为孩子解答才是恰当的。",
+        "ja": "答えてあげるのが正しいでしょう。"
+      }
+    },
+    {
+      "id": 340,
+      "start": 1157,
+      "end": 1159.52,
+      "text": {
+        "ko": "아이가 궁금한 상황이라면",
+        "en": "If it's a situation where the child is curious,",
+        "vi": "Nếu là tình huống mà trẻ tò mò,",
+        "zh": "如果是孩子感到好奇的情况，",
+        "ja": "子どもが気になる状況であれば"
+      }
+    },
+    {
+      "id": 341,
+      "start": 1159.52,
+      "end": 1161.52,
+      "text": {
+        "ko": "이게 뭐 공원에서 놀다가도",
+        "en": "this can be done while playing at the park,",
+        "vi": "điều này có thể làm ngay cả khi đang chơi ở công viên,",
+        "zh": "这个嘛，在公园玩耍的时候也可以，",
+        "ja": "これは公園で遊んでいるときでも"
+      }
+    },
+    {
+      "id": 342,
+      "start": 1161.52,
+      "end": 1164.32,
+      "text": {
+        "ko": "집에서 밥 먹다가도 할 수 있다는 거",
+        "en": "or even while eating at home — it can be done anytime.",
+        "vi": "hay ngay cả khi đang ăn cơm ở nhà cũng có thể làm được.",
+        "zh": "在家吃饭的时候也可以进行。",
+        "ja": "家でご飯を食べているときでもできるということ"
+      }
+    },
+    {
+      "id": 343,
+      "start": 1164.32,
+      "end": 1168.48,
+      "text": {
+        "ko": "그리고 사실은 가장 시간을 많이 보내는 가정에서",
+        "en": "And in fact, in the home where they spend the most time,",
+        "vi": "Và thực ra, tại gia đình - nơi trẻ dành nhiều thời gian nhất,",
+        "zh": "而且其实在孩子花最多时间的家庭里，",
+        "ja": "そして実は、一番多く時間を過ごす家庭で"
+      }
+    },
+    {
+      "id": 344,
+      "start": 1168.48,
+      "end": 1172.16,
+      "text": {
+        "ko": "가장 먼저 시작해야 된다는 게 중요하겠네요.",
+        "en": "it's important that it should start first.",
+        "vi": "việc bắt đầu trước tiên là điều quan trọng.",
+        "zh": "最先开始进行是很重要的。",
+        "ja": "一番最初に始めるべきだというのが大事ですね。"
+      }
+    },
+    {
+      "id": 345,
+      "start": 1172.16,
+      "end": 1175.76,
+      "text": {
+        "ko": "네, 이어서 다음 질문입니다.",
+        "en": "Yes, let's move on to the next question.",
+        "vi": "Vâng, tiếp theo là câu hỏi kế tiếp.",
+        "zh": "好的，接下来是下一个问题。",
+        "ja": "はい、続いて次の質問です。"
+      }
+    },
+    {
+      "id": 346,
+      "start": 1175.76,
+      "end": 1180.44,
+      "text": {
+        "ko": "성이 다른 아이와 언제까지 알몸 목욕을 할 수 있나요?",
+        "en": "Until what age can you bathe naked with a child of a different sex?",
+        "vi": "Có thể tắm khỏa thân cùng đứa trẻ khác giới đến khi nào?",
+        "zh": "和异性的孩子一起裸体洗澡可以到什么时候？",
+        "ja": "性別の異なる子どもと、いつまで裸でお風呂に入れますか？"
+      }
+    },
+    {
+      "id": 347,
+      "start": 1180.44,
+      "end": 1181.44,
+      "text": {
+        "ko": "이런 질문도 많이 하시네요.",
+        "en": "Many people ask this question too.",
+        "vi": "Câu hỏi này cũng có nhiều người hỏi lắm.",
+        "zh": "这样的问题也有很多人问呢。",
+        "ja": "こういう質問も多くされますね。"
+      }
+    },
+    {
+      "id": 348,
+      "start": 1181.44,
+      "end": 1184.12,
+      "text": {
+        "ko": "굉장히 질문을 많이 하시는데요.",
+        "en": "People ask about this a great deal.",
+        "vi": "Rất nhiều người đặt câu hỏi về điều này.",
+        "zh": "大家问得非常多。",
+        "ja": "非常に多くの質問をされるのですが。"
+      }
+    },
+    {
+      "id": 349,
+      "start": 1184.12,
+      "end": 1189.2,
+      "text": {
+        "ko": "정답은 각 가정과 아이의 상황마다 좀 다를 수 있어요.",
+        "en": "The answer can vary a bit depending on each family and the child's situation.",
+        "vi": "Câu trả lời có thể khác nhau tùy theo từng gia đình và tình huống của trẻ.",
+        "zh": "答案会因每个家庭和孩子的情况而有所不同。",
+        "ja": "答えは、それぞれの家庭や子どもの状況によって少し異なることがあります。"
+      }
+    },
+    {
+      "id": 350,
+      "start": 1189.2,
+      "end": 1192.16,
+      "text": {
+        "ko": "다만 부모와 아이 중 누구 한 명이라도",
+        "en": "However, if either the parent or the child",
+        "vi": "Tuy nhiên, chỉ cần một trong hai là cha mẹ hoặc trẻ",
+        "zh": "不过，只要父母和孩子中有任何一方",
+        "ja": "ただ、親と子どものどちらか一人でも"
+      }
+    },
+    {
+      "id": 351,
+      "start": 1192.16,
+      "end": 1196.24,
+      "text": {
+        "ko": "불편감을 느낀다면 언제든지 중단해도 됩니다.",
+        "en": "feels uncomfortable, you can stop at any time.",
+        "vi": "cảm thấy không thoải mái, thì có thể dừng lại bất cứ lúc nào.",
+        "zh": "感到不舒服，就可以随时停止。",
+        "ja": "不快感を感じたら、いつでもやめて構いません。"
+      }
+    },
+    {
+      "id": 352,
+      "start": 1196.24,
+      "end": 1198.68,
+      "text": {
+        "ko": "그리고 정해진 시기는 없지만",
+        "en": "And although there's no fixed time,",
+        "vi": "Và tuy không có thời điểm cố định,",
+        "zh": "而且虽然没有固定的时期，",
+        "ja": "そして決まった時期はありませんが"
+      }
+    },
+    {
+      "id": 353,
+      "start": 1198.68,
+      "end": 1200.44,
+      "text": {
+        "ko": "2차 성징이 오기 전에는",
+        "en": "before secondary sexual characteristics appear,",
+        "vi": "trước khi các đặc điểm giới tính thứ cấp xuất hiện,",
+        "zh": "在第二性征出现之前，",
+        "ja": "二次性徴が来る前には"
+      }
+    },
+    {
+      "id": 354,
+      "start": 1200.44,
+      "end": 1204.2,
+      "text": {
+        "ko": "좀 분리하는 연습을 하시는 것을 추천드립니다.",
+        "en": "I recommend practicing separating a little.",
+        "vi": "tôi khuyên nên tập dần việc tách riêng.",
+        "zh": "建议稍微练习一下分开。",
+        "ja": "少し分ける練習をされることをおすすめします。"
+      }
+    },
+    {
+      "id": 355,
+      "start": 1204.2,
+      "end": 1206.68,
+      "text": {
+        "ko": "그리고 보통 우리가 공공 목욕탕,",
+        "en": "And usually, in public bathhouses,",
+        "vi": "Và thông thường, ở các nhà tắm công cộng,",
+        "zh": "而且通常我们在公共浴池，",
+        "ja": "そして普通、私たちが公衆浴場や"
+      }
+    },
+    {
+      "id": 356,
+      "start": 1206.68,
+      "end": 1211.08,
+      "text": {
+        "ko": "또 요새 수영장, 거기 탈의실, 화장실 같은 경우에는",
+        "en": "and these days at swimming pools — their changing rooms and restrooms —",
+        "vi": "và gần đây là hồ bơi, phòng thay đồ, nhà vệ sinh ở đó,",
+        "zh": "还有最近的游泳池，那里的更衣室、洗手间等地方，",
+        "ja": "また最近ではプール、そこの更衣室やトイレのような場合には"
+      }
+    },
+    {
+      "id": 357,
+      "start": 1211.08,
+      "end": 1214.68,
+      "text": {
+        "ko": "48개월을 기준으로 남녀를 구분하기 시작하잖아요.",
+        "en": "they start separating boys and girls based on 48 months of age, right?",
+        "vi": "người ta bắt đầu phân biệt nam nữ dựa trên mốc 48 tháng tuổi đấy.",
+        "zh": "以48个月为标准开始区分男女，对吧。",
+        "ja": "48か月を基準に男女を区分し始めますよね。"
+      }
+    },
+    {
+      "id": 358,
+      "start": 1214.68,
+      "end": 1217.56,
+      "text": {
+        "ko": "그래서 그런 것처럼 가정 내에서도",
+        "en": "So just like that, within the home as well,",
+        "vi": "Vì vậy, giống như thế, ngay trong gia đình cũng vậy,",
+        "zh": "所以就像那样，在家庭里也一样，",
+        "ja": "なので、それと同じように家庭の中でも"
+      }
+    },
+    {
+      "id": 359,
+      "start": 1217.56,
+      "end": 1221.64,
+      "text": {
+        "ko": "이제 5살, 6살까지는 서로 함께 목욕을 한다 하더라도",
+        "en": "even if you bathe together up until age 5 or 6,",
+        "vi": "dù có tắm chung với nhau cho đến 5, 6 tuổi đi nữa,",
+        "zh": "即使到5岁、6岁为止还一起洗澡，",
+        "ja": "5歳、6歳までは一緒にお風呂に入るとしても"
+      }
+    },
+    {
+      "id": 360,
+      "start": 1221.64,
+      "end": 1225.88,
+      "text": {
+        "ko": "공동의 규칙에 대해서는 따로 교육을 하실 필요가 있겠죠.",
+        "en": "You'll need to teach them separately about shared rules.",
+        "vi": "Bạn sẽ cần dạy riêng về các quy tắc chung.",
+        "zh": "关于共同的规则，需要另外进行教育。",
+        "ja": "共同のルールについては、別途教える必要があるでしょう。"
+      }
+    },
+    {
+      "id": 361,
+      "start": 1225.88,
+      "end": 1227.64,
+      "text": {
+        "ko": "다음 질문입니다.",
+        "en": "Here's the next question.",
+        "vi": "Đây là câu hỏi tiếp theo.",
+        "zh": "下一个问题。",
+        "ja": "次の質問です。"
+      }
+    },
+    {
+      "id": 362,
+      "start": 1227.64,
+      "end": 1232,
+      "text": {
+        "ko": "자신의 성기를 만지며 노는 아이, 괜찮은 걸까요?",
+        "en": "A child who plays by touching their own genitals — is that okay?",
+        "vi": "Đứa trẻ chơi bằng cách sờ vào bộ phận sinh dục của mình, liệu có sao không?",
+        "zh": "孩子摸着自己的生殖器玩耍，这样可以吗？",
+        "ja": "自分の性器を触って遊ぶ子ども、大丈夫でしょうか？"
+      }
+    },
+    {
+      "id": 363,
+      "start": 1232,
+      "end": 1234.92,
+      "text": {
+        "ko": "아이가 벌써 성에 눈을 뜬 건 아닐까요?",
+        "en": "Could it be that the child has already awakened to sexuality?",
+        "vi": "Liệu có phải đứa trẻ đã sớm thức tỉnh về tình dục?",
+        "zh": "孩子难道已经对性开窍了吗？",
+        "ja": "子どもがもう性に目覚めたのではないでしょうか？"
+      }
+    },
+    {
+      "id": 364,
+      "start": 1234.92,
+      "end": 1238.12,
+      "text": {
+        "ko": "이런 걱정을 많이 하시는데 이거에 대해서 어떻게...",
+        "en": "Many parents worry about this, so how should we approach it...",
+        "vi": "Nhiều người rất lo lắng về điều này, vậy nên xử lý thế nào...",
+        "zh": "很多家长会有这样的担心，那么对此该如何...",
+        "ja": "こういう心配をよくされますが、これについてどう…"
+      }
+    },
+    {
+      "id": 365,
+      "start": 1238.12,
+      "end": 1240.72,
+      "text": {
+        "ko": "하지만 우리 유아기 성에 대한 관심은",
+        "en": "But the interest in sexuality during early childhood",
+        "vi": "Nhưng sự quan tâm đến tình dục ở giai đoạn ấu thơ",
+        "zh": "但是幼儿期对性的关注",
+        "ja": "しかし、幼児期の性への関心は"
+      }
+    },
+    {
+      "id": 366,
+      "start": 1240.72,
+      "end": 1244.88,
+      "text": {
+        "ko": "청소년이나 성인이 가지는 성에 대한 관심과는 조금 다릅니다.",
+        "en": "is a little different from the sexual interest that adolescents or adults have.",
+        "vi": "hơi khác so với sự quan tâm đến tình dục của thanh thiếu niên hay người lớn.",
+        "zh": "与青少年或成人对性的关注略有不同。",
+        "ja": "青少年や大人が持つ性への関心とは少し違います。"
+      }
+    },
+    {
+      "id": 367,
+      "start": 1244.88,
+      "end": 1248.88,
+      "text": {
+        "ko": "유아기에 생기는 호기심에서 자신의 성기를 가지고 놀거나",
+        "en": "Out of the curiosity that arises in early childhood, playing with their own genitals",
+        "vi": "Vì sự tò mò xuất hiện trong giai đoạn ấu thơ mà chơi với bộ phận sinh dục của mình",
+        "zh": "出于幼儿期产生的好奇心，玩弄自己的生殖器",
+        "ja": "幼児期に生じる好奇心から自分の性器で遊んだり"
+      }
+    },
+    {
+      "id": 368,
+      "start": 1248.88,
+      "end": 1251,
+      "text": {
+        "ko": "자신의 성기에 대한 관심을 보이는 것은",
+        "en": "or showing interest in their own genitals",
+        "vi": "hoặc thể hiện sự quan tâm đến bộ phận sinh dục của mình",
+        "zh": "或者表现出对自己生殖器的关注",
+        "ja": "自分の性器に関心を示すのは"
+      }
+    },
+    {
+      "id": 369,
+      "start": 1251,
+      "end": 1255.4,
+      "text": {
+        "ko": "단순한 호기심에서 출발하는 경우가 대부분이기 때문입니다.",
+        "en": "is in most cases something that starts from simple curiosity.",
+        "vi": "là vì phần lớn xuất phát từ sự tò mò đơn thuần.",
+        "zh": "大多是出于单纯的好奇心。",
+        "ja": "大部分が単純な好奇心から始まるからです。"
+      }
+    },
+    {
+      "id": 370,
+      "start": 1255.4,
+      "end": 1258.28,
+      "text": {
+        "ko": "다만 이 성기가 주는 자극은",
+        "en": "However, the stimulation that the genitals provide",
+        "vi": "Tuy nhiên, kích thích mà bộ phận sinh dục mang lại",
+        "zh": "只是生殖器带来的刺激",
+        "ja": "ただ、この性器が与える刺激は"
+      }
+    },
+    {
+      "id": 371,
+      "start": 1258.48,
+      "end": 1262.16,
+      "text": {
+        "ko": "다른 신체에서 주는 자극보다는 좀 더 자극적이고",
+        "en": "is a bit more stimulating than that of other body parts,",
+        "vi": "kích thích hơn so với các bộ phận cơ thể khác,",
+        "zh": "比身体其他部位带来的刺激更强烈，",
+        "ja": "他の身体部位が与える刺激よりも少し刺激的で"
+      }
+    },
+    {
+      "id": 372,
+      "start": 1262.16,
+      "end": 1265.04,
+      "text": {
+        "ko": "또 강도가 높은 자극이기 때문에",
+        "en": "and since it's a high-intensity stimulation,",
+        "vi": "và vì đó là kích thích có cường độ cao,",
+        "zh": "而且是强度较高的刺激，",
+        "ja": "また強度が高い刺激であるため"
+      }
+    },
+    {
+      "id": 373,
+      "start": 1265.04,
+      "end": 1269.88,
+      "text": {
+        "ko": "지루하거나 심심할 때 반복되는 경우들이 종종 생길 수는 있습니다.",
+        "en": "it can often be repeated when the child is bored or has nothing to do.",
+        "vi": "nên thường có thể lặp lại khi trẻ buồn chán hoặc không có việc gì làm.",
+        "zh": "在无聊或闲得慌的时候，可能会经常反复出现。",
+        "ja": "退屈だったり暇なときに繰り返されることがしばしば起こり得ます。"
+      }
+    },
+    {
+      "id": 374,
+      "start": 1269.88,
+      "end": 1274.24,
+      "text": {
+        "ko": "그래서 2에서 6세 아이들에게 성기에 대한 교육을 할 때는",
+        "en": "So when teaching children aged 2 to 6 about their genitals,",
+        "vi": "Vì vậy, khi dạy trẻ từ 2 đến 6 tuổi về bộ phận sinh dục,",
+        "zh": "所以在给2到6岁的孩子进行生殖器相关教育时，",
+        "ja": "ですので、2歳から6歳の子どもに性器について教えるときは"
+      }
+    },
+    {
+      "id": 375,
+      "start": 1274.24,
+      "end": 1277.6,
+      "text": {
+        "ko": "위생 교육을 같이 해주시는 것이 꼭 필요한데요.",
+        "en": "it's essential to teach them about hygiene at the same time.",
+        "vi": "việc dạy kèm về vệ sinh là điều rất cần thiết.",
+        "zh": "一定要同时进行卫生教育。",
+        "ja": "衛生教育も一緒にしてあげることが必ず必要です。"
+      }
+    },
+    {
+      "id": 376,
+      "start": 1277.6,
+      "end": 1281.8,
+      "text": {
+        "ko": "예를 들어 자신의 성기를 만지기 전에는 손을 꼭 씻어야 한다든지",
+        "en": "For example, teaching them that they must wash their hands before touching their genitals,",
+        "vi": "Ví dụ như phải rửa tay trước khi sờ vào bộ phận sinh dục của mình,",
+        "zh": "比如，摸自己生殖器之前一定要洗手，",
+        "ja": "例えば、自分の性器を触る前には必ず手を洗わなければならないとか"
+      }
+    },
+    {
+      "id": 377,
+      "start": 1281.8,
+      "end": 1285.72,
+      "text": {
+        "ko": "혹은 타인 앞에서는 성기를 만지지 않는다든지",
+        "en": "or that they shouldn't touch their genitals in front of others,",
+        "vi": "hoặc không sờ bộ phận sinh dục trước mặt người khác,",
+        "zh": "或者不在他人面前触摸生殖器，",
+        "ja": "あるいは他人の前では性器を触らないとか"
+      }
+    },
+    {
+      "id": 378,
+      "start": 1285.72,
+      "end": 1289.92,
+      "text": {
+        "ko": "성기를 만지고 나서는 손을 씻는다든지 하는 위생에 대한 교육",
+        "en": "or that they should wash their hands after touching their genitals — this kind of hygiene education,",
+        "vi": "hay rửa tay sau khi sờ bộ phận sinh dục — kiểu giáo dục về vệ sinh như vậy,",
+        "zh": "摸完生殖器之后要洗手，诸如此类的卫生教育，",
+        "ja": "性器を触った後は手を洗うといった衛生についての教育、"
+      }
+    },
+    {
+      "id": 379,
+      "start": 1289.92,
+      "end": 1293.72,
+      "text": {
+        "ko": "그리고 위생에 대한 교육을 함께 해주시는 것이 필요하겠습니다.",
+        "en": "and providing this hygiene education together is necessary.",
+        "vi": "và việc dạy kèm về vệ sinh cùng lúc là điều cần thiết.",
+        "zh": "以及一起进行卫生方面的教育是很有必要的。",
+        "ja": "そして衛生についての教育を一緒にしてあげることが必要でしょう。"
+      }
+    },
+    {
+      "id": 380,
+      "start": 1293.72,
+      "end": 1297.16,
+      "text": {
+        "ko": "네, 오늘은 부모님들께서 자주 하시는 질문까지",
+        "en": "Yes, today we've covered even the questions that parents frequently ask.",
+        "vi": "Vâng, hôm nay chúng ta đã đề cập đến cả những câu hỏi mà các bậc phụ huynh thường hay hỏi.",
+        "zh": "是的，今天我们连家长们经常提出的问题都涉及到了。",
+        "ja": "はい、今日は保護者の方々がよくされる質問まで"
+      }
+    },
+    {
+      "id": 381,
+      "start": 1297.16,
+      "end": 1299.88,
+      "text": {
+        "ko": "이렇게 쭉 한번 다뤄봤는데요.",
+        "en": "We've gone through all of these.",
+        "vi": "Chúng ta đã lần lượt điểm qua tất cả như vậy.",
+        "zh": "就这样一一探讨了一遍。",
+        "ja": "こうしてひと通り扱ってみましたが。"
+      }
+    },
+    {
+      "id": 382,
+      "start": 1299.88,
+      "end": 1300.96,
+      "text": {
+        "ko": "마지막이죠.",
+        "en": "This is the last one.",
+        "vi": "Đây là phần cuối cùng.",
+        "zh": "这是最后一个了。",
+        "ja": "最後ですね。"
+      }
+    },
+    {
+      "id": 383,
+      "start": 1300.96,
+      "end": 1303.2,
+      "text": {
+        "ko": "'어떻게'가 남았습니다.",
+        "en": "The question of \"how\" remains.",
+        "vi": "Còn lại câu hỏi \"như thế nào\".",
+        "zh": "还剩下\"如何\"这个问题。",
+        "ja": "「どのように」が残っています。"
+      }
+    },
+    {
+      "id": 384,
+      "start": 1303.2,
+      "end": 1306.8,
+      "text": {
+        "ko": "사실 유아 성교육에서 가장 중요한 부분이에요.",
+        "en": "Actually, this is the most important part of early childhood sex education.",
+        "vi": "Thực ra đây là phần quan trọng nhất trong giáo dục giới tính cho trẻ nhỏ.",
+        "zh": "其实这是幼儿性教育中最重要的部分。",
+        "ja": "実は幼児の性教育で最も重要な部分です。"
+      }
+    },
+    {
+      "id": 385,
+      "start": 1306.8,
+      "end": 1310.08,
+      "text": {
+        "ko": "네, 바로 유아 성교육에서 가장 중요한 것은",
+        "en": "Yes, the most important thing in early childhood sex education is",
+        "vi": "Vâng, điều quan trọng nhất trong giáo dục giới tính cho trẻ nhỏ chính là",
+        "zh": "是的，幼儿性教育中最重要的就是",
+        "ja": "はい、まさに幼児の性教育で最も重要なのは"
+      }
+    },
+    {
+      "id": 386,
+      "start": 1310.08,
+      "end": 1313.12,
+      "text": {
+        "ko": "부모님의 성에 대한 태도입니다.",
+        "en": "the parents' attitude toward sexuality.",
+        "vi": "thái độ của cha mẹ đối với vấn đề giới tính.",
+        "zh": "父母对性的态度。",
+        "ja": "保護者の性に対する態度です。"
+      }
+    },
+    {
+      "id": 387,
+      "start": 1313.24,
+      "end": 1316.68,
+      "text": {
+        "ko": "성에 대해서 교육을 하실 때 혹은 이를 알려주실 때",
+        "en": "When you educate about sexuality or teach it,",
+        "vi": "Khi giáo dục về giới tính hoặc khi giải thích điều đó,",
+        "zh": "在进行性教育或告知孩子相关内容时，",
+        "ja": "性について教育される時、あるいはそれを教えてあげる時、"
+      }
+    },
+    {
+      "id": 388,
+      "start": 1316.68,
+      "end": 1319.2,
+      "text": {
+        "ko": "부모님께서 너무 경직되어 있다거나",
+        "en": "if the parents are too rigid,",
+        "vi": "nếu cha mẹ quá cứng nhắc,",
+        "zh": "如果父母表现得太过僵硬，",
+        "ja": "保護者があまりにも硬くなっていたり、"
+      }
+    },
+    {
+      "id": 389,
+      "start": 1319.2,
+      "end": 1322.68,
+      "text": {
+        "ko": "혹은 성에 대해서 부끄러워하는 모습을 보이게 된다면",
+        "en": "or if they show an embarrassed attitude toward sexuality,",
+        "vi": "hoặc tỏ ra ngại ngùng, xấu hổ về vấn đề giới tính,",
+        "zh": "或者对性表现出羞怯的样子，",
+        "ja": "あるいは性について恥ずかしがる様子を見せると、"
+      }
+    },
+    {
+      "id": 390,
+      "start": 1322.68,
+      "end": 1326.32,
+      "text": {
+        "ko": "우리 아이들이 처음 성에 대해서 인지를 하고 받아들일 때",
+        "en": "when our children first recognize and accept sexuality,",
+        "vi": "khi con chúng ta lần đầu nhận thức và tiếp nhận về giới tính,",
+        "zh": "当我们的孩子第一次认知并接受性的时候，",
+        "ja": "子どもたちが初めて性について認知し受け入れる時に、"
+      }
+    },
+    {
+      "id": 391,
+      "start": 1326.32,
+      "end": 1328.68,
+      "text": {
+        "ko": "'아, 성은 좀 부끄러운 것이구나'",
+        "en": "they may form the idea, \"Ah, sexuality is something shameful,\"",
+        "vi": "chúng có thể hình thành suy nghĩ \"À, giới tính là điều gì đó đáng xấu hổ\",",
+        "zh": "就会觉得\"啊，性是有点羞耻的事情\"，",
+        "ja": "「あ、性はちょっと恥ずかしいものなんだ」"
+      }
+    },
+    {
+      "id": 392,
+      "start": 1328.68,
+      "end": 1332.84,
+      "text": {
+        "ko": "혹은 '성은 좀 숨겨야 될 것이구나' 하는",
+        "en": "or \"Sexuality is something to be hidden,\"",
+        "vi": "hoặc \"Giới tính là điều cần phải giấu giếm\",",
+        "zh": "或者\"性是需要隐藏的东西\"这样的",
+        "ja": "あるいは「性はちょっと隠さなきゃいけないものなんだ」という"
+      }
+    },
+    {
+      "id": 393,
+      "start": 1332.84,
+      "end": 1335.8,
+      "text": {
+        "ko": "이미지로 잡을 수가 있게 되거든요.",
+        "en": "forming such an image in their minds.",
+        "vi": "chúng có thể hình thành một hình ảnh như vậy.",
+        "zh": "形成这样的印象。",
+        "ja": "イメージを持ってしまうことになるんです。"
+      }
+    },
+    {
+      "id": 394,
+      "start": 1335.8,
+      "end": 1338.72,
+      "text": {
+        "ko": "그래서 우리 아이가 성에 대해서 궁금해하고",
+        "en": "So when our child is curious about sexuality",
+        "vi": "Vì vậy, khi con chúng ta tò mò về giới tính",
+        "zh": "所以当我们的孩子对性感到好奇，",
+        "ja": "ですから、子どもが性について気になって"
+      }
+    },
+    {
+      "id": 395,
+      "start": 1338.72,
+      "end": 1340.68,
+      "text": {
+        "ko": "성에 대한 질문을 한다면",
+        "en": "and asks questions about it,",
+        "vi": "và đặt câu hỏi về giới tính,",
+        "zh": "并提出关于性的问题时，",
+        "ja": "性についての質問をしたなら、"
+      }
+    },
+    {
+      "id": 396,
+      "start": 1340.68,
+      "end": 1342.52,
+      "text": {
+        "ko": "다른 질문들을 할 때처럼",
+        "en": "just like when they ask other questions,",
+        "vi": "giống như khi trẻ hỏi những câu hỏi khác,",
+        "zh": "就像回答其他问题时一样，",
+        "ja": "ほかの質問をする時のように、"
+      }
+    },
+    {
+      "id": 397,
+      "start": 1342.52,
+      "end": 1345.04,
+      "text": {
+        "ko": "부모님들께서는 좀 더 개방적이고",
+        "en": "parents should be more open",
+        "vi": "cha mẹ nên có thái độ cởi mở hơn",
+        "zh": "父母应该更加开放，",
+        "ja": "保護者の方々はもっと開放的で"
+      }
+    },
+    {
+      "id": 398,
+      "start": 1345.04,
+      "end": 1348.12,
+      "text": {
+        "ko": "편안한 태도를 갖는 게 첫 번째입니다.",
+        "en": "and hold a relaxed attitude — that's the first step.",
+        "vi": "và thoải mái hơn — đó là điều đầu tiên.",
+        "zh": "以更轻松的态度对待，这是第一步。",
+        "ja": "リラックスした態度を持つのが第一です。"
+      }
+    },
+    {
+      "id": 399,
+      "start": 1348.12,
+      "end": 1351.48,
+      "text": {
+        "ko": "그래서 이렇게 부모님들께서 좀 더 편안하고",
+        "en": "So in this way, when parents are more relaxed",
+        "vi": "Vì vậy, khi cha mẹ thoải mái hơn như thế này",
+        "zh": "所以这样一来，当父母更加轻松，",
+        "ja": "ですから、このように保護者の方々がもっとリラックスして"
+      }
+    },
+    {
+      "id": 400,
+      "start": 1351.48,
+      "end": 1353.2,
+      "text": {
+        "ko": "개방적인 태도를 보이실 때",
+        "en": "When you show an open attitude,",
+        "vi": "Khi bố mẹ thể hiện thái độ cởi mở,",
+        "zh": "当您表现出开放的态度时,",
+        "ja": "開かれた態度を示されると"
+      }
+    },
+    {
+      "id": 401,
+      "start": 1353.2,
+      "end": 1355.48,
+      "text": {
+        "ko": "우리 아이도 성에 대한 질문을",
+        "en": "our child, too, will not feel that questions about sex",
+        "vi": "con của chúng ta cũng sẽ không coi câu hỏi về giới tính",
+        "zh": "我们的孩子也不会觉得关于性的问题",
+        "ja": "子どもも性に関する質問を"
+      }
+    },
+    {
+      "id": 402,
+      "start": 1355.48,
+      "end": 1358.56,
+      "text": {
+        "ko": "부끄럽거나 혹은 나쁜 질문이다라고 여겨서",
+        "en": "are embarrassing or bad questions,",
+        "vi": "là điều xấu hổ hay là câu hỏi không tốt,",
+        "zh": "是羞耻或是不好的问题,",
+        "ja": "恥ずかしいとか悪い質問だと思って"
+      }
+    },
+    {
+      "id": 403,
+      "start": 1358.56,
+      "end": 1360.72,
+      "text": {
+        "ko": "숨기거나 억누르는 것이 아니라",
+        "en": "and won't hide or suppress them,",
+        "vi": "nên sẽ không giấu giếm hay kìm nén,",
+        "zh": "从而隐藏或压抑它们,",
+        "ja": "隠したり抑え込んだりするのではなく"
+      }
+    },
+    {
+      "id": 404,
+      "start": 1360.72,
+      "end": 1363.36,
+      "text": {
+        "ko": "언제든지 성에 대해서 궁금할 때",
+        "en": "but whenever they are curious about sex",
+        "vi": "mà bất cứ khi nào tò mò về giới tính",
+        "zh": "而是每当对性感到好奇时,",
+        "ja": "いつでも性について気になったとき"
+      }
+    },
+    {
+      "id": 405,
+      "start": 1363.36,
+      "end": 1364.88,
+      "text": {
+        "ko": "혹은 호기심이 생길 때",
+        "en": "or feel curious,",
+        "vi": "hoặc nảy sinh sự tò mò,",
+        "zh": "或产生好奇心时,",
+        "ja": "あるいは好奇心が湧いたとき"
+      }
+    },
+    {
+      "id": 406,
+      "start": 1364.88,
+      "end": 1369,
+      "text": {
+        "ko": "부모에게 터놓고 이야기하고 질문을 할 수 있습니다.",
+        "en": "they can talk openly with their parents and ask questions.",
+        "vi": "con có thể trò chuyện cởi mở và đặt câu hỏi với bố mẹ.",
+        "zh": "孩子就能坦诚地与父母交谈并提问。",
+        "ja": "親に打ち明けて話したり質問したりできます。"
+      }
+    },
+    {
+      "id": 407,
+      "start": 1369,
+      "end": 1370.8,
+      "text": {
+        "ko": "그래서 이런 과정을 통해서",
+        "en": "So, through this process,",
+        "vi": "Vì vậy, thông qua quá trình này,",
+        "zh": "因此,通过这样的过程,",
+        "ja": "そして、こうした過程を通じて"
+      }
+    },
+    {
+      "id": 408,
+      "start": 1370.8,
+      "end": 1374.4,
+      "text": {
+        "ko": "우리 아이들이 성에 대한 올바른 지식과 태도를",
+        "en": "our children can learn correct knowledge and attitudes about sex.",
+        "vi": "con của chúng ta có thể học được kiến thức và thái độ đúng đắn về giới tính.",
+        "zh": "我们的孩子就能学到关于性的正确知识和态度。",
+        "ja": "子どもたちが性についての正しい知識と態度を"
+      }
+    },
+    {
+      "id": 409,
+      "start": 1374.4,
+      "end": 1375.72,
+      "text": {
+        "ko": "배워나갈 수가 있습니다.",
+        "en": "They can learn these things.",
+        "vi": "Con có thể dần dần học hỏi được.",
+        "zh": "能够逐步学习下去。",
+        "ja": "学んでいくことができます。"
+      }
+    },
+    {
+      "id": 410,
+      "start": 1375.72,
+      "end": 1378.52,
+      "text": {
+        "ko": "그리고 성교육, 교육을 한다고 해서",
+        "en": "And, just because it's sex education, education,",
+        "vi": "Và, chỉ vì đó là giáo dục giới tính, là giáo dục,",
+        "zh": "另外,因为是性教育、是教育,",
+        "ja": "そして、性教育、教育をするからといって"
+      }
+    },
+    {
+      "id": 411,
+      "start": 1378.52,
+      "end": 1382.6,
+      "text": {
+        "ko": "부모님들께서 가끔 너무 진지해지시는 경우가 많아요.",
+        "en": "parents often become far too serious.",
+        "vi": "nhiều khi bố mẹ trở nên quá nghiêm túc.",
+        "zh": "父母有时会变得过于严肃。",
+        "ja": "親御さんが時々あまりに真剣になりすぎることが多いんです。"
+      }
+    },
+    {
+      "id": 412,
+      "start": 1382.6,
+      "end": 1386.6,
+      "text": {
+        "ko": "너무 진지하고 엄격하고 교육적인 분위기는",
+        "en": "An atmosphere that is too serious, strict, and instructional",
+        "vi": "Bầu không khí quá nghiêm túc, khắt khe và mang tính giáo dục",
+        "zh": "过于严肃、严格、说教式的氛围",
+        "ja": "あまりに真剣で厳格で教育的な雰囲気は"
+      }
+    },
+    {
+      "id": 413,
+      "start": 1386.6,
+      "end": 1390.64,
+      "text": {
+        "ko": "아이가 오히려 성에 대해서 거부감을 가지게 할 수 있습니다.",
+        "en": "can actually make a child feel aversion toward sex.",
+        "vi": "ngược lại có thể khiến trẻ nảy sinh cảm giác phản kháng đối với giới tính.",
+        "zh": "反而可能让孩子对性产生排斥感。",
+        "ja": "かえって子どもが性に対して抵抗感を持つようにさせてしまうことがあります。"
+      }
+    },
+    {
+      "id": 414,
+      "start": 1390.64,
+      "end": 1393.72,
+      "text": {
+        "ko": "성교육 또한 아이들에게 신체를 알려주는 것처럼",
+        "en": "Sex education, too, just like teaching children about the body,",
+        "vi": "Giáo dục giới tính cũng vậy, giống như dạy trẻ về cơ thể,",
+        "zh": "性教育也一样,就像教孩子认识身体那样,",
+        "ja": "性教育もまた、子どもに体を教えるのと同じように"
+      }
+    },
+    {
+      "id": 415,
+      "start": 1393.72,
+      "end": 1397.04,
+      "text": {
+        "ko": "편안하게 접근하는 것이 옳겠죠.",
+        "en": "should be approached in a relaxed way, right?",
+        "vi": "nên tiếp cận một cách thoải mái thì mới đúng, phải không?",
+        "zh": "以轻松的方式来对待才是对的吧。",
+        "ja": "リラックスして接するのが正しいでしょう。"
+      }
+    },
+    {
+      "id": 416,
+      "start": 1399,
+      "end": 1402.28,
+      "text": {
+        "ko": "네, 우리 아이 첫 성교육에 대해서 고민하시는",
+        "en": "Yes, I hope this has been a helpful time",
+        "vi": "Vâng, tôi hy vọng đây là khoảng thời gian hữu ích",
+        "zh": "是的,希望这段时间对正在为孩子第一次性教育",
+        "ja": "はい、うちの子の初めての性教育について悩んでいらっしゃる"
+      }
+    },
+    {
+      "id": 417,
+      "start": 1402.28,
+      "end": 1406,
+      "text": {
+        "ko": "많은 부모님들께 도움되는 시간이었길 바랍니다.",
+        "en": "for the many parents who worry about their child's first sex education.",
+        "vi": "cho nhiều bố mẹ đang băn khoăn về buổi giáo dục giới tính đầu tiên của con.",
+        "zh": "而烦恼的许多父母有所帮助。",
+        "ja": "多くの親御さんにとって役立つ時間であったことを願います。"
+      }
+    },
+    {
+      "id": 418,
+      "start": 1406,
+      "end": 1408,
+      "text": {
+        "ko": "감사합니다.",
+        "en": "Thank you.",
+        "vi": "Xin cảm ơn.",
+        "zh": "谢谢。",
+        "ja": "ありがとうございました。"
+      }
+    },
+    {
+      "id": 419,
+      "start": 1429,
+      "end": 1431,
+      "text": {
+        "ko": "한글 자막 제공 및 협조해주신 모든 분들께 진심으로 감사드립니다.",
+        "en": "We sincerely thank everyone who provided and cooperated with the Korean subtitles.",
+        "vi": "Chúng tôi chân thành cảm ơn tất cả những người đã cung cấp và hỗ trợ phụ đề tiếng Hàn.",
+        "zh": "衷心感谢所有提供韩文字幕并给予协助的各位。",
+        "ja": "韓国語字幕の提供およびご協力いただいたすべての方々に心より感謝申し上げます。"
+      }
+    }
+  ]
+}

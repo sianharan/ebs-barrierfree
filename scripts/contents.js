@@ -33,6 +33,15 @@ export const CONTENTS = {
     // content.json 이 이미 10개 언어로 존재 → translate.js 가 보존한다(재생성 안 함).
     meta: null,
   },
+  'sample-03': {
+    topic:
+      '우리 아이 첫 성교육 — 아이가 몸에 대해 바르게 배우고 성장하도록 돕는 첫 성교육의 중요성과 방법. 소아청소년과·소아청소년 정신건강의학과 전문의가 부모를 대상으로 설명하는 강의입니다.',
+    instructors: ['박소영', '손수예'],
+    videoUrl:
+      'https://ebsvod.ebs.co.kr/ebsvod/cul/2024/40049780/2m/20241021_094000_a47ed521_m20.mp4',
+    // content.json 이 이미 10개 언어로 존재 → translate.js 가 보존한다(재생성 안 함).
+    meta: null,
+  },
 };
 
 export function contentConfig(id) {
