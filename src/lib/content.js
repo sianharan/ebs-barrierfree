@@ -10,6 +10,9 @@ import content01 from '../../data/sample-01/content.json';
 import subtitles01 from '../../data/sample-01/subtitles.json';
 import vocabulary01 from '../../data/sample-01/vocabulary.json';
 import dubVi01 from '../../data/sample-01/dub-vi.json';
+import dubEn01 from '../../data/sample-01/dub-en.json';
+import dubZh01 from '../../data/sample-01/dub-zh.json';
+import dubJa01 from '../../data/sample-01/dub-ja.json';
 import content02 from '../../data/sample-02/content.json';
 import subtitles02 from '../../data/sample-02/subtitles.json';
 import vocabulary02 from '../../data/sample-02/vocabulary.json';
@@ -28,7 +31,13 @@ const REGISTRY = {
     content: content01,
     segments: segs(subtitles01),
     vocabulary: Array.isArray(vocabulary01.terms) ? vocabulary01.terms : [],
-    dubByLang: { vi: segs(dubVi01) },
+    // ⑥ 더빙 — 언어별 사전. 내 언어를 바꾸면 DetailPage 가 dubByLang[myLang] 로 해당 언어 mp3 를 재생.
+    dubByLang: {
+      vi: segs(dubVi01),
+      en: segs(dubEn01),
+      zh: segs(dubZh01),
+      ja: segs(dubJa01),
+    },
   },
   'sample-02': {
     content: content02,
