@@ -14,6 +14,8 @@ import content02 from '../../data/sample-02/content.json';
 import subtitles02 from '../../data/sample-02/subtitles.json';
 import vocabulary02 from '../../data/sample-02/vocabulary.json';
 import content03 from '../../data/sample-03/content.json';
+import subtitles03 from '../../data/sample-03/subtitles.json';
+import vocabulary03 from '../../data/sample-03/vocabulary.json';
 
 // ⑥ 더빙 음성 사전(dub-{lang}.json) — 언어별로 묶는다(데이터로 관리, AGENTS.md).
 // 새 언어 더빙은 dub-{lang}.json 을 import 해 해당 콘텐츠의 dubByLang 에 한 줄 추가하면 확장된다.
@@ -34,7 +36,12 @@ const REGISTRY = {
     vocabulary: Array.isArray(vocabulary02.terms) ? vocabulary02.terms : [],
     dubByLang: {}, // 더빙(⑥)은 아직 미생성 — 토글 숨김.
   },
-  'sample-03': { content: content03, segments: [], vocabulary: [], dubByLang: {} },
+  'sample-03': {
+    content: content03,
+    segments: segs(subtitles03),
+    vocabulary: Array.isArray(vocabulary03.terms) ? vocabulary03.terms : [],
+    dubByLang: {}, // 더빙(⑥)은 아직 미생성 — 토글 숨김.
+  },
 };
 
 // 콘텐츠 메타·자막·어휘·더빙을 묶어 반환. 없는 id 는 첫 콘텐츠로 폴백.
