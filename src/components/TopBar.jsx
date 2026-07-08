@@ -8,6 +8,7 @@
 
 import { useSettings, LANGUAGES, DISPLAY_MODES } from '../lib/settings.jsx';
 import { t } from '../lib/i18n.js';
+import SemanticSearch from './SemanticSearch.jsx';
 
 function GlobeIcon() {
   return (
@@ -29,9 +30,16 @@ export default function TopBar() {
   const { myLang, setMyLang, displayMode, setDisplayMode } = useSettings();
 
   return (
-    <header className="border-b border-ink/10 bg-white/70 backdrop-blur">
+    // sticky + z-50: backdrop-blur 가 만드는 헤더 스택 컨텍스트를 본문(영상) 위로 올려,
+    // 검색 결과 드롭다운(헤더 안 absolute)이 영상 플레이어에 가리지 않게 한다.
+    <header className="sticky top-0 z-50 border-b border-ink/10 bg-white/70 backdrop-blur">
       <div className="mx-auto flex max-w-5xl flex-wrap items-center gap-x-4 gap-y-2 px-4 py-3">
         <span className="font-title text-xl text-logo-navy">EBS 배리어프리</span>
+
+        {/* ④ 의미 검색 — 넓은 화면에선 브랜드와 컨트롤 사이에서 늘어나고, 좁은 화면에선 줄바꿈. */}
+        <div className="order-last w-full sm:order-none sm:w-auto sm:flex-1 sm:max-w-md">
+          <SemanticSearch />
+        </div>
 
         <div className="ml-auto flex flex-wrap items-center gap-3">
           {/* 번역 표시 모드 (세그먼트 토글) — 라벨은 내 언어 기준 t() */}
