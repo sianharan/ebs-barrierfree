@@ -1,0 +1,129 @@
+{
+  "id": "sample-03",
+  "type": "video",
+  "title": {
+    "ko": "3강 우리 아이 첫 성교육",
+    "en": "Lesson 3: My Child's First Sex Education",
+    "vi": "Bài 3: Giáo dục giới tính đầu tiên cho con",
+    "zh": "第3讲 孩子的第一次性教育",
+    "ja": "第3講 わが子の初めての性教育",
+    "th": "บทที่ 3 การศึกษาเรื่องเพศครั้งแรกของลูกเรา",
+    "ru": "Урок 3: Первое половое воспитание вашего ребёнка",
+    "id": "Pelajaran 3: Pendidikan Seks Pertama untuk Anak Kita",
+    "es": "Lección 3: La primera educación sexual de nuestro hijo",
+    "fr": "Leçon 3 : La première éducation sexuelle de notre enfant"
+  },
+  "instructors": [
+    {
+      "ko": "박소영",
+      "en": "Park So-young",
+      "vi": "Park So-young",
+      "zh": "朴素英",
+      "ja": "パク・ソヨン",
+      "th": "พัค โซยอง",
+      "ru": "Пак Со Ён",
+      "id": "Park So-young",
+      "es": "Park So-young",
+      "fr": "Park So-young"
+    },
+    {
+      "ko": "손수예",
+      "en": "Son Su-ye",
+      "vi": "Son Su-ye",
+      "zh": "孙秀艺",
+      "ja": "ソン・スイェ",
+      "th": "ซน ซูเย",
+      "ru": "Сон Су Йе",
+      "id": "Son Su-ye",
+      "es": "Son Su-ye",
+      "fr": "Son Su-ye"
+    }
+  ],
+  "description": {
+    "ko": "아이들이 몸에 대해 바르게 배우고 성장할 수 있는 첫 성교육의 중요성과 방법에 대해 이야기한다",
+    "en": "We discuss the importance and methods of first sex education so that children can learn correctly about their bodies and grow up healthily.",
+    "vi": "Chúng ta bàn về tầm quan trọng và phương pháp của giáo dục giới tính đầu tiên để trẻ có thể học đúng đắn về cơ thể và phát triển lành mạnh.",
+    "zh": "探讨让孩子正确认识身体并健康成长的第一次性教育的重要性与方法。",
+    "ja": "子どもが体について正しく学び健やかに成長できる、初めての性教育の大切さと方法についてお話しします。",
+    "th": "พูดคุยถึงความสำคัญและวิธีการของการศึกษาเรื่องเพศครั้งแรก เพื่อให้เด็กเรียนรู้เกี่ยวกับร่างกายอย่างถูกต้องและเติบโตได้อย่างเหมาะสม",
+    "ru": "Мы обсуждаем важность и методы первого полового воспитания, чтобы дети могли правильно узнать о своём теле и здорово расти.",
+    "id": "Kita membahas pentingnya dan cara pendidikan seks pertama agar anak dapat belajar tentang tubuh dengan benar dan tumbuh sehat.",
+    "es": "Hablamos sobre la importancia y los métodos de la primera educación sexual para que los niños aprendan correctamente sobre su cuerpo y crezcan sanos.",
+    "fr": "Nous parlons de l'importance et des méthodes de la première éducation sexuelle afin que les enfants apprennent correctement sur leur corps et grandissent sainement."
+  },
+  "hashtags": [
+    {
+      "ko": "유아",
+      "en": "early childhood",
+      "vi": "trẻ nhỏ",
+      "zh": "幼儿",
+      "ja": "幼児",
+      "th": "เด็กเล็ก",
+      "ru": "дошкольники",
+      "id": "anak usia dini",
+      "es": "primera infancia",
+      "fr": "petite enfance"
+    },
+    {
+      "ko": "성교육",
+      "en": "sex education",
+      "vi": "giáo dục giới tính",
+      "zh": "性教育",
+      "ja": "性教育",
+      "th": "การศึกษาเรื่องเพศ",
+      "ru": "половое воспитание",
+      "id": "pendidikan seks",
+      "es": "educación sexual",
+      "fr": "éducation sexuelle"
+    },
+    {
+      "ko": "신체",
+      "en": "body",
+      "vi": "cơ thể",
+      "zh": "身体",
+      "ja": "身体",
+      "th": "ร่างกาย",
+      "ru": "тело",
+      "id": "tubuh",
+      "es": "cuerpo",
+      "fr": "corps"
+    },
+    {
+      "ko": "성",
+      "en": "gender and sexuality",
+      "vi": "giới tính",
+      "zh": "性",
+      "ja": "性",
+      "th": "เพศ",
+      "ru": "пол",
+      "id": "seksualitas",
+      "es": "sexualidad",
+      "fr": "sexualité"
+    },
+    {
+      "ko": "유아교육",
+      "en": "early childhood education",
+      "vi": "giáo dục mầm non",
+      "zh": "幼儿教育",
+      "ja": "幼児教育",
+      "th": "การศึกษาปฐมวัย",
+      "ru": "дошкольное образование",
+      "id": "pendidikan anak usia dini",
+      "es": "educación infantil",
+      "fr": "éducation de la petite enfance"
+    }
+  ],
+  "videoUrl": "https://ebsvod.ebs.co.kr/ebsvod/cul/2024/40049780/2m/20241021_094000_a47ed521_m20.mp4",
+  "languages": [
+    "ko",
+    "en",
+    "vi",
+    "zh",
+    "ja",
+    "th",
+    "ru",
+    "id",
+    "es",
+    "fr"
+  ]
+}

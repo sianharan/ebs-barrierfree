@@ -1,0 +1,117 @@
+{
+  "id": "sample-02",
+  "type": "video",
+  "title": {
+    "ko": "2강 진정한 놀이란 무엇일까?",
+    "en": "Lesson 2: What Is True Play?",
+    "vi": "Bài 2: Chơi thực sự là gì?",
+    "zh": "第二讲 什么是真正的游戏？",
+    "ja": "第2講 本当の遊びとは何か？",
+    "th": "บทที่ 2 การเล่นที่แท้จริงคืออะไร?",
+    "ru": "Урок 2: Что такое настоящая игра?",
+    "id": "Pelajaran 2: Apa Itu Bermain yang Sesungguhnya?",
+    "es": "Lección 2: ¿Qué es el juego verdadero?",
+    "fr": "Leçon 2 : Qu'est-ce que le vrai jeu ?"
+  },
+  "instructors": [
+    {
+      "ko": "박소영",
+      "en": "Park So-young",
+      "vi": "Park So-young",
+      "zh": "朴昭永",
+      "ja": "パク・ソヨン",
+      "th": "พัก โซยอง",
+      "ru": "Пак Со Ён",
+      "id": "Park So-young",
+      "es": "Park So-young",
+      "fr": "Park So-young"
+    },
+    {
+      "ko": "손수예",
+      "en": "Son Su-ye",
+      "vi": "Son Su-ye",
+      "zh": "孙秀艺",
+      "ja": "ソン・スイェ",
+      "th": "ซน ซูเย",
+      "ru": "Сон Су Йе",
+      "id": "Son Su-ye",
+      "es": "Son Su-ye",
+      "fr": "Son Su-ye"
+    }
+  ],
+  "description": {
+    "ko": "아이들을 올바른 방향으로 성장시키는 진정한 놀이의 의미와 종류에 대해 이야기한다",
+    "en": "We discuss the meaning and types of true play that help children grow in the right direction.",
+    "vi": "Chúng ta cùng bàn về ý nghĩa và các loại hình chơi thực sự giúp trẻ phát triển đúng hướng.",
+    "zh": "探讨帮助孩子朝正确方向成长的真正游戏的意义与种类。",
+    "ja": "子どもを正しい方向に成長させる本当の遊びの意味と種類について語る。",
+    "th": "พูดคุยเกี่ยวกับความหมายและประเภทของการเล่นที่แท้จริงซึ่งช่วยให้เด็กเติบโตไปในทิศทางที่ถูกต้อง",
+    "ru": "Обсуждаем значение и виды настоящей игры, помогающей детям расти в правильном направлении.",
+    "id": "Membahas makna dan jenis bermain yang sesungguhnya yang membantu anak tumbuh ke arah yang benar.",
+    "es": "Hablamos sobre el significado y los tipos de juego verdadero que ayudan a los niños a crecer en la dirección correcta.",
+    "fr": "Nous discutons du sens et des types de vrai jeu qui aident les enfants à grandir dans la bonne direction."
+  },
+  "hashtags": [
+    {
+      "ko": "유아",
+      "en": "Early Childhood",
+      "vi": "Trẻ nhỏ",
+      "zh": "幼儿",
+      "ja": "幼児",
+      "th": "เด็กเล็ก",
+      "ru": "Дети раннего возраста",
+      "id": "Anak Usia Dini",
+      "es": "Primera Infancia",
+      "fr": "Petite Enfance"
+    },
+    {
+      "ko": "교육",
+      "en": "Education",
+      "vi": "Giáo dục",
+      "zh": "教育",
+      "ja": "教育",
+      "th": "การศึกษา",
+      "ru": "Образование",
+      "id": "Pendidikan",
+      "es": "Educación",
+      "fr": "Éducation"
+    },
+    {
+      "ko": "놀이",
+      "en": "Play",
+      "vi": "Chơi",
+      "zh": "游戏",
+      "ja": "遊び",
+      "th": "การเล่น",
+      "ru": "Игра",
+      "id": "Bermain",
+      "es": "Juego",
+      "fr": "Jeu"
+    },
+    {
+      "ko": "신체",
+      "en": "Body",
+      "vi": "Thể chất",
+      "zh": "身体",
+      "ja": "身体",
+      "th": "ร่างกาย",
+      "ru": "Тело",
+      "id": "Fisik",
+      "es": "Cuerpo",
+      "fr": "Corps"
+    }
+  ],
+  "videoUrl": "https://ebsvod.ebs.co.kr/ebsvod/cul/2024/40049780/2m/20241014_094000_5bd1d211_m20.mp4",
+  "languages": [
+    "ko",
+    "en",
+    "vi",
+    "zh",
+    "ja",
+    "th",
+    "ru",
+    "id",
+    "es",
+    "fr"
+  ]
+}
