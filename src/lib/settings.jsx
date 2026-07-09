@@ -16,6 +16,11 @@ export const LANGUAGES = [
   { code: 'vi', label: 'Tiếng Việt' },
   { code: 'zh', label: '中文' },
   { code: 'ja', label: '日本語' },
+  { code: 'th', label: 'ภาษาไทย' },
+  { code: 'ru', label: 'Русский' },
+  { code: 'id', label: 'Bahasa Indonesia' },
+  { code: 'es', label: 'Español' },
+  { code: 'fr', label: 'Français' },
 ];
 
 // 번역 표시 모드. 버튼 라벨은 ui-strings.json 키로(한국어 하드코딩 금지, AGENTS.md ②).

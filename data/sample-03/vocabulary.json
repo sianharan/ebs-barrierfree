@@ -8,7 +8,12 @@
         "en": "The age group from young children to teenagers.",
         "vi": "Nhóm tuổi từ trẻ nhỏ đến thanh thiếu niên.",
         "zh": "从幼儿到青少年的年龄阶段。",
-        "ja": "幼い子どもから青少年までの年齢層のことです。"
+        "ja": "幼い子どもから青少年までの年齢層のことです。",
+        "th": "หมายถึงช่วงวัยตั้งแต่เด็กเล็กจนถึงวัยรุ่น",
+        "ru": "Обозначает возрастной период от раннего детства до подросткового возраста.",
+        "id": "Merujuk pada rentang usia dari anak kecil hingga remaja.",
+        "es": "Se refiere al rango de edad desde la infancia hasta la adolescencia.",
+        "fr": "Cela désigne la tranche d'âge allant de la petite enfance à l'adolescence."
       }
     },
     {
@@ -19,7 +24,12 @@
         "en": "A doctor who is specially trained and qualified in a certain field.",
         "vi": "Bác sĩ được đào tạo chuyên sâu và có chứng chỉ trong một lĩnh vực.",
         "zh": "在特定领域受过专门训练并取得资格的医生。",
-        "ja": "特定の分野を専門的に学び資格を持つ医師です。"
+        "ja": "特定の分野を専門的に学び資格を持つ医師です。",
+        "th": "คือแพทย์ที่ศึกษาสาขาเฉพาะทางมาเป็นเวลานานและมีคุณสมบัติตามที่กำหนด",
+        "ru": "Это врач, который долго изучал определённую область медицины и имеет соответствующую квалификацию.",
+        "id": "Adalah dokter yang telah lama mempelajari bidang tertentu dan memiliki kualifikasi khusus.",
+        "es": "Es un médico que ha estudiado durante mucho tiempo un campo específico y posee la cualificación correspondiente.",
+        "fr": "C'est un médecin qui a étudié longtemps un domaine spécifique et possède les qualifications requises."
       }
     },
     {
@@ -30,7 +40,12 @@
         "en": "A medical department that examines and treats mental and emotional health.",
         "vi": "Khoa y tế khám và điều trị sức khỏe tâm thần và tinh thần.",
         "zh": "诊治心理和精神健康的医学科室。",
-        "ja": "心と精神の健康を診療し治療する診療科です。"
+        "ja": "心と精神の健康を診療し治療する診療科です。",
+        "th": "คือแผนกในโรงพยาบาลที่ตรวจและรักษาสุขภาพจิตใจ",
+        "ru": "Это отделение больницы, которое занимается диагностикой и лечением психического здоровья.",
+        "id": "Adalah departemen rumah sakit yang memeriksa dan merawat kesehatan mental dan jiwa.",
+        "es": "Es el departamento del hospital que examina y trata la salud mental.",
+        "fr": "C'est le service hospitalier qui examine et traite la santé mentale."
       }
     },
     {
@@ -41,7 +56,12 @@
         "en": "The desire to explore and understand things deeply.",
         "vi": "Lòng ham muốn tìm tòi, khám phá điều mình thắc mắc.",
         "zh": "想深入探索和研究事物的心。",
-        "ja": "気になることを深く調べたいと思う気持ちです。"
+        "ja": "気になることを深く調べたいと思う気持ちです。",
+        "th": "คือความรู้สึกอยากค้นคว้าและทำความเข้าใจสิ่งที่สงสัยอย่างลึกซึ้ง",
+        "ru": "Это желание глубоко изучать и понимать то, что вызывает интерес.",
+        "id": "Adalah keinginan untuk menyelidiki dan memahami sesuatu yang membuat penasaran secara mendalam.",
+        "es": "Es el deseo de investigar y comprender profundamente algo que causa curiosidad.",
+        "fr": "C'est le désir d'explorer et de comprendre en profondeur ce qui suscite la curiosité."
       }
     },
     {
@@ -52,7 +72,12 @@
         "en": "The desire to know or learn about new things.",
         "vi": "Sự tò mò, mong muốn tìm hiểu điều mới.",
         "zh": "想了解新事物的心情，即好奇心。",
-        "ja": "新しいことを知りたいと思う気持ちです。"
+        "ja": "新しいことを知りたいと思う気持ちです。",
+        "th": "คือความรู้สึกอยากรู้อยากเห็นสิ่งใหม่ ๆ",
+        "ru": "Это желание узнавать что-то новое.",
+        "id": "Adalah keinginan untuk mengetahui hal-hal baru.",
+        "es": "Es el deseo de conocer cosas nuevas.",
+        "fr": "C'est le désir de découvrir de nouvelles choses."
       }
     },
     {
@@ -63,7 +88,12 @@
         "en": "A person's body.",
         "vi": "Cơ thể của con người.",
         "zh": "人的身体。",
-        "ja": "人の体のことです。"
+        "ja": "人の体のことです。",
+        "th": "หมายถึงร่างกายของคน",
+        "ru": "Означает тело человека.",
+        "id": "Merujuk pada tubuh manusia.",
+        "es": "Se refiere al cuerpo de una persona.",
+        "fr": "Cela désigne le corps d'une personne."
       }
     },
     {
@@ -74,7 +104,12 @@
         "en": "Friends of a similar age.",
         "vi": "Những người bạn cùng độ tuổi.",
         "zh": "年龄相仿的同龄人。",
-        "ja": "年齢が近い友だちのことです。"
+        "ja": "年齢が近い友だちのことです。",
+        "th": "หมายถึงเพื่อนที่มีอายุใกล้เคียงกัน",
+        "ru": "Означает друзей одного возраста.",
+        "id": "Merujuk pada teman-teman yang seusia.",
+        "es": "Se refiere a amigos de edad similar.",
+        "fr": "Cela désigne des amis du même âge."
       }
     },
     {
@@ -85,7 +120,12 @@
         "en": "The process of the body and mind growing and developing.",
         "vi": "Quá trình cơ thể và tâm trí lớn lên và phát triển.",
         "zh": "身体和心智成长发展的过程。",
-        "ja": "体と心が育ち発達していく過程です。"
+        "ja": "体と心が育ち発達していく過程です。",
+        "th": "คือกระบวนการที่ร่างกายและจิตใจเติบโตและพัฒนาขึ้น",
+        "ru": "Это процесс роста и развития тела и разума.",
+        "id": "Adalah proses tumbuh dan berkembangnya tubuh dan pikiran.",
+        "es": "Es el proceso mediante el cual el cuerpo y la mente crecen y se desarrollan.",
+        "fr": "C'est le processus par lequel le corps et l'esprit grandissent et se développent."
       }
     },
     {
@@ -96,7 +136,12 @@
         "en": "The growth of the ability to think and understand.",
         "vi": "Sự phát triển của khả năng suy nghĩ và hiểu biết.",
         "zh": "思考和理解能力的成长发展。",
-        "ja": "考えたり理解したりする能力が育つことです。"
+        "ja": "考えたり理解したりする能力が育つことです。",
+        "th": "คือการที่ความสามารถในการคิดและเข้าใจเติบโตขึ้น",
+        "ru": "Это развитие способности мыслить и понимать.",
+        "id": "Adalah berkembangnya kemampuan berpikir dan memahami.",
+        "es": "Es el desarrollo de la capacidad de pensar y comprender.",
+        "fr": "C'est le développement de la capacité à penser et à comprendre."
       }
     },
     {
@@ -107,7 +152,12 @@
         "en": "Education that teaches correctly about the body and sexuality.",
         "vi": "Giáo dục dạy đúng đắn về cơ thể và giới tính.",
         "zh": "正确讲解身体和性知识的教育。",
-        "ja": "体や性について正しく教える教育です。"
+        "ja": "体や性について正しく教える教育です。",
+        "th": "คือการศึกษาที่ให้ความรู้ที่ถูกต้องเกี่ยวกับร่างกายและเรื่องเพศ",
+        "ru": "Это образование, которое правильно рассказывает о теле и сексуальности.",
+        "id": "Adalah pendidikan yang memberikan pengetahuan yang benar tentang tubuh dan seksualitas.",
+        "es": "Es la educación que enseña correctamente sobre el cuerpo y la sexualidad.",
+        "fr": "C'est l'éducation qui enseigne correctement le corps et la sexualité."
       }
     },
     {
@@ -118,7 +168,12 @@
         "en": "Something that must be done as a requirement.",
         "vi": "Điều bắt buộc phải làm.",
         "zh": "必须要做的、有义务的。",
-        "ja": "必ずしなければならないことです。"
+        "ja": "必ずしなければならないことです。",
+        "th": "หมายถึงสิ่งที่จำเป็นต้องทำ",
+        "ru": "Означает то, что обязательно нужно сделать.",
+        "id": "Merujuk pada sesuatu yang wajib dilakukan.",
+        "es": "Se refiere a algo que se debe hacer obligatoriamente.",
+        "fr": "Cela désigne quelque chose qu'il faut absolument faire."
       }
     },
     {
@@ -129,7 +184,12 @@
         "en": "One's standards for judging what is right and important.",
         "vi": "Quan niệm, tiêu chuẩn để đánh giá điều gì đúng và quan trọng.",
         "zh": "判断什么是对的、重要的的思想标准，即价值观。",
-        "ja": "何が正しく大切かを判断する考えの基準です。"
+        "ja": "何が正しく大切かを判断する考えの基準です。",
+        "th": "คือเกณฑ์ความคิดที่ใช้ตัดสินว่าอะไรถูกต้องและสำคัญ",
+        "ru": "Это система взглядов, определяющая, что правильно и важно.",
+        "id": "Adalah standar pemikiran untuk menilai apa yang benar dan penting.",
+        "es": "Es el criterio de pensamiento para juzgar qué es correcto e importante.",
+        "fr": "C'est le critère de pensée permettant de juger ce qui est juste et important."
       }
     },
     {
@@ -140,7 +200,12 @@
         "en": "The early childhood stage, roughly from ages two or three to about six, after being a baby.",
         "vi": "Giai đoạn tuổi ấu thơ, khoảng từ hai, ba tuổi đến sáu tuổi, sau khi không còn là em bé.",
         "zh": "幼儿期，大约从两三岁到六岁左右的年幼阶段。",
-        "ja": "赤ちゃんを過ぎたおよそ2〜3歳から6歳ごろまでの幼い時期です。"
+        "ja": "赤ちゃんを過ぎたおよそ2〜3歳から6歳ごろまでの幼い時期です。",
+        "th": "คือช่วงวัยเด็กเล็กหลังพ้นวัยทารก ก่อนเข้าสู่วัยเด็กโต ประมาณอายุสองถึงสามขวบจนถึงหกขวบ",
+        "ru": "Это ранний детский возраст после младенчества и до старшего детского возраста, примерно с двух-трёх до шести лет.",
+        "id": "Adalah masa kanak-kanak setelah masa bayi dan sebelum menjadi anak-anak, kira-kira dari usia dua-tiga tahun hingga enam tahun.",
+        "es": "Es la etapa de la primera infancia después de ser bebé y antes de ser niño, aproximadamente entre los dos o tres años y los seis años.",
+        "fr": "C'est la petite enfance après la période de bébé et avant de devenir enfant, environ de deux-trois ans à six ans."
       }
     },
     {
@@ -151,7 +216,12 @@
         "en": "The six basic questions—who, when, where, what, how, why—used to explain something fully.",
         "vi": "Sáu yếu tố cơ bản: ai, khi nào, ở đâu, cái gì, thế nào, tại sao, dùng để trình bày đầy đủ.",
         "zh": "用“谁、何时、何地、何事、如何、为何”六个方面来完整说明事情的方法。",
-        "ja": "だれが・いつ・どこで・なにを・どのように・なぜ、の六つで内容を整理する方法です。"
+        "ja": "だれが・いつ・どこで・なにを・どのように・なぜ、の六つで内容を整理する方法です。",
+        "th": "คือวิธีสรุปเนื้อหาให้ครบถ้วนด้วยหกข้อ ได้แก่ ใคร เมื่อไหร่ ที่ไหน อะไร อย่างไร และทำไม",
+        "ru": "Это способ полностью изложить содержание с помощью шести вопросов: кто, когда, где, что, как и почему.",
+        "id": "Adalah cara merangkum isi secara lengkap dengan enam unsur, yaitu siapa, kapan, di mana, apa, bagaimana, dan mengapa.",
+        "es": "Es un método para resumir el contenido de manera completa usando seis elementos: quién, cuándo, dónde, qué, cómo y por qué.",
+        "fr": "C'est une méthode pour résumer entièrement le contenu à l'aide de six éléments : qui, quand, où, quoi, comment et pourquoi."
       }
     },
     {
@@ -162,7 +232,12 @@
         "en": "The suitable or right age for doing something.",
         "vi": "Độ tuổi phù hợp, thích hợp để làm một việc gì đó.",
         "zh": "做某件事最合适的年龄。",
-        "ja": "あることをするのにちょうどよい年齢のことです。"
+        "ja": "あることをするのにちょうどよい年齢のことです。",
+        "th": "หมายถึงอายุที่เหมาะสมสำหรับการทำสิ่งใดสิ่งหนึ่ง",
+        "ru": "Означает подходящий возраст для выполнения чего-либо.",
+        "id": "Merujuk pada usia yang tepat untuk melakukan sesuatu.",
+        "es": "Se refiere a la edad adecuada para hacer algo.",
+        "fr": "Cela désigne l'âge approprié pour faire quelque chose."
       }
     },
     {
@@ -173,7 +248,12 @@
         "en": "The private body parts that differ between males and females, used for urinating and reproduction.",
         "vi": "Bộ phận sinh dục, phần cơ thể khác nhau ở nam và nữ, liên quan đến tiểu tiện và sinh con.",
         "zh": "男女身体上不同的、与排尿和生育有关的私密部位。",
-        "ja": "男女で異なる、排尿や子どもをつくることに関わる体の部分（性器）です。"
+        "ja": "男女で異なる、排尿や子どもをつくることに関わる体の部分（性器）です。",
+        "th": "คืออวัยวะในร่างกายของชายและหญิงที่แตกต่างกัน เกี่ยวข้องกับการปัสสาวะและการมีบุตร",
+        "ru": "Это части тела мужчины и женщины, которые различаются между собой и связаны с мочеиспусканием и деторождением.",
+        "id": "Adalah bagian tubuh laki-laki dan perempuan yang berbeda satu sama lain, terkait dengan buang air kecil dan proses membuat bayi.",
+        "es": "Son las partes del cuerpo del hombre y la mujer que son diferentes entre sí, relacionadas con orinar y con la concepción de un bebé.",
+        "fr": "Ce sont les parties du corps de l'homme et de la femme, différentes l'une de l'autre, liées à la miction et à la conception d'un bébé."
       }
     },
     {
@@ -184,7 +264,12 @@
         "en": "The gradual growth of a child's ability to understand and use language.",
         "vi": "Sự phát triển dần dần khả năng hiểu và nói của trẻ.",
         "zh": "孩子理解语言和自己说话的能力逐渐成长的过程。",
-        "ja": "子どもが言葉を理解し、自分で話す力が少しずつ育つことです。"
+        "ja": "子どもが言葉を理解し、自分で話す力が少しずつ育つことです。",
+        "th": "คือความสามารถในการฟังเข้าใจและพูดได้ด้วยตัวเองของเด็กที่ค่อย ๆ เติบโตขึ้น",
+        "ru": "Это постепенный рост способности ребёнка понимать речь и говорить самостоятельно.",
+        "id": "Adalah berkembangnya kemampuan anak untuk memahami dan berbicara sendiri secara bertahap.",
+        "es": "Es el crecimiento gradual de la capacidad del niño para entender el habla y hablar por sí mismo.",
+        "fr": "C'est la croissance progressive de la capacité de l'enfant à comprendre et à parler par lui-même."
       }
     },
     {
@@ -195,7 +280,12 @@
         "en": "The feelings sensed by the body, such as touch, pain, heat, or cold.",
         "vi": "Cảm giác cơ thể như xúc giác, đau, nóng, lạnh mà cơ thể cảm nhận được.",
         "zh": "身体感受到的触觉、疼痛、冷热等感觉。",
-        "ja": "体で感じる触れる感覚や痛み、熱さ・冷たさなどの感覚です。"
+        "ja": "体で感じる触れる感覚や痛み、熱さ・冷たさなどの感覚です。",
+        "th": "หมายถึงความรู้สึกทางร่างกาย เช่น สัมผัส ความเจ็บปวด ความร้อนและความเย็น",
+        "ru": "Означает телесные ощущения, такие как прикосновение, боль, тепло и холод.",
+        "id": "Merujuk pada sensasi tubuh seperti sentuhan, rasa sakit, panas, dan dingin.",
+        "es": "Se refiere a las sensaciones corporales como el tacto, el dolor, el calor y el frío.",
+        "fr": "Cela désigne les sensations corporelles telles que le toucher, la douleur, le chaud et le froid."
       }
     },
     {
@@ -206,7 +296,12 @@
         "en": "Teaching a child to stop using diapers and use the toilet by themselves.",
         "vi": "Việc dạy trẻ bỏ tã và tự đi vệ sinh trong nhà vệ sinh.",
         "zh": "教孩子脱离尿布，自己去厕所大小便的训练。",
-        "ja": "子どもがおむつを外し、自分でトイレで排便・排尿できるように教えることです。"
+        "ja": "子どもがおむつを外し、自分でトイレで排便・排尿できるように教えることです。",
+        "th": "คือการสอนให้เด็กเลิกใช้ผ้าอ้อมและขับถ่ายเองในห้องน้ำ",
+        "ru": "Это обучение ребёнка отказу от подгузников и самостоятельному пользованию туалетом.",
+        "id": "Adalah mengajari anak untuk lepas dari popok dan buang air besar/kecil sendiri di toilet.",
+        "es": "Es enseñar al niño a dejar los pañales y hacer sus necesidades por sí mismo en el baño.",
+        "fr": "C'est apprendre à l'enfant à se passer de couches et à faire ses besoins seul aux toilettes."
       }
     },
     {
@@ -217,7 +312,12 @@
         "en": "Being sensitive, reacting easily even to small stimulation.",
         "vi": "Nhạy cảm, dễ cảm nhận hoặc phản ứng ngay cả với kích thích nhỏ.",
         "zh": "敏感，对很小的刺激也容易感觉到或做出反应。",
-        "ja": "わずかな刺激にも敏感に感じたり反応したりすることです。"
+        "ja": "わずかな刺激にも敏感に感じたり反応したりすることです。",
+        "th": "คือการรู้สึกหรือตอบสนองต่อสิ่งเร้าเล็กน้อยได้ง่าย",
+        "ru": "Означает лёгкую восприимчивость или реакцию даже на небольшие раздражители.",
+        "id": "Adalah mudah merasakan atau bereaksi terhadap rangsangan sekecil apa pun.",
+        "es": "Es sentir o reaccionar fácilmente incluso ante estímulos pequeños.",
+        "fr": "C'est ressentir ou réagir facilement même à de petits stimuli."
       }
     },
     {
@@ -228,7 +328,12 @@
         "en": "A word referring to both feces (poop) and urine (pee).",
         "vi": "Từ chỉ chung cả phân (đại tiện) và nước tiểu (tiểu tiện).",
         "zh": "大便和小便的合称。",
-        "ja": "大便（うんち）と小便（おしっこ）をまとめて言う言葉です。"
+        "ja": "大便（うんち）と小便（おしっこ）をまとめて言う言葉です。",
+        "th": "อุจจาระ(똥)และปัสสาวะ(ฉี่)เรียกรวมกัน",
+        "ru": "Слово, обозначающее вместе кал (какашки) и мочу (мочу).",
+        "id": "Sebutan untuk BAB (kotoran) dan BAK (air kencing) secara bersamaan.",
+        "es": "Es la palabra que se usa para referirse juntos a las heces (caca) y la orina (pipí).",
+        "fr": "C'est le mot qui désigne ensemble les selles (caca) et l'urine (pipi)."
       }
     },
     {
@@ -239,7 +344,12 @@
         "en": "Something done naturally without having to learn it.",
         "vi": "Tính chất tự nhiên làm mà không cần học, theo bản năng.",
         "zh": "不用学习就自然而然会做出的、出于本能的。",
-        "ja": "教わらなくても自然にそうしてしまう、本能によるものです。"
+        "ja": "教わらなくても自然にそうしてしまう、本能によるものです。",
+        "th": "หมายถึงลักษณะที่ทำได้เองโดยไม่ต้องเรียนรู้",
+        "ru": "Это качество, которое проявляется само собой, без обучения.",
+        "id": "Sifat yang membuat seseorang melakukan sesuatu secara alami tanpa perlu belajar.",
+        "es": "Es la cualidad de hacer algo de forma natural sin necesidad de aprenderlo.",
+        "fr": "C'est la qualité de faire quelque chose naturellement sans avoir besoin de l'apprendre."
       }
     },
     {
@@ -250,7 +360,12 @@
         "en": "The urge to explore and find out about unknown things.",
         "vi": "Tinh thần muốn khám phá và tìm hiểu những điều chưa biết.",
         "zh": "想去探索、弄清未知事物的心情。",
-        "ja": "知らないことを探して調べ、知ろうとする気持ちです。"
+        "ja": "知らないことを探して調べ、知ろうとする気持ちです。",
+        "th": "ใจที่อยากค้นหาและเรียนรู้สิ่งที่ยังไม่รู้",
+        "ru": "Это желание искать и узнавать то, чего ты ещё не знаешь.",
+        "id": "Perasaan ingin mencari tahu dan menemukan hal-hal yang belum diketahui.",
+        "es": "Es el deseo de buscar y descubrir cosas que no se conocen.",
+        "fr": "C'est l'envie de chercher et de découvrir ce qu'on ne connaît pas encore."
       }
     },
     {
@@ -261,7 +376,12 @@
         "en": "A desire or wish to do or have something.",
         "vi": "Mong muốn, nhu cầu muốn làm hoặc muốn có điều gì đó.",
         "zh": "想做某事或想拥有某物的心愿、需求。",
-        "ja": "何かをしたい、あるいは欲しいと思う気持ち（欲求）です。"
+        "ja": "何かをしたい、あるいは欲しいと思う気持ち（欲求）です。",
+        "th": "ความรู้สึกอยากทำหรืออยากมีสิ่งใดสิ่งหนึ่ง",
+        "ru": "Это желание что-то сделать или что-то получить.",
+        "id": "Perasaan ingin melakukan atau memiliki sesuatu.",
+        "es": "Es el deseo de hacer o tener algo.",
+        "fr": "C'est l'envie de faire ou d'avoir quelque chose."
       }
     },
     {
@@ -272,7 +392,12 @@
         "en": "Relating to feelings or emotions.",
         "vi": "Liên quan đến tâm trạng hoặc cảm xúc.",
         "zh": "与内心或情感相关的。",
-        "ja": "心や感情に関わることを指します。"
+        "ja": "心や感情に関わることを指します。",
+        "th": "หมายถึงสิ่งที่เกี่ยวข้องกับจิตใจหรืออารมณ์",
+        "ru": "Означает нечто, связанное с чувствами или эмоциями.",
+        "id": "Berkaitan dengan hati atau perasaan.",
+        "es": "Se refiere a algo relacionado con el corazón o las emociones.",
+        "fr": "Cela signifie quelque chose lié au cœur ou aux émotions."
       }
     },
     {
@@ -283,7 +408,12 @@
         "en": "Something that causes no harm or damage.",
         "vi": "Không gây hại hay tổn thương gì.",
         "zh": "没有害处、无害的状态。",
-        "ja": "害がなく、悪くない状態のことです。"
+        "ja": "害がなく、悪くない状態のことです。",
+        "th": "หมายถึงสภาพที่ไม่มีอันตรายหรือไม่มีสิ่งที่ไม่ดี",
+        "ru": "Это состояние, при котором нет ничего вредного или плохого.",
+        "id": "Keadaan tanpa sesuatu yang berbahaya atau buruk.",
+        "es": "Es un estado sin nada dañino o malo.",
+        "fr": "C'est un état sans rien de nocif ou de mauvais."
       }
     },
     {
@@ -294,7 +424,12 @@
         "en": "Being exposed to media like TV, the internet, or videos.",
         "vi": "Việc thường xuyên tiếp xúc với truyền hình, internet, video và các phương tiện khác.",
         "zh": "经常接触电视、网络、视频等媒体。",
-        "ja": "テレビやインターネット、動画などのメディアに触れることです。"
+        "ja": "テレビやインターネット、動画などのメディアに触れることです。",
+        "th": "การได้สัมผัสกับสื่อ เช่น โทรทัศน์ อินเทอร์เน็ต หรือวิดีโอบ่อยๆ",
+        "ru": "Это частое соприкосновение с такими средствами, как телевизор, интернет или видео.",
+        "id": "Sering terpapar media seperti televisi, internet, atau video.",
+        "es": "Es estar en contacto frecuente con medios como la televisión, internet o los videos.",
+        "fr": "C'est être fréquemment en contact avec des médias comme la télévision, internet ou les vidéos."
       }
     },
     {
@@ -305,7 +440,12 @@
         "en": "The name used to call something.",
         "vi": "Tên gọi dùng để chỉ một vật hay bộ phận nào đó.",
         "zh": "称呼某个事物的名字。",
-        "ja": "あるものを呼ぶときの名前のことです。"
+        "ja": "あるものを呼ぶときの名前のことです。",
+        "th": "ชื่อที่ใช้เรียกสิ่งใดสิ่งหนึ่ง",
+        "ru": "Это имя, которым что-то называют.",
+        "id": "Nama yang digunakan untuk menyebut sesuatu.",
+        "es": "Es el nombre que se usa para llamar a algo.",
+        "fr": "C'est le nom qu'on utilise pour appeler quelque chose."
       }
     },
     {
@@ -316,7 +456,12 @@
         "en": "The penis, a genital part of a boy's body.",
         "vi": "Dương vật, bộ phận sinh dục của bé trai.",
         "zh": "男孩身上的生殖器部位（阴茎）。",
-        "ja": "男の子の体にある生殖器の部分（陰茎）です。"
+        "ja": "男の子の体にある生殖器の部分（陰茎）です。",
+        "th": "อวัยวะเพศส่วนหนึ่งในร่างกายของเด็กผู้ชาย",
+        "ru": "Это часть половых органов на теле мальчика.",
+        "id": "Bagian alat kelamin yang ada pada tubuh anak laki-laki.",
+        "es": "Es la parte de los genitales que tienen los niños.",
+        "fr": "C'est la partie des organes génitaux présente sur le corps des garçons."
       }
     },
     {
@@ -327,7 +472,12 @@
         "en": "The pouch of skin that holds the testicles in a boy's body.",
         "vi": "Túi da bao bọc tinh hoàn trong cơ thể bé trai.",
         "zh": "男孩身上包裹睾丸的袋状部位（阴囊）。",
-        "ja": "男の子の体で睾丸を包んでいる袋状の部分です。"
+        "ja": "男の子の体で睾丸を包んでいる袋状の部分です。",
+        "th": "ถุงที่ห่อหุ้มลูกอัณฑะในร่างกายของเด็กผู้ชาย",
+        "ru": "Это мешочек в теле мальчика, который окружает яички.",
+        "id": "Bagian berbentuk kantong pada tubuh anak laki-laki yang membungkus testis.",
+        "es": "Es la parte en forma de bolsa en el cuerpo de los niños que envuelve los testículos.",
+        "fr": "C'est la partie en forme de poche sur le corps des garçons qui enveloppe les testicules."
       }
     },
     {
@@ -338,7 +488,12 @@
         "en": "The labia, folds of skin around the outer genitals of a girl.",
         "vi": "Môi âm hộ, phần da bao quanh bộ phận sinh dục ngoài của bé gái.",
         "zh": "女孩生殖器外部周围的皮肤部位（阴唇）。",
-        "ja": "女の子の生殖器の外側を包む肉の部分（陰唇）です。"
+        "ja": "女の子の生殖器の外側を包む肉の部分（陰唇）です。",
+        "th": "ส่วนของเนื้อที่ห่อหุ้มด้านนอกอวัยวะเพศของเด็กผู้หญิง",
+        "ru": "Это часть тела, окружающая наружные половые органы девочки.",
+        "id": "Bagian kulit yang membungkus bagian luar alat kelamin anak perempuan.",
+        "es": "Es la parte de piel que envuelve la parte externa de los genitales de las niñas.",
+        "fr": "C'est la partie de peau qui enveloppe la partie externe des organes génitaux des filles."
       }
     },
     {
@@ -349,7 +504,12 @@
         "en": "The genital parts that can be seen on the outside of the body.",
         "vi": "Bộ phận sinh dục nhìn thấy được bên ngoài cơ thể.",
         "zh": "身体外部可见的生殖器部位（外生殖器）。",
-        "ja": "体の外側から見える生殖器の部分です。"
+        "ja": "体の外側から見える生殖器の部分です。",
+        "th": "อวัยวะเพศส่วนที่มองเห็นได้จากภายนอกร่างกาย",
+        "ru": "Это часть половых органов, которую видно снаружи тела.",
+        "id": "Bagian alat kelamin yang terlihat dari luar tubuh.",
+        "es": "Es la parte de los genitales que se ve desde fuera del cuerpo.",
+        "fr": "C'est la partie des organes génitaux visible à l'extérieur du corps."
       }
     },
     {
@@ -360,7 +520,12 @@
         "en": "When a baby forms and grows inside the mother's body.",
         "vi": "Việc em bé hình thành và lớn lên trong cơ thể mẹ.",
         "zh": "妈妈体内有了宝宝并孕育成长（怀孕）。",
-        "ja": "お母さんの体の中に赤ちゃんができて育つことです。"
+        "ja": "お母さんの体の中に赤ちゃんができて育つことです。",
+        "th": "การที่ทารกเกิดขึ้นและเติบโตในร่างกายของแม่",
+        "ru": "Это когда в теле мамы появляется и растёт малыш.",
+        "id": "Keadaan saat bayi tumbuh di dalam tubuh ibu.",
+        "es": "Es cuando un bebé se forma y crece dentro del cuerpo de la mamá.",
+        "fr": "C'est quand un bébé se forme et grandit dans le corps de la maman."
       }
     },
     {
@@ -371,7 +536,12 @@
         "en": "When a mother gives birth to a baby.",
         "vi": "Việc người mẹ sinh em bé.",
         "zh": "妈妈生下宝宝（分娩）。",
-        "ja": "お母さんが赤ちゃんを産むことです。"
+        "ja": "お母さんが赤ちゃんを産むことです。",
+        "th": "การที่แม่คลอดลูกออกมา",
+        "ru": "Это когда мама рожает ребёнка.",
+        "id": "Proses ibu melahirkan bayi.",
+        "es": "Es cuando la mamá da a luz al bebé.",
+        "fr": "C'est quand la maman accouche du bébé."
       }
     },
     {
@@ -382,7 +552,12 @@
         "en": "When a new life first begins inside the mother's body.",
         "vi": "Việc một sinh mệnh mới bắt đầu hình thành trong cơ thể mẹ.",
         "zh": "新的生命在妈妈体内开始形成（受孕）。",
-        "ja": "お母さんの体の中に新しい命が初めて宿ることです。"
+        "ja": "お母さんの体の中に新しい命が初めて宿ることです。",
+        "th": "การเริ่มมีชีวิตใหม่เกิดขึ้นในร่างกายของแม่เป็นครั้งแรก",
+        "ru": "Это момент, когда в теле мамы впервые зарождается новая жизнь.",
+        "id": "Awal mula terbentuknya kehidupan baru di dalam tubuh ibu.",
+        "es": "Es el momento en que una nueva vida comienza por primera vez dentro del cuerpo de la mamá.",
+        "fr": "C'est le moment où une nouvelle vie commence pour la première fois dans le corps de la maman."
       }
     },
     {
@@ -393,7 +568,12 @@
         "en": "A feeling of valuing and treating something as precious.",
         "vi": "Cảm giác trân trọng và coi trọng điều gì đó.",
         "zh": "珍视并尊重某事物的心情（尊重感）。",
-        "ja": "大切に思い、尊く扱おうとする気持ちのことです。"
+        "ja": "大切に思い、尊く扱おうとする気持ちのことです。",
+        "th": "ความรู้สึกที่ให้ความสำคัญและปฏิบัติต่อสิ่งนั้นอย่างมีคุณค่า",
+        "ru": "Это чувство, когда ты ценишь и относишься к чему-то бережно.",
+        "id": "Perasaan menghargai dan memperlakukan sesuatu dengan berharga.",
+        "es": "Es el sentimiento de valorar y tratar algo con aprecio.",
+        "fr": "C'est le sentiment de valoriser et de traiter quelque chose avec estime."
       }
     },
     {
@@ -404,7 +584,12 @@
         "en": "A line between my body and another person's body that should not be crossed carelessly; a rule that protects both myself and others.",
         "vi": "Ranh giới giữa cơ thể của tôi và của người khác mà không được tùy tiện vượt qua; quy tắc bảo vệ cả bản thân và người khác.",
         "zh": "我的身体和别人身体之间不能随意越过的界线，是保护自己和他人的规则。",
-        "ja": "自分の体と他人の体の間の、勝手に越えてはいけない線のこと。自分と他人を守るルールです。"
+        "ja": "自分の体と他人の体の間の、勝手に越えてはいけない線のこと。自分と他人を守るルールです。",
+        "th": "เส้นที่ไม่ควรล่วงล้ำระหว่างร่างกายของฉันกับร่างกายของคนอื่น เป็นกฎที่ปกป้องทั้งตัวฉันและคนอื่น",
+        "ru": "Это граница между моим телом и телом другого человека, которую нельзя переступать без разрешения. Это правило, защищающее меня и других.",
+        "id": "Garis antara tubuhku dan tubuh orang lain yang tidak boleh dilewati sembarangan. Ini aturan untuk melindungi diriku dan orang lain.",
+        "es": "Es la línea entre mi cuerpo y el cuerpo de otra persona que no se debe cruzar sin permiso. Es una regla que nos protege a mí y a los demás.",
+        "fr": "C'est la ligne entre mon corps et le corps d'une autre personne qu'on ne doit pas franchir sans permission. C'est une règle qui me protège ainsi que les autres."
       }
     },
     {
@@ -415,7 +600,12 @@
         "en": "The right to decide for oneself about matters concerning one's own body, such as who may touch or approach you.",
         "vi": "Quyền tự quyết định những việc liên quan đến cơ thể mình, như ai được chạm hay đến gần mình.",
         "zh": "自己决定与自己身体有关事情的权利，比如谁可以触碰或靠近自己。",
-        "ja": "自分の体に関することを自分で決められる権利のこと。誰が触れたり近づいたりするかを自分で決められます。"
+        "ja": "自分の体に関することを自分で決められる権利のこと。誰が触れたり近づいたりするかを自分で決められます。",
+        "th": "สิทธิที่จะตัดสินใจเรื่องเกี่ยวกับร่างกายของตัวเองได้ด้วยตัวเอง ฉันสามารถตัดสินใจได้ว่าจะให้ใครสัมผัสหรือเข้าใกล้ตัวฉันหรือไม่",
+        "ru": "Это право самостоятельно решать вопросы, касающиеся своего тела. Я сам могу решать, разрешать ли кому-то прикасаться ко мне или подходить ко мне.",
+        "id": "Hak untuk menentukan sendiri hal-hal yang berkaitan dengan tubuhku. Aku bisa memutuskan sendiri apakah seseorang boleh menyentuh atau mendekatiku.",
+        "es": "Es el derecho a decidir por mí mismo sobre las cosas relacionadas con mi cuerpo. Yo puedo decidir si alguien me toca o se acerca a mí.",
+        "fr": "C'est le droit de décider soi-même des choses concernant son propre corps. Je peux décider moi-même si quelqu'un peut me toucher ou s'approcher de moi."
       }
     },
     {
@@ -426,7 +616,12 @@
         "en": "When the other person agrees or gives permission to do something; you must ask for it before touching someone's body.",
         "vi": "Việc người kia đồng ý hoặc cho phép làm điều gì đó; phải hỏi và nhận được trước khi chạm vào cơ thể người khác.",
         "zh": "对方同意或允许做某件事，在触碰别人身体前一定要先询问并得到同意。",
-        "ja": "相手が何かをしてよいと許可すること。体に触れる前に必ず尋ねて得る必要があります。"
+        "ja": "相手が何かをしてよいと許可すること。体に触れる前に必ず尋ねて得る必要があります。",
+        "th": "การที่อีกฝ่ายอนุญาตว่าสามารถทำสิ่งนั้นได้ ต้องถามและได้รับอนุญาตก่อนที่จะสัมผัสร่างกาย",
+        "ru": "Это когда другой человек разрешает что-то сделать. Перед тем как прикоснуться к телу, обязательно нужно спросить и получить разрешение.",
+        "id": "Persetujuan dari orang lain bahwa sesuatu boleh dilakukan. Sebelum menyentuh tubuh seseorang, kita harus bertanya dan mendapatkan izin.",
+        "es": "Es cuando la otra persona permite que se haga algo. Antes de tocar el cuerpo de alguien, siempre hay que preguntar y obtener su permiso.",
+        "fr": "C'est quand l'autre personne autorise qu'on fasse quelque chose. Avant de toucher le corps de quelqu'un, il faut toujours demander et obtenir sa permission."
       }
     },
     {
@@ -437,7 +632,12 @@
         "en": "The ability to get along and interact well with other people.",
         "vi": "Khả năng hòa đồng và giao tiếp tốt với người khác.",
         "zh": "与他人相处融洽、良好交往的能力。",
-        "ja": "他の人と仲良くうまく付き合う能力のこと。"
+        "ja": "他の人と仲良くうまく付き合う能力のこと。",
+        "th": "ความสามารถในการเข้ากับผู้อื่นและอยู่ร่วมกันอย่างเป็นมิตร",
+        "ru": "Это способность хорошо ладить с другими людьми и дружно с ними жить.",
+        "id": "Kemampuan untuk berbaur dan akur dengan orang lain.",
+        "es": "Es la capacidad de llevarse bien con los demás y convivir amistosamente.",
+        "fr": "C'est la capacité à bien s'entendre avec les autres et à vivre en bonne harmonie avec eux."
       }
     }
   ]

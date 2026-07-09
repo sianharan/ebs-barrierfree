@@ -8,7 +8,12 @@
         "en": "A medical department that treats and cares for the health of children and teenagers.",
         "vi": "Khoa y tế khám và chăm sóc sức khỏe cho trẻ em và thanh thiếu niên.",
         "zh": "专门为儿童和青少年看病、照顾健康的医疗科室。",
-        "ja": "子どもや青少年の病気を診て健康をみる病院の診療科です。"
+        "ja": "子どもや青少年の病気を診て健康をみる病院の診療科です。",
+        "th": "เป็นแผนกโรงพยาบาลที่ตรวจรักษาโรคและดูแลสุขภาพของเด็กและวัยรุ่น",
+        "ru": "Отделение больницы, которое лечит болезни и заботится о здоровье детей и подростков.",
+        "id": "Departemen rumah sakit yang memeriksa dan mengobati penyakit anak-anak dan remaja serta menjaga kesehatan mereka.",
+        "es": "Es un departamento del hospital que atiende enfermedades y cuida la salud de los niños y adolescentes.",
+        "fr": "C'est un service hospitalier qui soigne les maladies et prend soin de la santé des enfants et des adolescents."
       }
     },
     {
@@ -19,7 +24,12 @@
         "en": "A doctor who has been trained and certified in a specific medical field.",
         "vi": "Bác sĩ đã được đào tạo chuyên sâu và có chứng chỉ trong một lĩnh vực.",
         "zh": "在某一医学领域受过专门训练并取得资格的医生。",
-        "ja": "ある分野を専門に学び訓練を受けた資格のある医師です。"
+        "ja": "ある分野を専門に学び訓練を受けた資格のある医師です。",
+        "th": "เป็นแพทย์ที่ศึกษาและฝึกฝนอย่างลึกซึ้งในสาขาหนึ่งจนมีคุณสมบัติเชี่ยวชาญ",
+        "ru": "Врач, который глубоко изучил и прошёл обучение в одной области и получил квалификацию специалиста.",
+        "id": "Dokter yang telah belajar dan berlatih secara mendalam di satu bidang sehingga memiliki kualifikasi khusus.",
+        "es": "Es un médico que ha estudiado y se ha formado profundamente en un campo y tiene la calificación correspondiente.",
+        "fr": "C'est un médecin qui a étudié et s'est formé en profondeur dans un domaine et qui possède la qualification requise."
       }
     },
     {
@@ -30,7 +40,12 @@
         "en": "A medical department that treats problems related to mental and emotional health.",
         "vi": "Khoa y tế khám các vấn đề về sức khỏe tinh thần và tâm lý.",
         "zh": "诊治心理和精神健康问题的医疗科室。",
-        "ja": "心や精神の健康に関する問題を診る病院の診療科です。"
+        "ja": "心や精神の健康に関する問題を診る病院の診療科です。",
+        "th": "เป็นแผนกโรงพยาบาลที่ตรวจรักษาปัญหาเกี่ยวกับสุขภาพจิตใจและจิตวิญญาณ",
+        "ru": "Отделение больницы, которое занимается вопросами психического здоровья.",
+        "id": "Departemen rumah sakit yang menangani masalah kesehatan jiwa dan mental.",
+        "es": "Es un departamento del hospital que trata problemas relacionados con la salud mental.",
+        "fr": "C'est un service hospitalier qui traite les problèmes liés à la santé mentale."
       }
     },
     {
@@ -41,7 +56,12 @@
         "en": "Taking care of a child and raising them to grow well.",
         "vi": "Việc chăm sóc và nuôi dạy con cho con phát triển tốt.",
         "zh": "照顾孩子、抚养孩子健康成长的事。",
-        "ja": "子どもを世話し、よく育てることです。"
+        "ja": "子どもを世話し、よく育てることです。",
+        "th": "คือการดูแลเด็กและเลี้ยงดูให้เติบโตอย่างดี",
+        "ru": "Забота о ребёнке и его воспитание, чтобы он хорошо рос.",
+        "id": "Kegiatan merawat dan membesarkan anak agar tumbuh dengan baik.",
+        "es": "Es el cuidado y la crianza de un niño para que crezca bien.",
+        "fr": "C'est le fait de prendre soin d'un enfant et de l'élever pour qu'il grandisse bien."
       }
     },
     {
@@ -52,7 +72,12 @@
         "en": "When a doctor examines a patient to diagnose and treat illness.",
         "vi": "Việc bác sĩ khám, chẩn đoán và điều trị cho người bệnh.",
         "zh": "医生检查病人、诊断并治疗疾病的过程。",
-        "ja": "医師が患者を診て病気を診断し治療することです。"
+        "ja": "医師が患者を診て病気を診断し治療することです。",
+        "th": "คือการที่แพทย์ตรวจดูผู้ป่วย วินิจฉัยโรค และทำการรักษา",
+        "ru": "Работа врача, который осматривает больного, ставит диагноз и лечит его.",
+        "id": "Kegiatan dokter memeriksa orang sakit, mendiagnosis penyakit, dan mengobatinya.",
+        "es": "Es cuando un médico examina a una persona enferma, diagnostica la enfermedad y la trata.",
+        "fr": "C'est le fait pour un médecin d'examiner une personne malade, de diagnostiquer la maladie et de la traiter."
       }
     },
     {
@@ -63,7 +88,12 @@
         "en": "Babies and young children from newborns up to preschool age.",
         "vi": "Trẻ nhỏ từ lúc mới sinh đến trước tuổi đi học.",
         "zh": "指从新生儿到上学前的婴幼儿。",
-        "ja": "生まれたばかりの赤ちゃんから就学前までの幼い子どもです。"
+        "ja": "生まれたばかりの赤ちゃんから就学前までの幼い子どもです。",
+        "th": "หมายถึงเด็กเล็กตั้งแต่แรกเกิดจนถึงก่อนเข้าโรงเรียน",
+        "ru": "Маленькие дети от новорождённых до возраста перед поступлением в школу.",
+        "id": "Anak kecil mulai dari bayi baru lahir hingga sebelum masuk sekolah.",
+        "es": "Se refiere a los niños pequeños desde recién nacidos hasta antes de entrar a la escuela.",
+        "fr": "Cela désigne les jeunes enfants, du nouveau-né jusqu'à l'âge préscolaire."
       }
     },
     {
@@ -74,7 +104,12 @@
         "en": "Relating to how a child grows and develops in body and mind.",
         "vi": "Liên quan đến quá trình phát triển về thể chất và tinh thần của trẻ.",
         "zh": "从孩子身心成长发育的角度来看的意思。",
-        "ja": "子どもの心身が育つ過程の観点から見るという意味です。"
+        "ja": "子どもの心身が育つ過程の観点から見るという意味です。",
+        "th": "หมายถึงการมองจากมุมมองของกระบวนการเติบโตทางร่างกายและจิตใจของเด็ก",
+        "ru": "Означает рассмотрение с точки зрения процесса физического и психического роста ребёнка.",
+        "id": "Berarti melihat dari sudut pandang proses pertumbuhan fisik dan mental anak.",
+        "es": "Significa ver algo desde la perspectiva del proceso de crecimiento físico y mental del niño.",
+        "fr": "Cela signifie considérer les choses du point de vue du processus de croissance physique et mentale de l'enfant."
       }
     },
     {
@@ -85,7 +120,12 @@
         "en": "The stages of growth a child goes through as they get older.",
         "vi": "Các giai đoạn phát triển mà trẻ trải qua khi lớn lên.",
         "zh": "孩子随年龄增长所经历的成长阶段。",
-        "ja": "子どもが成長するにつれ年齢ごとに通る発達の段階です。"
+        "ja": "子どもが成長するにつれ年齢ごとに通る発達の段階です。",
+        "th": "คือขั้นตอนการเติบโตที่เด็กผ่านไปตามช่วงอายุขณะเติบโต",
+        "ru": "Этапы роста, через которые проходит ребёнок в зависимости от возраста.",
+        "id": "Tahapan pertumbuhan yang dilalui anak sesuai dengan usianya saat tumbuh.",
+        "es": "Son las etapas de crecimiento que atraviesa un niño según su edad a medida que crece.",
+        "fr": "Ce sont les étapes de croissance que traverse un enfant selon son âge en grandissant."
       }
     },
     {
@@ -96,7 +136,12 @@
         "en": "Something done naturally from birth without being taught.",
         "vi": "Điều làm một cách tự nhiên từ khi sinh ra mà không cần dạy.",
         "zh": "不用别人教，天生就会自然去做的。",
-        "ja": "誰かに教わらなくても生まれつき自然にすることです。"
+        "ja": "誰かに教わらなくても生まれつき自然にすることです。",
+        "th": "หมายถึงสิ่งที่ทำได้เองโดยธรรมชาติแม้ไม่มีใครสอน",
+        "ru": "Означает то, что делается само собой от рождения, даже если никто не учил.",
+        "id": "Berarti sesuatu yang dilakukan secara alami sejak lahir meskipun tidak diajarkan oleh siapa pun.",
+        "es": "Significa algo que se hace de forma natural desde el nacimiento, aunque nadie lo haya enseñado.",
+        "fr": "Cela signifie quelque chose que l'on fait naturellement depuis la naissance, même sans que personne ne l'ait appris."
       }
     },
     {
@@ -107,7 +152,12 @@
         "en": "The way a child's body grows and abilities develop over time.",
         "vi": "Sự phát triển về cơ thể và khả năng của trẻ theo thời gian.",
         "zh": "孩子身体长大、能力逐渐发展的过程。",
-        "ja": "子どもの体が大きくなり能力が発達していくことです。"
+        "ja": "子どもの体が大きくなり能力が発達していくことです。",
+        "th": "หมายถึงการที่ร่างกายของเด็กใหญ่ขึ้นและความสามารถพัฒนาขึ้นเรื่อยๆ",
+        "ru": "Означает, что тело ребёнка растёт, а его способности постепенно развиваются.",
+        "id": "Berarti tubuh anak semakin besar dan kemampuannya berkembang secara bertahap.",
+        "es": "Significa que el cuerpo del niño crece y sus capacidades se desarrollan progresivamente.",
+        "fr": "Cela signifie que le corps de l'enfant grandit et que ses capacités se développent progressivement."
       }
     },
     {
@@ -118,7 +168,12 @@
         "en": "A baby who was born very recently.",
         "vi": "Em bé vừa mới sinh ra không lâu.",
         "zh": "刚出生不久的小婴儿。",
-        "ja": "生まれて間もない赤ちゃんのことです。"
+        "ja": "生まれて間もない赤ちゃんのことです。",
+        "th": "หมายถึงทารกแรกเกิดที่เพิ่งคลอดมาไม่นาน",
+        "ru": "Очень маленький ребёнок, который родился совсем недавно.",
+        "id": "Bayi yang baru saja lahir belum lama.",
+        "es": "Se refiere a un bebé muy pequeño que acaba de nacer hace poco.",
+        "fr": "Cela désigne un tout petit bébé né depuis peu de temps."
       }
     },
     {
@@ -129,7 +184,12 @@
         "en": "The period before a child starts going to school.",
         "vi": "Giai đoạn trước khi trẻ bắt đầu đi học.",
         "zh": "孩子还没上学之前的时期。",
-        "ja": "子どもがまだ学校に入る前の時期のことです。"
+        "ja": "子どもがまだ学校に入る前の時期のことです。",
+        "th": "หมายถึงช่วงเวลาก่อนที่เด็กจะเข้าโรงเรียน",
+        "ru": "Период до того, как ребёнок пойдёт в школу.",
+        "id": "Periode sebelum anak masuk sekolah.",
+        "es": "Se refiere al período antes de que el niño entre a la escuela.",
+        "fr": "Cela désigne la période avant que l'enfant n'entre à l'école."
       }
     },
     {
@@ -140,7 +200,12 @@
         "en": "A simple type of play where a child has fun by moving the body, such as hands and feet.",
         "vi": "Trò chơi đơn giản dùng cơ thể, vận động tay chân để vui chơi.",
         "zh": "用身体活动来玩的简单游戏，活动手脚来玩耍。",
-        "ja": "体を動かして遊ぶ簡単な遊びで、手や足を使って楽しむこと。"
+        "ja": "体を動かして遊ぶ簡単な遊びで、手や足を使って楽しむこと。",
+        "th": "เป็นการเล่นง่ายๆ ที่ใช้การเคลื่อนไหวร่างกาย โดยใช้มือและเท้าเป็นต้นในการเล่นสนุก",
+        "ru": "Простая игра с движениями тела, в которой используют руки, ноги и т.д. для веселья.",
+        "id": "Permainan sederhana yang menggunakan gerakan tubuh, dinikmati dengan menggunakan tangan dan kaki, dll.",
+        "es": "Es un juego sencillo que consiste en mover el cuerpo, disfrutado usando las manos, los pies, etc.",
+        "fr": "C'est un jeu simple qui consiste à bouger le corps, en s'amusant avec les mains, les pieds, etc."
       }
     },
     {
@@ -151,7 +216,12 @@
         "en": "Doing something on one's own, without being told by others.",
         "vi": "Tự mình làm mà không cần ai bảo.",
         "zh": "不用别人催促，自己主动去做。",
-        "ja": "だれかに言われなくても、自分から進んで行うこと。"
+        "ja": "だれかに言われなくても、自分から進んで行うこと。",
+        "th": "หมายถึงการทำเองโดยไม่ต้องมีใครสั่ง",
+        "ru": "То, что делается самостоятельно, без чьего-либо указания.",
+        "id": "Berarti melakukan sesuatu dengan sendirinya tanpa disuruh oleh siapa pun.",
+        "es": "Significa hacer algo por uno mismo sin que nadie lo ordene.",
+        "fr": "Cela signifie faire quelque chose de soi-même sans que personne ne l'ordonne."
       }
     },
     {
@@ -162,7 +232,12 @@
         "en": "The brain growing so that thinking and learning abilities improve.",
         "vi": "Não phát triển giúp khả năng suy nghĩ và học tập tốt hơn.",
         "zh": "大脑发育成长，使思考和学习能力变好。",
-        "ja": "脳が育って、考える力や学ぶ力がよくなること。"
+        "ja": "脳が育って、考える力や学ぶ力がよくなること。",
+        "th": "คือการที่สมองในหัวเติบโตขึ้นจนความสามารถในการคิดและเรียนรู้ดีขึ้น",
+        "ru": "Означает, что мозг растёт, и способности думать и учиться улучшаются.",
+        "id": "Berarti otak di dalam kepala berkembang sehingga kemampuan berpikir dan belajar menjadi lebih baik.",
+        "es": "Significa que el cerebro crece y mejora la capacidad de pensar y aprender.",
+        "fr": "Cela signifie que le cerveau se développe, ce qui améliore la capacité de penser et d'apprendre."
       }
     },
     {
@@ -173,7 +248,12 @@
         "en": "The way the body grows and gets stronger, such as getting taller and more powerful.",
         "vi": "Sự lớn lên và khỏe mạnh của cơ thể, như cao lên và mạnh hơn.",
         "zh": "身体长大并变强壮，比如长高、变得有力气。",
-        "ja": "背が伸び力が強くなるなど、体が育って丈夫になること。"
+        "ja": "背が伸び力が強くなるなど、体が育って丈夫になること。",
+        "th": "คือการที่ร่างกายเติบโตและแข็งแรงขึ้น เช่น ตัวสูงขึ้นและมีแรงมากขึ้น",
+        "ru": "Означает, что тело растёт и становится крепче, например, ребёнок становится выше и сильнее.",
+        "id": "Berarti tubuh tumbuh dan menjadi lebih kuat, seperti bertambah tinggi dan lebih berotot.",
+        "es": "Significa que el cuerpo crece y se fortalece, como aumentar de estatura y de fuerza.",
+        "fr": "Cela signifie que le corps grandit et devient plus fort, par exemple en gagnant en taille et en force."
       }
     },
     {
@@ -184,7 +264,12 @@
         "en": "Related to a person's mind and feelings.",
         "vi": "Liên quan đến tâm trí và cảm xúc của con người.",
         "zh": "与人的心理和情感有关的。",
-        "ja": "人の心や気持ちに関すること。"
+        "ja": "人の心や気持ちに関すること。",
+        "th": "หมายถึงสิ่งที่เกี่ยวกับจิตใจและอารมณ์ของคน",
+        "ru": "Относится к разуму и эмоциям человека.",
+        "id": "Berarti sesuatu yang berkaitan dengan pikiran dan perasaan seseorang.",
+        "es": "Se refiere a algo relacionado con la mente y las emociones de una persona.",
+        "fr": "Cela concerne l'esprit et les émotions d'une personne."
       }
     },
     {
@@ -195,7 +280,12 @@
         "en": "The ability to come up with new ideas or ways different from others.",
         "vi": "Khả năng nghĩ ra ý tưởng hoặc cách làm mới khác với người khác.",
         "zh": "想出与众不同的新点子或新方法的能力。",
-        "ja": "人とは違う新しい考えや方法を思いつく力。"
+        "ja": "人とは違う新しい考えや方法を思いつく力。",
+        "th": "คือความสามารถในการคิดหาความคิดหรือวิธีใหม่ๆ ที่แตกต่างจากคนอื่น",
+        "ru": "Способность придумывать новые идеи или методы, отличающиеся от других.",
+        "id": "Kemampuan untuk memikirkan ide atau cara baru yang berbeda dari orang lain.",
+        "es": "Es la capacidad de idear pensamientos o métodos nuevos y diferentes a los de los demás.",
+        "fr": "C'est la capacité d'imaginer des idées ou des méthodes nouvelles, différentes de celles des autres."
       }
     },
     {
@@ -206,7 +296,12 @@
         "en": "The mental ability to know and understand things by seeing, hearing, and thinking.",
         "vi": "Hoạt động trí óc giúp nhận biết và hiểu sự vật qua nhìn, nghe, suy nghĩ.",
         "zh": "通过看、听、思考来认识和理解事物的心理作用。",
-        "ja": "見たり聞いたり考えたりして物事を知り理解する心の働き。"
+        "ja": "見たり聞いたり考えたりして物事を知り理解する心の働き。",
+        "th": "คือการทำงานของจิตใจในการมองเห็น ได้ยิน คิด และเข้าใจสิ่งต่างๆ",
+        "ru": "Работа разума, связанная с восприятием, слушанием, мышлением и пониманием вещей.",
+        "id": "Kerja pikiran dalam melihat, mendengar, berpikir, dan memahami sesuatu.",
+        "es": "Es el funcionamiento de la mente que permite ver, oír, pensar y comprender las cosas.",
+        "fr": "C'est le fonctionnement de l'esprit qui permet de voir, d'entendre, de penser et de comprendre les choses."
       }
     },
     {
@@ -217,7 +312,12 @@
         "en": "Feelings or emotions of the mind, such as joy, sadness, and fear.",
         "vi": "Cảm xúc hoặc tình cảm trong lòng như vui, buồn, sợ hãi.",
         "zh": "内心的感受或情感，如高兴、悲伤、害怕。",
-        "ja": "喜びや悲しみ、恐れなどの心の感じや気持ち。"
+        "ja": "喜びや悲しみ、恐れなどの心の感じや気持ち。",
+        "th": "คือความรู้สึกทางจิตใจ เช่น ความสุข ความเศร้า ความกลัว",
+        "ru": "Чувства или эмоции, такие как радость, грусть, страх.",
+        "id": "Perasaan atau emosi seperti kebahagiaan, kesedihan, dan ketakutan.",
+        "es": "Son los sentimientos o emociones de la mente, como la alegría, la tristeza o el miedo.",
+        "fr": "Ce sont des sentiments ou des émotions comme la joie, la tristesse ou la peur."
       }
     },
     {
@@ -228,7 +328,12 @@
         "en": "The large muscles, such as in the arms, legs, and torso, used for big movements.",
         "vi": "Các cơ lớn ở tay, chân, thân mình giúp thực hiện động tác lớn.",
         "zh": "手臂、腿、躯干等做大动作用的大肌肉。",
-        "ja": "腕や足、胴体など大きな動きをする大きな筋肉。"
+        "ja": "腕や足、胴体など大きな動きをする大きな筋肉。",
+        "th": "กล้ามเนื้อมัดใหญ่ที่ช่วยให้ทำการเคลื่อนไหวขนาดใหญ่ได้ เช่น แขน ขา ลำตัว",
+        "ru": "Большие мышцы, такие как в руках, ногах и туловище, которые позволяют выполнять крупные движения.",
+        "id": "Otot besar seperti pada lengan, kaki, dan tubuh yang memungkinkan gerakan besar.",
+        "es": "Músculo grande, como el de los brazos, piernas y el tronco, que permite realizar movimientos amplios.",
+        "fr": "Grand muscle, comme ceux des bras, des jambes et du torse, qui permet de faire de grands mouvements."
       }
     },
     {
@@ -239,7 +344,12 @@
         "en": "The small muscles, such as in the fingers, used for small and fine movements.",
         "vi": "Các cơ nhỏ như ở ngón tay giúp làm động tác nhỏ và tinh tế.",
         "zh": "像手指那样做细小精细动作的小肌肉。",
-        "ja": "指のように小さく細かい動きをする小さな筋肉。"
+        "ja": "指のように小さく細かい動きをする小さな筋肉。",
+        "th": "กล้ามเนื้อมัดเล็กที่ทำการเคลื่อนไหวเล็กและละเอียด เช่น นิ้วมือ",
+        "ru": "Маленькие мышцы, отвечающие за мелкие и точные движения, например, как в пальцах.",
+        "id": "Otot kecil yang melakukan gerakan halus dan kecil, seperti pada jari.",
+        "es": "Músculo pequeño que realiza movimientos pequeños y delicados, como los de los dedos.",
+        "fr": "Petit muscle qui effectue des mouvements fins et délicats, comme ceux des doigts."
       }
     },
     {
@@ -250,7 +360,12 @@
         "en": "The speed or degree at which the body grows.",
         "vi": "Tốc độ hoặc mức độ cơ thể lớn lên.",
         "zh": "身体生长的速度或程度。",
-        "ja": "体が育つ速さや度合い。"
+        "ja": "体が育つ速さや度合い。",
+        "th": "ความเร็วหรือระดับที่ร่างกายเจริญเติบโต",
+        "ru": "Скорость или степень роста тела.",
+        "id": "Kecepatan atau tingkat pertumbuhan tubuh.",
+        "es": "Velocidad o grado en que el cuerpo crece.",
+        "fr": "Vitesse ou degré de croissance du corps."
       }
     },
     {
@@ -261,7 +376,12 @@
         "en": "The very early period from birth until before becoming a young child.",
         "vi": "Giai đoạn rất nhỏ từ khi sinh ra đến trước khi thành trẻ nhỏ.",
         "zh": "从出生到成为幼儿之前的非常年幼时期。",
-        "ja": "生まれてから幼い子どもになる前までの、とても幼い時期。"
+        "ja": "生まれてから幼い子どもになる前までの、とても幼い時期。",
+        "th": "ช่วงวัยเล็กมากตั้งแต่แรกเกิดจนถึงก่อนเป็นเด็กเล็ก",
+        "ru": "Очень ранний период с рождения до того, как ребёнок становится дошкольником.",
+        "id": "Masa yang sangat dini sejak lahir hingga sebelum menjadi anak kecil.",
+        "es": "Período muy temprano desde el nacimiento hasta antes de convertirse en un niño pequeño.",
+        "fr": "Période très précoce depuis la naissance jusqu'à avant de devenir un jeune enfant."
       }
     },
     {
@@ -272,7 +392,12 @@
         "en": "Body parts used to see, hear, touch, taste, and smell.",
         "vi": "Các bộ phận cơ thể dùng để nhìn, nghe, sờ, nếm và ngửi.",
         "zh": "用来看、听、触摸、品尝和闻气味的身体部位。",
-        "ja": "見る・聞く・触る・味わう・においをかぐ働きをする体の部分です。"
+        "ja": "見る・聞く・触る・味わう・においをかぐ働きをする体の部分です。",
+        "th": "อวัยวะของร่างกายที่ทำหน้าที่มองเห็น ได้ยิน สัมผัส ลิ้มรส และดมกลิ่น",
+        "ru": "Части тела, отвечающие за зрение, слух, осязание, вкус и обоняние.",
+        "id": "Bagian tubuh yang berfungsi untuk melihat, mendengar, meraba, mengecap, dan mencium.",
+        "es": "Parte del cuerpo que se encarga de ver, oír, tocar, saborear y oler.",
+        "fr": "Partie du corps chargée de voir, entendre, toucher, goûter et sentir."
       }
     },
     {
@@ -283,7 +408,12 @@
         "en": "The system of muscles and bones that lets the body move.",
         "vi": "Hệ cơ và xương giúp cơ thể vận động.",
         "zh": "让身体能够活动的肌肉和骨骼系统。",
-        "ja": "体を動かす筋肉と骨をまとめて指す言葉です。"
+        "ja": "体を動かす筋肉と骨をまとめて指す言葉です。",
+        "th": "คำที่ใช้เรียกกล้ามเนื้อและกระดูกที่ทำให้ร่างกายเคลื่อนไหวได้รวมกัน",
+        "ru": "Общее название мышц и костей, которые позволяют нашему телу двигаться.",
+        "id": "Istilah yang menyebut otot dan tulang yang membuat tubuh kita bisa bergerak, secara bersamaan.",
+        "es": "Término que designa conjuntamente a los músculos y huesos que permiten que nuestro cuerpo se mueva.",
+        "fr": "Terme désignant ensemble les muscles et les os qui permettent à notre corps de bouger."
       }
     },
     {
@@ -294,7 +424,12 @@
         "en": "The very early period of a baby, roughly from birth to about age two.",
         "vi": "Giai đoạn rất nhỏ của trẻ, từ khi sinh đến khoảng hai tuổi.",
         "zh": "从出生到大约两岁的婴儿时期。",
-        "ja": "生まれてから二歳ごろまでの、とても幼い赤ちゃんの時期です。"
+        "ja": "生まれてから二歳ごろまでの、とても幼い赤ちゃんの時期です。",
+        "th": "ช่วงวัยทารกเล็กมากตั้งแต่แรกเกิดจนถึงประมาณสองขวบ",
+        "ru": "Период младенчества примерно от рождения до двух лет.",
+        "id": "Masa bayi yang sangat kecil sejak lahir hingga sekitar usia dua tahun.",
+        "es": "Período de la primera infancia desde el nacimiento hasta aproximadamente los dos años.",
+        "fr": "Période de la petite enfance depuis la naissance jusqu'à environ deux ans."
       }
     },
     {
@@ -305,7 +440,12 @@
         "en": "The layer of fat stored just under the skin.",
         "vi": "Lớp mỡ tích tụ ngay dưới da.",
         "zh": "储存在皮肤下面的脂肪。",
-        "ja": "皮膚のすぐ下にたまっている脂肪です。"
+        "ja": "皮膚のすぐ下にたまっている脂肪です。",
+        "th": "ไขมันที่สะสมอยู่ใต้ผิวหนังโดยตรง",
+        "ru": "Жир, накопленный прямо под кожей.",
+        "id": "Lemak yang menumpuk tepat di bawah kulit.",
+        "es": "Grasa acumulada justo debajo de la piel.",
+        "fr": "Graisse accumulée juste sous la peau."
       }
     },
     {
@@ -316,7 +456,12 @@
         "en": "The chubby baby fat that fills out a young child and goes away as they grow.",
         "vi": "Lớp mỡ mũm mĩm của trẻ nhỏ, sẽ mất dần khi lớn lên.",
         "zh": "婴幼儿时期圆润的肉，长大后会消退。",
-        "ja": "赤ちゃんのころのふっくらした肉で、成長すると取れていきます。"
+        "ja": "赤ちゃんのころのふっくらした肉で、成長すると取れていきます。",
+        "th": "เนื้อที่อวบอ้วนตอนเป็นทารก ซึ่งจะค่อยๆ ลดลงเมื่อโตขึ้น",
+        "ru": "Пухлость, которая появляется в младенчестве и постепенно исчезает по мере взросления.",
+        "id": "Lemak yang membuat tubuh gembul saat bayi, yang akan berkurang seiring bertumbuh.",
+        "es": "Carne regordeta que aparece en la infancia y que va desapareciendo a medida que se crece.",
+        "fr": "Chair potelée apparue durant la petite enfance, qui disparaît progressivement en grandissant."
       }
     },
     {
@@ -327,7 +472,12 @@
         "en": "The central point where the body's weight gathers, important for balance.",
         "vi": "Điểm trung tâm tập trung trọng lượng cơ thể, quan trọng để giữ thăng bằng.",
         "zh": "身体重量集中的中心点，对保持平衡很重要。",
-        "ja": "体の重さが集まる中心の点で、バランスをとるのに大切です。"
+        "ja": "体の重さが集まる中心の点で、バランスをとるのに大切です。",
+        "th": "จุดศูนย์กลางที่น้ำหนักของร่างกายรวมกัน ซึ่งสำคัญต่อการทรงตัว",
+        "ru": "Центральная точка, где сосредоточен вес тела, важная для сохранения равновесия.",
+        "id": "Titik pusat tempat berat tubuh berkumpul, yang penting untuk menjaga keseimbangan.",
+        "es": "Punto central donde se concentra el peso del cuerpo, importante para mantener el equilibrio.",
+        "fr": "Point central où se concentre le poids du corps, important pour garder l'équilibre."
       }
     },
     {
@@ -338,7 +488,12 @@
         "en": "Becoming more detailed and precise in movements or actions.",
         "vi": "Việc động tác hay hành động trở nên tinh tế và chính xác hơn.",
         "zh": "动作或行为变得更精细、更准确。",
-        "ja": "動作や行動がより細かく正確になることをいいます。"
+        "ja": "動作や行動がより細かく正確になることをいいます。",
+        "th": "การที่การเคลื่อนไหวหรือพฤติกรรมมีความละเอียดและแม่นยำมากขึ้น",
+        "ru": "Процесс, при котором движения или действия становятся более точными и детальными.",
+        "id": "Proses ketika gerakan atau perilaku menjadi lebih rinci dan akurat.",
+        "es": "Proceso mediante el cual un movimiento o acción se vuelve más detallado y preciso.",
+        "fr": "Processus par lequel un mouvement ou un comportement devient plus précis et détaillé."
       }
     },
     {
@@ -349,7 +504,12 @@
         "en": "Fine movements using small muscles like the fingers.",
         "vi": "Những vận động tinh tế dùng cơ nhỏ như ngón tay.",
         "zh": "使用手指等小肌肉做出的精细动作。",
-        "ja": "指などの小さな筋肉を使う細かい動きです。"
+        "ja": "指などの小さな筋肉を使う細かい動きです。",
+        "th": "การเคลื่อนไหวที่ละเอียดโดยใช้กล้ามเนื้อมัดเล็ก เช่น นิ้วมือ",
+        "ru": "Тонкие движения, выполняемые с помощью маленьких мышц, например, пальцев.",
+        "id": "Gerakan halus yang menggunakan otot kecil, seperti jari.",
+        "es": "Movimiento delicado que se realiza usando músculos pequeños, como los dedos.",
+        "fr": "Mouvement délicat réalisé avec de petits muscles, comme ceux des doigts."
       }
     },
     {
@@ -360,7 +520,12 @@
         "en": "The feeling that something has depth and volume, not just flat.",
         "vi": "Cảm giác vật có chiều sâu và khối, không phẳng.",
         "zh": "物体有厚度和体积、显得立体的感觉。",
-        "ja": "平面ではなく厚みや立体感のある感じです。"
+        "ja": "平面ではなく厚みや立体感のある感じです。",
+        "th": "ความรู้สึกที่มีความหนาและปริมาตร ทำให้ดูนูนออกมาแทนที่จะแบนราบ",
+        "ru": "Ощущение объёма и толщины, из-за которого что-то выглядит выпуклым, а не плоским.",
+        "id": "Kesan yang memiliki ketebalan dan volume sehingga terlihat menonjol, bukan datar.",
+        "es": "Sensación de tener grosor y volumen, que hace que algo parezca sobresalir en lugar de ser plano.",
+        "fr": "Sensation d'épaisseur et de volume qui donne l'impression de relief plutôt que de platitude."
       }
     },
     {
@@ -371,7 +536,12 @@
         "en": "Two parts, like the eyes and hands, working together smoothly.",
         "vi": "Hai bộ phận như mắt và tay phối hợp nhịp nhàng với nhau.",
         "zh": "像眼睛和手那样两个部分协调配合一起动作。",
-        "ja": "目と手のように二つがうまく合わせて一緒に動くことです。"
+        "ja": "目と手のように二つがうまく合わせて一緒に動くことです。",
+        "th": "การที่สองสิ่ง เช่น ตากับมือ เคลื่อนไหวสอดคล้องกันอย่างดี",
+        "ru": "Слаженное совместное движение двух частей, например, глаз и рук.",
+        "id": "Gerakan dua hal, seperti mata dan tangan, yang berpadu dengan baik satu sama lain.",
+        "es": "Movimiento coordinado de dos cosas, como los ojos y las manos, trabajando bien juntas.",
+        "fr": "Mouvement coordonné de deux éléments, comme les yeux et les mains, fonctionnant bien ensemble."
       }
     },
     {
@@ -382,7 +552,12 @@
         "en": "Hopping on one foot while lifting the other.",
         "vi": "Nhảy lò cò bằng một chân, nhấc chân kia lên.",
         "zh": "抬起一只脚，用另一只脚单脚跳。",
-        "ja": "片足を上げて、もう片方の足だけでぴょんぴょん跳ぶことです。"
+        "ja": "片足を上げて、もう片方の足だけでぴょんぴょん跳ぶことです。",
+        "th": "การยกขาข้างหนึ่งขึ้นแล้วกระโดดด้วยขาอีกข้างเพียงข้างเดียว",
+        "ru": "Прыжки на одной ноге, поднимая другую ногу.",
+        "id": "Melompat-lompat hanya dengan satu kaki sambil mengangkat kaki yang lain.",
+        "es": "Saltar sobre un solo pie mientras se mantiene el otro levantado.",
+        "fr": "Sauter sur un seul pied en gardant l'autre relevé."
       }
     },
     {
@@ -393,7 +568,12 @@
         "en": "How hard or easy something is to do.",
         "vi": "Mức độ khó hay dễ của một việc.",
         "zh": "做某件事的难易程度。",
-        "ja": "何かをするのがどれくらい難しいか易しいかの程度です。"
+        "ja": "何かをするのがどれくらい難しいか易しいかの程度です。",
+        "th": "ระดับความยากหรือความง่ายในการทำสิ่งใดสิ่งหนึ่ง",
+        "ru": "Степень трудности или лёгкости выполнения чего-либо.",
+        "id": "Tingkat seberapa sulit atau mudahnya melakukan sesuatu.",
+        "es": "Grado de dificultad o facilidad para hacer algo.",
+        "fr": "Degré de difficulté ou de facilité pour faire quelque chose."
       }
     },
     {
@@ -404,7 +584,12 @@
         "en": "Exercise that makes you breathe harder over time and strengthens the heart and lungs, like running or jumping.",
         "vi": "Bài tập làm thở gấp và kéo dài, giúp tim và phổi khỏe mạnh, như chạy hay nhảy.",
         "zh": "让人呼吸加快、持续活动以增强心肺的运动，如跑步、跳跃。",
-        "ja": "息が上がるくらい体を動かし続けて、心臓や肺を丈夫にする運動です。"
+        "ja": "息が上がるくらい体を動かし続けて、心臓や肺を丈夫にする運動です。",
+        "th": "การออกกำลังกายที่ทำให้หายใจเร็วและเคลื่อนไหวต่อเนื่องเป็นเวลานาน ช่วยให้หัวใจและปอดแข็งแรง",
+        "ru": "Упражнения, вызывающие учащённое дыхание при длительной активности, укрепляющие сердце и лёгкие.",
+        "id": "Olahraga yang membuat napas terengah-engah dan bergerak lama, sehingga menguatkan jantung dan paru-paru.",
+        "es": "Ejercicio que hace respirar agitadamente durante un movimiento prolongado, fortaleciendo el corazón y los pulmones.",
+        "fr": "Exercice qui fait respirer rapidement pendant un mouvement prolongé, renforçant le cœur et les poumons."
       }
     },
     {
@@ -415,7 +600,12 @@
         "en": "A medium level of intensity, not too light and not too hard.",
         "vi": "Mức độ vừa phải, không quá nhẹ cũng không quá mạnh.",
         "zh": "中等程度的强度，不太轻也不太重。",
-        "ja": "弱すぎず強すぎない、中くらいの強さのことです。"
+        "ja": "弱すぎず強すぎない、中くらいの強さのことです。",
+        "th": "ระดับความเข้มข้นปานกลาง ไม่อ่อนเกินไปและไม่แรงเกินไป",
+        "ru": "Средняя интенсивность — не слишком слабая и не слишком сильная.",
+        "id": "Tingkat intensitas sedang, tidak terlalu lemah dan tidak terlalu kuat.",
+        "es": "Nivel de intensidad moderado, ni demasiado suave ni demasiado fuerte.",
+        "fr": "Niveau d'intensité modéré, ni trop faible ni trop fort."
       }
     },
     {
@@ -426,7 +616,12 @@
         "en": "The time spent looking at screens such as TV, phone, or tablet.",
         "vi": "Thời gian dành để nhìn vào màn hình như tivi, điện thoại hay máy tính bảng.",
         "zh": "看电视、手机、平板等屏幕所花的时间。",
-        "ja": "テレビやスマホなどの画面を見て過ごす時間のことです。"
+        "ja": "テレビやスマホなどの画面を見て過ごす時間のことです。",
+        "th": "เวลาที่ใช้ดูหน้าจอ เช่น โทรทัศน์หรือสมาร์ตโฟน",
+        "ru": "Время, проведённое за просмотром экранов, таких как телевизор или смартфон.",
+        "id": "Waktu yang dihabiskan menonton layar, seperti televisi atau ponsel pintar.",
+        "es": "Tiempo que se pasa mirando pantallas, como la televisión o el teléfono inteligente.",
+        "fr": "Temps passé à regarder des écrans, comme la télévision ou le smartphone."
       }
     },
     {
@@ -437,7 +632,12 @@
         "en": "How well the heart and lungs work; it improves with exercise.",
         "vi": "Khả năng hoạt động tốt của tim và phổi; sẽ tốt hơn khi vận động.",
         "zh": "心脏和肺工作的能力，运动后会变得更好。",
-        "ja": "心臓と肺がよく働く力で、運動すると良くなります。"
+        "ja": "心臓と肺がよく働く力で、運動すると良くなります。",
+        "th": "ความสามารถของหัวใจและปอดในการทำงาน ซึ่งจะดีขึ้นเมื่อออกกำลังกาย",
+        "ru": "Способность сердца и лёгких хорошо работать, которая улучшается при занятиях спортом.",
+        "id": "Kemampuan jantung dan paru-paru untuk bekerja dengan baik, yang semakin membaik jika berolahraga.",
+        "es": "Capacidad del corazón y los pulmones para funcionar bien, que mejora al hacer ejercicio.",
+        "fr": "Capacité du cœur et des poumons à bien fonctionner, qui s'améliore grâce à l'exercice."
       }
     }
   ]
