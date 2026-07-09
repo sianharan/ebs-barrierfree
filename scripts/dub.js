@@ -35,7 +35,7 @@ const ROOT = path.resolve(__dirname, '..');
 
 // ── 언어 설정(데이터로 관리 — 다른 언어 확장 시 여기만 보강) ──────────────────
 // 자막 text 에 존재하는 언어면 인자로 받아 처리 가능.
-const SUPPORTED_LANGS = ['ko', 'en', 'vi', 'zh', 'ja', 'es'];
+const SUPPORTED_LANGS = ['ko', 'en', 'vi', 'zh', 'ja', 'es', 'fr'];
 const DEFAULT_LANG = 'vi';
 // OpenAI gpt-4o 계열 instructions 용 언어 표기(api/tts.js 와 일치).
 const LANG_NAMES = {
@@ -45,6 +45,7 @@ const LANG_NAMES = {
   zh: 'Chinese',
   ja: 'Japanese',
   es: 'Spanish',
+  fr: 'French',
 };
 
 // ── OpenAI TTS 설정(api/tts.js 와 동일 기본값) ──────────────────────────────
