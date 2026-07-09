@@ -1,0 +1,1703 @@
+{
+  "contentId": "sample-02",
+  "lang": "ru",
+  "model": "gpt-4o-mini-tts",
+  "voice": "alloy",
+  "count": 242,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 21.6,
+      "duration": 5.664,
+      "audio": "/dub/sample-02/ru/0.mp3"
+    },
+    {
+      "id": 1,
+      "start": 21.6,
+      "end": 34.4,
+      "duration": 3.96,
+      "audio": "/dub/sample-02/ru/1.mp3"
+    },
+    {
+      "id": 2,
+      "start": 34.4,
+      "end": 36.36,
+      "duration": 2.712,
+      "audio": "/dub/sample-02/ru/2.mp3"
+    },
+    {
+      "id": 3,
+      "start": 36.36,
+      "end": 46.88,
+      "duration": 12,
+      "audio": "/dub/sample-02/ru/3.mp3"
+    },
+    {
+      "id": 4,
+      "start": 46.88,
+      "end": 57.28,
+      "duration": 12.648,
+      "audio": "/dub/sample-02/ru/4.mp3"
+    },
+    {
+      "id": 5,
+      "start": 57.28,
+      "end": 62.84,
+      "duration": 5.4,
+      "audio": "/dub/sample-02/ru/5.mp3"
+    },
+    {
+      "id": 6,
+      "start": 62.84,
+      "end": 74.24,
+      "duration": 11.616,
+      "audio": "/dub/sample-02/ru/6.mp3"
+    },
+    {
+      "id": 7,
+      "start": 74.24,
+      "end": 78,
+      "duration": 6,
+      "audio": "/dub/sample-02/ru/7.mp3"
+    },
+    {
+      "id": 8,
+      "start": 78,
+      "end": 87.32,
+      "duration": 11.064,
+      "audio": "/dub/sample-02/ru/8.mp3"
+    },
+    {
+      "id": 9,
+      "start": 87.32,
+      "end": 92.76,
+      "duration": 8.064,
+      "audio": "/dub/sample-02/ru/9.mp3"
+    },
+    {
+      "id": 10,
+      "start": 92.76,
+      "end": 106.76,
+      "duration": 10.152,
+      "audio": "/dub/sample-02/ru/10.mp3"
+    },
+    {
+      "id": 11,
+      "start": 106.76,
+      "end": 116.16,
+      "duration": 13.656,
+      "audio": "/dub/sample-02/ru/11.mp3"
+    },
+    {
+      "id": 12,
+      "start": 116.16,
+      "end": 124.24,
+      "duration": 7.416,
+      "audio": "/dub/sample-02/ru/12.mp3"
+    },
+    {
+      "id": 13,
+      "start": 124.24,
+      "end": 129.92,
+      "duration": 4.152,
+      "audio": "/dub/sample-02/ru/13.mp3"
+    },
+    {
+      "id": 14,
+      "start": 129.92,
+      "end": 137.92,
+      "duration": 6.648,
+      "audio": "/dub/sample-02/ru/14.mp3"
+    },
+    {
+      "id": 15,
+      "start": 137.92,
+      "end": 144.4,
+      "duration": 9.552,
+      "audio": "/dub/sample-02/ru/15.mp3"
+    },
+    {
+      "id": 16,
+      "start": 144.4,
+      "end": 152.4,
+      "duration": 9.12,
+      "audio": "/dub/sample-02/ru/16.mp3"
+    },
+    {
+      "id": 17,
+      "start": 152.4,
+      "end": 159.4,
+      "duration": 9.864,
+      "audio": "/dub/sample-02/ru/17.mp3"
+    },
+    {
+      "id": 18,
+      "start": 159.4,
+      "end": 167.4,
+      "duration": 10.008,
+      "audio": "/dub/sample-02/ru/18.mp3"
+    },
+    {
+      "id": 19,
+      "start": 167.4,
+      "end": 171.4,
+      "duration": 4.608,
+      "audio": "/dub/sample-02/ru/19.mp3"
+    },
+    {
+      "id": 20,
+      "start": 171.4,
+      "end": 177.4,
+      "duration": 6.6,
+      "audio": "/dub/sample-02/ru/20.mp3"
+    },
+    {
+      "id": 21,
+      "start": 177.4,
+      "end": 184.4,
+      "duration": 8.664,
+      "audio": "/dub/sample-02/ru/21.mp3"
+    },
+    {
+      "id": 22,
+      "start": 184.4,
+      "end": 193.4,
+      "duration": 10.008,
+      "audio": "/dub/sample-02/ru/22.mp3"
+    },
+    {
+      "id": 23,
+      "start": 193.4,
+      "end": 198.4,
+      "duration": 5.304,
+      "audio": "/dub/sample-02/ru/23.mp3"
+    },
+    {
+      "id": 24,
+      "start": 198.4,
+      "end": 202.4,
+      "duration": 4.2,
+      "audio": "/dub/sample-02/ru/24.mp3"
+    },
+    {
+      "id": 25,
+      "start": 202.4,
+      "end": 209.4,
+      "duration": 8.304,
+      "audio": "/dub/sample-02/ru/25.mp3"
+    },
+    {
+      "id": 26,
+      "start": 209.4,
+      "end": 217.4,
+      "duration": 8.52,
+      "audio": "/dub/sample-02/ru/26.mp3"
+    },
+    {
+      "id": 27,
+      "start": 217.4,
+      "end": 223.4,
+      "duration": 8.256,
+      "audio": "/dub/sample-02/ru/27.mp3"
+    },
+    {
+      "id": 28,
+      "start": 223.4,
+      "end": 229.4,
+      "duration": 6.312,
+      "audio": "/dub/sample-02/ru/28.mp3"
+    },
+    {
+      "id": 29,
+      "start": 229.4,
+      "end": 235.4,
+      "duration": 5.664,
+      "audio": "/dub/sample-02/ru/29.mp3"
+    },
+    {
+      "id": 30,
+      "start": 235.4,
+      "end": 241.4,
+      "duration": 6.552,
+      "audio": "/dub/sample-02/ru/30.mp3"
+    },
+    {
+      "id": 31,
+      "start": 241.4,
+      "end": 246.4,
+      "duration": 5.712,
+      "audio": "/dub/sample-02/ru/31.mp3"
+    },
+    {
+      "id": 32,
+      "start": 246.4,
+      "end": 251.4,
+      "duration": 7.104,
+      "audio": "/dub/sample-02/ru/32.mp3"
+    },
+    {
+      "id": 33,
+      "start": 251.4,
+      "end": 259.4,
+      "duration": 9.96,
+      "audio": "/dub/sample-02/ru/33.mp3"
+    },
+    {
+      "id": 34,
+      "start": 259.4,
+      "end": 265.4,
+      "duration": 4.968,
+      "audio": "/dub/sample-02/ru/34.mp3"
+    },
+    {
+      "id": 35,
+      "start": 265.4,
+      "end": 268.4,
+      "duration": 5.304,
+      "audio": "/dub/sample-02/ru/35.mp3"
+    },
+    {
+      "id": 36,
+      "start": 268.4,
+      "end": 273.4,
+      "duration": 9.768,
+      "audio": "/dub/sample-02/ru/36.mp3"
+    },
+    {
+      "id": 37,
+      "start": 273.4,
+      "end": 279.4,
+      "duration": 8.16,
+      "audio": "/dub/sample-02/ru/37.mp3"
+    },
+    {
+      "id": 38,
+      "start": 279.4,
+      "end": 285.4,
+      "duration": 7.752,
+      "audio": "/dub/sample-02/ru/38.mp3"
+    },
+    {
+      "id": 39,
+      "start": 285.4,
+      "end": 289.4,
+      "duration": 5.856,
+      "audio": "/dub/sample-02/ru/39.mp3"
+    },
+    {
+      "id": 40,
+      "start": 289.4,
+      "end": 296.4,
+      "duration": 9.36,
+      "audio": "/dub/sample-02/ru/40.mp3"
+    },
+    {
+      "id": 41,
+      "start": 296.4,
+      "end": 303.4,
+      "duration": 9.216,
+      "audio": "/dub/sample-02/ru/41.mp3"
+    },
+    {
+      "id": 42,
+      "start": 304.4,
+      "end": 309.4,
+      "duration": 6.864,
+      "audio": "/dub/sample-02/ru/42.mp3"
+    },
+    {
+      "id": 43,
+      "start": 309.4,
+      "end": 316.4,
+      "duration": 7.008,
+      "audio": "/dub/sample-02/ru/43.mp3"
+    },
+    {
+      "id": 44,
+      "start": 316.4,
+      "end": 317.4,
+      "duration": 2.352,
+      "audio": "/dub/sample-02/ru/44.mp3"
+    },
+    {
+      "id": 45,
+      "start": 317.4,
+      "end": 321.4,
+      "duration": 6.864,
+      "audio": "/dub/sample-02/ru/45.mp3"
+    },
+    {
+      "id": 46,
+      "start": 321.4,
+      "end": 326.4,
+      "duration": 5.664,
+      "audio": "/dub/sample-02/ru/46.mp3"
+    },
+    {
+      "id": 47,
+      "start": 326.4,
+      "end": 333.4,
+      "duration": 7.704,
+      "audio": "/dub/sample-02/ru/47.mp3"
+    },
+    {
+      "id": 48,
+      "start": 333.4,
+      "end": 336.4,
+      "duration": 3.216,
+      "audio": "/dub/sample-02/ru/48.mp3"
+    },
+    {
+      "id": 49,
+      "start": 336.4,
+      "end": 340.4,
+      "duration": 4.512,
+      "audio": "/dub/sample-02/ru/49.mp3"
+    },
+    {
+      "id": 50,
+      "start": 340.4,
+      "end": 341.4,
+      "duration": 1.104,
+      "audio": "/dub/sample-02/ru/50.mp3"
+    },
+    {
+      "id": 51,
+      "start": 341.4,
+      "end": 346.4,
+      "duration": 7.704,
+      "audio": "/dub/sample-02/ru/51.mp3"
+    },
+    {
+      "id": 52,
+      "start": 346.4,
+      "end": 354.4,
+      "duration": 7.8,
+      "audio": "/dub/sample-02/ru/52.mp3"
+    },
+    {
+      "id": 53,
+      "start": 354.4,
+      "end": 362.4,
+      "duration": 9.312,
+      "audio": "/dub/sample-02/ru/53.mp3"
+    },
+    {
+      "id": 54,
+      "start": 362.4,
+      "end": 365.4,
+      "duration": 4.464,
+      "audio": "/dub/sample-02/ru/54.mp3"
+    },
+    {
+      "id": 55,
+      "start": 365.4,
+      "end": 366.4,
+      "duration": 1.512,
+      "audio": "/dub/sample-02/ru/55.mp3"
+    },
+    {
+      "id": 56,
+      "start": 366.4,
+      "end": 371.4,
+      "duration": 6.408,
+      "audio": "/dub/sample-02/ru/56.mp3"
+    },
+    {
+      "id": 57,
+      "start": 371.4,
+      "end": 375.4,
+      "duration": 4.008,
+      "audio": "/dub/sample-02/ru/57.mp3"
+    },
+    {
+      "id": 58,
+      "start": 375.4,
+      "end": 379.4,
+      "duration": 5.448,
+      "audio": "/dub/sample-02/ru/58.mp3"
+    },
+    {
+      "id": 59,
+      "start": 379.4,
+      "end": 388.4,
+      "duration": 7.008,
+      "audio": "/dub/sample-02/ru/59.mp3"
+    },
+    {
+      "id": 60,
+      "start": 388.4,
+      "end": 390.4,
+      "duration": 3.6,
+      "audio": "/dub/sample-02/ru/60.mp3"
+    },
+    {
+      "id": 61,
+      "start": 390.4,
+      "end": 398.4,
+      "duration": 9.312,
+      "audio": "/dub/sample-02/ru/61.mp3"
+    },
+    {
+      "id": 62,
+      "start": 398.4,
+      "end": 405.4,
+      "duration": 11.808,
+      "audio": "/dub/sample-02/ru/62.mp3"
+    },
+    {
+      "id": 63,
+      "start": 405.4,
+      "end": 412.4,
+      "duration": 6.552,
+      "audio": "/dub/sample-02/ru/63.mp3"
+    },
+    {
+      "id": 64,
+      "start": 412.4,
+      "end": 424.4,
+      "duration": 11.904,
+      "audio": "/dub/sample-02/ru/64.mp3"
+    },
+    {
+      "id": 65,
+      "start": 424.4,
+      "end": 433.4,
+      "duration": 7.008,
+      "audio": "/dub/sample-02/ru/65.mp3"
+    },
+    {
+      "id": 66,
+      "start": 433.4,
+      "end": 437.4,
+      "duration": 6.36,
+      "audio": "/dub/sample-02/ru/66.mp3"
+    },
+    {
+      "id": 67,
+      "start": 437.4,
+      "end": 444.4,
+      "duration": 7.248,
+      "audio": "/dub/sample-02/ru/67.mp3"
+    },
+    {
+      "id": 68,
+      "start": 444.4,
+      "end": 449.4,
+      "duration": 6.72,
+      "audio": "/dub/sample-02/ru/68.mp3"
+    },
+    {
+      "id": 69,
+      "start": 449.4,
+      "end": 460.4,
+      "duration": 10.8,
+      "audio": "/dub/sample-02/ru/69.mp3"
+    },
+    {
+      "id": 70,
+      "start": 460.4,
+      "end": 467.4,
+      "duration": 9,
+      "audio": "/dub/sample-02/ru/70.mp3"
+    },
+    {
+      "id": 71,
+      "start": 467.4,
+      "end": 479.4,
+      "duration": 12.36,
+      "audio": "/dub/sample-02/ru/71.mp3"
+    },
+    {
+      "id": 72,
+      "start": 479.4,
+      "end": 487.4,
+      "duration": 8.112,
+      "audio": "/dub/sample-02/ru/72.mp3"
+    },
+    {
+      "id": 73,
+      "start": 487.4,
+      "end": 496.4,
+      "duration": 8.304,
+      "audio": "/dub/sample-02/ru/73.mp3"
+    },
+    {
+      "id": 74,
+      "start": 496.4,
+      "end": 505.4,
+      "duration": 8.352,
+      "audio": "/dub/sample-02/ru/74.mp3"
+    },
+    {
+      "id": 75,
+      "start": 505.4,
+      "end": 509.4,
+      "duration": 4.56,
+      "audio": "/dub/sample-02/ru/75.mp3"
+    },
+    {
+      "id": 76,
+      "start": 509.4,
+      "end": 518.4,
+      "duration": 10.104,
+      "audio": "/dub/sample-02/ru/76.mp3"
+    },
+    {
+      "id": 77,
+      "start": 518.4,
+      "end": 521.4,
+      "duration": 4.464,
+      "audio": "/dub/sample-02/ru/77.mp3"
+    },
+    {
+      "id": 78,
+      "start": 521.4,
+      "end": 530.4,
+      "duration": 10.752,
+      "audio": "/dub/sample-02/ru/78.mp3"
+    },
+    {
+      "id": 79,
+      "start": 530.4,
+      "end": 535.4,
+      "duration": 6.6,
+      "audio": "/dub/sample-02/ru/79.mp3"
+    },
+    {
+      "id": 80,
+      "start": 535.4,
+      "end": 547.4,
+      "duration": 10.968,
+      "audio": "/dub/sample-02/ru/80.mp3"
+    },
+    {
+      "id": 81,
+      "start": 547.4,
+      "end": 557.4,
+      "duration": 14.616,
+      "audio": "/dub/sample-02/ru/81.mp3"
+    },
+    {
+      "id": 82,
+      "start": 557.4,
+      "end": 564.4,
+      "duration": 6.72,
+      "audio": "/dub/sample-02/ru/82.mp3"
+    },
+    {
+      "id": 83,
+      "start": 564.4,
+      "end": 573.4,
+      "duration": 10.512,
+      "audio": "/dub/sample-02/ru/83.mp3"
+    },
+    {
+      "id": 84,
+      "start": 573.4,
+      "end": 579.4,
+      "duration": 6.12,
+      "audio": "/dub/sample-02/ru/84.mp3"
+    },
+    {
+      "id": 85,
+      "start": 579.4,
+      "end": 584.4,
+      "duration": 9.864,
+      "audio": "/dub/sample-02/ru/85.mp3"
+    },
+    {
+      "id": 86,
+      "start": 584.4,
+      "end": 589.4,
+      "duration": 6.864,
+      "audio": "/dub/sample-02/ru/86.mp3"
+    },
+    {
+      "id": 87,
+      "start": 589.4,
+      "end": 595.4,
+      "duration": 8.712,
+      "audio": "/dub/sample-02/ru/87.mp3"
+    },
+    {
+      "id": 88,
+      "start": 595.4,
+      "end": 601.4,
+      "duration": 8.16,
+      "audio": "/dub/sample-02/ru/88.mp3"
+    },
+    {
+      "id": 89,
+      "start": 601.4,
+      "end": 611.4,
+      "duration": 10.608,
+      "audio": "/dub/sample-02/ru/89.mp3"
+    },
+    {
+      "id": 90,
+      "start": 611.4,
+      "end": 614.4,
+      "duration": 4.104,
+      "audio": "/dub/sample-02/ru/90.mp3"
+    },
+    {
+      "id": 91,
+      "start": 614.4,
+      "end": 619.4,
+      "duration": 7.968,
+      "audio": "/dub/sample-02/ru/91.mp3"
+    },
+    {
+      "id": 92,
+      "start": 619.4,
+      "end": 622.4,
+      "duration": 5.856,
+      "audio": "/dub/sample-02/ru/92.mp3"
+    },
+    {
+      "id": 93,
+      "start": 622.4,
+      "end": 626.4,
+      "duration": 6.264,
+      "audio": "/dub/sample-02/ru/93.mp3"
+    },
+    {
+      "id": 94,
+      "start": 626.4,
+      "end": 630.4,
+      "duration": 6.36,
+      "audio": "/dub/sample-02/ru/94.mp3"
+    },
+    {
+      "id": 95,
+      "start": 630.4,
+      "end": 636.4,
+      "duration": 8.16,
+      "audio": "/dub/sample-02/ru/95.mp3"
+    },
+    {
+      "id": 96,
+      "start": 636.4,
+      "end": 642.4,
+      "duration": 6.264,
+      "audio": "/dub/sample-02/ru/96.mp3"
+    },
+    {
+      "id": 97,
+      "start": 642.4,
+      "end": 648.4,
+      "duration": 7.008,
+      "audio": "/dub/sample-02/ru/97.mp3"
+    },
+    {
+      "id": 98,
+      "start": 648.4,
+      "end": 649.4,
+      "duration": 2.568,
+      "audio": "/dub/sample-02/ru/98.mp3"
+    },
+    {
+      "id": 99,
+      "start": 649.4,
+      "end": 656.4,
+      "duration": 10.464,
+      "audio": "/dub/sample-02/ru/99.mp3"
+    },
+    {
+      "id": 100,
+      "start": 656.4,
+      "end": 662.4,
+      "duration": 7.248,
+      "audio": "/dub/sample-02/ru/100.mp3"
+    },
+    {
+      "id": 101,
+      "start": 662.4,
+      "end": 666.4,
+      "duration": 6.6,
+      "audio": "/dub/sample-02/ru/101.mp3"
+    },
+    {
+      "id": 102,
+      "start": 666.4,
+      "end": 672.4,
+      "duration": 9.552,
+      "audio": "/dub/sample-02/ru/102.mp3"
+    },
+    {
+      "id": 103,
+      "start": 672.4,
+      "end": 677.4,
+      "duration": 6.048,
+      "audio": "/dub/sample-02/ru/103.mp3"
+    },
+    {
+      "id": 104,
+      "start": 677.4,
+      "end": 683.4,
+      "duration": 7.248,
+      "audio": "/dub/sample-02/ru/104.mp3"
+    },
+    {
+      "id": 105,
+      "start": 683.4,
+      "end": 686.4,
+      "duration": 7.368,
+      "audio": "/dub/sample-02/ru/105.mp3"
+    },
+    {
+      "id": 106,
+      "start": 686.4,
+      "end": 689.4,
+      "duration": 7.152,
+      "audio": "/dub/sample-02/ru/106.mp3"
+    },
+    {
+      "id": 107,
+      "start": 689.4,
+      "end": 691.4,
+      "duration": 6.168,
+      "audio": "/dub/sample-02/ru/107.mp3"
+    },
+    {
+      "id": 108,
+      "start": 691.4,
+      "end": 693.4,
+      "duration": 3.312,
+      "audio": "/dub/sample-02/ru/108.mp3"
+    },
+    {
+      "id": 109,
+      "start": 693.4,
+      "end": 696.4,
+      "duration": 5.664,
+      "audio": "/dub/sample-02/ru/109.mp3"
+    },
+    {
+      "id": 110,
+      "start": 696.4,
+      "end": 704.4,
+      "duration": 10.008,
+      "audio": "/dub/sample-02/ru/110.mp3"
+    },
+    {
+      "id": 111,
+      "start": 704.4,
+      "end": 709.4,
+      "duration": 6.12,
+      "audio": "/dub/sample-02/ru/111.mp3"
+    },
+    {
+      "id": 112,
+      "start": 709.4,
+      "end": 715.4,
+      "duration": 6.648,
+      "audio": "/dub/sample-02/ru/112.mp3"
+    },
+    {
+      "id": 113,
+      "start": 715.4,
+      "end": 719.4,
+      "duration": 5.952,
+      "audio": "/dub/sample-02/ru/113.mp3"
+    },
+    {
+      "id": 114,
+      "start": 719.4,
+      "end": 723.4,
+      "duration": 5.208,
+      "audio": "/dub/sample-02/ru/114.mp3"
+    },
+    {
+      "id": 115,
+      "start": 723.4,
+      "end": 725.4,
+      "duration": 3.552,
+      "audio": "/dub/sample-02/ru/115.mp3"
+    },
+    {
+      "id": 116,
+      "start": 725.4,
+      "end": 731.4,
+      "duration": 7.32,
+      "audio": "/dub/sample-02/ru/116.mp3"
+    },
+    {
+      "id": 117,
+      "start": 731.4,
+      "end": 735.4,
+      "duration": 5.616,
+      "audio": "/dub/sample-02/ru/117.mp3"
+    },
+    {
+      "id": 118,
+      "start": 735.4,
+      "end": 739.4,
+      "duration": 5.352,
+      "audio": "/dub/sample-02/ru/118.mp3"
+    },
+    {
+      "id": 119,
+      "start": 739.4,
+      "end": 744.4,
+      "duration": 5.352,
+      "audio": "/dub/sample-02/ru/119.mp3"
+    },
+    {
+      "id": 120,
+      "start": 744.4,
+      "end": 748.4,
+      "duration": 5.904,
+      "audio": "/dub/sample-02/ru/120.mp3"
+    },
+    {
+      "id": 121,
+      "start": 748.4,
+      "end": 749.4,
+      "duration": 1.92,
+      "audio": "/dub/sample-02/ru/121.mp3"
+    },
+    {
+      "id": 122,
+      "start": 749.4,
+      "end": 755.4,
+      "duration": 7.152,
+      "audio": "/dub/sample-02/ru/122.mp3"
+    },
+    {
+      "id": 123,
+      "start": 755.4,
+      "end": 759.4,
+      "duration": 7.248,
+      "audio": "/dub/sample-02/ru/123.mp3"
+    },
+    {
+      "id": 124,
+      "start": 759.4,
+      "end": 762.4,
+      "duration": 3.864,
+      "audio": "/dub/sample-02/ru/124.mp3"
+    },
+    {
+      "id": 125,
+      "start": 762.4,
+      "end": 768.4,
+      "duration": 8.712,
+      "audio": "/dub/sample-02/ru/125.mp3"
+    },
+    {
+      "id": 126,
+      "start": 768.4,
+      "end": 773.4,
+      "duration": 7.848,
+      "audio": "/dub/sample-02/ru/126.mp3"
+    },
+    {
+      "id": 127,
+      "start": 773.4,
+      "end": 779.4,
+      "duration": 5.856,
+      "audio": "/dub/sample-02/ru/127.mp3"
+    },
+    {
+      "id": 128,
+      "start": 779.4,
+      "end": 783.4,
+      "duration": 4.416,
+      "audio": "/dub/sample-02/ru/128.mp3"
+    },
+    {
+      "id": 129,
+      "start": 783.4,
+      "end": 790.4,
+      "duration": 7.968,
+      "audio": "/dub/sample-02/ru/129.mp3"
+    },
+    {
+      "id": 130,
+      "start": 790.4,
+      "end": 796.4,
+      "duration": 7.848,
+      "audio": "/dub/sample-02/ru/130.mp3"
+    },
+    {
+      "id": 131,
+      "start": 796.4,
+      "end": 800.4,
+      "duration": 4.848,
+      "audio": "/dub/sample-02/ru/131.mp3"
+    },
+    {
+      "id": 132,
+      "start": 800.4,
+      "end": 805.4,
+      "duration": 6.12,
+      "audio": "/dub/sample-02/ru/132.mp3"
+    },
+    {
+      "id": 133,
+      "start": 805.4,
+      "end": 808.4,
+      "duration": 3.912,
+      "audio": "/dub/sample-02/ru/133.mp3"
+    },
+    {
+      "id": 134,
+      "start": 808.4,
+      "end": 811.4,
+      "duration": 5.304,
+      "audio": "/dub/sample-02/ru/134.mp3"
+    },
+    {
+      "id": 135,
+      "start": 811.4,
+      "end": 817.4,
+      "duration": 5.952,
+      "audio": "/dub/sample-02/ru/135.mp3"
+    },
+    {
+      "id": 136,
+      "start": 817.4,
+      "end": 822.4,
+      "duration": 4.848,
+      "audio": "/dub/sample-02/ru/136.mp3"
+    },
+    {
+      "id": 137,
+      "start": 822.4,
+      "end": 825.4,
+      "duration": 4.32,
+      "audio": "/dub/sample-02/ru/137.mp3"
+    },
+    {
+      "id": 138,
+      "start": 825.4,
+      "end": 828.4,
+      "duration": 5.448,
+      "audio": "/dub/sample-02/ru/138.mp3"
+    },
+    {
+      "id": 139,
+      "start": 828.4,
+      "end": 831.4,
+      "duration": 5.616,
+      "audio": "/dub/sample-02/ru/139.mp3"
+    },
+    {
+      "id": 140,
+      "start": 831.4,
+      "end": 835.4,
+      "duration": 6.36,
+      "audio": "/dub/sample-02/ru/140.mp3"
+    },
+    {
+      "id": 141,
+      "start": 835.4,
+      "end": 841.4,
+      "duration": 7.848,
+      "audio": "/dub/sample-02/ru/141.mp3"
+    },
+    {
+      "id": 142,
+      "start": 841.4,
+      "end": 848.4,
+      "duration": 9.912,
+      "audio": "/dub/sample-02/ru/142.mp3"
+    },
+    {
+      "id": 143,
+      "start": 848.4,
+      "end": 853.4,
+      "duration": 7.008,
+      "audio": "/dub/sample-02/ru/143.mp3"
+    },
+    {
+      "id": 144,
+      "start": 853.4,
+      "end": 856.4,
+      "duration": 6.216,
+      "audio": "/dub/sample-02/ru/144.mp3"
+    },
+    {
+      "id": 145,
+      "start": 856.4,
+      "end": 860.4,
+      "duration": 5.808,
+      "audio": "/dub/sample-02/ru/145.mp3"
+    },
+    {
+      "id": 146,
+      "start": 860.4,
+      "end": 863.4,
+      "duration": 5.208,
+      "audio": "/dub/sample-02/ru/146.mp3"
+    },
+    {
+      "id": 147,
+      "start": 863.4,
+      "end": 867.4,
+      "duration": 5.568,
+      "audio": "/dub/sample-02/ru/147.mp3"
+    },
+    {
+      "id": 148,
+      "start": 867.4,
+      "end": 873.4,
+      "duration": 8.208,
+      "audio": "/dub/sample-02/ru/148.mp3"
+    },
+    {
+      "id": 149,
+      "start": 873.4,
+      "end": 880.4,
+      "duration": 8.208,
+      "audio": "/dub/sample-02/ru/149.mp3"
+    },
+    {
+      "id": 150,
+      "start": 880.4,
+      "end": 886.4,
+      "duration": 8.856,
+      "audio": "/dub/sample-02/ru/150.mp3"
+    },
+    {
+      "id": 151,
+      "start": 886.4,
+      "end": 894.4,
+      "duration": 9.816,
+      "audio": "/dub/sample-02/ru/151.mp3"
+    },
+    {
+      "id": 152,
+      "start": 894.4,
+      "end": 899.4,
+      "duration": 8.064,
+      "audio": "/dub/sample-02/ru/152.mp3"
+    },
+    {
+      "id": 153,
+      "start": 899.4,
+      "end": 905.4,
+      "duration": 7.368,
+      "audio": "/dub/sample-02/ru/153.mp3"
+    },
+    {
+      "id": 154,
+      "start": 905.4,
+      "end": 909.4,
+      "duration": 0.36,
+      "audio": "/dub/sample-02/ru/154.mp3"
+    },
+    {
+      "id": 155,
+      "start": 909.4,
+      "end": 910.4,
+      "duration": 2.904,
+      "audio": "/dub/sample-02/ru/155.mp3"
+    },
+    {
+      "id": 156,
+      "start": 910.4,
+      "end": 915.4,
+      "duration": 6.912,
+      "audio": "/dub/sample-02/ru/156.mp3"
+    },
+    {
+      "id": 157,
+      "start": 915.4,
+      "end": 920.4,
+      "duration": 7.104,
+      "audio": "/dub/sample-02/ru/157.mp3"
+    },
+    {
+      "id": 158,
+      "start": 920.4,
+      "end": 926.4,
+      "duration": 7.848,
+      "audio": "/dub/sample-02/ru/158.mp3"
+    },
+    {
+      "id": 159,
+      "start": 926.4,
+      "end": 931.4,
+      "duration": 6.36,
+      "audio": "/dub/sample-02/ru/159.mp3"
+    },
+    {
+      "id": 160,
+      "start": 931.4,
+      "end": 936.4,
+      "duration": 6.648,
+      "audio": "/dub/sample-02/ru/160.mp3"
+    },
+    {
+      "id": 161,
+      "start": 936.4,
+      "end": 941.4,
+      "duration": 8.856,
+      "audio": "/dub/sample-02/ru/161.mp3"
+    },
+    {
+      "id": 162,
+      "start": 941.4,
+      "end": 946.4,
+      "duration": 9.552,
+      "audio": "/dub/sample-02/ru/162.mp3"
+    },
+    {
+      "id": 163,
+      "start": 946.4,
+      "end": 950.4,
+      "duration": 4.8,
+      "audio": "/dub/sample-02/ru/163.mp3"
+    },
+    {
+      "id": 164,
+      "start": 950.4,
+      "end": 952.4,
+      "duration": 3.816,
+      "audio": "/dub/sample-02/ru/164.mp3"
+    },
+    {
+      "id": 165,
+      "start": 952.4,
+      "end": 955.4,
+      "duration": 4.704,
+      "audio": "/dub/sample-02/ru/165.mp3"
+    },
+    {
+      "id": 166,
+      "start": 955.4,
+      "end": 959.4,
+      "duration": 6.768,
+      "audio": "/dub/sample-02/ru/166.mp3"
+    },
+    {
+      "id": 167,
+      "start": 959.4,
+      "end": 962.4,
+      "duration": 5.4,
+      "audio": "/dub/sample-02/ru/167.mp3"
+    },
+    {
+      "id": 168,
+      "start": 962.4,
+      "end": 966.4,
+      "duration": 7.008,
+      "audio": "/dub/sample-02/ru/168.mp3"
+    },
+    {
+      "id": 169,
+      "start": 966.4,
+      "end": 972.4,
+      "duration": 7.92,
+      "audio": "/dub/sample-02/ru/169.mp3"
+    },
+    {
+      "id": 170,
+      "start": 972.4,
+      "end": 976.4,
+      "duration": 6.72,
+      "audio": "/dub/sample-02/ru/170.mp3"
+    },
+    {
+      "id": 171,
+      "start": 976.4,
+      "end": 982.4,
+      "duration": 7.8,
+      "audio": "/dub/sample-02/ru/171.mp3"
+    },
+    {
+      "id": 172,
+      "start": 982.4,
+      "end": 988.4,
+      "duration": 7.416,
+      "audio": "/dub/sample-02/ru/172.mp3"
+    },
+    {
+      "id": 173,
+      "start": 988.4,
+      "end": 991.4,
+      "duration": 5.52,
+      "audio": "/dub/sample-02/ru/173.mp3"
+    },
+    {
+      "id": 174,
+      "start": 991.4,
+      "end": 996.4,
+      "duration": 5.064,
+      "audio": "/dub/sample-02/ru/174.mp3"
+    },
+    {
+      "id": 175,
+      "start": 996.4,
+      "end": 1001.4,
+      "duration": 5.16,
+      "audio": "/dub/sample-02/ru/175.mp3"
+    },
+    {
+      "id": 176,
+      "start": 1001.4,
+      "end": 1006.4,
+      "duration": 9.864,
+      "audio": "/dub/sample-02/ru/176.mp3"
+    },
+    {
+      "id": 177,
+      "start": 1006.4,
+      "end": 1012.4,
+      "duration": 7.464,
+      "audio": "/dub/sample-02/ru/177.mp3"
+    },
+    {
+      "id": 178,
+      "start": 1012.4,
+      "end": 1016.4,
+      "duration": 4.8,
+      "audio": "/dub/sample-02/ru/178.mp3"
+    },
+    {
+      "id": 179,
+      "start": 1016.4,
+      "end": 1022.4,
+      "duration": 6.12,
+      "audio": "/dub/sample-02/ru/179.mp3"
+    },
+    {
+      "id": 180,
+      "start": 1022.4,
+      "end": 1029.4,
+      "duration": 11.568,
+      "audio": "/dub/sample-02/ru/180.mp3"
+    },
+    {
+      "id": 181,
+      "start": 1029.4,
+      "end": 1036.4,
+      "duration": 9.408,
+      "audio": "/dub/sample-02/ru/181.mp3"
+    },
+    {
+      "id": 182,
+      "start": 1036.4,
+      "end": 1043.4,
+      "duration": 8.712,
+      "audio": "/dub/sample-02/ru/182.mp3"
+    },
+    {
+      "id": 183,
+      "start": 1043.4,
+      "end": 1048.4,
+      "duration": 6.168,
+      "audio": "/dub/sample-02/ru/183.mp3"
+    },
+    {
+      "id": 184,
+      "start": 1048.4,
+      "end": 1049.4,
+      "duration": 1.656,
+      "audio": "/dub/sample-02/ru/184.mp3"
+    },
+    {
+      "id": 185,
+      "start": 1049.4,
+      "end": 1056.4,
+      "duration": 7.368,
+      "audio": "/dub/sample-02/ru/185.mp3"
+    },
+    {
+      "id": 186,
+      "start": 1056.4,
+      "end": 1063.4,
+      "duration": 9.168,
+      "audio": "/dub/sample-02/ru/186.mp3"
+    },
+    {
+      "id": 187,
+      "start": 1063.4,
+      "end": 1069.4,
+      "duration": 9.96,
+      "audio": "/dub/sample-02/ru/187.mp3"
+    },
+    {
+      "id": 188,
+      "start": 1069.4,
+      "end": 1073.4,
+      "duration": 3.72,
+      "audio": "/dub/sample-02/ru/188.mp3"
+    },
+    {
+      "id": 189,
+      "start": 1073.4,
+      "end": 1080.4,
+      "duration": 6.72,
+      "audio": "/dub/sample-02/ru/189.mp3"
+    },
+    {
+      "id": 190,
+      "start": 1080.4,
+      "end": 1083.4,
+      "duration": 5.208,
+      "audio": "/dub/sample-02/ru/190.mp3"
+    },
+    {
+      "id": 191,
+      "start": 1083.4,
+      "end": 1091.4,
+      "duration": 9.12,
+      "audio": "/dub/sample-02/ru/191.mp3"
+    },
+    {
+      "id": 192,
+      "start": 1091.4,
+      "end": 1095.4,
+      "duration": 7.56,
+      "audio": "/dub/sample-02/ru/192.mp3"
+    },
+    {
+      "id": 193,
+      "start": 1095.4,
+      "end": 1102.4,
+      "duration": 9.72,
+      "audio": "/dub/sample-02/ru/193.mp3"
+    },
+    {
+      "id": 194,
+      "start": 1102.4,
+      "end": 1106.4,
+      "duration": 5.664,
+      "audio": "/dub/sample-02/ru/194.mp3"
+    },
+    {
+      "id": 195,
+      "start": 1106.4,
+      "end": 1112.4,
+      "duration": 6.864,
+      "audio": "/dub/sample-02/ru/195.mp3"
+    },
+    {
+      "id": 196,
+      "start": 1112.4,
+      "end": 1116.4,
+      "duration": 7.152,
+      "audio": "/dub/sample-02/ru/196.mp3"
+    },
+    {
+      "id": 197,
+      "start": 1116.4,
+      "end": 1122.4,
+      "duration": 8.304,
+      "audio": "/dub/sample-02/ru/197.mp3"
+    },
+    {
+      "id": 198,
+      "start": 1122.4,
+      "end": 1130.4,
+      "duration": 8.448,
+      "audio": "/dub/sample-02/ru/198.mp3"
+    },
+    {
+      "id": 199,
+      "start": 1130.4,
+      "end": 1136.4,
+      "duration": 6.864,
+      "audio": "/dub/sample-02/ru/199.mp3"
+    },
+    {
+      "id": 200,
+      "start": 1136.4,
+      "end": 1140.4,
+      "duration": 5.4,
+      "audio": "/dub/sample-02/ru/200.mp3"
+    },
+    {
+      "id": 201,
+      "start": 1140.4,
+      "end": 1148.4,
+      "duration": 8.208,
+      "audio": "/dub/sample-02/ru/201.mp3"
+    },
+    {
+      "id": 202,
+      "start": 1148.4,
+      "end": 1157.4,
+      "duration": 9.216,
+      "audio": "/dub/sample-02/ru/202.mp3"
+    },
+    {
+      "id": 203,
+      "start": 1157.4,
+      "end": 1163.4,
+      "duration": 8.712,
+      "audio": "/dub/sample-02/ru/203.mp3"
+    },
+    {
+      "id": 204,
+      "start": 1163.4,
+      "end": 1168.4,
+      "duration": 6.816,
+      "audio": "/dub/sample-02/ru/204.mp3"
+    },
+    {
+      "id": 205,
+      "start": 1168.4,
+      "end": 1175.4,
+      "duration": 10.608,
+      "audio": "/dub/sample-02/ru/205.mp3"
+    },
+    {
+      "id": 206,
+      "start": 1175.4,
+      "end": 1180.4,
+      "duration": 7.152,
+      "audio": "/dub/sample-02/ru/206.mp3"
+    },
+    {
+      "id": 207,
+      "start": 1180.4,
+      "end": 1185.4,
+      "duration": 7.464,
+      "audio": "/dub/sample-02/ru/207.mp3"
+    },
+    {
+      "id": 208,
+      "start": 1185.4,
+      "end": 1193.4,
+      "duration": 8.352,
+      "audio": "/dub/sample-02/ru/208.mp3"
+    },
+    {
+      "id": 209,
+      "start": 1193.4,
+      "end": 1199.4,
+      "duration": 9,
+      "audio": "/dub/sample-02/ru/209.mp3"
+    },
+    {
+      "id": 210,
+      "start": 1199.4,
+      "end": 1208.4,
+      "duration": 10.368,
+      "audio": "/dub/sample-02/ru/210.mp3"
+    },
+    {
+      "id": 211,
+      "start": 1208.4,
+      "end": 1215.4,
+      "duration": 6.912,
+      "audio": "/dub/sample-02/ru/211.mp3"
+    },
+    {
+      "id": 212,
+      "start": 1215.4,
+      "end": 1220.4,
+      "duration": 5.352,
+      "audio": "/dub/sample-02/ru/212.mp3"
+    },
+    {
+      "id": 213,
+      "start": 1220.4,
+      "end": 1225.4,
+      "duration": 6,
+      "audio": "/dub/sample-02/ru/213.mp3"
+    },
+    {
+      "id": 214,
+      "start": 1225.4,
+      "end": 1229.4,
+      "duration": 5.4,
+      "audio": "/dub/sample-02/ru/214.mp3"
+    },
+    {
+      "id": 215,
+      "start": 1229.4,
+      "end": 1237.4,
+      "duration": 8.4,
+      "audio": "/dub/sample-02/ru/215.mp3"
+    },
+    {
+      "id": 216,
+      "start": 1237.4,
+      "end": 1243.4,
+      "duration": 5.76,
+      "audio": "/dub/sample-02/ru/216.mp3"
+    },
+    {
+      "id": 217,
+      "start": 1243.4,
+      "end": 1246.4,
+      "duration": 2.448,
+      "audio": "/dub/sample-02/ru/217.mp3"
+    },
+    {
+      "id": 218,
+      "start": 1246.4,
+      "end": 1254.4,
+      "duration": 9.216,
+      "audio": "/dub/sample-02/ru/218.mp3"
+    },
+    {
+      "id": 219,
+      "start": 1254.4,
+      "end": 1263.4,
+      "duration": 9.264,
+      "audio": "/dub/sample-02/ru/219.mp3"
+    },
+    {
+      "id": 220,
+      "start": 1263.4,
+      "end": 1265.4,
+      "duration": 2.568,
+      "audio": "/dub/sample-02/ru/220.mp3"
+    },
+    {
+      "id": 221,
+      "start": 1265.4,
+      "end": 1272.4,
+      "duration": 7.2,
+      "audio": "/dub/sample-02/ru/221.mp3"
+    },
+    {
+      "id": 222,
+      "start": 1272.4,
+      "end": 1280.4,
+      "duration": 10.008,
+      "audio": "/dub/sample-02/ru/222.mp3"
+    },
+    {
+      "id": 223,
+      "start": 1280.4,
+      "end": 1284.4,
+      "duration": 5.064,
+      "audio": "/dub/sample-02/ru/223.mp3"
+    },
+    {
+      "id": 224,
+      "start": 1284.4,
+      "end": 1288.4,
+      "duration": 5.016,
+      "audio": "/dub/sample-02/ru/224.mp3"
+    },
+    {
+      "id": 225,
+      "start": 1288.4,
+      "end": 1297.4,
+      "duration": 11.856,
+      "audio": "/dub/sample-02/ru/225.mp3"
+    },
+    {
+      "id": 226,
+      "start": 1297.4,
+      "end": 1299.4,
+      "duration": 1.704,
+      "audio": "/dub/sample-02/ru/226.mp3"
+    },
+    {
+      "id": 227,
+      "start": 1299.4,
+      "end": 1306.4,
+      "duration": 9.96,
+      "audio": "/dub/sample-02/ru/227.mp3"
+    },
+    {
+      "id": 228,
+      "start": 1306.4,
+      "end": 1310.4,
+      "duration": 5.904,
+      "audio": "/dub/sample-02/ru/228.mp3"
+    },
+    {
+      "id": 229,
+      "start": 1310.4,
+      "end": 1316.4,
+      "duration": 7.416,
+      "audio": "/dub/sample-02/ru/229.mp3"
+    },
+    {
+      "id": 230,
+      "start": 1316.4,
+      "end": 1320.4,
+      "duration": 6.12,
+      "audio": "/dub/sample-02/ru/230.mp3"
+    },
+    {
+      "id": 231,
+      "start": 1320.4,
+      "end": 1324.4,
+      "duration": 6.216,
+      "audio": "/dub/sample-02/ru/231.mp3"
+    },
+    {
+      "id": 232,
+      "start": 1324.4,
+      "end": 1329.4,
+      "duration": 6.72,
+      "audio": "/dub/sample-02/ru/232.mp3"
+    },
+    {
+      "id": 233,
+      "start": 1329.4,
+      "end": 1333.4,
+      "duration": 7.512,
+      "audio": "/dub/sample-02/ru/233.mp3"
+    },
+    {
+      "id": 234,
+      "start": 1333.4,
+      "end": 1340.4,
+      "duration": 6.216,
+      "audio": "/dub/sample-02/ru/234.mp3"
+    },
+    {
+      "id": 235,
+      "start": 1340.4,
+      "end": 1348.4,
+      "duration": 6.12,
+      "audio": "/dub/sample-02/ru/235.mp3"
+    },
+    {
+      "id": 236,
+      "start": 1348.4,
+      "end": 1353.4,
+      "duration": 6.048,
+      "audio": "/dub/sample-02/ru/236.mp3"
+    },
+    {
+      "id": 237,
+      "start": 1353.4,
+      "end": 1360.4,
+      "duration": 8.256,
+      "audio": "/dub/sample-02/ru/237.mp3"
+    },
+    {
+      "id": 238,
+      "start": 1360.4,
+      "end": 1363.4,
+      "duration": 4.008,
+      "audio": "/dub/sample-02/ru/238.mp3"
+    },
+    {
+      "id": 239,
+      "start": 1376.4,
+      "end": 1380.4,
+      "duration": 4.464,
+      "audio": "/dub/sample-02/ru/239.mp3"
+    },
+    {
+      "id": 240,
+      "start": 1380.4,
+      "end": 1387.4,
+      "duration": 10.752,
+      "audio": "/dub/sample-02/ru/240.mp3"
+    },
+    {
+      "id": 241,
+      "start": 1387.4,
+      "end": 1391.4,
+      "duration": 5.4,
+      "audio": "/dub/sample-02/ru/241.mp3"
+    }
+  ]
+}
