@@ -13,7 +13,9 @@
 //  - 진행 로그: 누적 진행 상황을 주기적으로 출력.
 //  - 이어하기: 이미 만들어진 mp3(>0B)는 건너뛰고 없는 것만 생성.
 //
-// 실행:   node scripts/dub.js vi     (언어 인자 생략 시 기본 vi)
+// 실행:   node scripts/dub.js <lang>               (콘텐츠 sample-01 기본)
+//         node scripts/dub.js <contentId> <lang>   (콘텐츠 확장 — 예: sample-02 en)
+//         인자 생략 시 sample-01 vi.
 // 필요:   .env 의 OPENAI_API_KEY, 로컬에 ffprobe(ffmpeg) 설치.
 
 import { readFile, writeFile, mkdir, stat } from 'node:fs/promises';
@@ -29,9 +31,7 @@ const execFileAsync = promisify(execFile);
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 
-const CONTENT_ID = 'sample-01';
-const DATA_DIR = path.join(ROOT, 'data', CONTENT_ID);
-const SUBTITLES_JSON = path.join(DATA_DIR, 'subtitles.json');
+// (콘텐츠별 경로 DATA_DIR/SUBTITLES_JSON 와 CONTENT_ID 는 인자 파싱 후 run() 에서 결정)
 
 // ── 언어 설정(데이터로 관리 — 다른 언어 확장 시 여기만 보강) ──────────────────
 // 자막 text 에 존재하는 언어면 인자로 받아 처리 가능.
@@ -207,11 +207,25 @@ async function synthesize({ text, lang, apiKey, label }) {
 async function run() {
   await loadEnv();
 
-  // 언어 인자.
-  const lang = (process.argv[2] || DEFAULT_LANG).trim();
+  // 인자 파싱 — `dub.js <lang>`(콘텐츠 sample-01 기본) 또는 `dub.js <contentId> <lang>`.
+  const argv = process.argv.slice(2);
+  let contentId = 'sample-01';
+  let lang;
+  if (argv.length >= 2) {
+    contentId = argv[0].trim();
+    lang = argv[1].trim();
+  } else {
+    lang = (argv[0] || DEFAULT_LANG).trim();
+  }
   if (!SUPPORTED_LANGS.includes(lang)) {
     fail(`지원하지 않는 언어 코드: '${lang}'. 가능: ${SUPPORTED_LANGS.join(', ')}`);
   }
+
+  // 콘텐츠별 경로 결정(하위 코드가 쓰는 이름 그대로 로컬로 둔다).
+  const CONTENT_ID = contentId;
+  const DATA_DIR = path.join(ROOT, 'data', CONTENT_ID);
+  const SUBTITLES_JSON = path.join(DATA_DIR, 'subtitles.json');
+  if (!existsSync(DATA_DIR)) fail(`콘텐츠 폴더가 없습니다: data/${CONTENT_ID}`);
 
   // 키 확인.
   const apiKey = process.env.OPENAI_API_KEY;
