@@ -16,6 +16,7 @@ import dubJa01 from '../../data/sample-01/dub-ja.json';
 import dubEs01 from '../../data/sample-01/dub-es.json';
 import dubFr01 from '../../data/sample-01/dub-fr.json';
 import dubRu01 from '../../data/sample-01/dub-ru.json';
+import dubId01 from '../../data/sample-01/dub-id.json';
 import content02 from '../../data/sample-02/content.json';
 import subtitles02 from '../../data/sample-02/subtitles.json';
 import vocabulary02 from '../../data/sample-02/vocabulary.json';
@@ -26,6 +27,7 @@ import dubJa02 from '../../data/sample-02/dub-ja.json';
 import dubEs02 from '../../data/sample-02/dub-es.json';
 import dubFr02 from '../../data/sample-02/dub-fr.json';
 import dubRu02 from '../../data/sample-02/dub-ru.json';
+import dubId02 from '../../data/sample-02/dub-id.json';
 import content03 from '../../data/sample-03/content.json';
 import subtitles03 from '../../data/sample-03/subtitles.json';
 import vocabulary03 from '../../data/sample-03/vocabulary.json';
@@ -36,6 +38,7 @@ import dubJa03 from '../../data/sample-03/dub-ja.json';
 import dubEs03 from '../../data/sample-03/dub-es.json';
 import dubFr03 from '../../data/sample-03/dub-fr.json';
 import dubRu03 from '../../data/sample-03/dub-ru.json';
+import dubId03 from '../../data/sample-03/dub-id.json';
 
 // ⑥ 더빙 음성 사전(dub-{lang}.json) — 언어별로 묶는다(데이터로 관리, AGENTS.md).
 // 새 언어 더빙은 dub-{lang}.json 을 import 해 해당 콘텐츠의 dubByLang 에 한 줄 추가하면 확장된다.
@@ -57,6 +60,7 @@ const REGISTRY = {
       es: segs(dubEs01),
       fr: segs(dubFr01),
       ru: segs(dubRu01),
+      id: segs(dubId01),
     },
   },
   'sample-02': {
@@ -71,6 +75,7 @@ const REGISTRY = {
       es: segs(dubEs02),
       fr: segs(dubFr02),
       ru: segs(dubRu02),
+      id: segs(dubId02),
     },
   },
   'sample-03': {
@@ -85,6 +90,7 @@ const REGISTRY = {
       es: segs(dubEs03),
       fr: segs(dubFr03),
       ru: segs(dubRu03),
+      id: segs(dubId03),
     },
   },
 };
