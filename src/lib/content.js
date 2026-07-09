@@ -16,9 +16,17 @@ import dubJa01 from '../../data/sample-01/dub-ja.json';
 import content02 from '../../data/sample-02/content.json';
 import subtitles02 from '../../data/sample-02/subtitles.json';
 import vocabulary02 from '../../data/sample-02/vocabulary.json';
+import dubVi02 from '../../data/sample-02/dub-vi.json';
+import dubEn02 from '../../data/sample-02/dub-en.json';
+import dubZh02 from '../../data/sample-02/dub-zh.json';
+import dubJa02 from '../../data/sample-02/dub-ja.json';
 import content03 from '../../data/sample-03/content.json';
 import subtitles03 from '../../data/sample-03/subtitles.json';
 import vocabulary03 from '../../data/sample-03/vocabulary.json';
+import dubVi03 from '../../data/sample-03/dub-vi.json';
+import dubEn03 from '../../data/sample-03/dub-en.json';
+import dubZh03 from '../../data/sample-03/dub-zh.json';
+import dubJa03 from '../../data/sample-03/dub-ja.json';
 
 // ⑥ 더빙 음성 사전(dub-{lang}.json) — 언어별로 묶는다(데이터로 관리, AGENTS.md).
 // 새 언어 더빙은 dub-{lang}.json 을 import 해 해당 콘텐츠의 dubByLang 에 한 줄 추가하면 확장된다.
@@ -43,13 +51,23 @@ const REGISTRY = {
     content: content02,
     segments: segs(subtitles02),
     vocabulary: Array.isArray(vocabulary02.terms) ? vocabulary02.terms : [],
-    dubByLang: {}, // 더빙(⑥)은 아직 미생성 — 토글 숨김.
+    dubByLang: {
+      vi: segs(dubVi02),
+      en: segs(dubEn02),
+      zh: segs(dubZh02),
+      ja: segs(dubJa02),
+    },
   },
   'sample-03': {
     content: content03,
     segments: segs(subtitles03),
     vocabulary: Array.isArray(vocabulary03.terms) ? vocabulary03.terms : [],
-    dubByLang: {}, // 더빙(⑥)은 아직 미생성 — 토글 숨김.
+    dubByLang: {
+      vi: segs(dubVi03),
+      en: segs(dubEn03),
+      zh: segs(dubZh03),
+      ja: segs(dubJa03),
+    },
   },
 };
 
