@@ -16,7 +16,12 @@
             "en": "Early Childhood Class",
             "vi": "Lớp học mầm non",
             "zh": "幼儿课堂",
-            "ja": "幼児クラス"
+            "ja": "幼児クラス",
+            "th": "คลาสเด็กเล็ก",
+            "ru": "Класс для малышей",
+            "id": "Kelas Balita",
+            "es": "Clase para niños pequeños",
+            "fr": "Classe pour tout-petits"
           }
         },
         {
@@ -31,7 +36,12 @@
             "en": "Lesson 3: Our Child's First Sex Education",
             "vi": "Bài 3: Giáo dục giới tính đầu tiên cho con",
             "zh": "第3讲 孩子的第一堂性教育",
-            "ja": "第3講 うちの子の初めての性教育"
+            "ja": "第3講 うちの子の初めての性教育",
+            "th": "บทที่ 3 การสอนเพศศึกษาครั้งแรกให้ลูกน้อย",
+            "ru": "Урок 3. Первое половое воспитание нашего ребёнка",
+            "id": "Bab 3 Pendidikan Seks Pertama untuk Anak Kita",
+            "es": "Lección 3: La primera educación sexual de nuestro hijo",
+            "fr": "Leçon 3 : La première éducation sexuelle de notre enfant"
           }
         }
       ]

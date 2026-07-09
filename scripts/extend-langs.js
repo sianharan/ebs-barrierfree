@@ -4,7 +4,7 @@
 // 초기 파이프라인(translate.js·vocabulary.js)은 전체를 재생성·덮어쓰며 ko를 재교정한다.
 // 그대로 재실행하면 이미 검수된 en·vi·zh·ja가 다시 생성되므로, 이 스크립트는 그 helper·
 // 프롬프트 방식을 재사용하되 "누락 언어만 번역하고 기존 값은 보존"하는 증분 모드로 동작한다.
-//   - 대상: subtitles.json(자막) · vocabulary.json(어휘 뜻풀이) · data/ui-strings.json(UI)
+//   - 대상: subtitles.json(자막) · vocabulary.json(어휘 뜻풀이) · images.json(썸네일 오버레이) · data/ui-strings.json(UI)
 //   - 신규 언어: th·ru·id·es·fr (기존 ko·en·vi·zh·ja 는 건드리지 않음)
 //   - 이미 채워진 언어는 건너뜀(중복 번역 없음) → 중단돼도 재실행하면 남은 것만 처리(이어하기).
 //   - 소스는 ko. 자막·UI는 ko 문장을, 어휘는 def.ko(쉬운 뜻풀이)를 번역한다.
@@ -334,6 +334,16 @@ function uiSystem(langs) {
 [출력] 스키마에 맞춰 입력의 모든 key 에 대해 {key, ${langs.join(', ')}} 를 반환합니다. key 는 입력과 정확히 일치해야 합니다.`;
 }
 
+function imageSystem(langs) {
+  return `당신은 EBS 교육 영상 썸네일의 이미지 속 텍스트(오버레이)를 다국어로 번역하는 전문가입니다.
+입력은 썸네일 이미지에서 추출한 한국어(ko) 텍스트 영역들입니다(각 {id, ko}). ko 를 각 언어로 번역하세요.
+- 대상 언어: ${langs.map((l) => LANG_NAMES[l]).join(', ')}.
+- 강의 제목·라벨(예: "1강 …", "유아 클래스")이므로 간결하고 자연스럽게. 강 번호·표제의 의미를 보존합니다.
+- 이미지 위에 겹쳐 표시되므로 원문의 길이·톤을 크게 벗어나지 않게 옮깁니다. 내용을 새로 추가·삭제하지 않습니다.
+- key 는 영역 식별자입니다. 출력에는 요청한 언어만 담습니다.
+[출력] 스키마에 맞춰 입력의 모든 key 에 대해 {key, ${langs.join(', ')}} 를 반환합니다. key 는 입력과 정확히 일치해야 합니다.`;
+}
+
 // ── 대상별 처리 ────────────────────────────────────────────────────────────
 async function extendSubtitles(contentId, apiKey) {
   const file = path.join(ROOT, 'data', contentId, 'subtitles.json');
@@ -409,6 +419,38 @@ async function extendUiStrings(apiKey) {
   }
 }
 
+async function extendImages(contentId, apiKey) {
+  const file = path.join(ROOT, 'data', contentId, 'images.json');
+  if (!existsSync(file)) {
+    log(`  · ${contentId} images.json 없음 — 건너뜀`);
+    return;
+  }
+  const json = JSON.parse(await readFile(file, 'utf8'));
+  const images = Array.isArray(json.images) ? json.images : [];
+  // 영역별 엔트리. key 는 이미지·영역을 유일하게 식별(이미지id#영역인덱스).
+  const entries = [];
+  for (const img of images) {
+    const regions = Array.isArray(img.regions) ? img.regions : [];
+    regions.forEach((r, i) => {
+      if (typeof r.text?.ko === 'string' && r.text.ko.trim()) {
+        entries.push({ id: `${img.id}#${i}`, source: r.text.ko, missing: missingLangs(r.text), _region: r });
+      }
+    });
+  }
+
+  const filled = await extendEntries({
+    entries,
+    systemFor: imageSystem,
+    unitLabel: `${contentId} 이미지`,
+    apiKey,
+    merge: (e, lang, val) => { e._region.text[lang] = val; },
+  });
+  if (filled > 0) {
+    await writeJson(file, json);
+    log(`  ✓ 저장 ${path.relative(ROOT, file)} (+${filled} 값)`);
+  }
+}
+
 // ── 메인 ───────────────────────────────────────────────────────────────────
 async function run() {
   await loadEnv();
@@ -420,18 +462,25 @@ async function run() {
 
   if (target === 'ui') {
     await extendUiStrings(apiKey);
+  } else if (target === 'images') {
+    for (const c of CONTENTS) {
+      log(`── ${c} ──`);
+      await extendImages(c, apiKey);
+    }
   } else if (CONTENTS.includes(target)) {
     await extendSubtitles(target, apiKey);
     await extendVocabulary(target, apiKey);
+    await extendImages(target, apiKey);
   } else if (target === 'all') {
     await extendUiStrings(apiKey);
     for (const c of CONTENTS) {
       log(`── ${c} ──`);
       await extendSubtitles(c, apiKey);
       await extendVocabulary(c, apiKey);
+      await extendImages(c, apiKey);
     }
   } else {
-    fail(`알 수 없는 대상: '${target}'. 가능: all | ui | ${CONTENTS.join(' | ')}`);
+    fail(`알 수 없는 대상: '${target}'. 가능: all | ui | images | ${CONTENTS.join(' | ')}`);
   }
 
   log(`완료.`);

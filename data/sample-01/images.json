@@ -16,7 +16,12 @@
             "en": "Toddler Class e",
             "vi": "Lớp học trẻ nhỏ e",
             "zh": "幼儿课堂 e",
-            "ja": "幼児クラス e"
+            "ja": "幼児クラス e",
+            "th": "คลาสเด็กเล็ก e",
+            "ru": "Класс для малышей e",
+            "id": "Kelas Balita e",
+            "es": "Clase infantil e",
+            "fr": "Classe pour tout-petits e"
           }
         },
         {
@@ -31,7 +36,12 @@
             "en": "Lesson 1: Our Child's Physical Development and Play",
             "vi": "Bài 1: Sự phát triển thể chất và trò chơi của con chúng ta",
             "zh": "第1讲 我们孩子的身体发育与游戏",
-            "ja": "第1講 うちの子の身体発達と遊び"
+            "ja": "第1講 うちの子の身体発達と遊び",
+            "th": "บทที่ 1 พัฒนาการทางร่างกายและการเล่นของลูกน้อย",
+            "ru": "Урок 1. Физическое развитие и игры вашего ребёнка",
+            "id": "Pelajaran 1 Perkembangan Fisik dan Bermain Anak Kita",
+            "es": "Lección 1 Desarrollo físico y juego de nuestro hijo",
+            "fr": "Leçon 1 Développement physique et jeu de notre enfant"
           }
         }
       ]
