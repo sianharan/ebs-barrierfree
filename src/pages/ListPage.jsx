@@ -9,6 +9,7 @@
 
 import TopBar from '../components/TopBar.jsx';
 import TranslatableImage from '../components/TranslatableImage.jsx';
+import LessonBadge from '../components/LessonBadge.jsx';
 import { CATALOG_LIST } from '../lib/catalog.js';
 import { getImage } from '../lib/images.js';
 import { useRouter } from '../lib/router.jsx';
@@ -23,15 +24,10 @@ function PlayIcon() {
   );
 }
 
-// 강번호("1강"·"2강"…)를 한국어 제목에서 뽑아 배지로. 없으면 순번(index+1)으로 폴백.
-function lessonBadge(content, index) {
-  const m = /^\s*(\d+)\s*강/.exec(content.title?.ko ?? '');
-  return m ? `${m[1]}강` : String(index + 1);
-}
-
-// 16:9 썸네일 — 실제 대표 이미지 + ② 오버레이 번역(TranslatableImage). 배지·재생 아이콘은
+// 16:9 썸네일 — 실제 대표 이미지 + ② 오버레이 번역(TranslatableImage). 재생 아이콘은
 // children 으로 오버레이 위에 얹는다. 전처리 이미지가 없으면 컴포넌트가 브랜드 틴트로 폴백한다.
-function Thumbnail({ content, index, langs }) {
+// 강번호 배지는 이미지 위에 두지 않는다(원본 채널 로고·브랜딩·제목과 겹침 — LessonBadge 참고).
+function Thumbnail({ content, langs }) {
   return (
     <TranslatableImage
       image={getImage(content.id)}
@@ -39,10 +35,6 @@ function Thumbnail({ content, index, langs }) {
       alt={content.title?.ko ?? ''}
       className="aspect-video w-full rounded-xl"
     >
-      {/* 배지는 우상단으로 — 좌상단 브랜딩 오버레이(②)와 겹치지 않게. */}
-      <span className="pointer-events-none absolute right-3 top-3 z-10 rounded-md bg-white/85 px-2 py-0.5 text-xs font-bold text-logo-navy">
-        {lessonBadge(content, index)}
-      </span>
       <span className="pointer-events-none absolute inset-0 z-10 grid place-items-center">
         <span className="grid h-14 w-14 place-items-center rounded-full bg-white/90 text-brand-deepblue shadow-sm">
           <PlayIcon />
@@ -65,13 +57,16 @@ function ContentCard({ content, index, langs, onOpen }) {
         onClick={() => onOpen(content.id)}
         className="group flex w-full flex-col gap-3 rounded-xl border border-ink/10 bg-white/70 p-3 text-left shadow-sm transition-shadow hover:shadow-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-deepblue"
       >
-        <Thumbnail content={content} index={index} langs={langs} />
+        <Thumbnail content={content} langs={langs} />
 
         <div className="flex flex-col gap-1 px-1 pb-1">
-          {/* 제목 — 주 언어 크게, 보조 언어는 아래 옅게 */}
-          <h3 className="font-title text-base leading-snug text-logo-navy group-hover:underline">
-            {content.title?.[primary]}
-          </h3>
+          {/* 제목 — 주 언어 크게, 보조 언어는 아래 옅게. 강번호 배지는 제목 앞에(썸네일 밖). */}
+          <div className="flex items-baseline gap-2">
+            <LessonBadge content={content} index={index} />
+            <h3 className="font-title text-base leading-snug text-logo-navy group-hover:underline">
+              {content.title?.[primary]}
+            </h3>
+          </div>
           {secondary.map((lang) => (
             <p key={lang} className="font-title text-sm leading-snug text-ink/50">
               {content.title?.[lang]}

@@ -13,6 +13,7 @@ import VideoPlayer from '../components/VideoPlayer.jsx';
 import TopBar from '../components/TopBar.jsx';
 import Transcript from '../components/Transcript.jsx';
 import TranslatableImage from '../components/TranslatableImage.jsx';
+import LessonBadge from '../components/LessonBadge.jsx';
 import { getContent } from '../lib/content.js';
 import { getImage } from '../lib/images.js';
 import { CATALOG_LIST } from '../lib/catalog.js';
@@ -30,12 +31,6 @@ function PlayIcon() {
   );
 }
 
-// 강번호("1강"·"2강"…)를 한국어 제목에서 뽑아 배지로. 없으면 순번(index+1)으로 폴백(ListPage 와 동일 규칙).
-function lessonBadge(content, index) {
-  const m = /^\s*(\d+)\s*강/.exec(content.title?.ko ?? '');
-  return m ? `${m[1]}강` : String(index + 1);
-}
-
 // 관련 영상 카드 — 썸네일(② 오버레이 번역) + 제목·강사. 클릭 시 해당 강의 상세로 이동(goDetail).
 // 리스트 카드(ListPage)와 같은 시각 언어를 따르되, 해시태그는 빼고 제목·강사만 간결히 보여준다.
 function RelatedCard({ content, index, langs, onOpen }) {
@@ -50,16 +45,14 @@ function RelatedCard({ content, index, langs, onOpen }) {
         onClick={() => onOpen(content.id)}
         className="group flex w-full flex-col gap-3 rounded-xl border border-ink/10 bg-white/70 p-3 text-left shadow-sm transition-shadow hover:shadow-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-deepblue"
       >
-        {/* 썸네일 — 대표 이미지 + ② 오버레이 번역. 배지·재생 아이콘은 오버레이 위에 얹는다. */}
+        {/* 썸네일 — 대표 이미지 + ② 오버레이 번역. 재생 아이콘만 오버레이 위에 얹는다.
+            강번호 배지는 이미지 밖(제목 줄)에 둔다 — LessonBadge 참고. */}
         <TranslatableImage
           image={getImage(content.id)}
           langs={langs}
           alt={content.title?.ko ?? ''}
           className="aspect-video w-full rounded-xl"
         >
-          <span className="pointer-events-none absolute right-3 top-3 z-10 rounded-md bg-white/85 px-2 py-0.5 text-xs font-bold text-logo-navy">
-            {lessonBadge(content, index)}
-          </span>
           <span className="pointer-events-none absolute inset-0 z-10 grid place-items-center">
             <span className="grid h-12 w-12 place-items-center rounded-full bg-white/90 text-brand-deepblue shadow-sm">
               <PlayIcon />
@@ -68,9 +61,13 @@ function RelatedCard({ content, index, langs, onOpen }) {
         </TranslatableImage>
 
         <div className="flex flex-col gap-1 px-1 pb-1">
-          <h3 className="font-title text-base leading-snug text-logo-navy group-hover:underline">
-            {content.title?.[primary]}
-          </h3>
+          {/* 강번호 배지는 제목 앞에(썸네일 밖) — 리스트 카드와 동일 규칙. */}
+          <div className="flex items-baseline gap-2">
+            <LessonBadge content={content} index={index} />
+            <h3 className="font-title text-base leading-snug text-logo-navy group-hover:underline">
+              {content.title?.[primary]}
+            </h3>
+          </div>
           {secondary.map((lang) => (
             <p key={lang} className="font-title text-sm leading-snug text-ink/50">
               {content.title?.[lang]}
