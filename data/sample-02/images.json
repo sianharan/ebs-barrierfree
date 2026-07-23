@@ -6,6 +6,26 @@
       "regions": [
         {
           "bbox": [
+            0.03,
+            0.07,
+            0.15,
+            0.08
+          ],
+          "text": {
+            "ko": "유아 클래스 e",
+            "en": "Toddler Class e",
+            "vi": "Lớp học trẻ nhỏ e",
+            "zh": "幼儿课堂 e",
+            "ja": "幼児クラス e",
+            "th": "คลาสเด็กเล็ก e",
+            "ru": "Класс для малышей e",
+            "id": "Kelas Balita e",
+            "es": "Clase infantil e",
+            "fr": "Classe pour tout-petits e"
+          }
+        },
+        {
+          "bbox": [
             0.17,
             0.76,
             0.71,
