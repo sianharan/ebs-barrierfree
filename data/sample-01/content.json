@@ -6,7 +6,12 @@
     "en": "Lesson 1: Our Child's Physical Development and Play",
     "vi": "Bài 1: Sự phát triển thể chất và vui chơi của trẻ",
     "zh": "第1讲 我们孩子的身体发育与游戏",
-    "ja": "第1講 わが子の身体発達と遊び"
+    "ja": "第1講 わが子の身体発達と遊び",
+    "th": "บทที่ 1 พัฒนาการทางร่างกายของลูกน้อยและการเล่น",
+    "ru": "Урок 1. Физическое развитие ребёнка и игра",
+    "id": "Pelajaran 1: Perkembangan Fisik Anak Kita dan Bermain",
+    "es": "Lección 1: El desarrollo físico de nuestro hijo y el juego",
+    "fr": "Leçon 1 : Le développement physique de notre enfant et le jeu"
   },
   "instructors": [
     {
@@ -14,14 +19,24 @@
       "en": "Park So-young",
       "vi": "Park So-young",
       "zh": "朴昭英",
-      "ja": "パク・ソヨン"
+      "ja": "パク・ソヨン",
+      "th": "พัก โซยอง",
+      "ru": "Пак Со Ён",
+      "id": "Park So-young",
+      "es": "Park So-young",
+      "fr": "Park So-young"
     },
     {
       "ko": "손수예",
       "en": "Son Su-ye",
       "vi": "Son Su-ye",
       "zh": "孙秀艺",
-      "ja": "ソン・スイェ"
+      "ja": "ソン・スイェ",
+      "th": "ซน ซูเย",
+      "ru": "Сон Су Йе",
+      "id": "Son Su-ye",
+      "es": "Son Su-ye",
+      "fr": "Son Su-ye"
     }
   ],
   "description": {
@@ -29,7 +44,12 @@
     "en": "Explore the characteristics of children's physical development and the positive impact of play.",
     "vi": "Tìm hiểu về đặc điểm phát triển thể chất của trẻ và tác động tích cực mà vui chơi mang lại.",
     "zh": "了解孩子身体发育的特点以及游戏带来的积极影响。",
-    "ja": "子どもの身体発達の特徴と、遊びがもたらす肯定的な影響について学びます。"
+    "ja": "子どもの身体発達の特徴と、遊びがもたらす肯定的な影響について学びます。",
+    "th": "มาเรียนรู้เกี่ยวกับลักษณะพัฒนาการทางร่างกายของเด็กและผลกระทบเชิงบวกที่การเล่นมีต่อพัฒนาการดังกล่าว",
+    "ru": "Узнаем об особенностях физического развития детей и о положительном влиянии игры на этот процесс.",
+    "id": "Mempelajari karakteristik perkembangan fisik anak dan dampak positif bermain terhadapnya.",
+    "es": "Aprenderemos sobre las características del desarrollo físico infantil y el impacto positivo del juego en dicho desarrollo.",
+    "fr": "Découvrons les caractéristiques du développement physique des enfants et l'influence positive du jeu sur celui-ci."
   },
   "hashtags": [
     {
@@ -37,35 +57,60 @@
       "en": "infant",
       "vi": "trẻ nhỏ",
       "zh": "幼儿",
-      "ja": "乳幼児"
+      "ja": "乳幼児",
+      "th": "เด็กเล็ก",
+      "ru": "Дети раннего возраста",
+      "id": "Anak Usia Dini",
+      "es": "Primera Infancia",
+      "fr": "Petite Enfance"
     },
     {
       "ko": "신체",
       "en": "body",
       "vi": "thể chất",
       "zh": "身体",
-      "ja": "身体"
+      "ja": "身体",
+      "th": "ร่างกาย",
+      "ru": "Тело",
+      "id": "Fisik",
+      "es": "Cuerpo",
+      "fr": "Corps"
     },
     {
       "ko": "발달",
       "en": "development",
       "vi": "phát triển",
       "zh": "发育",
-      "ja": "発達"
+      "ja": "発達",
+      "th": "พัฒนาการ",
+      "ru": "Развитие",
+      "id": "Perkembangan",
+      "es": "Desarrollo",
+      "fr": "Développement"
     },
     {
       "ko": "놀이",
       "en": "play",
       "vi": "vui chơi",
       "zh": "游戏",
-      "ja": "遊び"
+      "ja": "遊び",
+      "th": "การเล่น",
+      "ru": "Игра",
+      "id": "Bermain",
+      "es": "Juego",
+      "fr": "Jeu"
     },
     {
       "ko": "운동",
       "en": "exercise",
       "vi": "vận động",
       "zh": "运动",
-      "ja": "運動"
+      "ja": "運動",
+      "th": "การออกกำลังกาย",
+      "ru": "Физическая активность",
+      "id": "Olahraga",
+      "es": "Ejercicio",
+      "fr": "Exercice"
     }
   ],
   "videoUrl": "https://ebsvod.ebs.co.kr/ebsvod/cul/2024/40049780/2m/20241007_094000_1f712df8_m20.mp4",
@@ -74,6 +119,11 @@
     "en",
     "vi",
     "zh",
-    "ja"
+    "ja",
+    "th",
+    "ru",
+    "id",
+    "es",
+    "fr"
   ]
 }

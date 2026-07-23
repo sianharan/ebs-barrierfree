@@ -4,16 +4,18 @@
 // 초기 파이프라인(translate.js·vocabulary.js)은 전체를 재생성·덮어쓰며 ko를 재교정한다.
 // 그대로 재실행하면 이미 검수된 en·vi·zh·ja가 다시 생성되므로, 이 스크립트는 그 helper·
 // 프롬프트 방식을 재사용하되 "누락 언어만 번역하고 기존 값은 보존"하는 증분 모드로 동작한다.
-//   - 대상: subtitles.json(자막) · vocabulary.json(어휘 뜻풀이) · images.json(썸네일 오버레이) · data/ui-strings.json(UI)
+//   - 대상: content.json(제목·설명·해시태그·강사) · subtitles.json(자막) · vocabulary.json(어휘 뜻풀이)
+//           · images.json(썸네일 오버레이) · data/ui-strings.json(UI)
 //   - 신규 언어: th·ru·id·es·fr (기존 ko·en·vi·zh·ja 는 건드리지 않음)
 //   - 이미 채워진 언어는 건너뜀(중복 번역 없음) → 중단돼도 재실행하면 남은 것만 처리(이어하기).
 //   - 소스는 ko. 자막·UI는 ko 문장을, 어휘는 def.ko(쉬운 뜻풀이)를 번역한다.
 //   - 배치·동시성·지수백오프 재시도는 translate.js 와 동일한 패턴.
 //
 // 실행:
-//   node scripts/extend-langs.js            # 전체(ui + sample-01·02·03 자막·어휘)
+//   node scripts/extend-langs.js            # 전체(ui + sample-01·02·03 메타·자막·어휘·이미지)
 //   node scripts/extend-langs.js ui         # UI 문자열만
-//   node scripts/extend-langs.js sample-02  # 특정 콘텐츠 자막·어휘만
+//   node scripts/extend-langs.js content    # 콘텐츠 메타(content.json)만
+//   node scripts/extend-langs.js sample-02  # 특정 콘텐츠 메타·자막·어휘·이미지만
 // 필요: .env 의 ANTHROPIC_API_KEY.
 
 import { readFile, mkdir } from 'node:fs/promises';
@@ -36,6 +38,9 @@ const LANG_NAMES = {
   fr: '프랑스어(French)',
 };
 const CONTENTS = ['sample-01', 'sample-02', 'sample-03'];
+// 기존 언어 + 신규 언어. content.json 의 languages 배열을 다시 계산할 때의 표기 순서이기도 하다.
+const BASE_LANGS = ['ko', 'en', 'vi', 'zh', 'ja'];
+const ALL_LANGS = [...BASE_LANGS, ...NEW_LANGS];
 
 // ── Claude API 설정 ────────────────────────────────────────────────────────
 const ANTHROPIC_URL = 'https://api.anthropic.com/v1/messages';
@@ -344,7 +349,94 @@ function imageSystem(langs) {
 [출력] 스키마에 맞춰 입력의 모든 key 에 대해 {key, ${langs.join(', ')}} 를 반환합니다. key 는 입력과 정확히 일치해야 합니다.`;
 }
 
+function contentMetaSystem(langs) {
+  return `당신은 EBS 교육 영상의 메타데이터를 다국어로 번역하는 전문 번역가입니다.
+입력은 강의 메타데이터 항목들입니다(각 {key, ko, context}). context 가 그 항목의 종류입니다.
+- 대상 언어: ${langs.map((l) => LANG_NAMES[l]).join(', ')}.
+- context 가 '강사 이름' 이면 번역하지 말고 각 언어의 표기 관습에 맞게 음역(transliterate)합니다.
+  로마자를 쓰는 언어(인도네시아어·스페인어·프랑스어)는 'Park So-young' 같은 로마자 표기를, 태국어·러시아어는 그 문자로 음역합니다.
+- context 가 '해시태그' 면 한 단어 수준으로 간결하게 옮깁니다.
+- context 가 '강의 제목' 이면 강 번호(예: "1강")를 해당 언어의 관습대로 보존해 옮깁니다(예: Lesson 1 / Leçon 1).
+- context 가 '강의 설명' 이면 교육적이고 자연스러운 어조의 한 문장으로 옮깁니다.
+- 유아 교육 강의로서 민감할 수 있는 주제도 학술적·중립적으로 정확히 번역합니다.
+[출력] 스키마에 맞춰 입력의 모든 key 에 대해 {key, ${langs.join(', ')}} 를 반환합니다. key 는 입력과 정확히 일치해야 합니다.`;
+}
+
 // ── 대상별 처리 ────────────────────────────────────────────────────────────
+// content.json — 제목·설명·해시태그·강사. 항목 수가 적어(콘텐츠당 10개 안팎) 배치 1개로 끝난다.
+//
+// 강사 이름·공통 해시태그(예: '유아')는 여러 강의에 같은 ko 표기로 반복 등장한다. 강의마다 다르게
+// 음역되면 같은 사람이 다른 사람처럼 보이므로, 먼저 다른 콘텐츠에 이미 검수된 같은 ko 표기가 있으면
+// 그 값을 그대로 재사용하고(무비용·일관성), 남은 것만 Claude 로 번역한다.
+async function extendContentMeta(contentId, apiKey) {
+  const file = path.join(ROOT, 'data', contentId, 'content.json');
+  if (!existsSync(file)) {
+    log(`  · ${contentId} content.json 없음 — 건너뜀`);
+    return;
+  }
+  const json = JSON.parse(await readFile(file, 'utf8'));
+
+  // 번역 대상 다국어 객체 목록: [{ id, kind, obj }]. kind 는 프롬프트의 context 로 쓰인다.
+  const targets = [];
+  if (json.title) targets.push({ id: 'title', kind: '강의 제목', obj: json.title });
+  if (json.description) targets.push({ id: 'description', kind: '강의 설명', obj: json.description });
+  (json.hashtags || []).forEach((tag, i) => targets.push({ id: `hashtag#${i}`, kind: '해시태그', obj: tag }));
+  (json.instructors || []).forEach((p, i) => targets.push({ id: `instructor#${i}`, kind: '강사 이름', obj: p }));
+
+  // 1) 형제 콘텐츠 재사용 — 같은 kind·같은 ko 표기의 완성된 번역을 찾아 채운다.
+  const siblings = new Map(); // `${kind}:${ko}` → 다국어 객체
+  for (const other of CONTENTS) {
+    if (other === contentId) continue;
+    const otherFile = path.join(ROOT, 'data', other, 'content.json');
+    if (!existsSync(otherFile)) continue;
+    const oj = JSON.parse(await readFile(otherFile, 'utf8'));
+    const add = (kind, obj) => {
+      if (typeof obj?.ko === 'string' && obj.ko.trim()) {
+        const key = `${kind}:${obj.ko.trim()}`;
+        if (!siblings.has(key)) siblings.set(key, obj);
+      }
+    };
+    (oj.hashtags || []).forEach((t) => add('해시태그', t));
+    (oj.instructors || []).forEach((p) => add('강사 이름', p));
+  }
+
+  let reused = 0;
+  for (const t of targets) {
+    const src = siblings.get(`${t.kind}:${String(t.obj?.ko ?? '').trim()}`);
+    if (!src) continue;
+    for (const lang of missingLangs(t.obj)) {
+      if (typeof src[lang] === 'string' && src[lang].trim()) {
+        t.obj[lang] = src[lang].trim();
+        reused++;
+      }
+    }
+  }
+  if (reused > 0) log(`  ↻ ${contentId} 메타: 다른 강의의 동일 표기 재사용 ${reused}개(강사·공통 해시태그)`);
+
+  // 2) 남은 항목만 번역.
+  const entries = targets
+    .filter((t) => typeof t.obj?.ko === 'string' && t.obj.ko.trim())
+    .map((t) => ({ id: t.id, source: t.obj.ko, context: t.kind, missing: missingLangs(t.obj), _obj: t.obj }));
+
+  const filled = await extendEntries({
+    entries,
+    systemFor: contentMetaSystem,
+    unitLabel: `${contentId} 메타`,
+    apiKey,
+    merge: (e, lang, val) => { e._obj[lang] = val; },
+  });
+
+  // 3) languages 배열 재계산 — 제목이 채워진 언어만 '지원 언어'로 본다(런타임이 이 배열을 신뢰).
+  const before = (json.languages || []).join(',');
+  json.languages = ALL_LANGS.filter((l) => typeof json.title?.[l] === 'string' && json.title[l].trim());
+  const changed = json.languages.join(',') !== before;
+
+  if (filled > 0 || reused > 0 || changed) {
+    await writeJson(file, json);
+    log(`  ✓ 저장 ${path.relative(ROOT, file)} (+${filled + reused} 값, languages ${json.languages.length}개)`);
+  }
+}
+
 async function extendSubtitles(contentId, apiKey) {
   const file = path.join(ROOT, 'data', contentId, 'subtitles.json');
   if (!existsSync(file)) {
@@ -467,7 +559,13 @@ async function run() {
       log(`── ${c} ──`);
       await extendImages(c, apiKey);
     }
+  } else if (target === 'content') {
+    for (const c of CONTENTS) {
+      log(`── ${c} ──`);
+      await extendContentMeta(c, apiKey);
+    }
   } else if (CONTENTS.includes(target)) {
+    await extendContentMeta(target, apiKey);
     await extendSubtitles(target, apiKey);
     await extendVocabulary(target, apiKey);
     await extendImages(target, apiKey);
@@ -475,12 +573,13 @@ async function run() {
     await extendUiStrings(apiKey);
     for (const c of CONTENTS) {
       log(`── ${c} ──`);
+      await extendContentMeta(c, apiKey);
       await extendSubtitles(c, apiKey);
       await extendVocabulary(c, apiKey);
       await extendImages(c, apiKey);
     }
   } else {
-    fail(`알 수 없는 대상: '${target}'. 가능: all | ui | images | ${CONTENTS.join(' | ')}`);
+    fail(`알 수 없는 대상: '${target}'. 가능: all | ui | images | content | ${CONTENTS.join(' | ')}`);
   }
 
   log(`완료.`);
