@@ -274,5 +274,29 @@
     "id": "Sedang Dubbing",
     "es": "Doblando",
     "fr": "Doublage en cours"
+  },
+  "player.dubbingOn": {
+    "ko": "더빙 켜짐",
+    "en": "Dubbing on",
+    "vi": "Đã bật lồng tiếng",
+    "zh": "配音已开启",
+    "ja": "吹き替えオン",
+    "th": "เปิดพากย์เสียง",
+    "ru": "Дубляж включён",
+    "id": "Dubbing aktif",
+    "es": "Doblaje activado",
+    "fr": "Doublage activé"
+  },
+  "player.dubbingOff": {
+    "ko": "더빙 꺼짐",
+    "en": "Dubbing off",
+    "vi": "Đã tắt lồng tiếng",
+    "zh": "配音已关闭",
+    "ja": "吹き替えオフ",
+    "th": "ปิดพากย์เสียง",
+    "ru": "Дубляж выключен",
+    "id": "Dubbing nonaktif",
+    "es": "Doblaje desactivado",
+    "fr": "Doublage désactivé"
   }
 }

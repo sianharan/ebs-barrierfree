@@ -24,6 +24,8 @@ export default function DubbingControl({ segments, uiLang = 'ko' }) {
   if (!Array.isArray(segments) || segments.length === 0) return null;
 
   const label = t('player.dubbing', uiLang);
+  // 스크린리더용 상태 라벨 — 켜짐/꺼짐에 맞춰 바뀐다(시각 정보의 비시각 대체).
+  const stateLabel = t(on ? 'player.dubbingOn' : 'player.dubbingOff', uiLang);
   const toggle = () => (on ? setDub(false) : setDub(true, segments));
 
   return (
@@ -42,29 +44,50 @@ export default function DubbingControl({ segments, uiLang = 'ko' }) {
       <button
         type="button"
         onClick={toggle}
-        aria-label={label}
+        aria-label={stateLabel}
         aria-pressed={on}
-        title={label}
-        className={`flex h-9 items-center gap-1.5 rounded-lg px-3 text-sm font-medium shadow-sm transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-white ${
+        title={stateLabel}
+        className={`flex h-9 items-center gap-1.5 whitespace-nowrap rounded-lg px-3 text-sm font-medium shadow-sm transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-white ${
           on
-            ? 'bg-brand-deepblue text-white'
-            : 'bg-black/55 text-white/90 hover:bg-black/70'
+            ? // 켜짐: accent(deep blue) 채움 + 흰 텍스트/아이콘으로 활성 강조
+              'bg-brand-deepblue text-white hover:bg-brand-deepblue/90'
+            : // 꺼짐: 투명(옅은 검정)에 흰 outline만 — 영상 위에서도 읽히되 '비어있음'이 드러나게
+              'bg-black/30 text-white outline outline-1 outline-white/70 hover:bg-black/45'
         }`}
       >
-        {/* 입 모양(더빙) 아이콘 */}
-        <svg
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          className={`h-4 w-4 ${speaking ? 'animate-pulse' : ''}`}
-          aria-hidden="true"
-        >
-          <path d="M3 9v6h4l5 4V5L7 9H3z" />
-          {on && <path d="M16 9a3 3 0 0 1 0 6" />}
-        </svg>
+        {on ? (
+          // 켜짐: 스피커 + 음파(소리 남)
+          <svg
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className={`h-4 w-4 ${speaking ? 'animate-pulse' : ''}`}
+            aria-hidden="true"
+          >
+            <path d="M11 5 6 9H2v6h4l5 4V5z" />
+            <path d="M15.54 8.46a5 5 0 0 1 0 7.07" />
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14" />
+          </svg>
+        ) : (
+          // 꺼짐: 스피커 + X(음소거)
+          <svg
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className="h-4 w-4"
+            aria-hidden="true"
+          >
+            <path d="M11 5 6 9H2v6h4l5 4V5z" />
+            <path d="m23 9-6 6" />
+            <path d="m17 9 6 6" />
+          </svg>
+        )}
         {label}
       </button>
     </div>
