@@ -72,16 +72,16 @@
     "fr": "Rechercher"
   },
   "search.placeholder": {
-    "ko": "무엇을 찾으세요?",
-    "en": "What are you looking for?",
-    "vi": "Bạn đang tìm gì?",
-    "zh": "您在找什么？",
-    "ja": "何をお探しですか？",
-    "th": "คุณกำลังมองหาอะไร?",
-    "ru": "Что вы ищете?",
-    "id": "Apa yang Anda cari?",
-    "es": "¿Qué estás buscando?",
-    "fr": "Que recherchez-vous ?"
+    "ko": "예: 아이랑 어떻게 놀아줄까요?",
+    "en": "e.g. how do I play with my child?",
+    "vi": "VD: chơi với con thế nào?",
+    "zh": "例：怎么陪孩子玩？",
+    "ja": "例: 子どもとどう遊べばいい？",
+    "th": "เช่น เล่นกับลูกอย่างไรดี?",
+    "ru": "напр.: как играть с ребёнком?",
+    "id": "mis. bagaimana bermain dengan anak?",
+    "es": "ej.: ¿cómo jugar con mi hijo?",
+    "fr": "ex. : comment jouer avec mon enfant ?"
   },
   "search.searching": {
     "ko": "검색 중…",
@@ -106,6 +106,18 @@
     "id": "Relevansi",
     "es": "Relevancia",
     "fr": "Pertinence"
+  },
+  "search.matchedOn": {
+    "ko": "한국어 제목·설명과 의미로 매칭",
+    "en": "Semantic match with the Korean title & description",
+    "vi": "Khớp ngữ nghĩa với tiêu đề · mô tả tiếng Hàn",
+    "zh": "与韩语标题·简介按语义匹配",
+    "ja": "韓国語のタイトル・説明と意味でマッチ",
+    "th": "จับคู่ตามความหมายกับชื่อเรื่อง · คำอธิบายภาษาเกาหลี",
+    "ru": "Смысловое совпадение с корейским названием и описанием",
+    "id": "Kecocokan makna dengan judul · deskripsi bahasa Korea",
+    "es": "Coincidencia semántica con el título y la descripción en coreano",
+    "fr": "Correspondance sémantique avec le titre et la description en coréen"
   },
   "search.noResults": {
     "ko": "의미가 통하는 콘텐츠를 찾지 못했어요. 다른 표현으로 검색해 보세요.",

@@ -179,6 +179,17 @@ export default function SemanticSearch() {
                             </span>
                           ) : null,
                         )}
+
+                      {/* 매칭 근거 — 유사도 수치(소수 2자리)와 무엇에 매칭됐는지.
+                          인덱스는 콘텐츠당 한국어 제목+설명+해시태그 벡터 1개다(build-search-index.js).
+                          자막·언어별 벡터는 없으므로 "어떤 언어의 자막" 식 표기는 하지 않는다. */}
+                      <span className="mt-1 flex flex-wrap items-center gap-x-1.5 text-[11px] leading-snug text-ink/45">
+                        <span className="font-medium text-brand-deepblue">
+                          {t('search.relevance', myLang)} {r.score.toFixed(2)}
+                        </span>
+                        <span aria-hidden="true">·</span>
+                        <span>{t('search.matchedOn', myLang)}</span>
+                      </span>
                     </button>
                   </li>
                 );
