@@ -263,6 +263,18 @@
     "es": "Leer en voz alta",
     "fr": "Lire à voix haute"
   },
+  "transcript.vocabHint": {
+    "ko": "밑줄 친 단어를 누르면 뜻풀이가 나와요",
+    "en": "Tap or hover an underlined word to see its meaning",
+    "vi": "Chạm hoặc di chuột vào từ được gạch chân để xem nghĩa",
+    "zh": "点击或悬停带下划线的词即可查看释义",
+    "ja": "下線のある単語をタップすると意味が表示されます",
+    "th": "แตะหรือชี้ที่คำที่ขีดเส้นใต้เพื่อดูความหมาย",
+    "ru": "Нажмите на подчёркнутое слово, чтобы увидеть его значение",
+    "id": "Ketuk atau arahkan kursor ke kata bergaris bawah untuk melihat artinya",
+    "es": "Toca o pasa el cursor sobre una palabra subrayada para ver su significado",
+    "fr": "Touchez ou survolez un mot souligné pour voir sa définition"
+  },
   "player.dubbing": {
     "ko": "더빙",
     "en": "Dubbing",
