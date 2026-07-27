@@ -45,17 +45,23 @@ export default function TopBar() {
           EBS 배리어프리
         </button>
 
-        {/* ④ 의미 검색 — 넓은 화면에선 브랜드와 컨트롤 사이에서 늘어나고, 좁은 화면에선 줄바꿈. */}
-        <div className="order-last w-full sm:order-none sm:w-auto sm:flex-1 sm:max-w-md">
-          <SemanticSearch />
+        {/* ④ 의미 검색 — 로고·컨트롤 아래 자기 줄을 통째로 쓴다(basis-full).
+            헤더 안쪽은 max-w-5xl 고정폭이라 뷰포트를 넓혀도 여유가 늘지 않는데, 번역된 컨트롤 라벨은
+            언어마다 469~840px 를 차지한다(실측). 같은 줄에 두면 프랑스어·러시아어에서 검색창이
+            100~200px 로 찌그러졌다 — 핵심 기능이라 폭을 양보하지 않고 줄을 나눈다.
+            basis-full 이라 10개 언어 전부 같은 자리에 오고, 폭에 따라 레이아웃이 달라지지 않는다. */}
+        <div className="order-last basis-full">
+          <div className="max-w-2xl">
+            <SemanticSearch />
+          </div>
         </div>
 
         <div className="ml-auto flex flex-wrap items-center gap-3">
-          {/* 번역 표시 모드 (세그먼트 토글) — 라벨은 내 언어 기준 t() */}
+          {/* 번역 표시 모드 (세그먼트 토글) — 라벨은 내 언어 기준 t().
+              캡션 텍스트는 두지 않는다: 세 버튼('한국어만·함께·모국어만')이 이미 스스로를 설명하고,
+              같은 문구가 그룹 aria-label 로 남아 스크린리더에는 그대로 읽힌다. 이 캡션이 언어에 따라
+              140~160px 를 먹어 핵심 기능인 검색창을 밀어내던 것이 실측으로 확인됐다. */}
           <div className="flex items-center gap-2">
-            <span className="hidden text-xs font-medium text-ink/60 sm:inline">
-              {t('nav.translateDisplay', myLang)}
-            </span>
             <div
               role="group"
               aria-label={t('nav.translateDisplay', myLang)}

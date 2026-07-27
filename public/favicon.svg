@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="EBS 배리어프리">
+  <!-- 함께학교 팔레트: 바탕은 Deep blue(#21649C, AI 접근성 기능 강조색),
+       글리프는 상단 바 '내 언어' 지구본 아이콘과 같은 형태로 맞췄다. -->
+  <rect width="32" height="32" rx="8" fill="#21649C" />
+  <g fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round">
+    <circle cx="16" cy="16" r="8.5" />
+    <path d="M7.5 16h17M16 7.5c2.4 2.5 2.4 14.5 0 17M16 7.5c-2.4 2.5-2.4 14.5 0 17" />
+  </g>
+</svg>

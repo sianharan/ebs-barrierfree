@@ -116,7 +116,8 @@ export default function SemanticSearch() {
 
       {showPanel && (
         // z-50 + 불투명 흰 배경 + 강한 그림자: 영상 위에 확실히 뜨고, 뒤가 비쳐 안 읽히는 일이 없게.
-        <div className="absolute left-0 right-0 top-full z-50 mt-2 overflow-hidden rounded-xl border border-ink/15 bg-white shadow-xl ring-1 ring-black/5">
+        // min-w: 검색창이 최소 폭까지 좁아져도 결과 제목·설명이 한두 글자씩 끊기지 않게.
+        <div className="absolute left-0 right-0 top-full z-50 mt-2 min-w-[20rem] overflow-hidden rounded-xl border border-ink/15 bg-white shadow-xl ring-1 ring-black/5">
           {status === 'loading' && (
             <p className="px-4 py-3 text-sm text-ink/60">{t('search.searching', myLang)}</p>
           )}
