@@ -11,8 +11,19 @@ description: 이 앱(EBS 배리어프리, Vite+React)을 dev 서버로 띄우고
 ## 1. dev 서버
 
 ```bash
-npm run dev     # run_in_background 로
+npm run dev       # 프런트(vite). run_in_background 로
+npm run dev:api   # /api 함수(3000). 의미 검색·읽어주기 화면이면 함께 띄운다
 ```
+
+`npm run dev:api` 는 `scripts/dev-api.mjs` — `api/*.js` 핸들러를 **그대로 불러** 3000 에
+띄우는 얇은 셸이다. Vercel 이 해 주는 것(본문 JSON 파싱·`req.query`·`res.status/json/send`)만
+흉내 내므로 검증 대상 로직은 프로덕션 코드 그대로다. vite 가 `/api` 를 3000 으로 넘긴다.
+`vercel dev` 는 쓰지 않는다 — 이 머신의 CLI 는 로그인 이력이 없어 대화형 기기 인증을 시작하고,
+얻는 것도 없다(배포는 GitHub→Vercel 자동 빌드다).
+
+`/api` 를 안 쓰는 화면이면 띄우지 않아도 되지만, 그때 검색·읽어주기는 **요청 실패로 뜬다** —
+콘솔에서 그걸 화면 결함으로 오해하지 마라. dev-api 는 vite 와 달리 포트를 옮기지 않고
+`EADDRINUSE` 로 죽는다(프록시 대상이 3000 으로 고정이라 말없이 옮기면 어긋난다).
 
 **포트를 5173 으로 단정하지 마라.** vite 는 5173 이 잡혀 있으면 말없이 5174·5175 로 옮겨 가고,
 5173 에는 남이 띄워 둔 다른 서버(다른 브랜치일 수도 있다)가 있을 수 있다.
@@ -87,6 +98,10 @@ await browser.close();
 `npm run build` 로 프로덕션 빌드도 통과하는지 본다.
 (청크 크기 경고는 원래 있던 것 — 데이터를 번들에 넣기 때문이다. 이 경고는 무시한다.)
 
+**띄운 서버를 끈다.** 백그라운드 dev·preview·dev-api 는 세션이 끝나도 살아 있고, 확인을
+여러 번 돌리면 그대로 쌓인다(전에 8개·600MB 가 남아 있었다). 다음 실행이 엉뚱한 포트로
+밀려 남의 서버를 검사하게 되는 원인이 이것이다.
+
 ## 함정 모음
 
 | 증상 | 원인 |
@@ -99,3 +114,5 @@ await browser.close();
 | `ERR_UNSUPPORTED_ESM_URL_SCHEME` | `driver.mjs` import 에 `file:///` 를 안 붙였다 |
 | 포커스 링 색이 흰색(=currentColor)으로 나온다 | Tailwind v4 의 `transition-colors` 는 `outline-color` 도 트랜지션한다. Tab 직후에 재면 트랜지션 **시작값**이 잡힌다. `waitForTimeout(300~500)` 뒤에 다시 재라 — 실제로는 정상인 경우가 많다 |
 | 콘솔에 `/api/search … ERR_ABORTED` 하나 | dev 전용이다. StrictMode 가 마운트 이펙트를 두 번 돌려 첫 요청이 취소된 것 — 프로덕션 빌드에서는 안 생긴다 |
+| 검색·읽어주기가 요청 실패(`/api/…` 502·404) | `npm run dev:api` 를 안 띄웠다. 화면 결함이 아니다 |
+| `dev:api` 가 `EADDRINUSE` 로 죽는다 | 앞 세션의 셸이 3000 에 남아 있다. 끄거나 `PORT=` 로 옮긴다(옮기면 `VITE_API_PROXY` 도 같이) |

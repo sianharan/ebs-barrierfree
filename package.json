@@ -6,6 +6,7 @@
   "description": "EBS 배리어프리 — 다문화가정·외국인 언어 지원 PoC",
   "scripts": {
     "dev": "vite",
+    "dev:api": "node scripts/dev-api.mjs",
     "build": "vite build",
     "preview": "vite preview"
   },
