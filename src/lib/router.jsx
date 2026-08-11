@@ -16,9 +16,12 @@ import { createContext, useCallback, useContext, useEffect, useMemo, useState } 
 const RouterContext = createContext(null);
 
 // 경로 → route. 모르는 경로는 리스트로 폴백(404 화면을 따로 두지 않는다).
+// 끝 슬래시는 떼고 비교한다 — '/pipeline/' 처럼 슬래시가 붙어 들어와도(붙여 쓰는 습관·복사된 링크)
+// 같은 화면이어야 한다. '/' 는 '' 가 되어 아래 매칭에 걸리지 않고 리스트로 떨어진다.
 function routeFromPath(pathname) {
-  if (pathname === '/pipeline') return { name: 'pipeline' };
-  const detail = pathname.match(/^\/content\/([\w-]+)$/);
+  const path = pathname.replace(/\/+$/, '');
+  if (path === '/pipeline') return { name: 'pipeline' };
+  const detail = path.match(/^\/content\/([\w-]+)$/);
   if (detail) return { name: 'detail', id: detail[1] };
   return { name: 'list' };
 }
