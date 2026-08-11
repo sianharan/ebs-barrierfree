@@ -29,7 +29,8 @@ function GlobeIcon() {
 
 export default function TopBar() {
   const { myLang, setMyLang, displayMode, setDisplayMode } = useSettings();
-  const { goList } = useRouter();
+  const { goList, goPipeline, route } = useRouter();
+  const onPipeline = route.name === 'pipeline';
 
   return (
     // sticky + z-50: backdrop-blur 가 만드는 헤더 스택 컨텍스트를 본문(영상) 위로 올려,
@@ -43,6 +44,20 @@ export default function TopBar() {
           className="font-title text-xl text-logo-navy transition-opacity hover:opacity-70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-deepblue"
         >
           EBS 배리어프리
+        </button>
+
+        {/* AI 처리 과정(/pipeline) 진입 — 로고 옆. 현재 화면이면 채워서 위치를 알려준다. */}
+        <button
+          type="button"
+          onClick={goPipeline}
+          aria-current={onPipeline ? 'page' : undefined}
+          className={`min-h-[44px] rounded-full px-3 text-sm font-medium transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-deepblue ${
+            onPipeline
+              ? 'bg-brand-deepblue text-white'
+              : 'text-brand-deepblue hover:bg-brand-deepblue/10'
+          }`}
+        >
+          {t('nav.pipeline', myLang)}
         </button>
 
         {/* ④ 의미 검색 — 로고·컨트롤 아래 자기 줄을 통째로 쓴다(basis-full).

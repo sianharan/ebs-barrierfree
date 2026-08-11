@@ -71,6 +71,18 @@
     "es": "Buscar",
     "fr": "Rechercher"
   },
+  "nav.pipeline": {
+    "ko": "AI 처리 과정",
+    "en": "AI process",
+    "vi": "Quy trình AI",
+    "zh": "AI 处理过程",
+    "ja": "AI 処理の流れ",
+    "th": "กระบวนการ AI",
+    "ru": "Процесс ИИ",
+    "id": "Proses AI",
+    "es": "Proceso de IA",
+    "fr": "Traitement par IA"
+  },
   "search.placeholder": {
     "ko": "예: 아이랑 어떻게 놀아줄까요?",
     "en": "e.g. how do I play with my child?",
@@ -322,5 +334,77 @@
     "id": "Dubbing nonaktif",
     "es": "Doblaje desactivado",
     "fr": "Doublage désactivé"
+  },
+  "pipeline.hero.title": {
+    "ko": "AI가 영상 하나를 10개 언어로 바꾸는 과정",
+    "en": "How AI turns one video into ten languages",
+    "vi": "Cách AI chuyển một video sang mười ngôn ngữ",
+    "zh": "AI 如何把一个视频转换成十种语言",
+    "ja": "AI が 1 本の映像を 10 言語に変えるまで",
+    "th": "AI แปลงวิดีโอหนึ่งเรื่องเป็นสิบภาษาได้อย่างไร",
+    "ru": "Как ИИ превращает одно видео в десять языков",
+    "id": "Bagaimana AI mengubah satu video menjadi sepuluh bahasa",
+    "es": "Cómo la IA convierte un vídeo en diez idiomas",
+    "fr": "Comment l'IA transforme une vidéo en dix langues"
+  },
+  "pipeline.hero.subtitle": {
+    "ko": "자막·번역·더빙·어휘 풀이·의미 검색이 어떤 데이터로 만들어졌는지 한눈에 봅니다.",
+    "en": "See at a glance the data behind the subtitles, translation, dubbing, glossary, and semantic search.",
+    "vi": "Xem nhanh dữ liệu tạo nên phụ đề, bản dịch, lồng tiếng, giải nghĩa từ vựng và tìm kiếm ngữ nghĩa.",
+    "zh": "一览字幕、翻译、配音、词汇释义和语义搜索背后的数据。",
+    "ja": "字幕・翻訳・吹き替え・語彙解説・意味検索を支えるデータを一目で確認できます。",
+    "th": "ดูข้อมูลเบื้องหลังคำบรรยาย การแปล การพากย์เสียง คำศัพท์ และการค้นหาเชิงความหมายได้ในหน้าเดียว",
+    "ru": "Одним взглядом — данные, на которых построены субтитры, перевод, дубляж, словарь и семантический поиск.",
+    "id": "Lihat sekilas data di balik subtitle, terjemahan, dubbing, penjelasan kosakata, dan pencarian semantik.",
+    "es": "Vea de un vistazo los datos detrás de los subtítulos, la traducción, el doblaje, el glosario y la búsqueda semántica.",
+    "fr": "Découvrez en un coup d'œil les données derrière les sous-titres, la traduction, le doublage, le lexique et la recherche sémantique."
+  },
+  "pipeline.stat.segments": {
+    "ko": "자막 세그먼트",
+    "en": "Subtitle segments",
+    "vi": "Phân đoạn phụ đề",
+    "zh": "字幕片段",
+    "ja": "字幕セグメント",
+    "th": "ช่วงคำบรรยาย",
+    "ru": "Сегменты субтитров",
+    "id": "Segmen subtitle",
+    "es": "Segmentos de subtítulos",
+    "fr": "Segments de sous-titres"
+  },
+  "pipeline.stat.languages": {
+    "ko": "지원 언어",
+    "en": "Supported languages",
+    "vi": "Ngôn ngữ hỗ trợ",
+    "zh": "支持语言",
+    "ja": "対応言語",
+    "th": "ภาษาที่รองรับ",
+    "ru": "Поддерживаемые языки",
+    "id": "Bahasa yang didukung",
+    "es": "Idiomas admitidos",
+    "fr": "Langues prises en charge"
+  },
+  "pipeline.stat.vocabulary": {
+    "ko": "어휘 풀이",
+    "en": "Glossary entries",
+    "vi": "Mục giải nghĩa từ vựng",
+    "zh": "词汇释义",
+    "ja": "語彙解説",
+    "th": "รายการคำศัพท์",
+    "ru": "Словарные статьи",
+    "id": "Entri kosakata",
+    "es": "Entradas del glosario",
+    "fr": "Entrées de lexique"
+  },
+  "pipeline.stat.dubbing": {
+    "ko": "더빙 음성 파일",
+    "en": "Dubbing audio files",
+    "vi": "Tệp âm thanh lồng tiếng",
+    "zh": "配音音频文件",
+    "ja": "吹き替え音声ファイル",
+    "th": "ไฟล์เสียงพากย์",
+    "ru": "Аудиофайлы дубляжа",
+    "id": "Berkas audio dubbing",
+    "es": "Archivos de audio de doblaje",
+    "fr": "Fichiers audio de doublage"
   }
 }
