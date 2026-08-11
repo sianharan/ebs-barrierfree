@@ -53,7 +53,7 @@ ebs-barrierfree/
 ├── AGENTS.md
 ├── .env                  # API 키 (로컬 전용, gitignore 필수)
 ├── .gitignore            # .env, node_modules, dist, source/ 제외
-├── vercel.json           # 빌드·라우팅 설정 (필요 시)
+├── vercel.json           # SPA 폴백 rewrite (/api 제외한 모든 경로 → index.html)
 ├── package.json
 ├── design/               # 디자인 레퍼런스 (커밋 — 에이전트가 참고)
 │   └── references/
