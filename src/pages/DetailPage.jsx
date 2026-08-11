@@ -98,7 +98,7 @@ export default function DetailPage({ contentId }) {
     ({ content: c }) => c.id !== contentId,
   ).slice(0, 2);
 
-  const { goList, goDetail } = useRouter();
+  const { goList, goDetail, goPipeline } = useRouter();
   const { myLang, displayMode } = useSettings();
   // 표시 언어(첫 번째 = 주 언어). 자막·대본·정적 텍스트가 같은 규칙을 공유. 안정 참조로 memo 유지.
   const displayLangs = useMemo(() => displayLangsFor(displayMode, myLang), [displayMode, myLang]);
@@ -228,6 +228,22 @@ export default function DetailPage({ contentId }) {
                 </li>
               ))}
             </ul>
+          </section>
+
+          {/* AI 처리 과정으로 — 이 강의의 자막·번역·더빙이 어떻게 만들어졌는지 보여주는 현황판.
+              해시태그 아래(콘텐츠 메타의 끝)에 둔다. 강의를 다 읽은 다음에 궁금해지는 것이므로
+              영상·대본보다 뒤이고, '관련 영상'(다른 강의로 떠나는 길)보다는 앞이다.
+              ?content= 로 이 강의를 넘겨 파이프라인 화면이 해당 카드를 펼치게 한다. */}
+          <section>
+            <button
+              type="button"
+              onClick={() => goPipeline(contentId)}
+              className="inline-flex min-h-[44px] items-center gap-1.5 rounded-full bg-brand-deepblue/10 px-4 text-sm font-medium text-brand-deepblue transition-colors hover:bg-brand-deepblue/20 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-deepblue"
+            >
+              {t('content.pipelineLink', myLang)}
+              {/* 화살표는 장식 — 문구가 이미 '이동한다'를 말한다. */}
+              <span aria-hidden="true">→</span>
+            </button>
           </section>
         </article>
 

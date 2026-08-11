@@ -13,7 +13,7 @@
 //    tabindex=0 + role=group + aria-label 을 주고 포커스 링을 남긴다.
 //  - 화살표를 li 안에 넣어 목록 항목 수가 6개로 읽히게 한다(칸 6 + 화살표 5 = 11 이 되지 않도록).
 
-import { PIPELINE_STATS } from '../lib/pipelineStats.js';
+import { PIPELINE_STATS, formatNumber } from '../lib/pipelineStats.js';
 import { useSettings } from '../lib/settings.jsx';
 import { t } from '../lib/i18n.js';
 
@@ -106,9 +106,6 @@ function ArrowIcon() {
     </svg>
   );
 }
-
-// 자릿수 구분만 하고 언어별 표기는 건드리지 않는다(PipelinePage 와 같은 규칙).
-const formatNumber = (n) => n.toLocaleString('en-US');
 
 // 단계 정의를 데이터로 둔다 — 단계가 늘어도 마크업은 그대로.
 // value 는 stats 에서 꺼내는 함수라 집계 방식이 바뀌어도 이 표만 고치면 된다.

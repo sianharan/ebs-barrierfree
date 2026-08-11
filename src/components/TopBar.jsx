@@ -49,7 +49,7 @@ export default function TopBar() {
         {/* AI 처리 과정(/pipeline) 진입 — 로고 옆. 현재 화면이면 채워서 위치를 알려준다. */}
         <button
           type="button"
-          onClick={goPipeline}
+          onClick={() => goPipeline()}
           aria-current={onPipeline ? 'page' : undefined}
           className={`min-h-[44px] rounded-full px-3 text-sm font-medium transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-deepblue ${
             onPipeline
