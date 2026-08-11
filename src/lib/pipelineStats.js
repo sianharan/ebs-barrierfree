@@ -6,6 +6,8 @@
 //   - 지원 언어:     LANGUAGES 배열 길이 (한국어 원본 포함)
 //   - 어휘 풀이:     vocabulary.json 의 terms 합계
 //   - 더빙 음성:     dub-{lang}.json 의 세그먼트(=음성 파일 1개) 합계, 모든 콘텐츠 × 모든 언어
+//   - 영상 길이:     콘텐츠별 마지막 세그먼트의 end(초) 합계 → 분
+//   - 번역 문장:     세그먼트 text 에서 원문(ko)을 뺀 언어 수의 합계
 //
 // 빌드 타임 import 라 계산이 가볍고 값도 고정이다 — 모듈 로드 시 한 번만 집계한다.
 import { CATALOG_LIST } from './catalog.js';
@@ -25,6 +27,16 @@ export function computePipelineStats() {
     segments: sum(bundles.map((b) => b.segments.length)),
     languages: LANGUAGES.length,
     vocabulary: sum(bundles.map((b) => b.vocabulary.length)),
+    // 마지막 세그먼트의 end 가 그 영상의 길이다(자막이 끝까지 붙어 있으므로). 자막이 없으면 0.
+    durationMinutes: Math.round(
+      sum(bundles.map((b) => b.segments[b.segments.length - 1]?.end || 0)) / 60,
+    ),
+    // 번역된 문장 수 — 세그먼트마다 원문 ko 를 뺀 언어 수를 센다. 언어가 늘면 함께 올라간다.
+    translations: sum(
+      bundles.flatMap((b) =>
+        b.segments.map((s) => Object.keys(s.text || {}).filter((lang) => lang !== 'ko').length),
+      ),
+    ),
     // 세그먼트 1개 = mp3 1개. 언어별 사전을 모두 더한다(더빙이 없는 언어는 빈 배열 → 0).
     dubbingFiles: sum(
       bundles.map((b) => sum(Object.values(b.dubByLang || {}).map((segs) => segs.length))),

@@ -1,10 +1,11 @@
 // AI 처리 과정 페이지 (/pipeline) — 전처리 산출물이 무엇을 만들어냈는지 보여주는 현황판.
 //
-// 1단계: 히어로 + 통계 카드 4개. 숫자는 pipelineStats 가 실제 데이터에서 센 값이라
-// 콘텐츠·언어가 늘면 그대로 따라 올라간다(하드코딩 금지).
+// 히어로 → 처리 흐름(여섯 단계) → 통계 카드 4개 순. 숫자는 pipelineStats 가 실제 데이터에서
+// 센 값이라 콘텐츠·언어가 늘면 그대로 따라 올라간다(하드코딩 금지).
 // 레이아웃·색·카드 스타일은 리스트 페이지와 공유한다 — 새 화면처럼 보이지 않게.
 
 import TopBar from '../components/TopBar.jsx';
+import PipelineFlow from '../components/PipelineFlow.jsx';
 import { PIPELINE_STATS } from '../lib/pipelineStats.js';
 import { useSettings } from '../lib/settings.jsx';
 import { t } from '../lib/i18n.js';
@@ -48,6 +49,9 @@ export default function PipelinePage() {
             {t('pipeline.hero.subtitle', myLang)}
           </p>
         </section>
+
+        {/* 처리 흐름 — 여섯 단계를 순서대로. 아래 통계 카드는 그 결과의 총계다. */}
+        <PipelineFlow />
 
         {/* 통계 카드 — 모바일 2×2, 넓은 화면 4열. */}
         <ul className="mt-6 grid grid-cols-2 gap-4 md:grid-cols-4">
