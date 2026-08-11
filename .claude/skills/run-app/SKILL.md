@@ -77,6 +77,7 @@ await browser.close();
 - **키보드** — `tabTo(page, selector)` 로 닿는지(0 이면 도달 불가), `focusRing(page)` 로 포커스가
   보이는지(`style: 'none'` 이면 안 보인다). 가로 스크롤 영역은 화살표키 전후로 `scrollState` 를
   비교해 실제로 움직이는지 본다(WCAG 2.1.1).
+  **포커스 링 색은 반드시 0.3초쯤 기다렸다 재라** — 아래 함정 표 참고.
 - **콘솔** — `open()` 이 돌려주는 `msgs` 를 반드시 출력한다. console error/warning, 던져진 예외,
   실패한 요청이 모두 들어 있다.
 - **수치** — 화면 숫자는 `data/` 원본에서 직접 세어 대조한다. 렌더링됐다는 것과 값이 맞다는 건 다르다.
@@ -96,3 +97,5 @@ await browser.close();
 | 언어가 앞 테스트 값으로 남음 | ctx 를 재사용했다. 언어마다 새 ctx 를 열고 close 해라 |
 | 콘솔은 깨끗한데 화면이 이상 | `pageerror`·`requestfailed` 를 안 봤다. `msgs` 에 셋 다 들어 있다 |
 | `ERR_UNSUPPORTED_ESM_URL_SCHEME` | `driver.mjs` import 에 `file:///` 를 안 붙였다 |
+| 포커스 링 색이 흰색(=currentColor)으로 나온다 | Tailwind v4 의 `transition-colors` 는 `outline-color` 도 트랜지션한다. Tab 직후에 재면 트랜지션 **시작값**이 잡힌다. `waitForTimeout(300~500)` 뒤에 다시 재라 — 실제로는 정상인 경우가 많다 |
+| 콘솔에 `/api/search … ERR_ABORTED` 하나 | dev 전용이다. StrictMode 가 마운트 이펙트를 두 번 돌려 첫 요청이 취소된 것 — 프로덕션 빌드에서는 안 생긴다 |
