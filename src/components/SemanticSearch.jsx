@@ -11,10 +11,8 @@ import { useEffect, useRef, useState } from 'react';
 import { useSettings, displayLangsFor } from '../lib/settings.jsx';
 import { useRouter } from '../lib/router.jsx';
 import { getContentMeta } from '../lib/catalog.js';
+import { RELEVANCE_MIN, searchContents } from '../lib/search.js';
 import { t } from '../lib/i18n.js';
-
-// 이 미만이면 '의미가 통하는 결과 없음'으로 보고 안내 메시지를 띄운다(서버 MIN_SCORE 위 2차 문턱).
-const RELEVANCE_MIN = 0.2;
 
 function SearchIcon() {
   return (
@@ -75,15 +73,7 @@ export default function SemanticSearch() {
     setStatus('loading');
     setOpen(true);
     try {
-      const res = await fetch('/api/search', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: q }),
-        signal: controller.signal,
-      });
-      if (!res.ok) throw new Error(await res.text().catch(() => res.statusText));
-      const data = await res.json();
-      setResults(Array.isArray(data.results) ? data.results : []);
+      setResults(await searchContents(q, { signal: controller.signal }));
       setStatus('done');
     } catch (err) {
       if (err?.name === 'AbortError') return; // 새 검색으로 교체됨 — 무시

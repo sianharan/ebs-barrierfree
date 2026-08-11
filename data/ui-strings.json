@@ -562,5 +562,89 @@
     "id": "berkas audio",
     "es": "archivos de audio",
     "fr": "fichiers audio"
+  },
+  "pipeline.search.title": {
+    "ko": "단어가 달라도, 뜻이 통하면 찾아냅니다",
+    "en": "Different words, same meaning — it still finds it",
+    "vi": "Khác từ ngữ, cùng ý nghĩa — vẫn tìm ra",
+    "zh": "用词不同，意思相通也能找到",
+    "ja": "言葉が違っても、意味が通じれば見つかります",
+    "th": "ใช้คำต่างกัน แต่ความหมายตรงกัน ก็ยังค้นเจอ",
+    "ru": "Слова разные — смысл тот же, и поиск находит",
+    "id": "Beda kata, makna sama — tetap ditemukan",
+    "es": "Palabras distintas, mismo significado: lo encuentra igual",
+    "fr": "Des mots différents, le même sens — il trouve quand même"
+  },
+  "pipeline.search.hint": {
+    "ko": "낱말이 겹치지 않아도, 다른 언어로 물어도 됩니다. 질의와 콘텐츠를 같은 의미 공간에 놓고 거리를 잽니다.",
+    "en": "No shared keywords needed, and you can ask in another language. The query and the content are placed in the same meaning space, then the distance is measured.",
+    "vi": "Không cần trùng từ khóa, và bạn có thể hỏi bằng ngôn ngữ khác. Câu hỏi và nội dung được đặt trong cùng một không gian ngữ nghĩa rồi đo khoảng cách.",
+    "zh": "无需关键词重合，也可以用其他语言提问。查询与内容被置于同一语义空间中测量距离。",
+    "ja": "キーワードが重ならなくても、別の言語で尋ねても構いません。質問とコンテンツを同じ意味空間に置き、距離を測ります。",
+    "th": "ไม่จำเป็นต้องมีคำที่ตรงกัน และถามด้วยภาษาอื่นก็ได้ ระบบวางคำถามกับเนื้อหาไว้ในปริภูมิความหมายเดียวกันแล้ววัดระยะห่าง",
+    "ru": "Совпадение слов не требуется, спрашивать можно на другом языке. Запрос и контент помещаются в одно смысловое пространство, затем измеряется расстояние.",
+    "id": "Tidak perlu kata yang sama, dan Anda boleh bertanya dalam bahasa lain. Kueri dan konten ditempatkan di ruang makna yang sama lalu diukur jaraknya.",
+    "es": "No hacen falta palabras en común y puedes preguntar en otro idioma. La consulta y el contenido se sitúan en el mismo espacio de significado y se mide la distancia.",
+    "fr": "Aucun mot commun n'est nécessaire et vous pouvez demander dans une autre langue. La requête et le contenu sont placés dans le même espace de sens, puis la distance est mesurée."
+  },
+  "pipeline.search.submit": {
+    "ko": "검색",
+    "en": "Search",
+    "vi": "Tìm kiếm",
+    "zh": "搜索",
+    "ja": "検索",
+    "th": "ค้นหา",
+    "ru": "Найти",
+    "id": "Cari",
+    "es": "Buscar",
+    "fr": "Rechercher"
+  },
+  "pipeline.search.examples": {
+    "ko": "예시 질의",
+    "en": "Example queries",
+    "vi": "Câu hỏi mẫu",
+    "zh": "示例查询",
+    "ja": "質問の例",
+    "th": "ตัวอย่างคำค้น",
+    "ru": "Примеры запросов",
+    "id": "Contoh kueri",
+    "es": "Consultas de ejemplo",
+    "fr": "Exemples de requêtes"
+  },
+  "pipeline.search.queryPoint": {
+    "ko": "질의",
+    "en": "Query",
+    "vi": "Câu hỏi",
+    "zh": "查询",
+    "ja": "質問",
+    "th": "คำค้น",
+    "ru": "Запрос",
+    "id": "Kueri",
+    "es": "Consulta",
+    "fr": "Requête"
+  },
+  "pipeline.search.plotHint": {
+    "ko": "유사도를 거리로 바꾼 근사 그림입니다. 실제 임베딩은 1536차원이라 그대로 그릴 수 없습니다.",
+    "en": "An approximation: similarity shown as distance. The actual embeddings have 1,536 dimensions and cannot be drawn directly.",
+    "vi": "Hình gần đúng: độ tương đồng được thể hiện bằng khoảng cách. Embedding thực có 1.536 chiều nên không thể vẽ trực tiếp.",
+    "zh": "这是近似图：以距离表示相似度。实际嵌入向量为 1536 维，无法直接绘制。",
+    "ja": "類似度を距離に置き換えた近似図です。実際の埋め込みは1536次元で、そのままは描けません。",
+    "th": "เป็นภาพโดยประมาณ: แสดงความคล้ายเป็นระยะห่าง เอมเบดดิงจริงมี 1,536 มิติ จึงวาดตรง ๆ ไม่ได้",
+    "ru": "Приближённая схема: сходство показано расстоянием. Настоящие эмбеддинги имеют 1536 измерений и не могут быть изображены напрямую.",
+    "id": "Gambar perkiraan: kemiripan ditampilkan sebagai jarak. Embedding sebenarnya berdimensi 1.536 sehingga tidak bisa digambar langsung.",
+    "es": "Una aproximación: la similitud se muestra como distancia. Los embeddings reales tienen 1536 dimensiones y no pueden dibujarse directamente.",
+    "fr": "Une approximation : la similarité est représentée par la distance. Les plongements réels ont 1 536 dimensions et ne peuvent pas être dessinés directement."
+  },
+  "pipeline.search.plotAlt": {
+    "ko": "질의를 가운데 두고, 뜻이 가까운 콘텐츠일수록 가까이 놓은 그림. 콘텐츠별 유사도는 아래 결과 목록에 숫자로 적혀 있습니다.",
+    "en": "A diagram with the query at the centre and each content placed closer the more its meaning matches. The similarity of each content is given as a number in the result list below.",
+    "vi": "Sơ đồ đặt câu hỏi ở giữa, nội dung càng gần nghĩa thì càng đặt gần. Độ tương đồng của từng nội dung được ghi bằng số trong danh sách kết quả bên dưới.",
+    "zh": "查询位于中心，语义越接近的内容放得越近的示意图。各内容的相似度以数字列在下方结果列表中。",
+    "ja": "質問を中心に置き、意味が近いコンテンツほど近くに配置した図。コンテンツごとの類似度は下の結果一覧に数値で示しています。",
+    "th": "แผนภาพที่วางคำค้นไว้ตรงกลาง เนื้อหาที่ความหมายใกล้เคียงกว่าจะอยู่ใกล้กว่า ค่าความคล้ายของแต่ละเนื้อหาแสดงเป็นตัวเลขในรายการผลลัพธ์ด้านล่าง",
+    "ru": "Схема, где запрос в центре, а контент тем ближе, чем ближе его смысл. Сходство каждого контента указано числом в списке результатов ниже.",
+    "id": "Diagram dengan kueri di tengah; makin dekat maknanya, makin dekat letak kontennya. Kemiripan tiap konten ditulis sebagai angka pada daftar hasil di bawah.",
+    "es": "Un diagrama con la consulta en el centro y cada contenido situado más cerca cuanto más coincide su significado. La similitud de cada contenido aparece como número en la lista de resultados.",
+    "fr": "Un schéma avec la requête au centre et chaque contenu placé d'autant plus près que son sens correspond. La similarité de chaque contenu est indiquée en chiffres dans la liste de résultats."
   }
 }
