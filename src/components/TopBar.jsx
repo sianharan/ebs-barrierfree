@@ -8,6 +8,7 @@
 
 import { useSettings, LANGUAGES, DISPLAY_MODES } from '../lib/settings.jsx';
 import { useRouter } from '../lib/router.jsx';
+import { useOnboarding } from '../lib/onboarding.jsx';
 import { t } from '../lib/i18n.js';
 import SemanticSearch from './SemanticSearch.jsx';
 
@@ -30,6 +31,7 @@ function GlobeIcon() {
 export default function TopBar() {
   const { myLang, setMyLang, displayMode, setDisplayMode } = useSettings();
   const { goList, goPipeline, route } = useRouter();
+  const { open: openOnboarding } = useOnboarding();
   const onPipeline = route.name === 'pipeline';
 
   return (
@@ -119,6 +121,23 @@ export default function TopBar() {
               ))}
             </select>
           </label>
+
+          {/* 안내 다시 보기 — 첫 방문에 저절로 뜬 안내를 언제든 다시 부르는 자리다.
+              내 언어 옆에 둔다: 안내가 설명하는 것이 바로 이 컨트롤들(번역·읽어주기·검색)이라
+              "무슨 뜻이지?" 하는 순간 눈이 가 있는 곳이 여기다.
+              '?' 는 글자 하나뿐이라 스스로를 설명하지 못한다 — 이름은 aria-label 로 주고(보조기술),
+              마우스 쪽은 title 로 받는다. 도형인 '?' 자체는 aria-hidden 으로 중복을 막는다.
+              data-onboarding-trigger: 저절로 뜬 안내를 닫을 때 포커스가 돌아올 자리(OnboardingModal). */}
+          <button
+            type="button"
+            data-onboarding-trigger
+            onClick={openOnboarding}
+            aria-label={t('nav.help', myLang)}
+            title={t('nav.help', myLang)}
+            className="flex h-11 w-11 items-center justify-center rounded-full border border-ink/15 bg-white text-lg font-medium text-brand-deepblue transition-colors hover:bg-brand-deepblue/10 focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-deepblue"
+          >
+            <span aria-hidden="true">?</span>
+          </button>
         </div>
       </div>
     </header>

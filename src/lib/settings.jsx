@@ -10,6 +10,7 @@
 // 언어 코드는 하드코딩하지 않고 데이터(LANGUAGES)로 관리 — 추가 언어는 배열에만 넣으면 확장.
 
 import { createContext, useCallback, useContext, useMemo, useState } from 'react';
+import { readStored, writeStored } from './storage.js';
 
 // 지원 언어. label 은 각 언어의 자국어 표기(드롭다운 표시용).
 export const LANGUAGES = [
@@ -48,23 +49,10 @@ const MODE_IDS = DISPLAY_MODES.map((m) => m.id);
 
 // 저장값은 남이 넣은 값처럼 다룬다 — 지원 목록에서 빠진 옛 코드나 손으로 고친 값이 들어와도
 // 화면이 깨지지 않도록, 허용 목록에 없으면 조용히 기본값으로 돌아간다.
-// localStorage 접근 자체가 막힌 환경(사생활 보호 모드 등)도 있으므로 통째로 감싼다.
-function readStored(key, allowed, fallback) {
-  try {
-    const stored = window.localStorage.getItem(key);
-    return allowed.includes(stored) ? stored : fallback;
-  } catch {
-    return fallback;
-  }
-}
-
-// 저장 실패는 무시한다 — 지속은 편의이지 이번 세션 동작의 조건이 아니다.
-function writeStored(key, value) {
-  try {
-    window.localStorage.setItem(key, value);
-  } catch {
-    /* 저장 못 해도 화면은 그대로 동작한다 */
-  }
+// (읽기·쓰기 자체의 실패는 storage.js 가 삼킨다 — 여기서는 값의 유효성만 본다.)
+function readAllowed(key, allowed, fallback) {
+  const stored = readStored(key);
+  return allowed.includes(stored) ? stored : fallback;
 }
 
 const SettingsContext = createContext(null);
@@ -72,10 +60,10 @@ const SettingsContext = createContext(null);
 export function SettingsProvider({ children }) {
   // 첫 로드에만 읽는다(이후 출처는 state) — 저장값이 없거나 못 쓰면 기본값.
   const [myLang, setMyLangState] = useState(() =>
-    readStored(STORAGE_KEYS.myLang, LANG_CODES, DEFAULT_LANG),
+    readAllowed(STORAGE_KEYS.myLang, LANG_CODES, DEFAULT_LANG),
   );
   const [displayMode, setDisplayModeState] = useState(() =>
-    readStored(STORAGE_KEYS.displayMode, MODE_IDS, DEFAULT_MODE),
+    readAllowed(STORAGE_KEYS.displayMode, MODE_IDS, DEFAULT_MODE),
   );
 
   // 저장은 "사용자가 실제로 골랐을 때"만 한다. 기본값을 미리 적어 두면 나중에 기본값을
